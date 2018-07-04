@@ -2,11 +2,11 @@ import csv
 import os
 from collections import defaultdict
 
+modifs_loc = defaultdict(list)
+modifs_name = defaultdict(list)
+
 in_path = 'csv'
 for f in os.listdir(in_path):
-    modifs_loc = defaultdict(list)
-    modifs_name = defaultdict(list)
-
     with open('{}/{}'.format(in_path, f)) as g:
         data = csv.reader(g)
         for num, row in enumerate(list(data)[1:]):
@@ -18,6 +18,10 @@ for f in os.listdir(in_path):
             if name_new != name_orig and ((name_new not in modifs_name) or (name_orig not in modifs_name[name_new])):
                 modifs_name[loc_new].append(loc_orig)
 
-    if modifs_loc:
-        with open('logs/Dharamsala.txt', 'w') as h:
-            h.write('\n'.join(sorted(modifs_loc['Dharamsala'])))
+for k, v in modifs_loc.items():
+    with open('logs/{}.txt'.format(k), 'w') as h:
+        h.write('\n'.join(sorted(v)))
+
+for k, v in modifs_name.items():
+    with open('logs/{}.txt'.format(k), 'w') as h:
+        h.write('\n'.join(sorted(v)))
