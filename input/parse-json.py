@@ -23,7 +23,7 @@ for result in data['results']['bindings']:
     else:
         results.append((location_value, location_lang, name_value, name_lang, uri))
 
-fieldnames = ['location_orig', 'location_new', 'location_lang', 'name_orig', 'name_new', 'name_lang,uri']
+fieldnames = ['location_orig', 'location_new', 'location_lang', 'name_orig', 'name_new', 'name_lang', 'uri']
 
 with open('../csv/publishers.csv', 'w') as g:
     writer = csv.writer(g, dialect='excel')
