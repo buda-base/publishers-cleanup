@@ -19,9 +19,9 @@ for f in os.listdir(in_path):
                 modifs_name[loc_new].append(loc_orig)
 
 for k, v in modifs_loc.items():
-    with open('logs/{}.txt'.format(k), 'w') as h:
+    with open('logs/locations/{}.txt'.format(k), 'w') as h:
         h.write('\n'.join(sorted(v)))
 
 for k, v in modifs_name.items():
-    with open('logs/{}.txt'.format(k), 'w') as h:
+    with open('logs/publishers/{}.txt'.format(k), 'w') as h:
         h.write('\n'.join(sorted(v)))
