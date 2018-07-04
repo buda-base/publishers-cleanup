@@ -1,4 +1,4 @@
-location_orig,location_new,location_lang,name_orig,name_new,name_lang,uri
+location_orig,location_new,location_lang,name_orig,name_new,"name_lang,uri"
 nor gling bod kyi rig gzhung gces skyong khang /,nor gling bod kyi rig gzhung gces skyong khang /,bo-x-ewts,nor gling bod kyi rig gzhung gces skyong khang /,nor gling bod kyi rig gzhung gces skyong khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002239
 gsal kha med/,gsal kha med/,bo-x-ewts,gsal kha med/,gsal kha med/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002695
 gsal kha med/,gsal kha med/,bo-x-ewts,gsal kha med/,gsal kha med/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002763
@@ -209,7 +209,7 @@ gsal kha med/,gsal kha med/,bo-x-ewts,sa skya rgyal yongs gsung rab slob gnyer k
 blo gros bzang po/,blo gros bzang po/,bo-x-ewts,sgong tog ngor dgon pa/,sgong tog ngor dgon pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002786
 bod kyi sman rtsis khang /,bod kyi sman rtsis khang /,bo-x-ewts,dharamsala/,dharamsala/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGB000021
 bod gzhung sman rtsis khang /,bod gzhung sman rtsis khang /,bo-x-ewts,ARCHANA,ARCHANA,en,http://purl.bdrc.io/resource/W1TLMTGB000022
-bsod nams tshe ring /,bsod nams tshe ring /,bo-x-ewts,Gayathri Enterprises,Mysore,Gayathri Enterprises,Mysore,en,http://purl.bdrc.io/resource/W1TLMTGB000040
+bsod nams tshe ring /,bsod nams tshe ring /,bo-x-ewts,"Gayathri Enterprises,Mysore","Gayathri Enterprises,Mysore",en,http://purl.bdrc.io/resource/W1TLMTGB000040
 btsan byol bod gzhung nas/,btsan byol bod gzhung nas/,bo-x-ewts,btsan byol bod gzhung nas/,btsan byol bod gzhung nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002071
 ye shes sde/,ye shes sde/,bo-x-ewts,dar thang rin po che/,dar thang rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002579
 dpal brtsegs bod yig dpe rnying zhib 'jug khang /,dpal brtsegs bod yig dpe rnying zhib 'jug khang /,bo-x-ewts,dpal brtsegs bod yig dpe rnying zhib 'jug khang /,dpal brtsegs bod yig dpe rnying zhib 'jug khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002015
@@ -293,12 +293,12 @@ Delhi/,Delhi/,bo-x-ewts,ྂPhoto Offset Press,ྂPhoto Offset Press,en,http://pu
 Delhi/,Delhi/,bo-x-ewts,Photo Offset Printers,Photo Offset Printers,en,http://purl.bdrc.io/resource/W1TLMTGA001378
 Delhi/,Delhi/,bo-x-ewts,Archana/,Archana/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002368
 Delhi/,Delhi/,bo-x-ewts,Lajpat Nagar,Lajpat Nagar,en,http://purl.bdrc.io/resource/W1TLMTGA003119
-Delhi/,Delhi/,bo-x-ewts,D.K. Institute, Dehradun,D.K. Institute, Dehradun,en,http://purl.bdrc.io/resource/W1TLMTGA001757
+Delhi/,Delhi/,bo-x-ewts,"D.K. Institute, Dehradun","D.K. Institute, Dehradun",en,http://purl.bdrc.io/resource/W1TLMTGA001757
 Delhi/,Delhi/,bo-x-ewts,City Prints,City Prints,en,http://purl.bdrc.io/resource/W1TLMTGA001599
-Delhi/,Delhi/,bo-x-ewts,Lakshmi Press, Ballimaran,Lakshmi Press, Ballimaran,en,http://purl.bdrc.io/resource/W1TLMTGA003095
+Delhi/,Delhi/,bo-x-ewts,"Lakshmi Press, Ballimaran","Lakshmi Press, Ballimaran",en,http://purl.bdrc.io/resource/W1TLMTGA003095
 Delhi/,Delhi/,bo-x-ewts,City Prints,City Prints,en,http://purl.bdrc.io/resource/W1TLMTGA001602
-Delhi/,Delhi/,bo-x-ewts,Jayyed Press, Ballimaran,Jayyed Press, Ballimaran,en,http://purl.bdrc.io/resource/W1TLMTGA002994
-Delhi/,Delhi/,bo-x-ewts,Jayyed Press, Ballimaran,Jayyed Press, Ballimaran,en,http://purl.bdrc.io/resource/W1TLMTGA003093
+Delhi/,Delhi/,bo-x-ewts,"Jayyed Press, Ballimaran","Jayyed Press, Ballimaran",en,http://purl.bdrc.io/resource/W1TLMTGA002994
+Delhi/,Delhi/,bo-x-ewts,"Jayyed Press, Ballimaran","Jayyed Press, Ballimaran",en,http://purl.bdrc.io/resource/W1TLMTGA003093
 Delhi/,Delhi/,bo-x-ewts,sa chen rgyal yongs gsung rabs slog gnyer khang /,sa chen rgyal yongs gsung rabs slog gnyer khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002661
 Delhi/,Delhi/,bo-x-ewts,Jayyed Press,Jayyed Press,en,http://purl.bdrc.io/resource/W1TLMTGA001471
 Delhi/,Delhi/,bo-x-ewts,Archana/,Archana/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002246
@@ -316,10 +316,10 @@ Delhi/,Delhi/,bo-x-ewts,Sherig Parkhang,Sherig Parkhang,en,http://purl.bdrc.io/r
 Delhi/,Delhi/,bo-x-ewts,sa chen rgyal yongs gsung rabs slob gnyer khang /,sa chen rgyal yongs gsung rabs slob gnyer khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002656
 Delhi/,Delhi/,bo-x-ewts,sa chen rgyal yongs gsung rabs slob gnyer khang /,sa chen rgyal yongs gsung rabs slob gnyer khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002678
 Delhi/,Delhi/,bo-x-ewts,Paljor Publications,Paljor Publications,en,http://purl.bdrc.io/resource/W1TLMTGA002206
-Delhi/,Delhi/,bo-x-ewts,City Prints, ballimaran,City Prints, ballimaran,en,http://purl.bdrc.io/resource/W1TLMTGA003075
+Delhi/,Delhi/,bo-x-ewts,"City Prints, ballimaran","City Prints, ballimaran",en,http://purl.bdrc.io/resource/W1TLMTGA003075
 Delhi/,Delhi/,bo-x-ewts,vee Enn Print-O-Pac,vee Enn Print-O-Pac,en,http://purl.bdrc.io/resource/W1TLMTGA002466
 Delhi/,Delhi/,bo-x-ewts,Mahayana press,Mahayana press,en,http://purl.bdrc.io/resource/W1TLMTGA002445
-Delhi/,Delhi/,bo-x-ewts,Jayyed Press,,Jayyed Press,,en,http://purl.bdrc.io/resource/W1TLMTGA002931
+Delhi/,Delhi/,bo-x-ewts,"Jayyed Press,","Jayyed Press,",en,http://purl.bdrc.io/resource/W1TLMTGA002931
 Delhi/,Delhi/,bo-x-ewts,ལྡི་ལི་གསར་པའི་ Archana/,ལྡི་ལི་གསར་པའི་ Archana/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002040
 Delhi/,Delhi/,bo-x-ewts,Photo Offset Printers,Photo Offset Printers,en,http://purl.bdrc.io/resource/W1TLMTGA002836
 Delhi/,Delhi/,bo-x-ewts,sherig par khang,sherig par khang,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000265
@@ -328,7 +328,7 @@ Delhi/,Delhi/,bo-x-ewts,Drepung Loseling Library Society,Drepung Loseling Librar
 Delhi/,Delhi/,bo-x-ewts,sa chen rgyal yongs gsung rabs slob gnyer khang /,sa chen rgyal yongs gsung rabs slob gnyer khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002664
 Delhi/,Delhi/,bo-x-ewts,Archana/,Archana/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002371
 Delhi/,Delhi/,bo-x-ewts,Vee Enn Print-o-pac,Vee Enn Print-o-pac,en,http://purl.bdrc.io/resource/W1TLMTGA002374
-Delhi/,Delhi/,bo-x-ewts,M.M Offset Press, Ballimaran,M.M Offset Press, Ballimaran,en,http://purl.bdrc.io/resource/W1TLMTGA002575
+Delhi/,Delhi/,bo-x-ewts,"M.M Offset Press, Ballimaran","M.M Offset Press, Ballimaran",en,http://purl.bdrc.io/resource/W1TLMTGA002575
 Delhi/,Delhi/,bo-x-ewts,sa chen rgyal yongs gsung rabs slob gnyer khang /,sa chen rgyal yongs gsung rabs slob gnyer khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002673
 Delhi/,Delhi/,bo-x-ewts,Delhi/,Delhi/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001298
 Delhi/,Delhi/,bo-x-ewts,rgyal yongs sa chen gsung rabs slob gnyer khang /,rgyal yongs sa chen gsung rabs slob gnyer khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002645
@@ -339,10 +339,10 @@ Delhi/,Delhi/,bo-x-ewts,'bri gung bka' brgyud gsung rabs nyams gso khang /,'bri 
 Delhi/,Delhi/,bo-x-ewts,Jayyed Press,Jayyed Press,en,http://purl.bdrc.io/resource/W1TLMTGA003158
 Delhi/,Delhi/,bo-x-ewts,Vee Enn,Vee Enn,en,http://purl.bdrc.io/resource/W1TLMTGA002219
 Delhi/,Delhi/,bo-x-ewts,Paljor Publication,Paljor Publication,en,http://purl.bdrc.io/resource/W1TLMTGA002203
-Delhi/,Delhi/,bo-x-ewts,ླLakshmi Printing Works, Lal Kaun,ླLakshmi Printing Works, Lal Kaun,en,http://purl.bdrc.io/resource/W1TLMTGA002998
+Delhi/,Delhi/,bo-x-ewts,"ླLakshmi Printing Works, Lal Kaun","ླLakshmi Printing Works, Lal Kaun",en,http://purl.bdrc.io/resource/W1TLMTGA002998
 Delhi/,Delhi/,bo-x-ewts,Vee Enn Prient-O-pac,Vee Enn Prient-O-pac,en,http://purl.bdrc.io/resource/W1TLMTGA002248
 Delhi/,Delhi/,bo-x-ewts,Delhi/,Delhi/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001382
-Delhi/,Delhi/,bo-x-ewts,Lakshmi Press, Ballimaran,Lakshmi Press, Ballimaran,en,http://purl.bdrc.io/resource/W1TLMTGA003094
+Delhi/,Delhi/,bo-x-ewts,"Lakshmi Press, Ballimaran","Lakshmi Press, Ballimaran",en,http://purl.bdrc.io/resource/W1TLMTGA003094
 Delhi/,Delhi/,bo-x-ewts,M.M. Offset Press,M.M. Offset Press,en,http://purl.bdrc.io/resource/W1TLMTGA002737
 U.S.A,U.S.A,en,Yeshe De Dharma,Yeshe De Dharma,en,http://purl.bdrc.io/resource/W1TLMTGA001804
 U.S.A,U.S.A,en,Yeshe De Dharma,Yeshe De Dharma,en,http://purl.bdrc.io/resource/W1TLMTGA001807
@@ -467,7 +467,7 @@ bal yul/,bal yul/,bo-x-ewts,sa skya rgyal yongs gsung rab slob gnyer khang /,sa 
 bal yul/,bal yul/,bo-x-ewts,sa skya rgyal yongs gsung rabs slob gnyer khang /,sa skya rgyal yongs gsung rabs slob gnyer khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002537
 bal yul/,bal yul/,bo-x-ewts,sa skya rgyal yongs gsung rab slob gnyer khang /,sa skya rgyal yongs gsung rab slob gnyer khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002618
 bal yul/,bal yul/,bo-x-ewts,sa skya rgyal yongs gsung rab slob gnyer khang /,sa skya rgyal yongs gsung rab slob gnyer khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002655
-ballimaran,delhi-110006,ballimaran,delhi-110006,en,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000466
+"ballimaran,delhi-110006","ballimaran,delhi-110006",en,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000466
 bod ljongs bod yig dpe rnying dpe skrun khang /,bod ljongs bod yig dpe rnying dpe skrun khang /,bo-x-ewts,bod ljongs bod yig dpe rnying dpe skrun khang /,bod ljongs bod yig dpe rnying dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002030
 bod ljongs bod yig dpe rnying dpe skrun khang /,bod ljongs bod yig dpe rnying dpe skrun khang /,bo-x-ewts,smin gling dpe rnying 'tshol bsdu khang /,smin gling dpe rnying 'tshol bsdu khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002021
 dehradun/,dehradun/,bo-x-ewts,drikung kagyu institute/,drikung kagyu institute/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003225
@@ -483,10 +483,10 @@ si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,
 si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,gzan dkar mchog sprul thub bstan nyi ma/,gzan dkar mchog sprul thub bstan nyi ma/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001271
 si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001294
 si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,si khron dpe skrun tshogs pa/,si khron dpe skrun tshogs pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001692
-Sarnath, Varanasi,Sarnath, Varanasi,en,the Pleasure of Elegant Sayings Printing Press.,the Pleasure of Elegant Sayings Printing Press.,en,http://purl.bdrc.io/resource/W1TLMTGA001985
-Sarnath, Varanasi,Sarnath, Varanasi,en,gsal kha med/,gsal kha med/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001484
-LEH,LADKH,LEH,LADKH,en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000223
-gonpo tseten/,gonpo tseten/,bo-x-ewts,lakshmi printing works, balliman, delhi.,lakshmi printing works, balliman, delhi.,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002887
+"Sarnath, Varanasi","Sarnath, Varanasi",en,the Pleasure of Elegant Sayings Printing Press.,the Pleasure of Elegant Sayings Printing Press.,en,http://purl.bdrc.io/resource/W1TLMTGA001985
+"Sarnath, Varanasi","Sarnath, Varanasi",en,gsal kha med/,gsal kha med/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001484
+"LEH,LADKH","LEH,LADKH",en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000223
+gonpo tseten/,gonpo tseten/,bo-x-ewts,"lakshmi printing works, balliman, delhi.","lakshmi printing works, balliman, delhi.",bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002887
 Dharamsala/,Dharamsala/,bo-x-ewts,Narthang Press,Narthang Press,en,http://purl.bdrc.io/resource/W1TLMTGA002215
 Dharamsala/,Dharamsala/,bo-x-ewts,phyi drel snar thang par khang /,phyi drel snar thang par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002160
 Dharamsala/,Dharamsala/,bo-x-ewts,sa rA bod kyi dpe skrun khang /,sa rA bod kyi dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002385
@@ -503,15 +503,15 @@ Dharamsala/,Dharamsala/,bo-x-ewts,shes rig dpar khang /,shes rig dpar khang /,bo
 Dharamsala/,Dharamsala/,bo-x-ewts,Arpit Printers,Arpit Printers,en,http://purl.bdrc.io/resource/W1TLMTGA002450
 Dharamsala/,Dharamsala/,bo-x-ewts,bod gzhung 'phrod bsten las khungs/,bod gzhung 'phrod bsten las khungs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000202
 Dharamsala/,Dharamsala/,bo-x-ewts,kha ba dkar po bod kyi rig gzhung sri zhu khang /,kha ba dkar po bod kyi rig gzhung sri zhu khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002266
-Dharamsala/,Dharamsala/,bo-x-ewts,Arpit Printers, Gaggal,Arpit Printers, Gaggal,en,http://purl.bdrc.io/resource/W1TLMTGA003123
+Dharamsala/,Dharamsala/,bo-x-ewts,"Arpit Printers, Gaggal","Arpit Printers, Gaggal",en,http://purl.bdrc.io/resource/W1TLMTGA003123
 Dharamsala/,Dharamsala/,bo-x-ewts,Library of Tibetan Works,Library of Tibetan Works,en,http://purl.bdrc.io/resource/W1TLMTGA002217
 Dharamsala/,Dharamsala/,bo-x-ewts,Hero Printers,Hero Printers,en,http://purl.bdrc.io/resource/W1TLMTGA002232
-Dharamsala/,Dharamsala/,bo-x-ewts,TAP, thural,TAP, thural,en,http://purl.bdrc.io/resource/W1TLMTGA002253
+Dharamsala/,Dharamsala/,bo-x-ewts,"TAP, thural","TAP, thural",en,http://purl.bdrc.io/resource/W1TLMTGA002253
 Dharamsala/,Dharamsala/,bo-x-ewts,information & publicity,information & publicity,en,http://purl.bdrc.io/resource/W1TLMTGA002144
 Dharamsala/,Dharamsala/,bo-x-ewts,Arpit Printers,Arpit Printers,en,http://purl.bdrc.io/resource/W1TLMTGA002295
 Dharamsala/,Dharamsala/,bo-x-ewts,Narthang Press,Narthang Press,en,http://purl.bdrc.io/resource/W1TLMTGA002132
 Dharamsala/,Dharamsala/,bo-x-ewts,Narthang Building,Narthang Building,en,http://purl.bdrc.io/resource/W1TLMTGA002150
-Dharamsala/,Dharamsala/,bo-x-ewts,Library of Tibetan Works & Archives,,Library of Tibetan Works & Archives,,en,http://purl.bdrc.io/resource/W1TLMTGA002997
+Dharamsala/,Dharamsala/,bo-x-ewts,"Library of Tibetan Works & Archives,","Library of Tibetan Works & Archives,",en,http://purl.bdrc.io/resource/W1TLMTGA002997
 Dharamsala/,Dharamsala/,bo-x-ewts,IBD Printing & Publication,IBD Printing & Publication,en,http://purl.bdrc.io/resource/W1TLMTGA002379
 Dharamsala/,Dharamsala/,bo-x-ewts,Narthang Press,Narthang Press,en,http://purl.bdrc.io/resource/W1TLMTGA002472
 Dharamsala/,Dharamsala/,bo-x-ewts,Narthatng Buildaing,Narthatng Buildaing,en,http://purl.bdrc.io/resource/W1TLMTGA002453
@@ -764,7 +764,7 @@ New Delhi/,New Delhi/,bo-x-ewts,Vee Enn Print-O-Pac,Vee Enn Print-O-Pac,en,http:
 New Delhi/,New Delhi/,bo-x-ewts,Vee Enn Print-O-Pac,Vee Enn Print-O-Pac,en,http://purl.bdrc.io/resource/W1TLMTGA002201
 New Delhi/,New Delhi/,bo-x-ewts,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001481
 New Delhi/,New Delhi/,bo-x-ewts,Indraprastha Press (CBT),Indraprastha Press (CBT),en,http://purl.bdrc.io/resource/W1TLMTGA002152
-New Delhi/,New Delhi/,bo-x-ewts,M.M.Offset Press,,M.M.Offset Press,,en,http://purl.bdrc.io/resource/W1TLMTGA002976
+New Delhi/,New Delhi/,bo-x-ewts,"M.M.Offset Press,","M.M.Offset Press,",en,http://purl.bdrc.io/resource/W1TLMTGA002976
 New Delhi/,New Delhi/,bo-x-ewts,Archana Press,Archana Press,en,http://purl.bdrc.io/resource/W1TLMTGA003135
 New Delhi/,New Delhi/,bo-x-ewts,Archana/,Archana/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003111
 New Delhi/,New Delhi/,bo-x-ewts,gsal kha med/,gsal kha med/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003011
@@ -784,7 +784,7 @@ New Delhi/,New Delhi/,bo-x-ewts,New Delhi/,New Delhi/,bo-x-ewts,http://purl.bdrc
 New Delhi/,New Delhi/,bo-x-ewts,Indraprastha Press,Indraprastha Press,en,http://purl.bdrc.io/resource/W1TLMTGA002447
 New Delhi/,New Delhi/,bo-x-ewts,Vee Enn Prints,Vee Enn Prints,en,http://purl.bdrc.io/resource/W1TLMTGA002226
 New Delhi/,New Delhi/,bo-x-ewts,Vee Enn Print O-Pac,Vee Enn Print O-Pac,en,http://purl.bdrc.io/resource/W1TLMTGA003133
-New Delhi/,New Delhi/,bo-x-ewts,Jayeed Press, Ballimaran,Jayeed Press, Ballimaran,en,http://purl.bdrc.io/resource/W1TLMTGA003124
+New Delhi/,New Delhi/,bo-x-ewts,"Jayeed Press, Ballimaran","Jayeed Press, Ballimaran",en,http://purl.bdrc.io/resource/W1TLMTGA003124
 New Delhi/,New Delhi/,bo-x-ewts,Vee Enn Print-O-Pac,Vee Enn Print-O-Pac,en,http://purl.bdrc.io/resource/W1TLMTGA002464
 New Delhi/,New Delhi/,bo-x-ewts,Indraprastha Press,Indraprastha Press,en,http://purl.bdrc.io/resource/W1TLMTGA003102
 New Delhi/,New Delhi/,bo-x-ewts,New Delhi/,New Delhi/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002381
@@ -812,7 +812,7 @@ bod dmag khul khang par 'debs bzo grwa/,bod dmag khul khang par 'debs bzo grwa/,
 bod dmag khul khang par 'debs bzo grwa/,bod dmag khul khang par 'debs bzo grwa/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang /,bod ljongs mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003232
 bod dmag khul khang par 'debs bzo grwa/,bod dmag khul khang par 'debs bzo grwa/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang /,bod ljongs mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000188
 bod dmag khul khang par 'debs bzo grwa/,bod dmag khul khang par 'debs bzo grwa/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang /,bod ljongs mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001254
-Tara Prints,Mysore,Tara Prints,Mysore,en,ser lho khang tshan nas/,ser lho khang tshan nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002267
+"Tara Prints,Mysore","Tara Prints,Mysore",en,ser lho khang tshan nas/,ser lho khang tshan nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002267
 mi gsal/,mi gsal/,bo-x-ewts,mi gsal/,mi gsal/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001102
 mi gsal/,mi gsal/,bo-x-ewts,mi rigs dpe skrun khang nas/,mi rigs dpe skrun khang nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001080
 mi gsal/,mi gsal/,bo-x-ewts,krung go bod kyi shes rig dpe skrun khang nas/,krung go bod kyi shes rig dpe skrun khang nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001104
@@ -898,8 +898,8 @@ Mahayana press,Mahayana press,en,diwAkar dpe skrun khang /,diwAkar dpe skrun kha
 Mahayana press,Mahayana press,en,chos kyi blo gros rtsom sgrig khang /,chos kyi blo gros rtsom sgrig khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001904
 Mahayana press,Mahayana press,en,chos kyi blo gros rtsom sgrig khang /,chos kyi blo gros rtsom sgrig khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002220
 Bhutan,Bhutan,en,KMT Printing press,KMT Printing press,en,http://purl.bdrc.io/resource/W1TLMTGA001519
-[dharmasala, h.p.],[dharmasala, h.p.],en,[bod gzhung sman rtsis khang],[bod gzhung sman rtsis khang],en,http://purl.bdrc.io/resource/W1TLMTGA002687
-[dharmasala, h.p.],[dharmasala, h.p.],en,[bod gzhung sman rtsis khang],[bod gzhung sman rtsis khang],en,http://purl.bdrc.io/resource/W1TLMTGA002686
+"[dharmasala, h.p.]","[dharmasala, h.p.]",en,[bod gzhung sman rtsis khang],[bod gzhung sman rtsis khang],en,http://purl.bdrc.io/resource/W1TLMTGA002687
+"[dharmasala, h.p.]","[dharmasala, h.p.]",en,[bod gzhung sman rtsis khang],[bod gzhung sman rtsis khang],en,http://purl.bdrc.io/resource/W1TLMTGA002686
 USA,USA,en,Dharma Publishing,Dharma Publishing,en,http://purl.bdrc.io/resource/W1TLMTGA003087
 USA,USA,en,Dharma Press,Dharma Press,en,http://purl.bdrc.io/resource/W1TLMTGA001607
 USA,USA,en,Yeshe De Dharma,Yeshe De Dharma,en,http://purl.bdrc.io/resource/W1TLMTGA002578
@@ -959,7 +959,7 @@ ye shes sde chos spar khang /,ye shes sde chos spar khang /,bo-x-ewts,dar thang 
 ye shes sde chos spar khang /,ye shes sde chos spar khang /,bo-x-ewts,dar thang rin po che/,dar thang rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001546
 kathmandu/,kathmandu/,bo-x-ewts,rgyal yongs sa chen/,rgyal yongs sa chen/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002923
 kathmandu/,kathmandu/,bo-x-ewts,khenpo shedup tenzin and lama thinley namgyal/,khenpo shedup tenzin and lama thinley namgyal/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002852
-kathmandu/,kathmandu/,bo-x-ewts,sachen international, guru lama/,sachen international, guru lama/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002502
+kathmandu/,kathmandu/,bo-x-ewts,"sachen international, guru lama/","sachen international, guru lama/",bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002502
 khenpo shedup tenzin and lama thinley namgyal/,khenpo shedup tenzin and lama thinley namgyal/,bo-x-ewts,kathmandu/,kathmandu/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002851
 shiva offset print,shiva offset print,en,sakya nunnery/,sakya nunnery/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003193
 gser dgon 'dus sdes bskrun/,gser dgon 'dus sdes bskrun/,bo-x-ewts,gser dgon/,gser dgon/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001631
@@ -1062,7 +1062,7 @@ dharamshala/,dharamshala/,bo-x-ewts,chos rig las khungs nas/,chos rig las khungs
 dharamshala/,dharamshala/,bo-x-ewts,bod kyi dpe mdzod khang nas/,bod kyi dpe mdzod khang nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000625
 dharamshala/,dharamshala/,bo-x-ewts,bod dmag rnying pa'i skyid sdug,bod dmag rnying pa'i skyid sdug,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000605
 snar thang dpar khang /,snar thang dpar khang /,bo-x-ewts,phyi dril khor yug sde tshan/,phyi dril khor yug sde tshan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002140
-Bouddha, Kathmandu,Bouddha, Kathmandu,en,sa skya rgyal yongs gsung rab slob gnyer khang,sa skya rgyal yongs gsung rab slob gnyer khang,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002821
+"Bouddha, Kathmandu","Bouddha, Kathmandu",en,sa skya rgyal yongs gsung rab slob gnyer khang,sa skya rgyal yongs gsung rab slob gnyer khang,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002821
 ldi li/,ldi li/,bo-x-ewts,dpal spung gsung rab spar skrun khang /,dpal spung gsung rab spar skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001297
 ldi li/,ldi li/,bo-x-ewts,dpal spungs gsung rab spar skrun khang /,dpal spungs gsung rab spar skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001296
 ldi li/,ldi li/,bo-x-ewts,\u0f7awA Na badzra bid+yA dpe mdzod khang /,\u0f7awA Na badzra bid+yA dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003192
@@ -1224,15 +1224,15 @@ delhi/,delhi/,bo-x-ewts,byams pa chos sgron/,byams pa chos sgron/,bo-x-ewts,http
 delhi/,delhi/,bo-x-ewts,'phags yul kirti'i byes pa grwa tshang /,'phags yul kirti'i byes pa grwa tshang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000290
 delhi/,delhi/,bo-x-ewts,mkhyen brtse bla brang /,mkhyen brtse bla brang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000451
 ྀIdraprastha Press,ྀIdraprastha Press,en,gsal kha med/,gsal kha med/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002127
-Mundgod, Karnataka,Mundgod, Karnataka,en,'bras blo gling dpe mdzod khang /,'bras blo gling dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002234
+"Mundgod, Karnataka","Mundgod, Karnataka",en,'bras blo gling dpe mdzod khang /,'bras blo gling dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002234
 pe cing /,pe cing /,bo-x-ewts,pe cing pe wan krong lam gyi phyi sgo ang 24pa/,pe cing pe wan krong lam gyi phyi sgo ang 24pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002251
 SMALL ACTS OF RESISTANCE,SMALL ACTS OF RESISTANCE,en,www.NorbuGraphics.com,www.NorbuGraphics.com,en,http://purl.bdrc.io/resource/W1TLMTGB000043
 karmapa/,karmapa/,bo-x-ewts,karmapa/,karmapa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001445
-Shilva Offset Press, Dehradun, Ph.01352715748,Shilva Offset Press, Dehradun, Ph.01352715748,en,dpal sa skya'i mtho rim slob grwa'i shes rig lhan tshogs/,dpal sa skya'i mtho rim slob grwa'i shes rig lhan tshogs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001871
-norbu graphic, new delhi/,norbu graphic, new delhi/,bo-x-ewts,bod kyi sman rtsis khang /,bod kyi sman rtsis khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003210
+"Shilva Offset Press, Dehradun, Ph.01352715748","Shilva Offset Press, Dehradun, Ph.01352715748",en,dpal sa skya'i mtho rim slob grwa'i shes rig lhan tshogs/,dpal sa skya'i mtho rim slob grwa'i shes rig lhan tshogs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001871
+"norbu graphic, new delhi/","norbu graphic, new delhi/",bo-x-ewts,bod kyi sman rtsis khang /,bod kyi sman rtsis khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003210
 Archana delhi/,Archana delhi/,bo-x-ewts,kirti byes pa'i grwa tshang nas/,kirti byes pa'i grwa tshang nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001891
 Tiawan/,Tiawan/,bo-x-ewts,Buddha Educational Foundation,Buddha Educational Foundation,en,http://purl.bdrc.io/resource/W1TLMTGA001421
-narthang press, daramsala/,narthang press, daramsala/,bo-x-ewts,bod mi sgrig 'dzugs tshos rig las khungs/,bod mi sgrig 'dzugs tshos rig las khungs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001402
+"narthang press, daramsala/","narthang press, daramsala/",bo-x-ewts,bod mi sgrig 'dzugs tshos rig las khungs/,bod mi sgrig 'dzugs tshos rig las khungs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001402
 srong btsan dpe mdzod khang /,srong btsan dpe mdzod khang /,bo-x-ewts,srong btsan dpe mdzod khang /,srong btsan dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002396
 d+ha ram sa la/,d+ha ram sa la/,bo-x-ewts,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001410
 d+ha ram sa la/,d+ha ram sa la/,bo-x-ewts,sa rA bod kyi dpe skrun khang /,sa rA bod kyi dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003115
@@ -1257,21 +1257,21 @@ mtsho sngon zi ling par khang /,mtsho sngon zi ling par khang /,bo-x-ewts,mtsho 
 mtsho sngon zi ling par khang /,mtsho sngon zi ling par khang /,bo-x-ewts,mtsho sngon mi rigs dpe skrun khang /,mtsho sngon mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000982
 mtsho sngon zi ling par khang /,mtsho sngon zi ling par khang /,bo-x-ewts,mtsho sngon mi rigs dpe skrun khang /,mtsho sngon mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000853
 rdo rje gling /,rdo rje gling /,bo-x-ewts,gsal kha med/,gsal kha med/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003007
-Lal Kuan, Delhi,Lal Kuan, Delhi,en,Shah Offset,,Shah Offset,,en,http://purl.bdrc.io/resource/W1TLMTGA002676
-Lal Kuan, Delhi,Lal Kuan, Delhi,en,Shah Offset,Shah Offset,en,http://purl.bdrc.io/resource/W1TLMTGA002640
+"Lal Kuan, Delhi","Lal Kuan, Delhi",en,"Shah Offset,","Shah Offset,",en,http://purl.bdrc.io/resource/W1TLMTGA002676
+"Lal Kuan, Delhi","Lal Kuan, Delhi",en,Shah Offset,Shah Offset,en,http://purl.bdrc.io/resource/W1TLMTGA002640
 bod gzhung chos rig las khungs/,bod gzhung chos rig las khungs/,bo-x-ewts,bod gzhung chos rig las khungs/,bod gzhung chos rig las khungs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001396
 rasima/,rasima/,bo-x-ewts,sa paN bshad sgrub gling/,sa paN bshad sgrub gling/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000341
 dpal ldan 'brug gzhung thim phu/,dpal ldan 'brug gzhung thim phu/,bo-x-ewts,dpal ldan snar thang gtsug lag chen po/,dpal ldan snar thang gtsug lag chen po/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001368
-mundgod, karnataka,mundgod, karnataka,bo-x-ewts,drepung loseling library/,drepung loseling library/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001476
+"mundgod, karnataka","mundgod, karnataka",bo-x-ewts,drepung loseling library/,drepung loseling library/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001476
 gsal med/,gsal med/,bo-x-ewts,gsal med/,gsal med/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003200
-sakya student's union/,sakya student's union/,bo-x-ewts,sattnam printer, varanasi,sattnam printer, varanasi,en,http://purl.bdrc.io/resource/W1TLMTGA001776
+sakya student's union/,sakya student's union/,bo-x-ewts,"sattnam printer, varanasi","sattnam printer, varanasi",en,http://purl.bdrc.io/resource/W1TLMTGA001776
 dpal spungs shes rab gling /,dpal spungs shes rab gling /,bo-x-ewts,dpal spungs shes rab gling /,dpal spungs shes rab gling /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001452
 dehra dun/,dehra dun/,bo-x-ewts,ho lee ping,ho lee ping,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000540
 dehra dun/,dehra dun/,bo-x-ewts,tshul khrims dpal ldan/,tshul khrims dpal ldan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000435
 bod ljong shin hwa par 'debs bzo grwa/,bod ljong shin hwa par 'debs bzo grwa/,bo-x-ewts,bod ljong mi dmangs dpe skrun khang /,bod ljong mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002000
 bod ljong shin hwa par 'debs bzo grwa/,bod ljong shin hwa par 'debs bzo grwa/,bo-x-ewts,bod ljong mi dmangs dpe skrun khang /,bod ljong mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001998
 Sherig Parkhang,Sherig Parkhang,en,Shirla lhundup wangyal/,Shirla lhundup wangyal/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002461
-photo offset press, ballimaran, delhi,photo offset press, ballimaran, delhi,en,shakabpa house, kalimpong,shakabpa house, kalimpong,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003227
+"photo offset press, ballimaran, delhi","photo offset press, ballimaran, delhi",en,"shakabpa house, kalimpong","shakabpa house, kalimpong",bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003227
 gangs chen skyid gshongs/_rda ram sa la/,gangs chen skyid gshongs/_rda ram sa la/,bo-x-ewts,snar thang par khang /,snar thang par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002224
 dpal spungs gsung rab nyams gso khang /,dpal spungs gsung rab nyams gso khang /,bo-x-ewts,dpal spungs gsung rab nyams gso khang /,dpal spungs gsung rab nyams gso khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001314
 vee enn print-0- pac,vee enn print-0- pac,en,men tsee khang,men tsee khang,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGB000025
@@ -1299,7 +1299,7 @@ U.S.A.,U.S.A.,en,Yeshe De Dharma,Yeshe De Dharma,en,http://purl.bdrc.io/resource
 U.S.A.,U.S.A.,en,Yeshe De Dharma,Yeshe De Dharma,en,http://purl.bdrc.io/resource/W1TLMTGA001831
 U.S.A.,U.S.A.,en,Yeshe De Dharma,Yeshe De Dharma,en,http://purl.bdrc.io/resource/W1TLMTGA001821
 U.S.A.,U.S.A.,en,Yeshe De Dharma,Yeshe De Dharma,en,http://purl.bdrc.io/resource/W1TLMTGA001822
-U.S.A.,U.S.A.,en,Dharmacakra Press,Odiyan,Dharmacakra Press,Odiyan,en,http://purl.bdrc.io/resource/W1TLMTGA001507
+U.S.A.,U.S.A.,en,"Dharmacakra Press,Odiyan","Dharmacakra Press,Odiyan",en,http://purl.bdrc.io/resource/W1TLMTGA001507
 U.S.A.,U.S.A.,en,Yeshe De Dharma,Yeshe De Dharma,en,http://purl.bdrc.io/resource/W1TLMTGA001813
 U.S.A.,U.S.A.,en,Yeshe De Dharma,Yeshe De Dharma,en,http://purl.bdrc.io/resource/W1TLMTGA001841
 U.S.A.,U.S.A.,en,Yeshe De Dharma,Yeshe De Dharma,en,http://purl.bdrc.io/resource/W1TLMTGA001819
@@ -1389,7 +1389,7 @@ sde dge,sde dge,bo-x-ewts,sde dge,sde dge,bo-x-ewts,http://purl.bdrc.io/resource
 Nepal/,Nepal/,bo-x-ewts,Dharma Kosha Press,Dharma Kosha Press,en,http://purl.bdrc.io/resource/W1TLMTGA001781
 Nepal/,Nepal/,bo-x-ewts,Nepal/,Nepal/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002356
 Nepal/,Nepal/,bo-x-ewts,Pema Tsal Sakya Monastic Institute,Pema Tsal Sakya Monastic Institute,en,http://purl.bdrc.io/resource/W1TLMTGA002346
-Jayyed Press, Ballimaran, Delhi-110006,Jayyed Press, Ballimaran, Delhi-110006,en,bla ma zla ba dang chos 'phel bla ma/,bla ma zla ba dang chos 'phel bla ma/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002992
+"Jayyed Press, Ballimaran, Delhi-110006","Jayyed Press, Ballimaran, Delhi-110006",en,bla ma zla ba dang chos 'phel bla ma/,bla ma zla ba dang chos 'phel bla ma/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002992
 rgya gar rgyal sa ldi li/,rgya gar rgyal sa ldi li/,bo-x-ewts,'jam dbyangs dkar po/,'jam dbyangs dkar po/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001883
 yeshede dharma/,yeshede dharma/,bo-x-ewts,usa/,usa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001848
 yeshede dharma/,yeshede dharma/,bo-x-ewts,usa/,usa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001844
@@ -1430,7 +1430,7 @@ ldi li gsar pa/,ldi li gsar pa/,bo-x-ewts,bod kyi khang pa/,bod kyi khang pa/,bo
 ldi li gsar pa/,ldi li gsar pa/,bo-x-ewts,'jam dbyangs nor bu/,'jam dbyangs nor bu/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002886
 ldi li gsar pa/,ldi li gsar pa/,bo-x-ewts,nor we bod don lhan tshogs/,nor we bod don lhan tshogs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002083
 ldi li gsar pa/,ldi li gsar pa/,bo-x-ewts,ngag dbang stobs rgyal/,ngag dbang stobs rgyal/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000480
-Shah Offset,1614 Lal Kuan,Delhi,Shah Offset,1614 Lal Kuan,Delhi,en,sa chen rgyal yongs/,sa chen rgyal yongs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002501
+"Shah Offset,1614 Lal Kuan,Delhi","Shah Offset,1614 Lal Kuan,Delhi",en,sa chen rgyal yongs/,sa chen rgyal yongs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002501
 dpal spungs dpe rnying gsar bskrun/,dpal spungs dpe rnying gsar bskrun/,bo-x-ewts,dpal spungs dpe rnying gsar bskrun/,dpal spungs dpe rnying gsar bskrun/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001306
 dpal spungs dpe rnying gsar bskrun/,dpal spungs dpe rnying gsar bskrun/,bo-x-ewts,dpal spungs dpe rnying gsar bskrun/,dpal spungs dpe rnying gsar bskrun/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001304
 dpal spungs dpe rnying gsar bskrun/,dpal spungs dpe rnying gsar bskrun/,bo-x-ewts,dpal spungs dpe rnying gsar bskrun/,dpal spungs dpe rnying gsar bskrun/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001299
@@ -1444,10 +1444,10 @@ sattanam printers/,sattanam printers/,bo-x-ewts,varanasi,varanasi,en,http://purl
 shes rig par khang /,shes rig par khang /,bo-x-ewts,shes rig par khang /,shes rig par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003178
 rdzong sar bshad grwa'i dpe mdzod khang /,rdzong sar bshad grwa'i dpe mdzod khang /,bo-x-ewts,rdzong sar bshad grwa'i dpe mdzod khang /,rdzong sar bshad grwa'i dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001615
 rgyal yongs sa chen/,rgyal yongs sa chen/,bo-x-ewts,gsal kha med/,gsal kha med/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001780
-rgyal yongs sa chen/,rgyal yongs sa chen/,bo-x-ewts,ktm, nepal/,ktm, nepal/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002747
+rgyal yongs sa chen/,rgyal yongs sa chen/,bo-x-ewts,"ktm, nepal/","ktm, nepal/",bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002747
 rgyal yongs sa chen/,rgyal yongs sa chen/,bo-x-ewts,rgyal yongs sa chen/,rgyal yongs sa chen/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002498
 'bras ljongs/,'bras ljongs/,bo-x-ewts,'bras ljongs/,'bras ljongs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002764
-Gaggal, Kangra, Himachal Pradesh,Gaggal, Kangra, Himachal Pradesh,en,Progressive Printers,Progressive Printers,en,http://purl.bdrc.io/resource/W1TLMTGA001914
+"Gaggal, Kangra, Himachal Pradesh","Gaggal, Kangra, Himachal Pradesh",en,Progressive Printers,Progressive Printers,en,http://purl.bdrc.io/resource/W1TLMTGA001914
 Vee Enn Print,Vee Enn Print,en,bar khams sog shod gser mo ljongs kyi gsung chos dang brtan bzhugs go sgrig tshogs pa/,bar khams sog shod gser mo ljongs kyi gsung chos dang brtan bzhugs go sgrig tshogs pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002366
 Vee Enn Print,Vee Enn Print,en,the albert einstein institution/,the albert einstein institution/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002123
 Vee Enn Print,Vee Enn Print,en,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002214
@@ -1461,10 +1461,10 @@ lho nub lcags bzhu sa gshis par 'debs bzo grwa/,lho nub lcags bzhu sa gshis par 
 lho nub lcags bzhu sa gshis par 'debs bzo grwa/,lho nub lcags bzhu sa gshis par 'debs bzo grwa/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang /,bod ljongs mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000737
 jayyed press/,jayyed press/,bo-x-ewts,ngag dbang stobs rgyal/,ngag dbang stobs rgyal/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001898
 Gangtok,Gangtok,en,Sonam T. Kazi,Sonam T. Kazi,en,http://purl.bdrc.io/resource/W1TLMTGA002930
-Shah Offset Printer, Delhi-110006,Shah Offset Printer, Delhi-110006,en,Siddhartha's Intent, Yashodhara Publication,Siddhartha's Intent, Yashodhara Publication,en,http://purl.bdrc.io/resource/W1TLMTGA001950
-photo-offset press,ballimaran,Delhi-110006,photo-offset press,ballimaran,Delhi-110006,en,ngag dbang stobs rgyal/,ngag dbang stobs rgyal/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001867
+"Shah Offset Printer, Delhi-110006","Shah Offset Printer, Delhi-110006",en,"Siddhartha's Intent, Yashodhara Publication","Siddhartha's Intent, Yashodhara Publication",en,http://purl.bdrc.io/resource/W1TLMTGA001950
+"photo-offset press,ballimaran,Delhi-110006","photo-offset press,ballimaran,Delhi-110006",en,ngag dbang stobs rgyal/,ngag dbang stobs rgyal/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001867
 dgu bcu gsum las 'gul tshogs pa nas/,dgu bcu gsum las 'gul tshogs pa nas/,bo-x-ewts,dgu bcu gsum las 'gul tshogs pa nas/,dgu bcu gsum las 'gul tshogs pa nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003114
-u.s.a by dharmacakra press,odiyan/,u.s.a by dharmacakra press,odiyan/,bo-x-ewts,dar thang rin po che/,dar thang rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000481
+"u.s.a by dharmacakra press,odiyan/","u.s.a by dharmacakra press,odiyan/",bo-x-ewts,dar thang rin po che/,dar thang rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000481
 Archana/,Archana/,bo-x-ewts,'phags yul kirti'i byes pa grwa tshang /,'phags yul kirti'i byes pa grwa tshang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001385
 Archana/,Archana/,bo-x-ewts,Bon Cultural Center,Bon Cultural Center,en,http://purl.bdrc.io/resource/W1TLMTGA003251
 Archana/,Archana/,bo-x-ewts,gsung rab rgyal mtsho/,gsung rab rgyal mtsho/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000343
@@ -1490,16 +1490,16 @@ bod ljongs shin hwa par 'debs bzo grwa/,bod ljongs shin hwa par 'debs bzo grwa/,
 bod ljongs shin hwa par 'debs bzo grwa/,bod ljongs shin hwa par 'debs bzo grwa/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang /,bod ljongs mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001010
 bang yul/,bang yul/,bo-x-ewts,sa skya rgyal yongs gsung rab slob gnyer khang /,sa skya rgyal yongs gsung rab slob gnyer khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002573
 Vee enn print-o-pac#66605040,Vee enn print-o-pac#66605040,en,zla 'od gzhon nu rtsom sgrig khang /,zla 'od gzhon nu rtsom sgrig khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000344
-lama tsewang gyatso/,lama tsewang gyatso/,bo-x-ewts,mani printing works, kalimpong,mani printing works, kalimpong,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002749
+lama tsewang gyatso/,lama tsewang gyatso/,bo-x-ewts,"mani printing works, kalimpong","mani printing works, kalimpong",bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002749
 bod gzhung phyi dril las khungs/,bod gzhung phyi dril las khungs/,bo-x-ewts,snar thang par khang,snar thang par khang,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGB000032
-dharamsala, h.p.,dharamsala, h.p.,bo-x-ewts,'gro phan gtsug lag dpe skrun khang dang /_a myes rma chen bod kyi rig gzhung zhib 'jug khang /,'gro phan gtsug lag dpe skrun khang dang /_a myes rma chen bod kyi rig gzhung zhib 'jug khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000440
+"dharamsala, h.p.","dharamsala, h.p.",bo-x-ewts,'gro phan gtsug lag dpe skrun khang dang /_a myes rma chen bod kyi rig gzhung zhib 'jug khang /,'gro phan gtsug lag dpe skrun khang dang /_a myes rma chen bod kyi rig gzhung zhib 'jug khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000440
 thA+e'i wan/,thA+e'i wan/,bo-x-ewts,thA'i wan nang pa'i shes yon bde rtsa lhan tshogs nas/,thA'i wan nang pa'i shes yon bde rtsa lhan tshogs nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001012
 thA+e'i wan/,thA+e'i wan/,bo-x-ewts,thA+e'i wan nang pa'i shes yon bde rtsa lhan tshogs nas/,thA+e'i wan nang pa'i shes yon bde rtsa lhan tshogs nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001013
-Shiva Offset Press, Dehradun,Shiva Offset Press, Dehradun,en,sa skya'i brtan bzhugs go sgrig lhan tshogs/,sa skya'i brtan bzhugs go sgrig lhan tshogs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002259
-Shiva Offset Press, Dehradun,Shiva Offset Press, Dehradun,en,tshul khrims dpal ldan/,tshul khrims dpal ldan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002944
+"Shiva Offset Press, Dehradun","Shiva Offset Press, Dehradun",en,sa skya'i brtan bzhugs go sgrig lhan tshogs/,sa skya'i brtan bzhugs go sgrig lhan tshogs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002259
+"Shiva Offset Press, Dehradun","Shiva Offset Press, Dehradun",en,tshul khrims dpal ldan/,tshul khrims dpal ldan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002944
 sgang tog,sgang tog,bo-x-ewts,sgang tog sa ngor dgon pa/,sgang tog sa ngor dgon pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002484
 sgang tog,sgang tog,bo-x-ewts,sgang tog sa ngor chos tshogs/,sgang tog sa ngor chos tshogs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002486
-Vee Enn print-o-pse,Vee Enn print-o-pse,en,Dr. Dorji Damdul, MBBS, MPH.,Dr. Dorji Damdul, MBBS, MPH.,en,http://purl.bdrc.io/resource/W1TLMTGA000253
+Vee Enn print-o-pse,Vee Enn print-o-pse,en,"Dr. Dorji Damdul, MBBS, MPH.","Dr. Dorji Damdul, MBBS, MPH.",en,http://purl.bdrc.io/resource/W1TLMTGA000253
 ུusa/,ུusa/,bo-x-ewts,ye shes sde chos par khang /,ye shes sde chos par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001369
 ye shes sde chos par khang /,ye shes sde chos par khang /,bo-x-ewts,dar thang rin po che/,dar thang rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002965
 ye shes sde chos par khang /,ye shes sde chos par khang /,bo-x-ewts,dar thang rin po che/,dar thang rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003018
@@ -1512,8 +1512,8 @@ kha gsal med/,kha gsal med/,bo-x-ewts,kha gsal med/,kha gsal med/,bo-x-ewts,http
 kha gsal med/,kha gsal med/,bo-x-ewts,kha gsal med/,kha gsal med/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002817
 kha gsal med/,kha gsal med/,bo-x-ewts,kha gsal med/,kha gsal med/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001449
 kha gsal med/,kha gsal med/,bo-x-ewts,kha gsal med/,kha gsal med/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001443
-Shah Offset Printer, Lal Kaun Delhi-6,Shah Offset Printer, Lal Kaun Delhi-6,en,Tibetan Cultural Printing Press,Tibetan Cultural Printing Press,en,http://purl.bdrc.io/resource/W1TLMTGA001886
-Shiva Offset Press,,Shiva Offset Press,,en,dpal sa skya'i rtsom sgrig khang /,dpal sa skya'i rtsom sgrig khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001971
+"Shah Offset Printer, Lal Kaun Delhi-6","Shah Offset Printer, Lal Kaun Delhi-6",en,Tibetan Cultural Printing Press,Tibetan Cultural Printing Press,en,http://purl.bdrc.io/resource/W1TLMTGA001886
+"Shiva Offset Press,","Shiva Offset Press,",en,dpal sa skya'i rtsom sgrig khang /,dpal sa skya'i rtsom sgrig khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001971
 gsal kha med pa/,gsal kha med pa/,bo-x-ewts,gsal kha med pa/,gsal kha med pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002953
 gsal kha med pa/,gsal kha med pa/,bo-x-ewts,gsal kha med pa/,gsal kha med pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003005
 gsal kha med pa/,gsal kha med pa/,bo-x-ewts,gsal kha med pa/,gsal kha med pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003017
@@ -1523,7 +1523,7 @@ gsal kha med pa/,gsal kha med pa/,bo-x-ewts,gsal kha med pa/,gsal kha med pa/,bo
 the'e wan/,the'e wan/,bo-x-ewts,the'e wan nang pa'i shes yon bde rtsa lhan tshogs nas/,the'e wan nang pa'i shes yon bde rtsa lhan tshogs nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001091
 the'e wan/,the'e wan/,bo-x-ewts,the'e wan nang pa'i shes yon bde rtsa lhan tshogs/,the'e wan nang pa'i shes yon bde rtsa lhan tshogs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001204
 the'e wan/,the'e wan/,bo-x-ewts,the'e wan nang pa'i shes yon bde rtsa lhan tshogs nas/,the'e wan nang pa'i shes yon bde rtsa lhan tshogs nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001092
-trulku tsewang, jamyang and L.tashi,trulku tsewang, jamyang and L.tashi,en,new delhi/,new delhi/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002954
+"trulku tsewang, jamyang and L.tashi","trulku tsewang, jamyang and L.tashi",en,new delhi/,new delhi/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002954
 Dharamshala/,Dharamshala/,bo-x-ewts,Materia Medica Department,Materia Medica Department,en,http://purl.bdrc.io/resource/W1TLMTGA003110
 Dharamshala/,Dharamshala/,bo-x-ewts,sa rA par khang /,sa rA par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003099
 Dharamshala/,Dharamshala/,bo-x-ewts,sa rA bod kyi dpe skrun khang /,sa rA bod kyi dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003100
@@ -1538,17 +1538,17 @@ dharamsala/,dharamsala/,bo-x-ewts,sa rA dpe skrun khang /,sa rA dpe skrun khang 
 dharamsala/,dharamsala/,bo-x-ewts,snar thang dpal khang /,snar thang dpal khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002158
 dharamsala/,dharamsala/,bo-x-ewts,snar thang par khang /,snar thang par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002240
 san ho zhin yu'e par 'debs tshad yod kung si/,san ho zhin yu'e par 'debs tshad yod kung si/,bo-x-ewts,krung go'i bod rig dpe skrun khang /,krung go'i bod rig dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002985
-shiva offset press, dehradun,shiva offset press, dehradun,en,li thang tshul khrims dpal ldan/,li thang tshul khrims dpal ldan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000326
-ktm, nepal/,ktm, nepal/,bo-x-ewts,1999,1999,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002814
-Chaman offset ,Darya Ganj,New Delhi,Chaman offset ,Darya Ganj,New Delhi,en,Khenpo Shedup Tenzin,Khenpo Shedup Tenzin,en,http://purl.bdrc.io/resource/W1TLMTGA001295
+"shiva offset press, dehradun","shiva offset press, dehradun",en,li thang tshul khrims dpal ldan/,li thang tshul khrims dpal ldan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000326
+"ktm, nepal/","ktm, nepal/",bo-x-ewts,1999,1999,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002814
+"Chaman offset ,Darya Ganj,New Delhi","Chaman offset ,Darya Ganj,New Delhi",en,Khenpo Shedup Tenzin,Khenpo Shedup Tenzin,en,http://purl.bdrc.io/resource/W1TLMTGA001295
 smin grol thub bstan mdo sngags chos gling /,smin grol thub bstan mdo sngags chos gling /,bo-x-ewts,\u0fad\u0fadwA gin+d+ra d+harma ma ti/,\u0fad\u0fadwA gin+d+ra d+harma ma ti/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002732
 dbyi hu'e par khang/,dbyi hu'e par khang/,bo-x-ewts,mi rig dpe skrun khang/,mi rig dpe skrun khang/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000310
-Jayyed Press,Ballimaran, Delhi-110006,Jayyed Press,Ballimaran, Delhi-110006,en,'brug shes rig par khang /,'brug shes rig par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002979
+"Jayyed Press,Ballimaran, Delhi-110006","Jayyed Press,Ballimaran, Delhi-110006",en,'brug shes rig par khang /,'brug shes rig par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002979
 kargyud sungrab nyamso khang,kargyud sungrab nyamso khang,bo-x-ewts,darjeling,darjeling,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002957
-Laxmi Nagar, Delhi-92,Laxmi Nagar, Delhi-92,en,bod gzhung shes rig dpar khang /,bod gzhung shes rig dpar khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001887
+"Laxmi Nagar, Delhi-92","Laxmi Nagar, Delhi-92",en,bod gzhung shes rig dpar khang /,bod gzhung shes rig dpar khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001887
 ིindia/,ིindia/,bo-x-ewts,ka \u0f7f brag dngos grub bsod nams/,ka \u0f7f brag dngos grub bsod nams/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003179
 ིindia/,ིindia/,bo-x-ewts,dge ldan rnam rgyal gling /,dge ldan rnam rgyal gling /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001865
-Tara Prints, Mysore,Tara Prints, Mysore,en,ser byes lho pa khang tshan/,ser byes lho pa khang tshan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002271
+"Tara Prints, Mysore","Tara Prints, Mysore",en,ser byes lho pa khang tshan/,ser byes lho pa khang tshan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002271
 mi rig dpe skrun khang /,mi rig dpe skrun khang /,bo-x-ewts,mi rigs dpe skrun khang /,mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001073
 si khron zhing chen/,si khron zhing chen/,bo-x-ewts,si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001511
 si khron zhing chen/,si khron zhing chen/,bo-x-ewts,si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001508
@@ -1558,30 +1558,30 @@ mtsho sngon nyin re'i tshags par par khang /,mtsho sngon nyin re'i tshags par pa
 rAdza pur/,rAdza pur/,bo-x-ewts,gdong thog rin po che/,gdong thog rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001154
 si khron hru'u thung par 'debs 'gan 'khri tshad yod kung si/,si khron hru'u thung par 'debs 'gan 'khri tshad yod kung si/,bo-x-ewts,si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000289
 Jayyed press.new delhi-6 india,Jayyed press.new delhi-6 india,en,kun bzang stobs rag+Yal/,kun bzang stobs rag+Yal/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000462
-Shah Offset Printer,1614 Lal kaun,Delhi,Shah Offset Printer,1614 Lal kaun,Delhi,en,sa chen rgyal yongs/,sa chen rgyal yongs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002503
+"Shah Offset Printer,1614 Lal kaun,Delhi","Shah Offset Printer,1614 Lal kaun,Delhi",en,sa chen rgyal yongs/,sa chen rgyal yongs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002503
 reproman 123church roadsiliguri-734401(w.b.),reproman 123church roadsiliguri-734401(w.b.),en,'bo dkar nges don chos 'khor gling /,'bo dkar nges don chos 'khor gling /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000309
 kan su'u mi rigs dpe skrun/,kan su'u mi rigs dpe skrun/,bo-x-ewts,kan su'u mi rigs dpe skrun/,kan su'u mi rigs dpe skrun/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000878
 kan su'u mi rigs dpe skrun/,kan su'u mi rigs dpe skrun/,bo-x-ewts,kan su'u mi rigs dpe skrun/,kan su'u mi rigs dpe skrun/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000873
 rigs lam slob gnyer khang /,rigs lam slob gnyer khang /,bo-x-ewts,rigs lam slob gnyer khang /,rigs lam slob gnyer khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001336
 sgo rum gsung rab gces skyong khang /,sgo rum gsung rab gces skyong khang /,bo-x-ewts,sa skya'i mtho rim slob grwa'i slob gnyer ba'i shes rig lhan tshogs/,sa skya'i mtho rim slob grwa'i slob gnyer ba'i shes rig lhan tshogs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000315
-Manjukatila, Delhi,Manjukatila, Delhi,en,ldi li bod kyi khang pa/,ldi li bod kyi khang pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002958
+"Manjukatila, Delhi","Manjukatila, Delhi",en,ldi li bod kyi khang pa/,ldi li bod kyi khang pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002958
 Karnataka,Karnataka,en,'bras spungs blo gsal gling dpe mdzod khang /,'bras spungs blo gsal gling dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001960
 Karnataka,Karnataka,en,Drepung Loseling Printing Press,Drepung Loseling Printing Press,en,http://purl.bdrc.io/resource/W1TLMTGA002398
 Karnataka,Karnataka,en,R+wa stod grwa tshang /,R+wa stod grwa tshang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001957
 Karnataka,Karnataka,en,Mohan Printing,Mohan Printing,en,http://purl.bdrc.io/resource/W1TLMTGA002373
 Karnataka,Karnataka,en,R+wa stod grwa tshang /,R+wa stod grwa tshang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001959
-kunzang topgey/,kunzang topgey/,bo-x-ewts,thimpu, bhutan/,thimpu, bhutan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002935
+kunzang topgey/,kunzang topgey/,bo-x-ewts,"thimpu, bhutan/","thimpu, bhutan/",bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002935
 Mahayana Prees,Mahayana Prees,en,lha thog rtsom sgrig khang /,lha thog rtsom sgrig khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002054
-Manduwala, Dehradun,Manduwala, Dehradun,en,Pal Ewam Choden Ngorpa Center,Pal Ewam Choden Ngorpa Center,en,http://purl.bdrc.io/resource/W1TLMTGA001541
-Manduwala, Dehradun,Manduwala, Dehradun,en,Pal Ewam Choden Ngorpa Center,Pal Ewam Choden Ngorpa Center,en,http://purl.bdrc.io/resource/W1TLMTGA001539
-Manduwala, Dehradun,Manduwala, Dehradun,en,Pal Ewam Choden Ngorpa Center,Pal Ewam Choden Ngorpa Center,en,http://purl.bdrc.io/resource/W1TLMTGA001545
-Manduwala, Dehradun,Manduwala, Dehradun,en,Pal Ewam Choden Ngorpa Center,Pal Ewam Choden Ngorpa Center,en,http://purl.bdrc.io/resource/W1TLMTGA001543
-པརོ,་བྷུཏན,པརོ,་བྷུཏན,en,lam ngodrupa and sherab drimeya/,lam ngodrupa and sherab drimeya/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002568
-པརོ,་བྷུཏན,པརོ,་བྷུཏན,en,lam ngodrupa and sherab drimeya/,lam ngodrupa and sherab drimeya/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002566
-པརོ,་བྷུཏན,པརོ,་བྷུཏན,en,lam ngodrupa and sherab drimeya/,lam ngodrupa and sherab drimeya/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002570
+"Manduwala, Dehradun","Manduwala, Dehradun",en,Pal Ewam Choden Ngorpa Center,Pal Ewam Choden Ngorpa Center,en,http://purl.bdrc.io/resource/W1TLMTGA001541
+"Manduwala, Dehradun","Manduwala, Dehradun",en,Pal Ewam Choden Ngorpa Center,Pal Ewam Choden Ngorpa Center,en,http://purl.bdrc.io/resource/W1TLMTGA001539
+"Manduwala, Dehradun","Manduwala, Dehradun",en,Pal Ewam Choden Ngorpa Center,Pal Ewam Choden Ngorpa Center,en,http://purl.bdrc.io/resource/W1TLMTGA001545
+"Manduwala, Dehradun","Manduwala, Dehradun",en,Pal Ewam Choden Ngorpa Center,Pal Ewam Choden Ngorpa Center,en,http://purl.bdrc.io/resource/W1TLMTGA001543
+"པརོ,་བྷུཏན","པརོ,་བྷུཏན",en,lam ngodrupa and sherab drimeya/,lam ngodrupa and sherab drimeya/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002568
+"པརོ,་བྷུཏན","པརོ,་བྷུཏན",en,lam ngodrupa and sherab drimeya/,lam ngodrupa and sherab drimeya/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002566
+"པརོ,་བྷུཏན","པརོ,་བྷུཏན",en,lam ngodrupa and sherab drimeya/,lam ngodrupa and sherab drimeya/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002570
 the wAn/,the wAn/,bo-x-ewts,la dwags a ti sha nang pa'i lta spyod lte gnas/,la dwags a ti sha nang pa'i lta spyod lte gnas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001895
-Kunzang Tobgey,Kunzang Tobgey,en,Thimpu, Bhutan,Thimpu, Bhutan,en,http://purl.bdrc.io/resource/W1TLMTGA003089
-surbhi printers Maldahiya, Varanasi,surbhi printers Maldahiya, Varanasi,en,\u0fad\u0fad\u0fad\u0fadwA Na mtho slob dge ldan slob spyi las khang /,\u0fad\u0fad\u0fad\u0fadwA Na mtho slob dge ldan slob spyi las khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003172
+Kunzang Tobgey,Kunzang Tobgey,en,"Thimpu, Bhutan","Thimpu, Bhutan",en,http://purl.bdrc.io/resource/W1TLMTGA003089
+"surbhi printers Maldahiya, Varanasi","surbhi printers Maldahiya, Varanasi",en,\u0fad\u0fad\u0fad\u0fadwA Na mtho slob dge ldan slob spyi las khang /,\u0fad\u0fad\u0fad\u0fadwA Na mtho slob dge ldan slob spyi las khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003172
 sa khron/,sa khron/,bo-x-ewts,sa khron mi rigs dpe skrun khang nas/,sa khron mi rigs dpe skrun khang nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000983
 Shiva Offset Press. Dehradun,Shiva Offset Press. Dehradun,en,dpal sa skya'i rtsom sgrig khang gis bsgrigs/,dpal sa skya'i rtsom sgrig khang gis bsgrigs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002055
 khreng tu'u hru'u par 'debs khang/,khreng tu'u hru'u par 'debs khang/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang/,bod ljongs mi dmangs dpe skrun khang/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000185
@@ -1589,17 +1589,17 @@ la khon d+hi li/,la khon d+hi li/,bo-x-ewts,brtson 'grus seng ge,brtson 'grus se
 ngawang topgay/,ngawang topgay/,bo-x-ewts,new delhi/,new delhi/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002882
 zi ling mi rigs dpar skrun khang/,zi ling mi rigs dpar skrun khang/,bo-x-ewts,mtsho sngon mi rigs dpe skrun khang/,mtsho sngon mi rigs dpe skrun khang/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000388
 bod rdzong sar/,bod rdzong sar/,bo-x-ewts,gdan sa bkra shis lha rtse/,gdan sa bkra shis lha rtse/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002799
-jayyad press,ballimaran,delhi-6,jayyad press,ballimaran,delhi-6,en,sonam topga,,sonam topga,,en,http://purl.bdrc.io/resource/W1TLMTGA000467
+"jayyad press,ballimaran,delhi-6","jayyad press,ballimaran,delhi-6",en,"sonam topga,","sonam topga,",en,http://purl.bdrc.io/resource/W1TLMTGA000467
 bod ljongs shin hwa dpar 'debs bzo grwa/,bod ljongs shin hwa dpar 'debs bzo grwa/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang /,bod ljongs mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000521
 bod ljongs shin hwa dpar 'debs bzo grwa/,bod ljongs shin hwa dpar 'debs bzo grwa/,bo-x-ewts,gang ljongs rig gnas dus deb khang /,gang ljongs rig gnas dus deb khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002310
 bod ljongs shin hwa dpar 'debs bzo grwa/,bod ljongs shin hwa dpar 'debs bzo grwa/,bo-x-ewts,bod ljongs bod yig dpe rnying dpe skrun khang /,bod ljongs bod yig dpe rnying dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001176
 bod ljongs shin hwa dpar 'debs bzo grwa/,bod ljongs shin hwa dpar 'debs bzo grwa/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang/,bod ljongs mi dmangs dpe skrun khang/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000206
 bod dmag khul khang par debs bzo grwa/,bod dmag khul khang par debs bzo grwa/,bo-x-ewts,bod ljong mi dmangs dpe skrun khang /,bod ljong mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001997
 Varanasi,Varanasi,en,Sattanam Printers,Sattanam Printers,en,http://purl.bdrc.io/resource/W1TLMTGA001504
-Gangchen Kyishong, Dharamsala,Gangchen Kyishong, Dharamsala,en,snar thang par khang /,snar thang par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002154
-jayyed press, ballimaran/,jayyed press, ballimaran/,bo-x-ewts,LTWA,LTWA,en,http://purl.bdrc.io/resource/W1TLMTGA003229
-jayyed press, ballimaran/,jayyed press, ballimaran/,bo-x-ewts,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000243
-jayyed press, ballimaran/,jayyed press, ballimaran/,bo-x-ewts,bod gzhung dpe mdzod khang /,bod gzhung dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000194
+"Gangchen Kyishong, Dharamsala","Gangchen Kyishong, Dharamsala",en,snar thang par khang /,snar thang par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002154
+"jayyed press, ballimaran/","jayyed press, ballimaran/",bo-x-ewts,LTWA,LTWA,en,http://purl.bdrc.io/resource/W1TLMTGA003229
+"jayyed press, ballimaran/","jayyed press, ballimaran/",bo-x-ewts,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000243
+"jayyed press, ballimaran/","jayyed press, ballimaran/",bo-x-ewts,bod gzhung dpe mdzod khang /,bod gzhung dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000194
 au Di yA na'i chos par khang /,au Di yA na'i chos par khang /,bo-x-ewts,dar thang pa kun dga' dge legs ye shes rdo rje/,dar thang pa kun dga' dge legs ye shes rdo rje/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000395
 Indraprastha/,Indraprastha/,bo-x-ewts,'bum grwa dge slong 'jam dpal tshul khrims/,'bum grwa dge slong 'jam dpal tshul khrims/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000405
 Indraprastha/,Indraprastha/,bo-x-ewts,nor gling bod kyi rigs gzhung gces skyog khang /,nor gling bod kyi rigs gzhung gces skyog khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000399
@@ -1608,33 +1608,33 @@ dpal spungs gsung rab nyams so khang /,dpal spungs gsung rab nyams so khang /,bo
 kan su'u sa gshis par khang /,kan su'u sa gshis par khang /,bo-x-ewts,kan su'u mi rigs dpe skrun khang /,kan su'u mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000819
 bod kyi 'gro ba mi'i thob thang dang mang gtso 'phel rgyas lte gnas khang/,bod kyi 'gro ba mi'i thob thang dang mang gtso 'phel rgyas lte gnas khang/,bo-x-ewts,bod kyi 'gro ba mi'i thob thang dang mang gtso 'phel rgyas lte gnas khang/,bod kyi 'gro ba mi'i thob thang dang mang gtso 'phel rgyas lte gnas khang/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGB000031
 Lajpat Nagar New Delhi,Lajpat Nagar New Delhi,en,bod kyi gros tshogs dang srid byus nyams zhib khang /,bod kyi gros tshogs dang srid byus nyams zhib khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002437
-Aurelia Printers, Jalandhar,Aurelia Printers, Jalandhar,en,Mohan Lal Khanna,Mohan Lal Khanna,en,http://purl.bdrc.io/resource/W1TLMTGA003150
-Archana, New Delhi/,Archana, New Delhi/,bo-x-ewts,chos kyi blo gros dus deb/,chos kyi blo gros dus deb/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002283
+"Aurelia Printers, Jalandhar","Aurelia Printers, Jalandhar",en,Mohan Lal Khanna,Mohan Lal Khanna,en,http://purl.bdrc.io/resource/W1TLMTGA003150
+"Archana, New Delhi/","Archana, New Delhi/",bo-x-ewts,chos kyi blo gros dus deb/,chos kyi blo gros dus deb/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002283
 khreng tu'u hru'u thung par 'debs 'gan 'khri tshad yod kung sis dpar/,khreng tu'u hru'u thung par 'debs 'gan 'khri tshad yod kung sis dpar/,bo-x-ewts,si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001496
-vee enn print-O-pac,New Delhi,vee enn print-O-pac,New Delhi,en,kha ba dkar po bod kyi rig gzhung sri zhu khang /,kha ba dkar po bod kyi rig gzhung sri zhu khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001277
+"vee enn print-O-pac,New Delhi","vee enn print-O-pac,New Delhi",en,kha ba dkar po bod kyi rig gzhung sri zhu khang /,kha ba dkar po bod kyi rig gzhung sri zhu khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001277
 ldi li a char na par khang /,ldi li a char na par khang /,bo-x-ewts,chos kyi blo gros rtsom sgrig khang /,chos kyi blo gros rtsom sgrig khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000164
 bod rang skyong ljongs spyi khyab bzo tshogs/,bod rang skyong ljongs spyi khyab bzo tshogs/,bo-x-ewts,bod ljongs shin hwa dpar 'debs bzo grwa/,bod ljongs shin hwa dpar 'debs bzo grwa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002301
 khreng tu'u hru'u thung par 'debs tshad yod 'gan 'khri kung si/,khreng tu'u hru'u thung par 'debs tshad yod 'gan 'khri kung si/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang /,bod ljongs mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000468
 jayyed preaa/,jayyed preaa/,bo-x-ewts,Nyingma students welfare committee,Nyingma students welfare committee,en,http://purl.bdrc.io/resource/W1TLMTGA001889
-vee enn print-o-pac,new delhi,vee enn print-o-pac,new delhi,en,bod kyi shes rig par khang /,bod kyi shes rig par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000836
+"vee enn print-o-pac,new delhi","vee enn print-o-pac,new delhi",en,bod kyi shes rig par khang /,bod kyi shes rig par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000836
 Photo Offset Printers Karnataka,Photo Offset Printers Karnataka,en,'bras blo gling shes yon lhan tshogs/,'bras blo gling shes yon lhan tshogs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001682
 Photo Offset Printers Karnataka,Photo Offset Printers Karnataka,en,'bras blo gling shes yon lhan tshogs/,'bras blo gling shes yon lhan tshogs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001683
-progressive offset printer, gaggal,progressive offset printer, gaggal,en,mentsekhang,mentsekhang,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGB000026
-LEH,LADAKH,LEH,LADAKH,en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000229
-LEH,LADAKH,LEH,LADAKH,en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000236
-LEH,LADAKH,LEH,LADAKH,en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000218
-LEH,LADAKH,LEH,LADAKH,en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000217
+"progressive offset printer, gaggal","progressive offset printer, gaggal",en,mentsekhang,mentsekhang,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGB000026
+"LEH,LADAKH","LEH,LADAKH",en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000229
+"LEH,LADAKH","LEH,LADAKH",en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000236
+"LEH,LADAKH","LEH,LADAKH",en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000218
+"LEH,LADAKH","LEH,LADAKH",en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000217
 kan su'u zhing chen/,kan su'u zhing chen/,bo-x-ewts,kan su'u mi rigs dpe sprun khang /,kan su'u mi rigs dpe sprun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003173
 dus dbang go sgrig tshogs chung /,dus dbang go sgrig tshogs chung /,bo-x-ewts,dus dbang go sgrig tshogs chung /,dus dbang go sgrig tshogs chung /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001526
 thimpu/,thimpu/,bo-x-ewts,ktm/,ktm/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000985
-lal kuan, delhi/,lal kuan, delhi/,bo-x-ewts,dzongsar khyentse labrang,dzongsar khyentse labrang,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002806
+"lal kuan, delhi/","lal kuan, delhi/",bo-x-ewts,dzongsar khyentse labrang,dzongsar khyentse labrang,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002806
 bod ljongs shin hwa par skrun khang/,bod ljongs shin hwa par skrun khang/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang/,bod ljongs mi dmangs dpe skrun khang/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000183
 hren kren grong khyer ha'e can par 'debs tshad yong kung sis/,hren kren grong khyer ha'e can par 'debs tshad yong kung sis/,bo-x-ewts,dpal brtsegs bod yig dpe rnying zhib 'jug khang /,dpal brtsegs bod yig dpe rnying zhib 'jug khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002016
 mundgod/,mundgod/,bo-x-ewts,'bras spungs sgo mang dpe mdzod/,'bras spungs sgo mang dpe mdzod/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000473
 'bras ljongs sa ngor chos tshogs/,'bras ljongs sa ngor chos tshogs/,bo-x-ewts,kha mi gsal/,kha mi gsal/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002488
 bod ljongs shen hwa par 'debs bzo grwa/,bod ljongs shen hwa par 'debs bzo grwa/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang /,bod ljongs mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001994
 khreng tu'u hru'u thung par 'debs 'gan 'khri tshad yod kud si/,khreng tu'u hru'u thung par 'debs 'gan 'khri tshad yod kud si/,bo-x-ewts,si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001514
-khenpo shedup tenzin/,khenpo shedup tenzin/,bo-x-ewts,chaman offset, new delhi,chaman offset, new delhi,en,http://purl.bdrc.io/resource/W1TLMTGA003159
+khenpo shedup tenzin/,khenpo shedup tenzin/,bo-x-ewts,"chaman offset, new delhi","chaman offset, new delhi",en,http://purl.bdrc.io/resource/W1TLMTGA003159
 pe cin grong khyer dbyi hu'e par 'debs tshad yod kung si/,pe cin grong khyer dbyi hu'e par 'debs tshad yod kung si/,bo-x-ewts,mi rigs dpe skrun khang /,mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000701
 'jam dbyangs kun bzang /,'jam dbyangs kun bzang /,bo-x-ewts,b+hir rdzong sar/,b+hir rdzong sar/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001949
 snar thang dpar khang /_d+ha ram sa la/,snar thang dpar khang /_d+ha ram sa la/,bo-x-ewts,bod gzhung phyi dril las khungs/,bod gzhung phyi dril las khungs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002136
@@ -1651,22 +1651,22 @@ pe cin ho phing li/,pe cin ho phing li/,bo-x-ewts,mi rigs dpe skrun khang /,mi r
 pe cin ho phing li/,pe cin ho phing li/,bo-x-ewts,mi rigs dpe skrun khang /,mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001630
 pe cin ho phing li/,pe cin ho phing li/,bo-x-ewts,mi rigs dpe skrun khang /,mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000335
 pe cin ho phing li/,pe cin ho phing li/,bo-x-ewts,mi rigs dpe skrun khang /,mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000273
-leh,ladakh/,leh,ladakh/,bo-x-ewts,s.w.tashigangpa/,s.w.tashigangpa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000214
+"leh,ladakh/","leh,ladakh/",bo-x-ewts,s.w.tashigangpa/,s.w.tashigangpa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000214
 sna thang par khang /,sna thang par khang /,bo-x-ewts,bod gzhung phyi dril las khung /,bod gzhung phyi dril las khung /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002174
 sna thang par khang /,sna thang par khang /,bo-x-ewts,sna thang par khang /,sna thang par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002107
 yon ching phan bde'i phar khang /,yon ching phan bde'i phar khang /,bo-x-ewts,mi rigs dpe skrun khang /,mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000526
 Indraprastha Press,Indraprastha Press,en,bod gzhung sman rtsis khag/,bod gzhung sman rtsis khag/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000212
 ye sde chos spar khang /,ye sde chos spar khang /,bo-x-ewts,dar thang rin po che/,dar thang rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001363
 ye sde chos spar khang /,ye sde chos spar khang /,bo-x-ewts,dar thang rin po che/,dar thang rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001609
-jayyed press, bellimaran/,jayyed press, bellimaran/,bo-x-ewts,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000246
+"jayyed press, bellimaran/","jayyed press, bellimaran/",bo-x-ewts,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000246
 Darjeling,Darjeling,bo-x-ewts,Kargyud Sungrab Nyamo Khang,Kargyud Sungrab Nyamo Khang,en,http://purl.bdrc.io/resource/W1TLMTGA003090
 dil+lI'i in dra par sAtha dpe skrun khang /,dil+lI'i in dra par sAtha dpe skrun khang /,bo-x-ewts,la dwags rig gzhung khang /,la dwags rig gzhung khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001536
-(Sikkim),(Sikkim),en,Press, Gangtok (Sikkim),Press, Gangtok (Sikkim),en,http://purl.bdrc.io/resource/W1TLMTGA001758
-Norbu Graphics, New Delhi,Norbu Graphics, New Delhi,en,Library of Tibetan Works & Archives,Library of Tibetan Works & Archives,en,http://purl.bdrc.io/resource/W1TLMTGA003137
-Norbu Graphics, New Delhi,Norbu Graphics, New Delhi,en,Library of Tibetan Works & Archives,Library of Tibetan Works & Archives,en,http://purl.bdrc.io/resource/W1TLMTGA003138
-Norbu Graphics, New Delhi,Norbu Graphics, New Delhi,en,ླLibrary of Tibetan Works & Archives,ླLibrary of Tibetan Works & Archives,en,http://purl.bdrc.io/resource/W1TLMTGA003140
-Norbu Graphics, New Delhi,Norbu Graphics, New Delhi,en,Library of Tibetan Works & Archives,Library of Tibetan Works & Archives,en,http://purl.bdrc.io/resource/W1TLMTGA003142
-Norbu Graphics, New Delhi,Norbu Graphics, New Delhi,en,dga' ldan pho brang yig tshang nas par du bskrun/,dga' ldan pho brang yig tshang nas par du bskrun/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003152
+(Sikkim),(Sikkim),en,"Press, Gangtok (Sikkim)","Press, Gangtok (Sikkim)",en,http://purl.bdrc.io/resource/W1TLMTGA001758
+"Norbu Graphics, New Delhi","Norbu Graphics, New Delhi",en,Library of Tibetan Works & Archives,Library of Tibetan Works & Archives,en,http://purl.bdrc.io/resource/W1TLMTGA003137
+"Norbu Graphics, New Delhi","Norbu Graphics, New Delhi",en,Library of Tibetan Works & Archives,Library of Tibetan Works & Archives,en,http://purl.bdrc.io/resource/W1TLMTGA003138
+"Norbu Graphics, New Delhi","Norbu Graphics, New Delhi",en,ླLibrary of Tibetan Works & Archives,ླLibrary of Tibetan Works & Archives,en,http://purl.bdrc.io/resource/W1TLMTGA003140
+"Norbu Graphics, New Delhi","Norbu Graphics, New Delhi",en,Library of Tibetan Works & Archives,Library of Tibetan Works & Archives,en,http://purl.bdrc.io/resource/W1TLMTGA003142
+"Norbu Graphics, New Delhi","Norbu Graphics, New Delhi",en,dga' ldan pho brang yig tshang nas par du bskrun/,dga' ldan pho brang yig tshang nas par du bskrun/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003152
 bod gzhung shes rigs par khang /,bod gzhung shes rigs par khang /,bo-x-ewts,bod gzhung bde srung bod gnas nyams zhib khang /,bod gzhung bde srung bod gnas nyams zhib khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002112
 bod dmags khul khang par 'debs bzo grwa/,bod dmags khul khang par 'debs bzo grwa/,bo-x-ewts,bod ljongs mi danangs dpe skrun khang /,bod ljongs mi danangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002001
 bod dmags khul khang par 'debs bzo grwa/,bod dmags khul khang par 'debs bzo grwa/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang /,bod ljongs mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000587
@@ -1697,7 +1697,7 @@ ngag dbang legs grub kyis sgrol chen rim par byon pa'i bsti gnas su bris pa'o/,n
 Yashodhara publications,Yashodhara publications,en,delhi/,delhi/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001087
 པེ་ཅིན་ཧོ་ཕིང་ལི་བྱང་ལམ་ཨང་14པ།,པེ་ཅིན་ཧོ་ཕིང་ལི་བྱང་ལམ་ཨང་14པ།,bo-x-ewts,mi rigs dpe skrun khang/,mi rigs dpe skrun khang/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000280
 mtsho sngon zhing chen mi rigs par khang /,mtsho sngon zhing chen mi rigs par khang /,bo-x-ewts,krung go'i bod rig pa dpe skrun khang /,krung go'i bod rig pa dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000814
-ballimaran, delhi/,ballimaran, delhi/,bo-x-ewts,pema thinley/,pema thinley/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000371
+"ballimaran, delhi/","ballimaran, delhi/",bo-x-ewts,pema thinley/,pema thinley/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000371
 Palampure,Palampure,en,City Light Printers,City Light Printers,en,http://purl.bdrc.io/resource/W1TLMTGA002469
 mtsho sngon mi rigs par 'debs bzo grwa/,mtsho sngon mi rigs par 'debs bzo grwa/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang /,bod ljongs mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000241
 Kalimpong,Kalimpong,en,Mani Printing Works,Mani Printing Works,en,http://purl.bdrc.io/resource/W1TLMTGA002765
@@ -1710,29 +1710,29 @@ lakshmi printing works/,lakshmi printing works/,bo-x-ewts,delhi/,delhi/,bo-x-ewt
 lakshmi printing works/,lakshmi printing works/,bo-x-ewts,delhi/,delhi/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001864
 a ca nA/,a ca nA/,bo-x-ewts,ni tA r+tha'i shes rig skrun khang /,ni tA r+tha'i shes rig skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001730
 Indraprastha press/,Indraprastha press/,bo-x-ewts,Library of Tibetan Works and Arcchives,Library of Tibetan Works and Arcchives,en,http://purl.bdrc.io/resource/W1TLMTGA003164
-Mohan Printing Press, Hubli, Karnataka,Mohan Printing Press, Hubli, Karnataka,en,bshad sgasrub zung 'brel dpar skrun lhan tshogs pod phreng bzhi pa/,bshad sgasrub zung 'brel dpar skrun lhan tshogs pod phreng bzhi pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001955
+"Mohan Printing Press, Hubli, Karnataka","Mohan Printing Press, Hubli, Karnataka",en,bshad sgasrub zung 'brel dpar skrun lhan tshogs pod phreng bzhi pa/,bshad sgasrub zung 'brel dpar skrun lhan tshogs pod phreng bzhi pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001955
 the wan nang pa'i shes yon bde rtsa lhan khang /,the wan nang pa'i shes yon bde rtsa lhan khang /,bo-x-ewts,the wan nang pa'i shes yon bde rtsa lhan khang /,the wan nang pa'i shes yon bde rtsa lhan khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001291
 wi en/_ldi li gsar pa/,wi en/_ldi li gsar pa/,bo-x-ewts,rgyud stod dpe mdzod khang /,rgyud stod dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002902
-M.M. Offest Press, Ballimaran, Delhi-6,M.M. Offest Press, Ballimaran, Delhi-6,en,shes rab rgyal mtshan dang bla ma zla ba/,shes rab rgyal mtshan dang bla ma zla ba/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003009
+"M.M. Offest Press, Ballimaran, Delhi-6","M.M. Offest Press, Ballimaran, Delhi-6",en,shes rab rgyal mtshan dang bla ma zla ba/,shes rab rgyal mtshan dang bla ma zla ba/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003009
 bhutan/,bhutan/,bo-x-ewts,kmt printing press/,kmt printing press/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001377
 Vee Enn Prints,Vee Enn Prints,en,sna 'dzoms shes yon ra ba/,sna 'dzoms shes yon ra ba/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002456
-Lal Kaun, Delhi,Lal Kaun, Delhi,en,shah Offset Pinter,shah Offset Pinter,en,http://purl.bdrc.io/resource/W1TLMTGA002523
-manduwala, dehra dun/,manduwala, dehra dun/,bo-x-ewts,pal ewam chodan ngorpa center/,pal ewam chodan ngorpa center/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001544
-manduwala, dehra dun/,manduwala, dehra dun/,bo-x-ewts,pal ewam chodan ngorpa center/,pal ewam chodan ngorpa center/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001538
-manduwala, dehra dun/,manduwala, dehra dun/,bo-x-ewts,pal ewam chodan ngorpa center/,pal ewam chodan ngorpa center/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001542
-manduwala, dehra dun/,manduwala, dehra dun/,bo-x-ewts,pal ewam chodan ngorpa centerདཔེ་,pal ewam chodan ngorpa centerདཔེ་,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001540
+"Lal Kaun, Delhi","Lal Kaun, Delhi",en,shah Offset Pinter,shah Offset Pinter,en,http://purl.bdrc.io/resource/W1TLMTGA002523
+"manduwala, dehra dun/","manduwala, dehra dun/",bo-x-ewts,pal ewam chodan ngorpa center/,pal ewam chodan ngorpa center/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001544
+"manduwala, dehra dun/","manduwala, dehra dun/",bo-x-ewts,pal ewam chodan ngorpa center/,pal ewam chodan ngorpa center/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001538
+"manduwala, dehra dun/","manduwala, dehra dun/",bo-x-ewts,pal ewam chodan ngorpa center/,pal ewam chodan ngorpa center/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001542
+"manduwala, dehra dun/","manduwala, dehra dun/",bo-x-ewts,pal ewam chodan ngorpa centerདཔེ་,pal ewam chodan ngorpa centerདཔེ་,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001540
 dpal ldan 'bras spungs bkra shis sgo mang grwa tshang /,dpal ldan 'bras spungs bkra shis sgo mang grwa tshang /,bo-x-ewts,The Corporate Body of the Buddha Educational Foundation/,The Corporate Body of the Buddha Educational Foundation/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGB000003
 ballimarrn delhi/,ballimarrn delhi/,bo-x-ewts,t.g. dhongthong,t.g. dhongthong,en,http://purl.bdrc.io/resource/W1TLMTGA000457
-Vee Enn Print-O-Pac, New Delhi,Vee Enn Print-O-Pac, New Delhi,en,bod gzhung phyi dril las khungs/,bod gzhung phyi dril las khungs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002089
+"Vee Enn Print-O-Pac, New Delhi","Vee Enn Print-O-Pac, New Delhi",en,bod gzhung phyi dril las khungs/,bod gzhung phyi dril las khungs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002089
 kadahangang,kadahangang,bo-x-ewts,yu nan mi rigs dpe skrun khang nas/,yu nan mi rigs dpe skrun khang nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000961
 pe cin ho phing /,pe cin ho phing /,bo-x-ewts,mi rigs dpe skrun khang /,mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001528
-leh, Ladakh,leh, Ladakh,en,S.W. Tashigangpa,S.W. Tashigangpa,en,http://purl.bdrc.io/resource/W1TLMTGA003013
-lakshmi press, by gonpo tseten/,lakshmi press, by gonpo tseten/,bo-x-ewts,gangtok,gangtok,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002939
+"leh, Ladakh","leh, Ladakh",en,S.W. Tashigangpa,S.W. Tashigangpa,en,http://purl.bdrc.io/resource/W1TLMTGA003013
+"lakshmi press, by gonpo tseten/","lakshmi press, by gonpo tseten/",bo-x-ewts,gangtok,gangtok,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002939
 'brug phun tshogs gling /,'brug phun tshogs gling /,bo-x-ewts,ke em kri par khang /,ke em kri par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001489
 'brug phun tshogs gling /,'brug phun tshogs gling /,bo-x-ewts,ke em kri dpe skrun khang /,ke em kri dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001696
 'brug phun tshogs gling /,'brug phun tshogs gling /,bo-x-ewts,ke em kri dpe skrun khang /,ke em kri dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001486
 paro b+hutan/,paro b+hutan/,bo-x-ewts,lam ngodrupa and sherab drimeya/,lam ngodrupa and sherab drimeya/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002565
-Shiva Offset Press, Dehradun PH. 01352715748,Shiva Offset Press, Dehradun PH. 01352715748,en,gsal kha med pa/,gsal kha med pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003085
+"Shiva Offset Press, Dehradun PH. 01352715748","Shiva Offset Press, Dehradun PH. 01352715748",en,gsal kha med pa/,gsal kha med pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003085
 mtshau sngon zi ling par khang /,mtshau sngon zi ling par khang /,bo-x-ewts,mi rigs dpe skrun khang /,mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000686
 lakshmi printing,lakshmi printing,bo-x-ewts,gangtok,gangtok,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002830
 bylakupe/,bylakupe/,bo-x-ewts,ngagyur nyingma institute/,ngagyur nyingma institute/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003167
@@ -1759,7 +1759,7 @@ a can ldi li/,a can ldi li/,bo-x-ewts,sle lung chos skor gces skyong khang /,sle
 ིindian/,ིindian/,bo-x-ewts,slob dpon bsod nams dbang cheb/,slob dpon bsod nams dbang cheb/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000446
 ti zhin par 'debs khang /,ti zhin par 'debs khang /,bo-x-ewts,mi rigs dpe skrun khang /,mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001106
 hubli: 9986210775,hubli: 9986210775,bo-x-ewts,dga' ldan shar rtse slob grwa/,dga' ldan shar rtse slob grwa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000477
-Inder Puri, New Delhi,Inder Puri, New Delhi,en,ྱྱYashodhara Publications,ྱྱYashodhara Publications,en,http://purl.bdrc.io/resource/W1TLMTGA002701
+"Inder Puri, New Delhi","Inder Puri, New Delhi",en,ྱྱYashodhara Publications,ྱྱYashodhara Publications,en,http://purl.bdrc.io/resource/W1TLMTGA002701
 United Kingdom,United Kingdom,en,BPI Worldwide,BPI Worldwide,en,http://purl.bdrc.io/resource/W1TLMTGA003154
 ngor dpal e waM chos ldan/,ngor dpal e waM chos ldan/,bo-x-ewts,ngor dpal e waM chos ldan/,ngor dpal e waM chos ldan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003231
 The Print,The Print,en,The print/,The print/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002079
@@ -1768,24 +1768,24 @@ bod ljongs shin ha par 'debs khang /,bod ljongs shin ha par 'debs khang /,bo-x-e
 New Delhi།,New Delhi།,bo-x-ewts,Indraprastha Press,Indraprastha Press,en,http://purl.bdrc.io/resource/W1TLMTGA001585
 dpal ldan 'bras spungs bkra shis sgo mang dpe mdzod khang /,dpal ldan 'bras spungs bkra shis sgo mang dpe mdzod khang /,bo-x-ewts,dpal ldan 'bras spungs bkra shis sgo mang dpe mdzod khang /,dpal ldan 'bras spungs bkra shis sgo mang dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001320
 dpal ldan 'bras spungs bkra shis sgo mang dpe mdzod khang /,dpal ldan 'bras spungs bkra shis sgo mang dpe mdzod khang /,bo-x-ewts,ma ni pal dpar khang /,ma ni pal dpar khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003212
-LEH, LADAKH,LEH, LADAKH,en,S.W.TASHIGANGPO,S.W.TASHIGANGPO,en,http://purl.bdrc.io/resource/W1TLMTGA000192
-LEH, LADAKH,LEH, LADAKH,en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000193
-LEH, LADAKH,LEH, LADAKH,en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000231
+"LEH, LADAKH","LEH, LADAKH",en,S.W.TASHIGANGPO,S.W.TASHIGANGPO,en,http://purl.bdrc.io/resource/W1TLMTGA000192
+"LEH, LADAKH","LEH, LADAKH",en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000193
+"LEH, LADAKH","LEH, LADAKH",en,S.W.TASHIGANGPA,S.W.TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000231
 Kathmandu Nepal,Kathmandu Nepal,en,Hisi Offset Printers (P) Let,Hisi Offset Printers (P) Let,en,http://purl.bdrc.io/resource/W1TLMTGA001783
 bod mi mang spyi 'thus lhan khang /,bod mi mang spyi 'thus lhan khang /,bo-x-ewts,phyi dril snar thang dpar khang /,phyi dril snar thang dpar khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGB000047
 Lal Kuan Delhi,Lal Kuan Delhi,en,Lakshme Printing Works,Lakshme Printing Works,en,http://purl.bdrc.io/resource/W1TLMTGA002729
 \u0fb3lha sa/,\u0fb3lha sa/,bo-x-ewts,mtsho sngon/,mtsho sngon/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000583
-Mujeeb Press,Ballimaran,delhi,Mujeeb Press,Ballimaran,delhi,en,gdong thog rin po che/,gdong thog rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002540
+"Mujeeb Press,Ballimaran,delhi","Mujeeb Press,Ballimaran,delhi",en,gdong thog rin po che/,gdong thog rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002540
 a cA nA dpe skrun khang /,a cA nA dpe skrun khang /,bo-x-ewts,kirti'i byis pa grwa tshang /,kirti'i byis pa grwa tshang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001593
 ྲarchana offset new delhi,ྲarchana offset new delhi,en,rigs lam slob gnyer khang /,rigs lam slob gnyer khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001905
-lal kuan,delhi-6,lal kuan,delhi-6,en,brtson 'grus seng ge,brtson 'grus seng ge,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000485
+"lal kuan,delhi-6","lal kuan,delhi-6",en,brtson 'grus seng ge,brtson 'grus seng ge,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000485
 mtsho sngon mi rigs dpar khang /,mtsho sngon mi rigs dpar khang /,bo-x-ewts,sbrang char rtsom sgrig khang /,sbrang char rtsom sgrig khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002305
-kathmandu, nepal/,kathmandu, nepal/,bo-x-ewts,sharminub foundation,,sharminub foundation,,en,http://purl.bdrc.io/resource/W1TLMTGA000430
+"kathmandu, nepal/","kathmandu, nepal/",bo-x-ewts,"sharminub foundation,","sharminub foundation,",en,http://purl.bdrc.io/resource/W1TLMTGA000430
 R+dzong sar bshad grwa chos kyi blo gros kyi dpe mdzod bkra shis sgo mang /,R+dzong sar bshad grwa chos kyi blo gros kyi dpe mdzod bkra shis sgo mang /,bo-x-ewts,R+dzong sar bshad grwa chos kyi blo gros kyi dpe mdzod bkra shis sgo mang /,R+dzong sar bshad grwa chos kyi blo gros kyi dpe mdzod bkra shis sgo mang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001678
 blo gsal gtsug lag dpe skrun khang /,blo gsal gtsug lag dpe skrun khang /,bo-x-ewts,blo gsal gtsug lag khang /,blo gsal gtsug lag khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002299
-Seattle, U.S.A.,Seattle, U.S.A.,en,ni tar+tha'i shes rig dpe skrun khang /,ni tar+tha'i shes rig dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002913
+"Seattle, U.S.A.","Seattle, U.S.A.",en,ni tar+tha'i shes rig dpe skrun khang /,ni tar+tha'i shes rig dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002913
 Kangra,Kangra,en,Progressive Offset,Progressive Offset,en,http://purl.bdrc.io/resource/W1TLMTGA002431
-Kangra,Kangra,en,Progressive Offset Printers,,Progressive Offset Printers,,en,http://purl.bdrc.io/resource/W1TLMTGA002434
+Kangra,Kangra,en,"Progressive Offset Printers,","Progressive Offset Printers,",en,http://purl.bdrc.io/resource/W1TLMTGA002434
 nepal/,nepal/,bo-x-ewts,rgyal yongs sa chen/,rgyal yongs sa chen/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003194
 nepal/,nepal/,bo-x-ewts,sakya tharig monastery/,sakya tharig monastery/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000378
 nepal/,nepal/,bo-x-ewts,byams chen lha khang /,byams chen lha khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000414
@@ -1797,17 +1797,17 @@ bod kyi 'gro ba mi'i thob thang dang mang gtso 'phel rgyas lte nas khang /,bod k
 ser smad glog klad kham phi'u Tar sde tshan/,ser smad glog klad kham phi'u Tar sde tshan/,bo-x-ewts,ser smad glog klad kham phi'u Tar sde tshan/,ser smad glog klad kham phi'u Tar sde tshan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001787
 phun tshogs gling /_'brug yul/,phun tshogs gling /_'brug yul/,bo-x-ewts,KMT Publishing House,KMT Publishing House,en,http://purl.bdrc.io/resource/W1TLMTGA001614
 zhang kang gyi ling dpe skrun khang /,zhang kang gyi ling dpe skrun khang /,bo-x-ewts,thub bstan rwa smad dgon 'dus spyi/,thub bstan rwa smad dgon 'dus spyi/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000429
-Balllimaran, Delhi,Balllimaran, Delhi,en,lakshmi Press,lakshmi Press,en,http://purl.bdrc.io/resource/W1TLMTGA002893
+"Balllimaran, Delhi","Balllimaran, Delhi",en,lakshmi Press,lakshmi Press,en,http://purl.bdrc.io/resource/W1TLMTGA002893
 dIl+li/,dIl+li/,bo-x-ewts,gsung rab rgya mtsho/,gsung rab rgya mtsho/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000313
 phun tshogs gling /,phun tshogs gling /,bo-x-ewts,rig 'dzin nor bu/,rig 'dzin nor bu/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000527
 rgya gar/,rgya gar/,bo-x-ewts,rgya gar/,rgya gar/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001372
-mm photo offset, ballimaran, delhi,mm photo offset, ballimaran, delhi,en,thimpu/,thimpu/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002788
+"mm photo offset, ballimaran, delhi","mm photo offset, ballimaran, delhi",en,thimpu/,thimpu/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002788
 karnataka,karnataka,bo-x-ewts,'bras spungs blo gsal gling /,'bras spungs blo gsal gling /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000987
 zi ling grong khyer nub khul mi rigs par khang /,zi ling grong khyer nub khul mi rigs par khang /,bo-x-ewts,mtsho sngon mi rigs dpe skrun khang /,mtsho sngon mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000745
 khrin tu/,khrin tu/,bo-x-ewts,zhang bod shes rig zhib 'jug dar spel lte gnas/,zhang bod shes rig zhib 'jug dar spel lte gnas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003256
 pe cin kreng ta'o par 'debs khang /,pe cin kreng ta'o par 'debs khang /,bo-x-ewts,mi rigs dpe skrun khang /,mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000959
-norbu graphic, delhi/,norbu graphic, delhi/,bo-x-ewts,ེemory-tibet science initiative,ེemory-tibet science initiative,en,http://purl.bdrc.io/resource/W1TLMTGA003239
-chaman enterprise, darya ganj,,chaman enterprise, darya ganj,,bo-x-ewts,mkhan po bshad sgrub bstan 'dzin/,mkhan po bshad sgrub bstan 'dzin/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000312
+"norbu graphic, delhi/","norbu graphic, delhi/",bo-x-ewts,ེemory-tibet science initiative,ེemory-tibet science initiative,en,http://purl.bdrc.io/resource/W1TLMTGA003239
+"chaman enterprise, darya ganj,","chaman enterprise, darya ganj,",bo-x-ewts,mkhan po bshad sgrub bstan 'dzin/,mkhan po bshad sgrub bstan 'dzin/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000312
 shiva offset press,shiva offset press,en,tegchog samten ling,tegchog samten ling,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003165
 shiva offset press,shiva offset press,en,sakya nunnery/,sakya nunnery/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003186
 shiva offset press,shiva offset press,en,kun dga' rin chen/,kun dga' rin chen/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000302
@@ -1818,9 +1818,9 @@ mi rigs dpe skrun khang gi bod yig rtsom sgrig khang /,mi rigs dpe skrun khang g
 new drlhi/,new drlhi/,bo-x-ewts,bod gzhung sman rtsis khang /,bod gzhung sman rtsis khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000352
 Vee Enn Print-o-pac,Vee Enn Print-o-pac,en,bod kyi 'gro ba mi'i thob thang dang mang gtso 'phel rgyas lte gnas khang/,bod kyi 'gro ba mi'i thob thang dang mang gtso 'phel rgyas lte gnas khang/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000436
 Vee Enn Print-o-pac,Vee Enn Print-o-pac,en,dr dorji damdul/,dr dorji damdul/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000267
-sera mey/,sera mey/,bo-x-ewts,indraprasta press,cbt, new delhi/,indraprasta press,cbt, new delhi/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001501
+sera mey/,sera mey/,bo-x-ewts,"indraprasta press,cbt, new delhi/","indraprasta press,cbt, new delhi/",bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001501
 mtsho sngon zhing chen hwa dpe tshong khang /,mtsho sngon zhing chen hwa dpe tshong khang /,bo-x-ewts,krung go'i bod kyi shes rig dpe skrun khang gis bskrun/,krung go'i bod kyi shes rig dpe skrun khang gis bskrun/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001989
-indraprastha press(CBT),delhi-110002,indraprastha press(CBT),delhi-110002,en,'jam dpal blo gros rin po che/,'jam dpal blo gros rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000524
+"indraprastha press(CBT),delhi-110002","indraprastha press(CBT),delhi-110002",en,'jam dpal blo gros rin po che/,'jam dpal blo gros rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000524
 krug go'i bod rig pa dpe skrun khang /,krug go'i bod rig pa dpe skrun khang /,bo-x-ewts,rgyal mo 'brug pa/,rgyal mo 'brug pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001270
 bzhugs sgar/,bzhugs sgar/,bo-x-ewts,snar thang dpar khang /,snar thang dpar khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002211
 Shiva Offset Press,Shiva Offset Press,en,chos dung dkar po rtsom sgrig khang /,chos dung dkar po rtsom sgrig khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002345
@@ -1828,22 +1828,22 @@ Shiva Offset Press,Shiva Offset Press,en,snga 'gyur mtho slob mdo rgyud legs bsh
 Shiva Offset Press,Shiva Offset Press,en,dpal sa skya mtho rim slob grwa chen po'i slob gnyer lhan tshogs/,dpal sa skya mtho rim slob grwa chen po'i slob gnyer lhan tshogs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002331
 the'i wan/,the'i wan/,bo-x-ewts,the+A'i wan nang pa'i shes yon bde rtsa lhan tshogs/,the+A'i wan nang pa'i shes yon bde rtsa lhan tshogs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001016
 Thomson Press India,Thomson Press India,en,Karma Shri Nalanda Institute,Karma Shri Nalanda Institute,en,http://purl.bdrc.io/resource/W1TLMTGA001533
-Sahastradhara Road, Dehradun,Sahastradhara Road, Dehradun,en,Sakya Nunnery (Rinchen Choling),Sakya Nunnery (Rinchen Choling),en,http://purl.bdrc.io/resource/W1TLMTGA002949
+"Sahastradhara Road, Dehradun","Sahastradhara Road, Dehradun",en,Sakya Nunnery (Rinchen Choling),Sakya Nunnery (Rinchen Choling),en,http://purl.bdrc.io/resource/W1TLMTGA002949
 mtsho sngon shin hwa par 'debs/,mtsho sngon shin hwa par 'debs/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang /,bod ljongs mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001128
 Vee Enn Print. New Delhi,Vee Enn Print. New Delhi,en,dpal sa skya'i gsang chen rgyud grwa/,dpal sa skya'i gsang chen rgyud grwa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003088
-archana, delhi/,archana, delhi/,bo-x-ewts,bon sgo rtsom sgrig khang /,bon sgo rtsom sgrig khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003255
+"archana, delhi/","archana, delhi/",bo-x-ewts,bon sgo rtsom sgrig khang /,bon sgo rtsom sgrig khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003255
 kan su'u cin nyin par khang /,kan su'u cin nyin par khang /,bo-x-ewts,kan su'u mi rigs dpe skrun khang /,kan su'u mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002058
 singapore/,singapore/,bo-x-ewts,sa paN bshad sgrub gling /,sa paN bshad sgrub gling /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000333
 colkata/,colkata/,bo-x-ewts,la dwags dgon spyi'i lhan tshogs/,la dwags dgon spyi'i lhan tshogs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000579
-M.M. Offset Press, Ballimaran Delhi-6,M.M. Offset Press, Ballimaran Delhi-6,en,bla ma zla ba dang shes rab rgya mtsho/,bla ma zla ba dang shes rab rgya mtsho/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002978
-lalkuan, delhi/,lalkuan, delhi/,bo-x-ewts,pema thinley.,pema thinley.,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000424
+"M.M. Offset Press, Ballimaran Delhi-6","M.M. Offset Press, Ballimaran Delhi-6",en,bla ma zla ba dang shes rab rgya mtsho/,bla ma zla ba dang shes rab rgya mtsho/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002978
+"lalkuan, delhi/","lalkuan, delhi/",bo-x-ewts,pema thinley.,pema thinley.,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000424
 the wen/,the wen/,bo-x-ewts,the wen nang pa'i shes yon bde rtsa lhan tshogs nas/,the wen nang pa'i shes yon bde rtsa lhan tshogs nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000994
 kong tung grong khyer lce yang yag dbyin dpar 'debs tshad yod kung sis/,kong tung grong khyer lce yang yag dbyin dpar 'debs tshad yod kung sis/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang/,bod ljongs mi dmangs dpe skrun khang/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000240
-jayyed press,ballimaran,delhi-110006,jayyed press,ballimaran,delhi-110006,en,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000519
-jayyed press,ballimaran,delhi-110006,jayyed press,ballimaran,delhi-110006,en,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000476
-Mujeeb Press,Ballimaran,Delhi-110006,Mujeeb Press,Ballimaran,Delhi-110006,en,dam chos bzang po/,dam chos bzang po/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002982
+"jayyed press,ballimaran,delhi-110006","jayyed press,ballimaran,delhi-110006",en,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000519
+"jayyed press,ballimaran,delhi-110006","jayyed press,ballimaran,delhi-110006",en,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000476
+"Mujeeb Press,Ballimaran,Delhi-110006","Mujeeb Press,Ballimaran,Delhi-110006",en,dam chos bzang po/,dam chos bzang po/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002982
 \u0f7bye shes sde'i chos spar khang /,\u0f7bye shes sde'i chos spar khang /,bo-x-ewts,dar thang rin po che/,dar thang rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001547
-Lal-Kuan, Delhi-110006,Lal-Kuan, Delhi-110006,en,Lakshimi Printing House,Lakshimi Printing House,en,http://purl.bdrc.io/resource/W1TLMTGA001873
+"Lal-Kuan, Delhi-110006","Lal-Kuan, Delhi-110006",en,Lakshimi Printing House,Lakshimi Printing House,en,http://purl.bdrc.io/resource/W1TLMTGA001873
 gentok,gentok,en,shes rab rgyal mtshan/,shes rab rgyal mtshan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000654
 DELHI,DELHI,en,CITY PRINTS,CITY PRINTS,en,http://purl.bdrc.io/resource/W1TLMTGA001520
 DELHI,DELHI,en,S W TASHIGANGPA,S W TASHIGANGPA,en,http://purl.bdrc.io/resource/W1TLMTGA000437
@@ -1862,20 +1862,20 @@ dbyi hu'e par 'debs khang /,dbyi hu'e par 'debs khang /,bo-x-ewts,mi rigs dpe sk
 sikkim/,sikkim/,bo-x-ewts,mgon po tshe brtan/,mgon po tshe brtan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000484
 wi in dpe skrun khang /,wi in dpe skrun khang /,bo-x-ewts,ldi li wi in/,ldi li wi in/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002082
 khrin tu hru'u thung par 'debs 'gan 'khri tshad yod kung sis/,khrin tu hru'u thung par 'debs 'gan 'khri tshad yod kung sis/,bo-x-ewts,si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000434
-tsundue sengye/,tsundue sengye/,bo-x-ewts,bir, h.p.,bir, h.p.,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002940
-ballimaran,delhi/,ballimaran,delhi/,bo-x-ewts,chu sgang lo rgyus rtsom sgrig tshogs chung /,chu sgang lo rgyus rtsom sgrig tshogs chung /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000603
+tsundue sengye/,tsundue sengye/,bo-x-ewts,"bir, h.p.","bir, h.p.",bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002940
+"ballimaran,delhi/","ballimaran,delhi/",bo-x-ewts,chu sgang lo rgyus rtsom sgrig tshogs chung /,chu sgang lo rgyus rtsom sgrig tshogs chung /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000603
 rdzogs chen spar ma/,rdzogs chen spar ma/,bo-x-ewts,rdzogs chen spar ma/,rdzogs chen spar ma/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001939
-Arpit Printers, Dharamsala,Arpit Printers, Dharamsala,en,bod kyi 'gro ba mi'i thob thang dang mang gtso 'phel rgyas lte gnas khang /,bod kyi 'gro ba mi'i thob thang dang mang gtso 'phel rgyas lte gnas khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002120
+"Arpit Printers, Dharamsala","Arpit Printers, Dharamsala",en,bod kyi 'gro ba mi'i thob thang dang mang gtso 'phel rgyas lte gnas khang /,bod kyi 'gro ba mi'i thob thang dang mang gtso 'phel rgyas lte gnas khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002120
 yesahede press/,yesahede press/,bo-x-ewts,usa/,usa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001423
 'brug thim phu/,'brug thim phu/,bo-x-ewts,'brug thim phu/,'brug thim phu/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001756
-Laxmi Nagar, Delhi,Laxmi Nagar, Delhi,en,Sherig Parkhang,Sherig Parkhang,en,http://purl.bdrc.io/resource/W1TLMTGA002111
-Laxmi Nagar, Delhi,Laxmi Nagar, Delhi,en,Sherig Parkhang,Sherig Parkhang,en,http://purl.bdrc.io/resource/W1TLMTGA003079
+"Laxmi Nagar, Delhi","Laxmi Nagar, Delhi",en,Sherig Parkhang,Sherig Parkhang,en,http://purl.bdrc.io/resource/W1TLMTGA002111
+"Laxmi Nagar, Delhi","Laxmi Nagar, Delhi",en,Sherig Parkhang,Sherig Parkhang,en,http://purl.bdrc.io/resource/W1TLMTGA003079
 matho gonpa/,matho gonpa/,bo-x-ewts,tashi tobgyal phunrab printing press/,tashi tobgyal phunrab printing press/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001480
 Sanjauli Simla-6 (H.P.) India,Sanjauli Simla-6 (H.P.) India,en,Archana/,Archana/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001903
-Ballimaran, Delhi,Ballimaran, Delhi,en,Jayyed Press,,Jayyed Press,,en,http://purl.bdrc.io/resource/W1TLMTGA002929
-Ballimaran, Delhi,Ballimaran, Delhi,en,M.M.Offset Press,,M.M.Offset Press,,en,http://purl.bdrc.io/resource/W1TLMTGA002934
-Ballimaran, Delhi,Ballimaran, Delhi,en,lakshmi Printing Works,lakshmi Printing Works,en,http://purl.bdrc.io/resource/W1TLMTGA002897
-Ballimaran, Delhi,Ballimaran, Delhi,en,M.M. Offset Press,M.M. Offset Press,en,http://purl.bdrc.io/resource/W1TLMTGA002683
+"Ballimaran, Delhi","Ballimaran, Delhi",en,"Jayyed Press,","Jayyed Press,",en,http://purl.bdrc.io/resource/W1TLMTGA002929
+"Ballimaran, Delhi","Ballimaran, Delhi",en,"M.M.Offset Press,","M.M.Offset Press,",en,http://purl.bdrc.io/resource/W1TLMTGA002934
+"Ballimaran, Delhi","Ballimaran, Delhi",en,lakshmi Printing Works,lakshmi Printing Works,en,http://purl.bdrc.io/resource/W1TLMTGA002897
+"Ballimaran, Delhi","Ballimaran, Delhi",en,M.M. Offset Press,M.M. Offset Press,en,http://purl.bdrc.io/resource/W1TLMTGA002683
 laxmi printing works,laxmi printing works,en,མཁེན་བརྩི་བླ་རང། gangtok,མཁེན་བརྩི་བླ་རང། gangtok,bo,http://purl.bdrc.io/resource/W1TLMTGA000460
 'brug pa/,'brug pa/,bo-x-ewts,'brug gzhung thim phu/,'brug gzhung thim phu/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002552
 Dharmsala/,Dharmsala/,bo-x-ewts,rnam rgyal grwa tshang /,rnam rgyal grwa tshang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001786
@@ -1890,41 +1890,41 @@ Dharamsla/,Dharamsla/,bo-x-ewts,Sherig Parkhang,Sherig Parkhang,en,http://purl.b
 India/,India/,bo-x-ewts,Evergreen Publication,Evergreen Publication,en,http://purl.bdrc.io/resource/W1TLMTGA003148
 India/,India/,bo-x-ewts,Archana/,Archana/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001908
 mai sor/,mai sor/,bo-x-ewts,mai sor grong khyer gub+ta par khang /,mai sor grong khyer gub+ta par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002036
-Shah Offset Printers, New Delhi,Shah Offset Printers, New Delhi,en,Institute of Buddhist Dialectics,Institute of Buddhist Dialectics,en,http://purl.bdrc.io/resource/W1TLMTGA003097
+"Shah Offset Printers, New Delhi","Shah Offset Printers, New Delhi",en,Institute of Buddhist Dialectics,Institute of Buddhist Dialectics,en,http://purl.bdrc.io/resource/W1TLMTGA003097
 M.M. Offset Press. Ballimaran. Delhi-6,M.M. Offset Press. Ballimaran. Delhi-6,en,bla ma zla ba dang shes rab rgyal mtshan/,bla ma zla ba dang shes rab rgyal mtshan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002999
 Kashmir House Dharmsala,Kashmir House Dharmsala,en,Tibetan cultural press/,Tibetan cultural press/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001535
-Gopsons Papers Ltd., Noida,Gopsons Papers Ltd., Noida,en,Gopsons Papers Ltd., Noida,Gopsons Papers Ltd., Noida,en,http://purl.bdrc.io/resource/W1TLMTGA001773
-Gopsons Papers Ltd., Noida,Gopsons Papers Ltd., Noida,en,wA Na badzra bid+yA dpe mdzod khang /,wA Na badzra bid+yA dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001970
-Indraprastha press(CBT),New Delhi,Indraprastha press(CBT),New Delhi,en,bod gzhung chos rig las khung /,bod gzhung chos rig las khung /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001404
-ྀIndraprastha press(CBT),New Delhi,ྀIndraprastha press(CBT),New Delhi,en,bod gzhung chos rig las khung /,bod gzhung chos rig las khung /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001407
+"Gopsons Papers Ltd., Noida","Gopsons Papers Ltd., Noida",en,"Gopsons Papers Ltd., Noida","Gopsons Papers Ltd., Noida",en,http://purl.bdrc.io/resource/W1TLMTGA001773
+"Gopsons Papers Ltd., Noida","Gopsons Papers Ltd., Noida",en,wA Na badzra bid+yA dpe mdzod khang /,wA Na badzra bid+yA dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001970
+"Indraprastha press(CBT),New Delhi","Indraprastha press(CBT),New Delhi",en,bod gzhung chos rig las khung /,bod gzhung chos rig las khung /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001404
+"ྀIndraprastha press(CBT),New Delhi","ྀIndraprastha press(CBT),New Delhi",en,bod gzhung chos rig las khung /,bod gzhung chos rig las khung /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001407
 si khrin zhin hwa par 'debs bzo grwa/,si khrin zhin hwa par 'debs bzo grwa/,bo-x-ewts,si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000943
 Sarah Printing & Publications,Sarah Printing & Publications,en,Library of Tibetan Works & Archives,Library of Tibetan Works & Archives,en,http://purl.bdrc.io/resource/W1TLMTGA003139
-jayyed press,5228 ballimaran,delhi/,jayyed press,5228 ballimaran,delhi/,bo-x-ewts,བཀའ་བརྒྱུད་གསུང་རབ་ཉམa་གསོ་ཁང་།,བཀའ་བརྒྱུད་གསུང་རབ་ཉམa་གསོ་ཁང་།,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001131
-Ballimasan, Delhi,Ballimasan, Delhi,en,M.M. Offset Press,,M.M. Offset Press,,en,http://purl.bdrc.io/resource/W1TLMTGA002550
+"jayyed press,5228 ballimaran,delhi/","jayyed press,5228 ballimaran,delhi/",bo-x-ewts,བཀའ་བརྒྱུད་གསུང་རབ་ཉམa་གསོ་ཁང་།,བཀའ་བརྒྱུད་གསུང་རབ་ཉམa་གསོ་ཁང་།,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001131
+"Ballimasan, Delhi","Ballimasan, Delhi",en,"M.M. Offset Press,","M.M. Offset Press,",en,http://purl.bdrc.io/resource/W1TLMTGA002550
 Jayyed press,Jayyed press,en,zhe chen sprul sku/,zhe chen sprul sku/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000444
 Gaggal,Gaggal,en,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000283
-M,M, Offset Press,Ballimaran,Delhi,M,M, Offset Press,Ballimaran,Delhi,en,shes rab rgyal mtshan dang bla ma zla ba/,shes rab rgyal mtshan dang bla ma zla ba/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002574
+"M,M, Offset Press,Ballimaran,Delhi","M,M, Offset Press,Ballimaran,Delhi",en,shes rab rgyal mtshan dang bla ma zla ba/,shes rab rgyal mtshan dang bla ma zla ba/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002574
 dbus sa skya smon lam rgyun khang /,dbus sa skya smon lam rgyun khang /,bo-x-ewts,dbus sa skya smon lam rgyun khang /,dbus sa skya smon lam rgyun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003204
 khren tu'u yid chan par 'debs tshad yod kung si/,khren tu'u yid chan par 'debs tshad yod kung si/,bo-x-ewts,bod ljongs bod yig dpe rnying dpe skrun khang /,bod ljongs bod yig dpe rnying dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001241
 tibetan nun project/,tibetan nun project/,bo-x-ewts,dolma ling nunnery/,dolma ling nunnery/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001398
-laxmi nagar,delhi,laxmi nagar,delhi,en,bod kyi shes rig par khang /,bod kyi shes rig par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000561
-Jayyed press,Delhi,Jayyed press,Delhi,en,S.W. Tashigangpa,S.W. Tashigangpa,en,http://purl.bdrc.io/resource/W1TLMTGA001327
+"laxmi nagar,delhi","laxmi nagar,delhi",en,bod kyi shes rig par khang /,bod kyi shes rig par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000561
+"Jayyed press,Delhi","Jayyed press,Delhi",en,S.W. Tashigangpa,S.W. Tashigangpa,en,http://purl.bdrc.io/resource/W1TLMTGA001327
 sri khron zhing chen/,sri khron zhing chen/,bo-x-ewts,sri khron mi rigs dpe skrun khang /,sri khron mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000544
-Naya Bazar, Delhi,Naya Bazar, Delhi,en,Navchetan Press,Navchetan Press,en,http://purl.bdrc.io/resource/W1TLMTGA002936
+"Naya Bazar, Delhi","Naya Bazar, Delhi",en,Navchetan Press,Navchetan Press,en,http://purl.bdrc.io/resource/W1TLMTGA002936
 Seattle USA,Seattle USA,en,ni tar+tha'i shes rig dpe skrun khang /,ni tar+tha'i shes rig dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002916
 gagal offset printer,gagal offset printer,en,sman rtsis khang /,sman rtsis khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000189
 kan su'u zhin hwa par khang /,kan su'u zhin hwa par khang /,bo-x-ewts,mtsho sngon mi rigs dpe skrun khang /,mtsho sngon mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001257
-palampur, H,P,palampur, H,P,en,gsung rab nyams gso rgyun 'phel par khang/,gsung rab nyams gso rgyun 'phel par khang/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000450
-dhongthog rinpoche/,dhongthog rinpoche/,bo-x-ewts,ala press, delhi/,ala press, delhi/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002751
+"palampur, H,P","palampur, H,P",en,gsung rab nyams gso rgyun 'phel par khang/,gsung rab nyams gso rgyun 'phel par khang/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000450
+dhongthog rinpoche/,dhongthog rinpoche/,bo-x-ewts,"ala press, delhi/","ala press, delhi/",bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002751
 e wa~M klu lding mkhan chen/,e wa~M klu lding mkhan chen/,bo-x-ewts,gsal kha med/,gsal kha med/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002756
 VARANASI,VARANASI,en,wAN mtho slob bka' brgyud nyam skyong tshogs pa skabs nyer dgu pas dpar bskrun zhus/,wAN mtho slob bka' brgyud nyam skyong tshogs pa skabs nyer dgu pas dpar bskrun zhus/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001604
 bod ljongs hwa par 'debs bzo grwa/,bod ljongs hwa par 'debs bzo grwa/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang /,bod ljongs mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000638
 lho nub lcags bzhu sa gshis para'adebs bzo grwa/,lho nub lcags bzhu sa gshis para'adebs bzo grwa/,bo-x-ewts,si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002928
-ིིIndraprasth Press, New Delhi,ིིIndraprasth Press, New Delhi,en,Amnye Machen Institute,Amnye Machen Institute,en,http://purl.bdrc.io/resource/W1TLMTGA002115
+"ིིIndraprasth Press, New Delhi","ིིIndraprasth Press, New Delhi",en,Amnye Machen Institute,Amnye Machen Institute,en,http://purl.bdrc.io/resource/W1TLMTGA002115
 si khron ca khrong par 'debs 'gan 'khri tshad yod kung su/,si khron ca khrong par 'debs 'gan 'khri tshad yod kung su/,bo-x-ewts,dpal brtsegs bod yig dpe rnying zhib 'jug khang /,dpal brtsegs bod yig dpe rnying zhib 'jug khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002004
 \u0fb7hong khe tshon par thum rgyag 'gan tshad kung si/,\u0fb7hong khe tshon par thum rgyag 'gan tshad kung si/,bo-x-ewts,rgyal mo 'brug pa/,rgyal mo 'brug pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001269
 sa rA bod kyi par khang /,sa rA bod kyi par khang /,bo-x-ewts,sa rA bod kyi dpe skrun khang /,sa rA bod kyi dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002037
-Lal-Kunan, Delhi-6,Lal-Kunan, Delhi-6,en,ya sho d+ha rA/,ya sho d+ha rA/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001719
+"Lal-Kunan, Delhi-6","Lal-Kunan, Delhi-6",en,ya sho d+ha rA/,ya sho d+ha rA/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001719
 Paro Bhutan,Paro Bhutan,en,Lama Ngodup,Lama Ngodup,en,http://purl.bdrc.io/resource/W1TLMTGA001718
 \u0f7aye shes sde chos spar khang /,\u0f7aye shes sde chos spar khang /,bo-x-ewts,dar thang rin po che/,dar thang rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001554
 si khron shin hwa tshon ldan par 'debs bzo grwa/,si khron shin hwa tshon ldan par 'debs bzo grwa/,bo-x-ewts,bod ljongs mi dmangs dpe skrun khang /,bod ljongs mi dmangs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000951
@@ -1934,18 +1934,18 @@ Kangra H.P,Kangra H.P,en,Norbulingka Institute/,Norbulingka Institute/,bo-x-ewts
 INDRAPRASTHA PRESS,INDRAPRASTHA PRESS,en,LIBRARY OF TIBETAN WORKS & ARCHIVES,LIBRARY OF TIBETAN WORKS & ARCHIVES,en,http://purl.bdrc.io/resource/W1TLMTGA000244
 \u0f38gong sa tA la'i bla ma'i bka' 'bum sdud sgrig khang /,\u0f38gong sa tA la'i bla ma'i bka' 'bum sdud sgrig khang /,bo-x-ewts,Central Archive of His Holiness the Dalai Lama,Central Archive of His Holiness the Dalai Lama,en,http://purl.bdrc.io/resource/W1TLMTGA001323
 archana new delhi/,archana new delhi/,bo-x-ewts,ngor pal ewam choedan/,ngor pal ewam choedan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000342
-jayyed press,ballimaran,delhi/,jayyed press,ballimaran,delhi/,bo-x-ewts,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000565
+"jayyed press,ballimaran,delhi/","jayyed press,ballimaran,delhi/",bo-x-ewts,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000565
 sa skya'i dpe rnying bsdu sgrig khang/,sa skya'i dpe rnying bsdu sgrig khang/,bo-x-ewts,sa skya'i dpe rnying bsdu sgrig khang/,sa skya'i dpe rnying bsdu sgrig khang/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001437
 khreng tu'u hru'u thung par 'debs 'gan 'khri tshad yod kung si/,khreng tu'u hru'u thung par 'debs 'gan 'khri tshad yod kung si/,bo-x-ewts,sri khron mi rigs dpe skrun khang /,sri khron mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001527
-kathmandu,nepal/,kathmandu,nepal/,bo-x-ewts,sa skya thar lam dgon pa/,sa skya thar lam dgon pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000518
+"kathmandu,nepal/","kathmandu,nepal/",bo-x-ewts,sa skya thar lam dgon pa/,sa skya thar lam dgon pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000518
 mysore/,mysore/,bo-x-ewts,bkra shis lhun dkyil khang bla brang /,bkra shis lhun dkyil khang bla brang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003215
 Vee Enn print-O-Pec,Vee Enn print-O-Pec,en,dga' ldan shar rtse sog pa 'jam dbyangs khang tshan/,dga' ldan shar rtse sog pa 'jam dbyangs khang tshan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001581
 shah offset printer,shah offset printer,en,Siddhartha's Intent For Dzongsar Institute,Siddhartha's Intent For Dzongsar Institute,en,http://purl.bdrc.io/resource/W1TLMTGA001885
 khreng tu'u hru'u thung par 'debs 'gan 'khri tshad yod kung sis/,khreng tu'u hru'u thung par 'debs 'gan 'khri tshad yod kung sis/,bo-x-ewts,sri khron mi rigs dpe skrun khang /,sri khron mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001537
-'ba' pa lcang ra legs bshad/,'ba' pa lcang ra legs bshad/,bo-x-ewts,mani printing works, kalimpong,mani printing works, kalimpong,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002759
+'ba' pa lcang ra legs bshad/,'ba' pa lcang ra legs bshad/,bo-x-ewts,"mani printing works, kalimpong","mani printing works, kalimpong",bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002759
 hi zhing chen san hi win ki par khang /,hi zhing chen san hi win ki par khang /,bo-x-ewts,mtsho sngon mi rigs dpe skrun khang /,mtsho sngon mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001221
 pe cin ho phing li byang lam ang _14_pa/,pe cin ho phing li byang lam ang _14_pa/,bo-x-ewts,mi rigs dpe skrun khang /,mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001326
-shah offset printer, delhi,shah offset printer, delhi,en,siddhartha intent publication/,siddhartha intent publication/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001380
+"shah offset printer, delhi","shah offset printer, delhi",en,siddhartha intent publication/,siddhartha intent publication/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001380
 rgya gar lha phyogs/,rgya gar lha phyogs/,bo-x-ewts,blo gling dpe skrun khang nas/,blo gling dpe skrun khang nas/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000804
 san ho grong khyer ha'e po par don 'gan tshad kung si zhin yu'e par btab/,san ho grong khyer ha'e po par don 'gan tshad kung si zhin yu'e par btab/,bo-x-ewts,krung go'i bod rig pa dpe skrun khang /,krung go'i bod rig pa dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003216
 d+he ra d+hun/,d+he ra d+hun/,bo-x-ewts,srong btsan dpe mdzod khang /,srong btsan dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001771
@@ -1960,7 +1960,7 @@ ldi li shIri ram par khang/,ldi li shIri ram par khang/,bo-x-ewts,bod gzhung she
 gangs chen skyid gshongs/,gangs chen skyid gshongs/,bo-x-ewts,snar thang par khang /,snar thang par khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002222
 indraprastha press(cbs),indraprastha press(cbs),bo-x-ewts,bod kyi dpe mdzod khang /,bod kyi dpe mdzod khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000483
 Varanasi Uttar Pradesh,Varanasi Uttar Pradesh,en,Siddharta F Publication,Siddharta F Publication,en,http://purl.bdrc.io/resource/W1TLMTGA001870
-Lakshmi printing works,Lal Kuan,Delhi,Lakshmi printing works,Lal Kuan,Delhi,en,chos 'phel legs ldan/,chos 'phel legs ldan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001324
+"Lakshmi printing works,Lal Kuan,Delhi","Lakshmi printing works,Lal Kuan,Delhi",en,chos 'phel legs ldan/,chos 'phel legs ldan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001324
 bla ma ka lu/,bla ma ka lu/,bo-x-ewts,rdor gling gtsug dgon/,rdor gling gtsug dgon/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002753
 ba yul k+Ta man gru/,ba yul k+Ta man gru/,bo-x-ewts,sa skya rgyal yongs/,sa skya rgyal yongs/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001283
 switzerland/,switzerland/,bo-x-ewts,sherab gyaltsen/,sherab gyaltsen/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000390
@@ -1972,22 +1972,22 @@ Laxmi Nagar New Delhi,Laxmi Nagar New Delhi,en,bod gzhung shes rig dpar khang /,
 Laxmi Nagar New Delhi,Laxmi Nagar New Delhi,en,bod gzhung shes ring dpar khang /,bod gzhung shes ring dpar khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA003118
 mind and life instiute,mind and life instiute,en,mind and life instiute,mind and life instiute,en,http://purl.bdrc.io/resource/W1TLMTGA003237
 mhayana press/,mhayana press/,bo-x-ewts,don 'grub dpal ldan/,don 'grub dpal ldan/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000169
-Indraprastha press(CBT),new delhi-110002.,Indraprastha press(CBT),new delhi-110002.,en,rgya gar lho phyogs mon g+ho Ti dga' ldan shar rtse thos bsam gling grwa tshang /,rgya gar lho phyogs mon g+ho Ti dga' ldan shar rtse thos bsam gling grwa tshang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001881
-Mhan Printing Press, Hubli,Mhan Printing Press, Hubli,en,Drepung Gomang Library,Drepung Gomang Library,en,http://purl.bdrc.io/resource/W1TLMTGA001973
-The 34th NSWC, CIHTS, Sarnath, Varanasi-221007,The 34th NSWC, CIHTS, Sarnath, Varanasi-221007,en,wA na dbus bod kyi ches mtho'i gtsug lag slob gnyer khang gi snga 'gyur rnying ma'i bde don lhan khang /,wA na dbus bod kyi ches mtho'i gtsug lag slob gnyer khang gi snga 'gyur rnying ma'i bde don lhan khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001888
+"Indraprastha press(CBT),new delhi-110002.","Indraprastha press(CBT),new delhi-110002.",en,rgya gar lho phyogs mon g+ho Ti dga' ldan shar rtse thos bsam gling grwa tshang /,rgya gar lho phyogs mon g+ho Ti dga' ldan shar rtse thos bsam gling grwa tshang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001881
+"Mhan Printing Press, Hubli","Mhan Printing Press, Hubli",en,Drepung Gomang Library,Drepung Gomang Library,en,http://purl.bdrc.io/resource/W1TLMTGA001973
+"The 34th NSWC, CIHTS, Sarnath, Varanasi-221007","The 34th NSWC, CIHTS, Sarnath, Varanasi-221007",en,wA na dbus bod kyi ches mtho'i gtsug lag slob gnyer khang gi snga 'gyur rnying ma'i bde don lhan khang /,wA na dbus bod kyi ches mtho'i gtsug lag slob gnyer khang gi snga 'gyur rnying ma'i bde don lhan khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001888
 Kalimpong WB,Kalimpong WB,en,Shir Diwakar Publications,Shir Diwakar Publications,en,http://purl.bdrc.io/resource/W1TLMTGA001968
 indraprastha press/,indraprastha press/,bo-x-ewts,men tsee khang,men tsee khang,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGB000023
-sherig parkhang,sherig parkhang,bo-x-ewts,lakshmi nagar, delhi/,lakshmi nagar, delhi/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002945
+sherig parkhang,sherig parkhang,bo-x-ewts,"lakshmi nagar, delhi/","lakshmi nagar, delhi/",bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002945
 bod ljongs shin hwa par khang /,bod ljongs shin hwa par khang /,bo-x-ewts,bod ljongs bod yig dpe rnying dpe skrun khang /,bod ljongs bod yig dpe rnying dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000932
 New delhi/,New delhi/,bo-x-ewts,Vee Enn print-O-pac,Vee Enn print-O-pac,en,http://purl.bdrc.io/resource/W1TLMTGA002369
 yashede dharma/,yashede dharma/,bo-x-ewts,usa/,usa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001775
 si khron zhing chen zhin hwa dpe tshang khang /,si khron zhing chen zhin hwa dpe tshang khang /,bo-x-ewts,si khron mi rigs dpe skrun khang /,si khron mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000227
-Pa྇྇྇toudi House, Daryaganj Delhi,Pa྇྇྇toudi House, Daryaganj Delhi,en,Prince Offset Printers,Prince Offset Printers,en,http://purl.bdrc.io/resource/W1TLMTGA002888
+"Pa྇྇྇toudi House, Daryaganj Delhi","Pa྇྇྇toudi House, Daryaganj Delhi",en,Prince Offset Printers,Prince Offset Printers,en,http://purl.bdrc.io/resource/W1TLMTGA002888
 Mohan Printing Press,Mohan Printing Press,en,mtho sgang gi nyi zer rtsom sgrig khang /,mtho sgang gi nyi zer rtsom sgrig khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002264
 khasti creation pvt.led.,khasti creation pvt.led.,en,\u0f38skyabs rje ngor thar rtse mkhan rin po che/,\u0f38skyabs rje ngor thar rtse mkhan rin po che/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000595
 Archana press/,Archana press/,bo-x-ewts,chos kyi blo gros rtsom sgrig khang /,chos kyi blo gros rtsom sgrig khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA001892
 mtsho sngon zhin nyin par khang /,mtsho sngon zhin nyin par khang /,bo-x-ewts,mtsho sdon mi rigs dpe skrun khang /,mtsho sdon mi rigs dpe skrun khang /,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000699
-norbu graphics,new delhi.,norbu graphics,new delhi.,bo-x-ewts,bod kyi dgu bcu gsum las 'gul tshogs pa/,bod kyi dgu bcu gsum las 'gul tshogs pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGB000028
+"norbu graphics,new delhi.","norbu graphics,new delhi.",bo-x-ewts,bod kyi dgu bcu gsum las 'gul tshogs pa/,bod kyi dgu bcu gsum las 'gul tshogs pa/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGB000028
 lal kuan delhi/,lal kuan delhi/,bo-x-ewts,pad+ma phrin las/,pad+ma phrin las/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA000459
 test loc/,test loc/,bo-x-ewts,test pub/,test pub/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002063
 rgyal ba zha dmar pa'i chos sde/,rgyal ba zha dmar pa'i chos sde/,bo-x-ewts,rgyal ba zha dmar pa'i chos sde/,rgyal ba zha dmar pa'i chos sde/,bo-x-ewts,http://purl.bdrc.io/resource/W1TLMTGA002827
