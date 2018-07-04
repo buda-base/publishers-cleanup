@@ -10,7 +10,7 @@ for f in os.listdir(in_path):
     with open('{}/{}'.format(in_path, f)) as g:
         data = csv.reader(g)
         for num, row in enumerate(list(data)[1:]):
-            loc_orig, loc_new, _, name_orig, name_new, _, _ = row
+            loc_orig, loc_new, name_orig, name_new, _ = row
 
             if loc_new != loc_orig and ((loc_new not in modifs_loc) or (loc_orig not in modifs_loc[loc_new])):
                 modifs_loc[loc_new].append(loc_orig)
