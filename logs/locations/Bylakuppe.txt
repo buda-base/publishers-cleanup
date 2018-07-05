@@ -20,6 +20,7 @@ bylakuppe, k.s.
 bylakuppe, karnataka
 bylakuppe, karnataka state
 bylakuppe, mysore
+bylakuppe, mysore district, karnataka state, india
 bylakuppe, mysore distt., karnataka
 bylakuppe, mysore, india
 bylakuppe, mysore, k.s.
@@ -31,4 +32,5 @@ bylakuppee, karnataka
 bylakuppy, distt mysore
 byllakupe, mysore, india
 byllakuppe
+byllakuppe, mysore
 byllakuppe, mysore, india

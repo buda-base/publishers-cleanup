@@ -1,4 +1,5 @@
 	New York
+[new york city]
 [new york, ny]
 new york
 new york, ny

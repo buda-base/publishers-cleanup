@@ -3,7 +3,9 @@ Rumtek, Sikkim
 [rum btegs]
 [rumtek, sikkim]
 [rumtek]
+rum bteg
 rum btegs/
 rum-teg
 rumtek
+rumtek, east sikkim
 rumtek, sikkim

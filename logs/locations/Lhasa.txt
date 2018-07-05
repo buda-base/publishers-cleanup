@@ -6,6 +6,7 @@
 [lha sa]
 [lhasa]
 l+ha sa/
+lha ldan/
 lha sa
 lha sa grong khyer/
 lha sa./
@@ -14,3 +15,4 @@ lha sar/
 lha sa／
 lhasa
 lhasa/
+ལྷ་ས།

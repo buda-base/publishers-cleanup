@@ -1,4 +1,5 @@
 	Darjeeling
+Darjerling
 [darjeeling, w.b.]
 [darjeeling?]
 [darjeeling]
@@ -6,7 +7,11 @@
 [rdor gling]
 darjedling, w.b.
 darjeeling
+darjeeling, india
 darjeeling, w.b.
+darjeeling, w.b., india
+darjeeling, w.n.
+darjeeling, w.n. india
 darjeeling, west bengal
 darjeeling, west bengal, india
 darjeling, w.b.

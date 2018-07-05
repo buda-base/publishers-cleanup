@@ -1,0 +1,4 @@
+	lan chou
+[lan chou]
+lan chou/
+lanchou
