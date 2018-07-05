@@ -1,0 +1,3 @@
+	Kham
+khams
+khams/

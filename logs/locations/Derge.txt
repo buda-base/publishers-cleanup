@@ -3,6 +3,8 @@
 [sde dge/]
 [sde dge?]
 [sde dge]
+khams sde dge
+khams sde dge/
 sde dge
 sde dge /
 sde dge/

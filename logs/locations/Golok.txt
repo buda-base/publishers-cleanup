@@ -1,0 +1,3 @@
+	Golok
+[mgo log]
+mgo log
