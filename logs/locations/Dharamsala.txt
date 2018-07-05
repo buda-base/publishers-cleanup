@@ -1,3 +1,4 @@
+	Dharamsala
 Daharamsala
 Dharamasala, h.p.
 Dharamsala H.P.
@@ -22,6 +23,7 @@ Dhramsala
 [dharamsala}
 [dharmasala, h.p.]
 [dharmasala]
+[upper dharamsala, dist. kagngra, h.p.]
 d+ha ram sA la/
 d+ha ram sa la
 d+ha ram sa la/
@@ -37,6 +39,7 @@ dharamsala h.p.
 dharamsala h.p. india
 dharamsala kangra h.p. india/
 dharamsala' h.p.
+dharamsala, district kangra, h.p.
 dharamsala, distt. kangra, H.P
 dharamsala, distt. kangra, h.p
 dharamsala, distt. kangra, h.p.
@@ -50,7 +53,9 @@ dharamsala, kangra distt., h.p
 dharamsala, kangra distt., h.p., india
 dharamsala. h.p.
 dharamsala/
+dharamshala, distt. kangra, h.p.
 dharamshala, h.p.
+dharasala, h.p.
 dharmasala, h.p.
 dharmsala, h.p.
 dharmshala
@@ -59,3 +64,4 @@ rda ran sa la/
 rda sa/
 upper dharamsala, distt kangra, h.p
 upper dharamsala, distt. kangra, h.p.
+upper dharamsala, h.p.
