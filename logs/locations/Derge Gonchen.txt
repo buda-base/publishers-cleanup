@@ -2,6 +2,7 @@
 [lhun grub steng /]
 lhun grub steng /
 lhun grub steng/
+lhun sgrub steng /
 sde dge dgon chen/
 sde dge lhun grub sgeng /
 sde dge lhun grub steng

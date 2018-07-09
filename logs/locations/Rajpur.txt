@@ -3,6 +3,7 @@ Rajpur, dehradun, u.p.
 [rajpur, u.p.]
 rA dza pur/
 ra dza pur/
+ra-dzaspur
 rajpur
 rajpur, dehra dun, u.p.
 rajpur, dehra dun/

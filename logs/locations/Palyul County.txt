@@ -6,3 +6,4 @@
 [dpal yul rdzong]
 dpal yul rdzomng /
 dpal yul rdzong /
+pdal yul rdzong
