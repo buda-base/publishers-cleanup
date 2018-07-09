@@ -1,3 +1,4 @@
 	Tadong
 tadong, gangtok
 tadong, gangtok, sikkim
+tadong, sikkim

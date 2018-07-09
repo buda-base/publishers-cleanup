@@ -21,6 +21,7 @@ ldi li (delhi)
 ldi li gsar pa/
 ldi li/
 ldi lli
+ne'u ldi li/
 new delhi
 new delhi, india
 new delhi, india/
