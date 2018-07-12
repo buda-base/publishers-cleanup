@@ -30,10 +30,10 @@ for f in os.listdir(in_path):
                     modifs_loc[loc_new].append('\t'+loc_new)
                 modifs_loc[loc_new].append(loc_orig)
 
-            if name_new != name_orig and ((name_new not in modifs_name) or (name_orig not in modifs_name[name_new])):
-                if '\t'+name_new not in modifs_name[name_new]:
-                    modifs_name[name_new].append('\t'+name_new)
-                modifs_name[loc_new].append(loc_orig)
+            # if name_new != name_orig and ((name_new not in modifs_name) or (name_orig not in modifs_name[name_new])):
+            #     if '\t'+name_new not in modifs_name[name_new]:
+            #         modifs_name[name_new].append('\t'+name_new)
+            #     modifs_name[loc_new].append(loc_orig)
 
 ####################################################
 # each normalized entity gets a file with itself preceded by a tab as the first line,
