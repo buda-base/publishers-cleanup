@@ -1,4 +1,4 @@
-	Serta County
+	Sertar County
 [gser rta rdzong /]
 [gser rta rdzong]
 [gser rta rdzong}
@@ -6,4 +6,6 @@ gse rrta rdzong /
 gser rta rdzong
 gser rta rdzong /
 gser rte rdzong /
+gser thang rdzong /
+gser thar rdzong /
 ser rta rdzong /

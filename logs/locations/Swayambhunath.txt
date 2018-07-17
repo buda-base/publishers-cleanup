@@ -1,5 +1,6 @@
-	Swayambhu
+	Swayambhunath
 [swayambhu, kathmandu]
 swayambhu, kathmandu
+swayambhunath
 swayambhunath, kathmandu
 swayambhunath, kathmandu, nepal
