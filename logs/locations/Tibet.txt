@@ -2,3 +2,4 @@
 [tibet?]
 [tibet]
 tibet
+西藏

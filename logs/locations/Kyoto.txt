@@ -4,3 +4,5 @@ Kyoto, Japan
 [kyoto, japan]
 jingdu
 kyoto
+京都
+京都市
