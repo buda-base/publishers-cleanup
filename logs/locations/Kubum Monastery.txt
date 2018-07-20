@@ -1,4 +1,9 @@
 	Kubum Monastery
+[sku 'bum ]
 [sku 'bum byams pa gling]
+[sku 'bum/]
+[sku 'bum]
+sku 'bum
 sku 'bum monastery
 sku 'bum monastery/
+sku 'bum/

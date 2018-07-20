@@ -5,6 +5,13 @@ PublisherLocations
 		bo
 			rdzogs chen shrI seng
 			shrI: siM ha
+	Sakya County		
+		en
+			Sakya
+			Sakya County
+		bo
+			sa skya
+			sa skya rdzong
 	Delhi
 		en
 			Delhi
@@ -181,11 +188,13 @@ PublisherLocations
 		bo
 			sgang tog
 			sgang tog 'bras ljongs
-	Lhünzê
+	Lhunze County
 		en
-			Lhünzê
+			Lhunze County
+			Lhunze
 		bo
 			lhun rtse
+			lhun rtse rdzong
 	Ngaba
 		en
 			Ngaba
@@ -209,11 +218,12 @@ PublisherLocations
 		en
 			Odiyan
 			Odiyan, USA
-	Kubum
+	Kubum Monastery
 		en
-			Kubum
+			Kubum Monastery
 		bo
 			sku 'bum
+			sku 'bum byams pa gling
 	Hong Kong
 		en
 			Hong Kong
@@ -243,13 +253,15 @@ PublisherLocations
 		en
 			Palampur
 			palampur, dist kangra, h.p.
-	Shigatse
+	Shigatse County
 		en
-			Shigatse
+			Shigatse County
 		bo
 			gzhi ka rtse
+			gzhi ka rtse rdzong
 			gzhis ka rtse
 			gzhis rtse
+			gzhis rtse rdzong
 	Cazadero
 		en
 			Cazadero
@@ -259,11 +271,13 @@ PublisherLocations
 			Gannan
 		bo
 			kan lho
-	Qinghai
+	Qinghai Province
 		en
 			Qinghai
+			Qinghai Province
 		bo
 			mtsho sngon
+			mtsho sngon zhing chen
 	Majnu-ka-tilla
 		en
 			Majnu-ka-tilla
@@ -310,13 +324,15 @@ PublisherLocations
 		zh
 			kun ming
 			昆明
-	Derge
+	Derge County
 		en
-			Derge
+			Derge County
 		bo
+			dkar mdzes bod rigs rang skyong khul, sde dge rdzong
 			khams sde dge
 			mdo khams sde dge
 			sde dge
+			sde dge rdzong
 	Darjeeling
 		en
 			Darjeeling
@@ -330,35 +346,35 @@ PublisherLocations
 		bo
 			'brug yul
 	Inder Puri
-	    en
+		en
 			Inder Puri
 			inderpuri, new delhi
 	Sichuan
-	    en
+		en
 			Sichuan
 		zh
 			si chuan
 		bo
 			si khron
 	Shalu Monastery
-        en
+		en
 			Shalu Monastery
 		bo
 			zhwa lu
 	Bouddhanath
-	    en
+		en
 			Bouddhanath
 			Bouddha, Kathmandu
 		bo
 			bal yul mchod rten bya rung kha shor
 			bal yul mchod rten
 	Dzongsar Monastery (Derge)
-	    en
+		en
 			Dzongsar Monastery (Derge)
 		bo
 			khams sde dge rdzong sar dgon
 	Larung Gar
-	    en
+		en
 			Larung Gar
 		bo
 			bla rung sgar
@@ -368,46 +384,40 @@ PublisherLocations
 			gser thang bla rung lnga rig nang bstan slob gling gi lha ldan
 			bla rung sgar
 	Paro
-	    en
+		en
 			Paro
 			paro, bhutan
-        bo
+		bo
 			spa gro
 	Upper Bhattu
-	    en
+		en
 			Upper Bhattu
 			Upper Bhattu via Baijnath, Kangra
 			upper bhattu, dist. kangra, h.p.
-	Sertar
-	    en
-			Sertar
-		bo
-			gser rta
-			ser rta
-			ser tha
+
 	Rebkong
-	    en
+		en
 			Rebkong
 		bo
 			reb gong
 			reb gong khul
 	Gartse
-	    en
+		en
 			Gartse
 		bo
 			'gar rtse
 	Kongpo
-	    en
+		en
 			Kongpo
 		bo
 			kong po
 	Rongdrag County
-	    en
+		en
 			Rongdrag County
 		bo
 			rong brag rdzong
 	Taiwan
-	    en
+		en
 			Taiwan
 		bo
 			tA'i wan
@@ -416,95 +426,90 @@ PublisherLocations
 			thaiwen
 			台湾
 	Tokyo
-	    en
+		en
 			Tokyo
 			Tokyo, Japan
 		zh
 			東京
-	Kubum Monastery
-	    en
-			Kubum Monastery
-		bo
-			sku 'bum byams pa gling
 	Ladakh
-	    en
+		en
 			Ladakh
 			ladakh, j.k.
 		bo
 			la dwags
 	Palyul County
-	    en
+		en
 			Palyul County
 		bo
 			dkar mdzes bod rigs rang skyong khul, dpal yul rdzong
 			dpal yul rdzong
 	Kalimpong
-	    en
+		en
 			Kalimpong
 			kalimpong, w.b.
 		bo
 			ka sbug
 			ka spug
 	Labrang Monastery
-	    en
+		en
 			Labrang Monastery
 		bo
 			bkra shis 'khyil
 			bla brang bkra shis 'khyil
 	Ganzi
-	    en
+		en
 			Ganzi
 		bo
 			dkar mdzes
 			dkar mdzes khul
 			dkar mdzes rdzong
 	Gottingen
-	    en
+		en
 			Gottingen
 			gottingen, germany
 	Mundgod
-	    en
+		en
 			Mundgod
 			Mundgod Karnataka, India
 			Tibetan Colony, Mundgod, Karnathaka State, INDIA
 			mondgod, karwar distt., karnataka
 			mundgod, distt. north kanara
 		bo
-		    mon g+ho Ta
+			mon g+ho Ta
 	Sera
-	    en
+		en
 			Sera
 		bo
 			se ra
 	Phuentsholing & Thimphu
-	    en
+		en
 			Phuentsholing & Thimphu
 		bo
 			phun tshogs gling / thim phu
 	Tezu
-	    en
+		en
 			Tezu
 			tezu, arunachal pradesh
 			tezu, dist. lohit
 	Jinan
-	    en
+		en
 			Jinan
 		zh
 			济南
 	Dzongsar Khamje Shedra
-	    en
+		en
 			Dzongsar Khamje Shedra
 		bo
 			dkar mdzes bod rigs rang skyong khul/ sde dge rdzong/ rdzong sar khams bye'i slob gling
 			rdzong sar khams bye
 	Bodhgaya
-	    en
+		en
 			Bodhgaya
 			bodhgaya, bihar
 		bo
 			rdo rje gdan
 	Tashijong
-	    en
+		en
 			Tashijong
 			Tashi Jong, Kangra
 			Tashijong, BIr
@@ -512,85 +517,85 @@ PublisherLocations
 		bo
 			bkra shis ljongs/ hi ma cal
 	Palpung
-	    en
+		en
 			Palpung
 		bo
 			dpal spungs
 	Ulaanbaatar
-	    en
+		en
 			Ulaanbaatar
 			Ulaanbaatar, Mongolia
 			Ulanbatur
 		bo
 			u rge
 	India
-	    en
+		en
 			India
 		bo
 			'phags yul
 			rgya gar
 	Nagarze County
-	    en
+		en
 			Nagarze County
 		bo
 			sna dkar rtse rdzong
 	Gyaca County
-        en
+		en
 			Gyaca County
 		bo
 			rgya tsha rdzong
 	Kyoto
-	    en
+		en
 			Kyoto
 			Kyoto, Japan
 			jingdu
-        zh
+		zh
 			京都
 			京都市
 	Dalhousie
-        en
+		en
 			Dalhousie
 			dalhousie, h.p.
 	Wien
-	    en
+		en
 			Wien
 	Mao County
-	    en
+		en
 			Mao County
 		zh
 			mao wen
 	Yarchen Monastery
-	    en
+		en
 			Yarchen Monastery
 		bo
 			ya chen
 	Yajiang County
-	    en
+		en
 			Yajiang County
 		bo
 			nyag chu rdzong
 	Rajpur
-	    en
+		en
 			Rajpur
 			rajpur, dehradun, uttarakhand
 		bo
 			rA dza pur
 			ra dza pur
 	Drepung
-	    en
-	        Drepung
-	    bo
+		en
+			Drepung
+		bo
 			'bras spung
 			'bras spungs
 			'bras spungs, lha sa
 	Rongwo
-	    en
+		en
 			Rongwo
 		bo
 			rong bo
 			rong po
 	Derge Gonchen
-	    en
+		en
 			Derge Gonchen
 		bo
 			lhun grub steng
@@ -598,290 +603,283 @@ PublisherLocations
 			sde dge dgon chen
 			sde dge lhun grub steng
 	Ditsa
-	    en
+		en
 			Ditsa
 		bo
 			d+hi tsha
 	Xining
-	    en
+		en
 			Xining
 			xining, qinghai
 		zh
 			xi ning
 			xining shi
 			西宁
-	Kangding
-	    en
-			Kangding
+	Kangding County
+		en
+			Kangding County
 		bo
 			dar mdo
 			dar rtse mdo
+			dar rtse mdo rdzong
 		zh
 			kang ding
 			康定
 	Ngagyur Taklung Monastery
-	    en
+		en
 			Ngagyur Taklung Monastery
 		bo
 			mdo smad snga 'gyur stag lung dgon
 	Oakland
-	    en
+		en
 			Oakland
 			oakland, califfornia, usa
 	Dawu County
-	    en
+		en
 			Dawu County
 		bo
 			rta'u rdzong
 	Nenying
-	    en
+		en
 			Nenying
 		bo
 			gnas rnying
-	Jonê
-	    en
-			Jonê
+	Jone County
+		en
+			Jone County
 		bo
 			co ne
 	Guide
-	    en
+		en
 			Guide
 		bo
 			khri ka
 			khri kha
 	Dolanji
-	    en
+		en
 			Dolanji
 			Dolanji, P.O. Ochghat (Via Solan), H.P.
 			dolanji village, h.p.
 	Rewalsar
-	    en
+		en
 			Rewalsar
 			rewalsar, distt. mandi, h.p, india
 	Sakyo-ku
-	    en
+		en
 			Sakyo-ku
 			sakyo-ku, kyoto
 	Manduwala
-	    en
+		en
 			Manduwala
 			manduwala, dehra dun, u.p.
-	Kangding County
-        en
-			Kangding County
-		bo
-			dar rtse mdo rdzong
+
 	Auckland
-	    en
+		en
 			Auckland
 			auckland, new zealand
 	Buxar
-	    en
+		en
 			Buxar
-	Sakya County
-	    en
-			Sakya County
-		bo
-			sa skya rdzong
+
 	Saspul
-	    en
+		en
 			Saspul
 			saspola
 	The Bir Tibetan Society
-	    en
+		en
 			The Bir Tibetan Society
 			bir tibetan society, bir, h.p.
 	Gemur
-	    en
+		en
 			Gemur
 			gemur, distt. lahul
 			kawring, gemur, lahul, h.p.
 	Songpan County
-	    en
+		en
 			Songpan County
 		bo
 			zing chu
 			zung chu
 			zung chu rdzong
 	Varanasi
-	    en
+		en
 			Varanasi
 			Varanasi, u.p., India
-        bo
+		bo
 			wA rA Na sI
 	Sumra (H.P.)
-	    en
+		en
 			Sumra (H.P.)
 	Golok
-	    en
+		en
 			Golok
 		bo
 			mgo log
 	Kotla Panjola
-	    en
+		en
 			Kotla Panjola
 			khotla-panjola, h.p.
 	Arcidosso
-	    en
+		en
 			Arcidosso
 			arcidosso, italy
 	Tango
-	    en
+		en
 			Tango
 			tango, thimphu, bhutan
 	Sonada
-	    en
+		en
 			Sonada
 			sonada, darjeeling, w.b.
-	Nangchen
-	    en
-			Nangchen
+	Nangqen County		
+		en
+			Nangqen County
 		bo
 			khams nang chen
 			nang chen
+			nang chen rdzong
+			sgom sde nang chen
 	Jomda
-	    en
-	        Jomda
-	    bo
+		en
+			Jomda
+		bo
 			'jo mda'
 	Trongsa
-	    en
+		en
 			Trongsa
 		bo
 			krong gsar
 	Ngamring County
-	    en
+		en
 			Ngamring County
 		bo
 			ngam ring rdzong
 	Mirik
-	    en
+		en
 			Mirik
 			mirik, dist. darjeeling, w.b.
 	Jakar Dzong
-	    en
+		en
 			Jakar Dzong
 			jakar dzong, bhutan
 	Macau
-	    en
+		en
 			Macau
 		bo
 			o min
 	Mysore
-	    en
+		en
 			Mysore
 			dist. mysore, karnataka state
 		bo
 			ma su ri
 			ma su'u ri
-	Zoige
-	    en
-			Zoige
+	Zoige County
+		en
+			Zoige County
 		bo
 			mdzod dge
+			mdzod dge rdzong
 	Heishui
-	    en
+		en
 			Heishui
 		bo
 			khro chu
 	Mongolia
-	    en
+		en
 			Mongolia
 		bo
 			sog po
 			sog yul
 	Kham
-	    en
+		en
 			Kham
 		bo
 			khams
 	Gonggar County
-        en
+		en
 			Gonggar County
 		bo
 			gong dkar rdzong
 	Barkham
-	    en
-	        Barkham
-	    bo
+		en
+			Barkham
+		bo
 			'bar khams
 			'bar khams, rnga ba khul
 		zh
 			马尔康
 	Drakar Taso
-	    en
+		en
 			Drakar Taso
 		bo
 			brag dkar rta so
 	Drepung Loseling
-        en
+		en
 			Drepung Loseling
 	Bidung
-	    en
+		en
 			Bidung
 			bidung, tashigang
 	Questa
-	    en
+		en
 			Questa
 			questa, new mexico
 	Seattle
-	    en
+		en
 			Seattle
 			seattle, wa
 	Tabo Monastery
-	    en
+		en
 			Tabo Monastery
 			tabo, lahaul spiti, h.p.
 	Karnataka
-	    en
+		en
 			Karnataka
 			Karnataka State South India
 	Tashichhoedzong Monastery
-        en
+		en
 			Tashichhoedzong Monastery
 		bo
 			bkra shis chos rdzong / thim phu
-	Dengqen
-	    en
-			Dengqen
+	Dengqen County
+		en
+			Dengqen County
 		bo
 			'steng chen
+			'steng chen rdzong
 	Sikkim
-	    en
+		en
 			Sikkim
 		bo
 			'bras ljongs
 	Hemis Monastery
-        en
+		en
 			Hemis Monastery
 			Hemis Monastery, ladakh
 		bo
 			he mis byang chub bsam gtan gling
+			la dwags he mi
 	Bainang Xian
-	    en
+		en
 			Bainang Xian
 		bo
 			pa snam rdzong
-	Derge County
-	    en
-			Derge County
-		bo
-			dkar mdzes bod rigs rang skyong khul, sde dge rdzong
-			sde dge rdzong
+
 	France
-	    en
+		en
 			France
 	Losar
-	    en
+		en
 			Losar
 			losar, spiti, h.p.
 	Chakri Thangzhang
-	    en
+		en
 			Chakri Thangzhang
 		bo
 			lcags ri thang zhang
 	Rumtek
-	    en
+		en
 			Rumtek
 			rumtek, east sikkim
 		bo
@@ -889,1148 +887,1081 @@ PublisherLocations
 			rum bteg
 			rum btegs
 	Zoi Chongkyir
-	    en
+		en
 			Zoi Chongkyir
 		bo
 			gtsod grong khyer
 			gtsos grong khyer
 	McLeod Ganj
-	    en
+		en
 			McLeod Ganj
 			McLeod Ganj, Dharamsala, H.P
 	Dzongsar Monastery
-	    en
+		en
 			Dzongsar Monastery
 		bo
 			rdzong sar dgon
 			sde dge rdzong sar dgon
 	Kinnaur
-	    en
+		en
 			Kinnaur
 			kinnour, h.p.
 	Zetang
-	    en
+		en
 			Zetang
 		bo
 			rtsed thang
 	Cuopu
-	    en
+		en
 			Cuopu
 		bo
 			mtsho phu
 	Loro
-	    en
+		en
 			Loro
 		bo
 			lo ro
 	Jyekundo
-	    en
+		en
 			Jyekundo
 		bo
 			skye dgu mdo
 			skye rgu mdo
 	Shelkar
-	    en
+		en
 			Shelkar
-	    bo
+		bo
 			ding ri shel dkar
 	Bairi County
-	    en
+		en
 			Bairi County
 		bo
 			dpa' ris rdzong
 	Luding County
-	    en
+		en
 			Luding County
 		bo
 			lcags zam rdzong
-	Bathang
-	    en
-			Bathang
+	Bathang County
+		en
+			Bathang County
+		bo
+			'ba' thang rdzong
 	Narthang Monastery
-	    en
+		en
 			Narthang Monastery
 			narthang
 		bo
 			snar thang
 	Berkeley
-	    en
+		en
 			Berkeley
 			berkeley, ca
 	Kyichu Temple
-	    en
+		en
 			Kyichu Temple
 			paro kyichu, bhoutan
 	Kolkata
-	    en
+		en
 			Calcutta
 			Kolkata
 			calcutta, w.b.
 	Siddharthanagar
-	    en
+		en
 			Siddharthanagar
 			bhairahawa, nepal
 	Clement Town
-	    en
+		en
 			Clement Town
 			clement town, dehradun, uttarakhand
 			tibetan colony clement town, dehra dun
 	Yunnan
-	    en
+		en
 			Yunnan
 		bo
 			yun nan
 	Dzogchen
-	    en
+		en
 			Dzogchen
 		bo
 			rdzogs chen
 			sde dge rdzogs chen
 	Kathok
-	    en
+		en
 			Kathok
 		bo
 			kaH thog
 			kaHthog
+	Mainpat		
+		en
+			Mainpat
+			Mainpat, India
+		bo
+			men pAT
 	Shoreline
-	    en
+		en
 			Shoreline
 			shoreline, WA
 			shoreline, wa
 			shoreline, wa.
 	Nyainrong County
-        en
+		en
 			Nyainrong County
 		bo
 			gnyan rong rdzong
 			nyag rong rdzong
 	Xiahe County
-	    en
+		en
 			Xiahe County
-        bo
+		bo
 			zha' ho rdzong gi khongs
 	Tibet
-	    en
+		en
 			Tibet
 		zh
 			西藏
 	Ganden
-	    en
+		en
 			Ganden
 		bo
 			dga' ldan
 			dga' ldan dgon
 			dga' ldan dgon pa
-	Bairi
-	    en
-			Bairi
-		bo
-			dpa' ris
+
 	Pethub Monastery
-	    en
+		en
 			Pethub Monastery
 			spetup
 	Paris
-	    en
+		en
 			Paris
 	Punakha
-	    en
+		en
 			Punakha
 			Punakha, Bhutan
 		bo
 			spungs thang
 			spungs thim
 	Bangalore
-	    en
+		en
 			Bangalore
 			bangalore, karnataka
 	Kollegal
-	    en
+		en
 			Kollegal
 			Kollegal Taluk, Karnataka State
 	Woodstock
-	    en
+		en
 			Woodstock
 			woodstock, ny
 	Buxa
-	    en
+		en
 			Buxa
 		bo
 			sbag sa
 	Deorali
-	    en
+		en
 			Deorali
 			deorali, gangtok, sikkim
-	Jonê Monastery
-	    en
-			Jonê Monastery
+	Jone Monastery
+		en
+			Jone Monastery
 		bo
 			co ne dgon chen
 	Ochghat
-	    en
+		en
 			Ochghat
 			new thobgyal, ochghat, h.p.
 			ochghat, distt. solan
 	St-Petersburg
-	    en
+		en
 			St-Petersburg
 	London
-	    en
+		en
 			London
-	Jingchuan
-	    en
-			Jingchuan
+	Jinchuan County
+		en
+			Jinchuan County
 		bo
 			chu chen
+			chu chen rdzong
 	Rongbuk
-	    en
+		en
 			Rongbuk
 		bo
 			rdza rong phu
-	Sakya
-	    en
-			Sakya
-		bo
-			sa skya
+
 	Mindroling
-	    en
+		en
 			Mindroling
 		bo
 			o rgyan smin grol gling
 			smin grol gling
 	Gemur Monastery
-	    en
+		en
 			Gemur Monastery
 			gemur monastery, kawring, h.p.
 	Dzongsar
-	    en
+		en
 			Dzongsar
 		bo
 			rdzong gsar
 			rdzong sar
 			sde dge rdzong sar
 	Ngulchu Chodzong Monastery
-	    en
+		en
 			Ngulchu Chodzong Monastery
 		bo
 			dngul chu chos rdong
 	Osaka
-	    en
+		en
 			Osaka
 			osaka
 	Boston
-	    en
+		en
 			Boston
 			east boston, ma
 	Pharping
-	    en
+		en
 			Pharping
+			Yangleshod
 			pharphing, kathmandu, nepal
-        bo
+		bo
 			yang le shod
 	Palpung Monastery
-	    en
+		en
 			Palpung Monastery
 		bo
 			dpal spungs dgon
 	Ganzhou
-	    en
+		en
 			Ganzhou
 		bo
 			kan kru'u
 	Qamdo
-	    en
+		en
 			Qamdo
 		bo
 			chab mdo
 	Pokhara
-	    en
+		en
 			Pokhara
 			pokhara, nepal
 	Maqen
-	    en
+		en
 			Maqen
 		bo
 			rma chen
 	China
-	    en
+		en
 			China
-        bo
+		bo
 			rgya nag
 	Larkspur
-	    en
+		en
 			Larkspur
 			larkspur, ca
 	Serxu County
-	    en
+		en
 			Serxu County
+			Dzachuka County
 		bo
 			ser shul rdzong
+			rdza chu kha
+			rdza chu kha rdzong
 	Sarah
-	    en
+		en
 			Sarah
 			sarah, dharamsala, h.p.
 		bo
 			sa rA
 	Chengdu (etc.)
-	    en
+		en
 			Chengdu (etc.)
 		bo
 			khreng tu'u (etc.)
 	maldahiya
-	    en
+		en
 			maldahiya
 			maldahiya, varanasi
 	Somerville (Boston)
-	    en
+		en
 			Somerville (Boston)
 			somerville, boston, ma
 	Jeerango
-	    en
+		en
 			Jeerango
 			jeerango, distt. ganjam, orissa
 	Dhondenling Tibetan Settlement
-	    en
+		en
 			Dhondenling Tibetan Settlement
 			dhondenling, p.o. tibetan colony, kollegal taluk, karnataka
-	Qinghai Province
-	    en
-			Qinghai Province
-		bo
-			mtsho sngon zhing chen
+
 	Shanghai
-	    en
+		en
 			Shanghai
 		bo
 			hrang he
 		zh
 			上海
 	Kawring
-	    en
+		en
 			Kawring
 			kawring, h.p.
 	Khyungpo Tengchen Monastery
-	    en
+		en
 			Khyungpo Tengchen Monastery
 		bo
 			khyung po steng chen g.yung drung bstan rgyas gling
 	Tohoku
-	    en
+		en
 			Tohoku
 			tohoku, japan
 	Tuole Monastery
-	    en
+		en
 			Tuole Monastery
 		bo
 			mtho las dgon rnam rgyal phun tshogs chos rdzong gling
 	Yulshul Prefecture
-	    en
+		en
 			Yulshul Prefecture
 		bo
 			skye rgu
 	Tana Monastery
-	    en
+		en
 			Tana Monastery
 		bo
 			q village, kollegal distt, mysore
 	Mustang
-	    en
+		en
 			Mustang
 		bo
+			glo smon thang
 			smon thang
 			smon thang btsum lung
 	Drukgyel Dzong
-	    en
+		en
 			Drukgyel Dzong
 			drukgyel jeutsaphu, paro, bhutan
-	Jonê County
-	    en
-			Jonê County
-		bo
-			co ne rdzong
+
 	Tibetan Khampa Industrial Society
-        en
+		en
 			Tibetan Khampa Industrial Society
 			khampa industrial society, bir, h.p.
-	Lhünzê County
-	    en
-			Lhünzê County
-		bo
-			lhun rtse rdzong
+
 	Switzerland
-	    en
+		en
 			Switzerland
 	England
-	    en
+		en
 			England
 		bo
 			ing len
 	Lhatse County
-	    en
+		en
 			Lhatse County
 		bo
 			lha rtse rdzong
 	Gungthang
-	    en
+		en
 			Gungthang
 		bo
 			gung thang
 			mang yul gung thang
 	Namgyal Monastery (Yuthok)
-	    en
+		en
 			Namgyal Monastery (Yuthok)
 		bo
 			gayu thog rnam rgyal dgon
 	Basgo
-	    en
+		en
 			Basgo
 			basgo ladakh
 	Adzom Monastery
-	    en
+		en
 			Adzom Monastery
 		bo
 			a 'dzom sgar
 			dkar mdzes bod rigs rang skyong khul, dpal yul rdzong, a 'dzom chos sgar
 	Rome
-	    en
+		en
 			Rome
 	Manali
-	    en
+		en
 			Manali
 			kulumanali: himachal pradesh, india
 		bo
 			ku lu mi na le
 	Sansal
-	    en
+		en
 			Sansal
 			sansal, dist. kangra, h.p.
 	New York
-	    en
+		en
 			New York
 	Tadong
-	    en
+		en
 			Tadong
 			tadong, gangtok, sikkim
 	Lato South
-	    en
+		en
 			Lato South
 		bo
 			la stod lho pa
 	Takure Monastery
-        en
+		en
 			Takure Monastery
 		bo
 			khu re chen mo
 			tA khu re
 			tA khu re/ sog yul
 	Gyaye
-	    en
+		en
 			Gyaye
 		bo
 			rgya ye
 	Mangyul
-	    en
+		en
 			Mangyul
 		bo
 			mang yul
 	Dharamsala & Sarnath
-        en
+		en
 			Dharamsala & Sarnath
 	Canada
-	    en
+		en
 			Canada
 	Maizhokunggar County
-        en
+		en
 			Maizhokunggar County
 		bo
 			mal gro gung dkar
 			mal gro gung dkar rdzong
 	Changlung Monastery
-	    en
+		en
 			Changlung Monastery
 		bo
 			lcang long dgon
 	Garze
-	    en
+		en
 			Garze
 		zh
 			甘孜
 			甘孜报印刷厂
 	Chongqing
-	    en
+		en
 			Chongqing
 			chongqing shi
 		zh
 			重庆
-	Tsholho
-	    en
-			Tsholho
+	Hainan Prefecture
+		en
+			Hainan Prefecture
 		bo
 			mtsho lho
+			海南州
 	Wiesbaden
-	    en
+		en
 			Wiesbaden
 			wiesbaden
 	Sera Je Monastery
-        en
+		en
 			Sera Je Monastery
 			serje monastary, bylakuppe, south india
 	USA
-	    en
+		en
 			USA
 		bo
 			a ri
 	Kangra
-	    en
+		en
 			Kangra
 			dist. kangra, himachal pradesh
 	Palace Monastery
-	    en
+		en
 			Palace Monastery
 			palace monastery, gangtok
 	Drakgo County
-	    en
+		en
 			Drakgo County
 		bo
+			brag 'go
 			brag 'go rdzong
 	Bora
-	    en
+		en
 			Bora
 		bo
 			'bo ra
 	Quxu County
-	    en
+		en
 			Quxu County
 		bo
 			chu shur rdzong
 	Chauntra
-	    en
+		en
 			Chauntra
 			chauntra, mandi, h.p.
 	Halle (Saale)
-	    en
+		en
 			Halle (Saale)
 	Gelephu
-	    en
+		en
 			Gelephu
 	Dzogchen Monastery
-	    en
+		en
 			Dzogchen Monastery
 		bo
 			rdzogs chen dgon
 			sde dge rdzongs chen dgon
 	Lumbini
-	    en
+		en
 			Lumbini
 			Lumbini, Nepal
 	Khajuhi
-	    en
+		en
 			Khajuhi
 			khajuhee, sarnath
 	Zhol Village
-	    en
+		en
 			Zhol Village
 		bo
 			lha sa zhol
 	Nemo
-	    en
+		en
 			Nemo
 			nemo, leh, ladakh
 	Mussoorie
-	    en
+		en
 			Mussoorie
 			mussoorie, u.p.
 	Japan
-	    en
+		en
 			Japan
 	Serame
-	    en
+		en
 			Serame
-	    bo
+		bo
 			se ra smad
 	Gangtok & Dharamsala
-	    en
+		en
 			Gangtok & Dharamsala
 	Santiniketan
-	    en
+		en
 			Santiniketan
 			santiniketan, w.b.
-	Serxu
-	    en
-			Serxu
-			Dzachuka
-		bo
-			rdza chu kha
+
 	Jainca County
-	    en
+		en
 			Jainca County
 		bo
+			gcan tsha
 			gcan tsha rdzong
 	Xicheng District
-	    en
+		en
 			Xicheng District
 		zh
 			北京市西城区文津街7号
 	Shimla
-	    en
+		en
 			Shimla
 			Simla
 			shimla, h.p.
 	Shechen Monastery (Kham)
-	    en
+		en
 			Shechen Monastery (Kham)
 		bo
 			khams zhe chen dgon
 			zhe chen dgon
 	Inner Mongolia
-	    en
+		en
 			Inner Mongolia
 		bo
 			nang sog
-	Hemis
-	    en
-			Hemis
-		bo
-			la dwags he mi
-	Dengqen County
-	    en
-			Dengqen County
-		bo
-			steng chen rdzong
-	Gonggar
-	    en
-			Gonggar
-		bo
-			lho kha gong dkar
+
 	Sidhbari
-	    en
+		en
 			Sidhbari
-			sidhpur, dharamsala, h.p.
+			Sidhbari, Dharamsala
 	Nanping
-	    en
+		en
 			Nanping
 		bo
 			nan phing
 	Nubzur Monastery
-	    en
+		en
 			Nubzur Monastery
 		bo
 			gser rta gnubs zur dgon
 	Zhag'yab
-	    en
+		en
 			Zhag'yab
 		bo
 			brag g.yab
 	Solukhumbu
-	    en
+		en
 			Solukhumbu
 		bo
 			so lu khum bu
 	Maryland
-	    en
+		en
 			Maryland
 	New Taipei City
-	    en
+		en
 			New Taipei City
 		zh
 			新北市
 	Chenrezig Tibetan Buddhist Center
-	    en
+		en
 			Chenrezig Tibetan Buddhist Center
 		bo
 			a ri'i phi li Ta phi ya spyan ras gzigs nang pa'i chos tshogs
 	Saga County
-	    en
+		en
 			Saga County
 		bo
 			sa dga' rdzong
 	Beijing & London
-	    en
+		en
 			Beijing & London
 		bo
 			pe cin/ lon tun
 	Lho Lunkar Monastery
-	    en
+		en
 			Lho Lunkar Monastery
 		bo
 			lho lung dkar dgon
 	Sidhpur
-	    en
+		en
 			Sidhpur
 			sidhpur, kangra, h.p.
-	Drakgo
-	    en
-			Drakgo
-		bo
-			brag 'go
-	Mainpat
-	    en
-			Mainpat
-		bo
-			men pAT
+
 	Plouray
-	    en
+		en
 			Plouray
 	Toronto
-	    en
+		en
 			Toronto
 			toronto ontario
-	Lo Manthang
-	    en
-			Lo Manthang
-		bo
-			glo smon thang
+
 	Tongkor Monastery
-	    en
+		en
 			Tongkor Monastery
 		bo
 			dkar mdzes rdzong stong skor sgon
 	Garthar Monastery
-	    en
+		en
 			Garthar Monastery
 		bo
 			mgar thar dgon
 	Tuwacang Monastery
-	    en
+		en
 			Tuwacang Monastery
 		bo
 			mthu ba dgon
 	Jakhyung
-	    en
+		en
 			Jakhyung
 		bo
 			bya khyung
-	Jainca
-	    en
-			Jainca
-		bo
-			gcan tsha
+
 	Xiaojin County
-        en
+		en
 			Xiaojin County
 		bo
 			btsan lha
 	Manuka
-	    en
+		en
 			Manuka
 			manuka, act, australia
 	Gurupura
-	    en
+		en
 			Gurupura
 			gurupura, hunsur, karnataka
 	Phuentsholing
-	    en
+		en
 			Phuentsholing
 		bo
 			phun tshogs gling
-	Nangchen County
-	    en
-			Nangchen County
-		bo
-			nang chen rdzong
+
 	Tawang
-	    en
+		en
 			Tawang
 			tawang, a.p.
 	Lahaul-Spiti
-	    en
+		en
 			Lahaul-Spiti
 			lahaul & spiti, h.p.
-	Dranang Dzong
-	    en
-			Dranang Dzong
+	Dranang County
+		en
+			Dranang County
 		bo
 			grwa nang rdzong
 	Sanjauli
-	    en
+		en
 			Sanjauli
 			sanjauli, shimla
 	Delingha
-	    en
+		en
 			Delingha
 		zh
 			qing hai de ling ha shi
-	Hainan Prefecture
-	    en
-			Hainan Prefecture
-		bo
-			mtso lho
-		zh
-			海南州
+
 	Olka
-	    en
+		en
 			Olka
 		bo
 			'ol kha
 	Zoige County
-	    en
+		en
 			Zoige County
 		bo
 			mdzod dge rdzong
 	Simtokha
-	    en
+		en
 			Simtokha
 			simtokha, thimphu
 	Bumthang
-	    en
+		en
 			Bumthang
 			bumthang jakar
 		bo
 			bum thang
-	Nangqen
-	    en
-			Nangqen
-		bo
-			nang chen
-			sgom sde nang chen
+
 	Daocheng County
-	    en
+		en
 			Daocheng County
 		bo
 			'dab pa rdzong
 	Italy
-	    en
+		en
 			Italy
 		bo
 			i Ta li
 	New Jersey
-	    en
+		en
 			New Jersey
 			new jersey, usa
 	Beijing & Lhasa
-	    en
+		en
 			Beijing & Lhasa
 		bo
 			pe cin/ lha sa
 	Sherig Parkhang
-	    en
+		en
 			Sherig Parkhang
 			Sherig Parkhang, dharamsala
 		bo
 			shes rig par khang
 	Derong County
-	    en
+		en
 			Derong County
 		bo
 			sde rong rdzong
 	Khalkha
-	    en
+		en
 			Khalkha
 		bo
 			hal ha
 			sog yul khal kha
 	Gyume Tantric College
-	    en
+		en
 			Gyume Tantric College
 	Taipei
-	    en
+		en
 			Taipei
 			taipei, taiwan
 	Rikon
-	    en
+		en
 			Rikon
 			rikon, zurich
 	Amsterdam
-	    en
+		en
 			Amsterdam
 			amsterdam, [amsteldijk 44
 	Tingri County
-	    en
+		en
 			Tingri County
-	    bo
+		bo
 			ding ri rdzong
 	South India
-	    en
+		en
 			South India
 	Haibei Prefecture
-	    en
+		en
 			Haibei Prefecture
 		bo
 			mtsho byang bod rigs rang skyong khul
 	Arik Monastery
-	    en
+		en
 			Arik Monastery
 		bo
 			a rig chos grwa
 	Ballimaran
-	    en
+		en
 			Ballimaran
 			ballimaran, delhi
 	Ragya Monastery
-	    en
+		en
 			Ragya Monastery
 		bo
 			rwa rgya dgon
 			rwa rgya dgon gyi yi dam khang
 	Adzin Rong (Nyag)
-	    en
+		en
 			Adzin Rong (Nyag)
 		bo
 			nyag a 'dzin rong
 	Charlottesville
-	    en
+		en
 			Charlottesville
 			charlottesville, va
-	Dzachuka County
-	    en
-			Dzachuka County
-		bo
-			rdza chu kha rdzong
+
 	Victoria
-	    en
+		en
 			Victoria
 			victoria, australia
 	Tashigang
-	    en
+		en
 			Tashigang
 			tashigang, bhutan
 	Jiulong County
-	    en
+		en
 			Jiulong County
 		bo
 			brgyad zil rdzong
 	Moscow
-	    en
+		en
 			Moscow
 	Zhichen Monastery
-	    en
+		en
 			Zhichen Monastery
 		bo
 			gzhi chen dgon
 	Gaden Shartse Monastery
-	    en
+		en
 			Gaden Shartse Monastery
 			gaden shartse monastray; kanataka. south india
 	Taktse County
-	    en
+		en
 			Taktse County
 		bo
 			stag rtse rdzong
 	Litang County
-	    en
+		en
 			Litang County
 		bo
 			li thang rdzong
 	Paro Taktsang
-	    en
+		en
 			Paro Taktsang
 		bo
 			gnas chen stag tshang
 	Bairo'i Drubpuk
-	    en
+		en
 			Bairo'i Drubpuk
 		bo
 			grub pa'i gnas mchog 'od gsal phug
 	Tsangdain Monastery
-	    en
+		en
 			Tsangdain Monastery
 		bo
 			gtsang ldan
-	Qazhêng County
-	    en
-			Qazhêng County
+	Qazheng County
+		en
+			Qazheng County
 		bo
 			cha phreng rdzong
 	Laya
-	    en
+		en
 			Laya
 		bo
 			la g.yag
 	Washington
-	    en
+		en
 			Washington
 			washington, d.c.
-	Bathang County
-	    en
-			Bathang County
-		bo
-			'ba' thang rdzong
+
 	Tharpaling Monastery
-	    en
+		en
 			Tharpaling Monastery
 			tharpaling monastery, bumthang
 	Delhi & Gangtok
-	    en
+		en
 			Delhi & Gangtok
 	Ganeshthan
-	    en
+		en
 			Ganeshthan
 			Ganeshthan, Sheshnarayan-3, PO Pharping, Kathmandu, NP
-	Shigatse County
-	    en
-			Shigatse County
-		bo
-			gzhi ka rtse rdzong
-			gzhis rtse rdzong
+
 	Gaya
-	    en
+		en
 			Gaya
 		bo
 			gA yA
 	Buryatia
-	    en
+		en
 			Buryatia
 	Queens
-	    en
+		en
 			Queens
 			queens, ny
 	Ithaca
-	    en
+		en
 			Ithaca
-	Dzongsar Shedra
-	    en
-			Dzongsar Shedra
+	Dzongsar Shedra (Bir)
+		en
+			Dzongsar Shedra (Bir)
 			bir : dzongsar institute
 	Tibetan Freedom Press
-        en
+		en
 			Tibetan Freedom Press
 		bo
 			rdor gling rang dbang par khang
 	Merchen
-	    en
+		en
 			Merchen
 		bo
 			mer chen
 	Zanskar
-	    en
+		en
 			Zanskar
-	    bo
+		bo
 			zangs dkar
 			bzang dkar
 	Beijing & Ziling
-	    en
+		en
 			Beijing & Ziling
 		bo
 			pe cin ; zi ling
 	Ewam Dechen Choling Monastery
-	    en
+		en
 			Ewam Dechen Choling Monastery
 		bo
 			bya dkar gsang chen e waM bde chen chos gling
 	Prague
-	    en
+		en
 			Prague
 	Bengal
-	    en
+		en
 			Bengal
 	Hongyuan
-	    en
+		en
 			Hongyuan
 		bo
 			hong yon
 	Kullu
-	    en
+		en
 			Kullu
 			kullu, h.p.
 	Kulhan
-	    en
+		en
 			Kulhan
 			kulhan
 	Gangchen Kyishong
-        en
+		en
 			Gangchen Kyishong
 			gangchen kyishong dharamsala: hp, india
 	Shri Diwakar Vihara
-	    en
+		en
 			Shri Diwakar Vihara
 		bo
 			mtsho slob shrI dI wa kar wi hA ra
 	Pemako
-	    en
+		en
 			Pemako
 		bo
 			pad+ma bkod
 	Dzamthang Monastery
-	    en
+		en
 			Dzamthang Monastery
 		bo
 			dzam thang dgon
 	Delhi & Dolanji
-	    en
+		en
 			Delhi & Dolanji
 	Germany
-	    en
+		en
 			Germany
 			germany
 	Lhozhag
-	    en
+		en
 			Lhozhag
 		bo
 			ལྷོ་བྲག
 	Yangrigang Monastery
-	    en
+		en
 			Yangrigang Monastery
 		bo
 			thub bstan yang ri sgang
+	Kanara		
+		en
+			Kanara
+			Kanara, India
 	Lhasa & Beijing
-	    en
+		en
 			Lhasa & Beijing
 		bo
 			lha sa dang pe cin
 	Drakgo Monastery
-	    en
+		en
 			Drakgo Monastery
 		bo
 			brag dkar dgon pa
 	Selaqui
-	    en
+		en
 			Selaqui
 		bo
 			se la ku
 	Muksang Monastery
-	    en
+		en
 			Muksang Monastery
 		bo
 			rmugs sangs dgon
 	Bouddhanath & Bodhgaya
-	    en
+		en
 			Bouddhanath & Bodhgaya
-	Lijiang
-	    en
-			Lijiang
+	Lijiang County
+		en
+			Lijiang County
 		bo
 			'jang sa tham
 	Nyarong
-	    en
+		en
 			Nyarong
-        bo
+		bo
 			nyag rong
 	Tarthang Monastery
-	    en
+		en
 			Tarthang Monastery
 		bo
 			dar thang dgon
 	Darjeeling & Kathmandu
-	    en
+		en
 			Darjeeling & Kathmandu
 	Sershul Monastery
-	    en
+		en
 			Sershul Monastery
 		bo
 			ser shul dgon
-	Jinchuan County
-	    en
-			Jinchuan County
-		bo
-			chu chen rdzong
+
 	Andiast
-	    en
+		en
 			Andiast
 			andiast, switzerland
 	Rupandehi
-	    en
+		en
 			Rupandehi
 			rupandehi, nepal
 	Tongren County
-	    en
+		en
 			Tongren County
 	Wenchuan
-	    en
+		en
 			Wenchuan
 		bo
 			wun khron
 	Stakna Monastery
-	    en
+		en
 			Stakna Monastery
 		bo
 			stag sna ladakh

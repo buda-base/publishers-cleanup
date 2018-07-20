@@ -2,10 +2,15 @@
 [gser rta rdzong /]
 [gser rta rdzong]
 [gser rta rdzong}
+[gser rta/]
+[gser rta]
+[ser tha?]
 gse rrta rdzong /
 gser rta rdzong
 gser rta rdzong /
+gser rta/
 gser rte rdzong /
 gser thang rdzong /
 gser thar rdzong /
 ser rta rdzong /
+ser rta/

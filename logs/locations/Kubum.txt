@@ -1,6 +1,0 @@
-	Kubum
-[sku 'bum ]
-[sku 'bum/]
-[sku 'bum]
-sku 'bum
-sku 'bum/
