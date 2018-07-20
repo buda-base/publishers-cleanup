@@ -45,3 +45,14 @@ for k, v in modifs_loc.items():
 for k, v in modifs_name.items():
     with open('logs/publishers/{}.txt'.format(k), 'w') as h:
         h.write('\n'.join(sorted(v)))
+
+
+chars_to_strip = '[]［］{}/／/?'
+with open('logs/locations.tsv', 'w') as f:
+    f.write('PublisherLocations\t\t\t\n')
+    for name, variants in modifs_loc.items():
+        f.write('\t{}\t\t\n'.format(name.strip(chars_to_strip).strip('\t').strip()))
+        variants = [v.strip(chars_to_strip).strip('\t').strip() for v in variants]
+        for v in sorted(list(set(variants))):
+            f.write('\t\t\t{}\n'.format(v.strip()))
+
