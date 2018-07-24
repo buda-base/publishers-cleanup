@@ -55,4 +55,3 @@ with open('logs/locations.tsv', 'w') as f:
         variants = [v.strip(chars_to_strip).strip('\t').strip() for v in variants]
         for v in sorted(list(set(variants))):
             f.write('\t\t\t{}\n'.format(v.strip()))
-
