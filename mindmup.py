@@ -1,20 +1,6 @@
-import hashlib
 import csv
 import json
-
 import io
-
-level0 = {
-    'formatVersion': 3,
-    'id': '',
-    'ideas': {},
-    'title': 'Root'
-}
-
-truc = {
-          'title': 'a',
-          'id': ''
-}
 
 
 def find_levels(rows):
@@ -91,18 +77,78 @@ def tree_from_csv(input_file):
     return structure
 
 
+def get_positions(level):
+    outa = []
+    outb = []
+    side = True
+    position = 1
+    for l in level:
+        if side:
+            outa.append((str(position), l))
+            side = not side
+        else:
+            outb.append(('-'+str(position), l))
+            position += 1
+            side = not side
+    return outa + outb
+
+
 def create_mindmup(title, csv_file):
     '''
     :return:
     '''
-    root = {
+    output = {
         'formatVersion': 3,
-        'id': '',
+        'id': 'root',
         'ideas': {},
-        'title': title
+        'title': 'None'
     }
     csv_tree = tree_from_csv(csv_file)
+    roots = get_positions(csv_tree.keys())
+    id = 1
+    for pos, title in roots:
+        level = {
+            'title': title,
+            'id': id,
+            'ideas': {}
+        }
+        output['ideas'][pos] = level
+        id += 1
+
+        roots1 = get_positions(csv_tree[title].keys())
+        for pos1, title1 in roots1:
+            level1 = {
+                'title': title1,
+                'id': id,
+                'ideas': {}
+            }
+            output['ideas'][pos]['ideas'][pos1] = level1
+            id += 1
+
+            roots2 = get_positions(csv_tree[title][title1].keys())
+            for pos2, title2 in roots2:
+                level2 = {
+                    'title': title2,
+                    'id': id,
+                    'ideas': {}
+                }
+                output['ideas'][pos]['ideas'][pos1]['ideas'][pos2] = level2
+                id += 1
+
+                roots3 = get_positions(csv_tree[title][title1][title2].keys())
+                for pos3, title3 in roots3:
+                    level3 = {
+                        'title': title3,
+                        'id': id,
+                        'ideas': {}
+                    }
+                    output['ideas'][pos]['ideas'][pos1]['ideas'][pos2]['ideas'][pos3] = level3
+                    id += 1
+
+    return output
 
 
-json_structure = tree_from_csv('locations.tsv')
-print(json_structure)
+mindmup = create_mindmup('PublisherLocations', 'locations.tsv')
+with open('logs/locations.mup', 'w') as f:
+    f.write(json.dumps(mindmup, sort_keys=True, indent=2))
+
