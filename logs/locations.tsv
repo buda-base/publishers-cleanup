@@ -1,11 +1,11 @@
 PublisherLocations			
-	Dzogchen Shedra		
-			Dzogchen Shedra
+	Dzogchen Shedra (Tibet)		
+			Dzogchen Shedra (Tibet)
 			rdzogs chen shrI seng
 			shrI: siM ha
-	Sakya County		
+	Sa'gya County		
+			Sa'gya County
 			Sakya
-			Sakya County
 			sa kya
 			sa skya
 			sa skya rdzong
@@ -28,10 +28,14 @@ PublisherLocations
 			new delhi
 			new delhi, india
 			tcrpc, delhi
-	Ziling		
-			Ziling
+	Xining		
+			Xining
+			xi ning
+			xining shi
+			xining, qinghai
 			zi gling
 			zi ling
+			西宁
 	Beijing		
 			Beijing
 			Pe cin
@@ -99,9 +103,11 @@ PublisherLocations
 			ser rta
 			ser rta rdzong
 			ser tha
-	Labrang		
-			Labrang
+	Labrang Monastery		
+			Labrang Monastery
+			bkra shis 'khyil
 			bla brang
+			bla brang bkra shis 'khyil
 	Lhasa		
 			Lhasa
 			l+ha sa
@@ -464,10 +470,8 @@ PublisherLocations
 			khun ming
 			kun ming
 			昆明
-	Derge County		
-			Derge County
-			dkar mdzes bod rigs rang skyong khul sde dge rdzong
-			dkar mdzes bod rigs rang skyong khul, sde dge rdzong
+	Dege		
+			Dege
 			khams sde dge
 			mdo khams sde dge
 			sde dge
@@ -509,9 +513,12 @@ PublisherLocations
 			bal yul mchod rten bya rung kha shor
 			bal yul mchod rten, [kathmandu
 			boudha, kathmandu., nepal
-	Dzongsar Monastery (Derge)		
-			Dzongsar Monastery (Derge)
+	Dzongsar Monastery (Tibet)		
+			Dzongsar Monastery (Tibet)
 			khams sde dge rdzong sar dgon
+			rdzong sar dgon
+			rdzong sar dgon.
+			sde dge rdzong sar dgon
 	Larung Gar		
 			Larung Gar
 			bla rung gar
@@ -582,16 +589,14 @@ PublisherLocations
 			ka spug
 			kalimpong
 			kalimpong, w.b.
-	Labrang Monastery		
-			Labrang Monastery
-			bkra shis 'khyil
-			bla brang bkra shis 'khyil
-	Ganzi		
-			Ganzi
+	Garze		
+			Garze
 			dkar mdzes
 			dkar mdzes khul
 			dkar mdzes rdzong
 			dkar mdzrs khul
+			甘孜
+			甘孜报印刷厂
 	Gottingen		
 			Gottingen
 			gottingen
@@ -622,8 +627,8 @@ PublisherLocations
 			mundgod, north karnataka
 			tibetan colony, district n. kanara, karnataka state, india
 			tibetan colony, mundgod, karnataka
-	Sera		
-			Sera
+	Sera (Tibet)		
+			Sera (Tibet)
 			se ra
 	Phuentsholing & Thimphu		
 			Phuentsholing & Thimphu
@@ -638,8 +643,8 @@ PublisherLocations
 	Jinan		
 			Jinan
 			济南
-	Dzongsar Khamje Shedra		
-			Dzongsar Khamje Shedra
+	Dzongsar Khamje Shedra (Tibet)		
+			Dzongsar Khamje Shedra (Tibet)
 			dkar mdzes bod rigs rang skyong khul, sde dge rdzong, rdzong sar khams bye'i slob gling
 			dkar mdzes bod rigs rang skyong khul/ sde dge rdzong / rdzong sar khams bye'i slob gling
 			rdzong sar khams bye
@@ -665,8 +670,8 @@ PublisherLocations
 			tashijong, palampur, h.p.
 			tashijong, palampur, kangra, h.p.
 			tashijong, taragarh, kangra
-	Palpung		
-			Palpung
+	Palpung (Tibet)		
+			Palpung (Tibet)
 			dpal spungs
 	Ulaanbaatar		
 			Ulaanbaatar
@@ -729,14 +734,14 @@ PublisherLocations
 			rajpur, dehradun, uttarakhand
 			rajpur, u.p.
 			rajpur,dist. dehra dun, u.p.
-	Drepung		
+	Drepung (Tibet)		
 			'bras spung
 			'bras spung, lhasa
 			'bras spungs
 			'bras spungs lha sa
 			'bras spungs, lha sa
 			'bras spungs,lhasa
-			Drepung
+			Drepung (Tibet)
 	Rongwo		
 			Rongwo
 			rong bo
@@ -752,12 +757,6 @@ PublisherLocations
 	Ditsa		
 			Ditsa
 			d+hi tsha
-	Xining		
-			Xining
-			xi ning
-			xining shi
-			xining, qinghai
-			西宁
 	Kangding County		
 			Kangding County
 			dar mdo
@@ -869,12 +868,17 @@ PublisherLocations
 			sonada, darjeeling, w.b
 			sonada, darjeeling, w.b.
 			sonada, w.b.
-	Nangqen County		
-			Nangqen County
+	Nangqen		
+			Nangqen
 			khams nang chen
 			nang chen
-			nang chen rdzong
 			sgom sde nang chen
+	Barkham		
+			'bar khams
+			'bar khams, rnga ba khul
+			Barkham
+			四川省马尔康
+			马尔康
 	Jomda		
 			'jo mda'
 			Jomda
@@ -929,17 +933,12 @@ PublisherLocations
 	spu gzim byang gling		
 			dben pa'i gnas mchog spu gzim byang gling
 			spu gzim byang gling
-	Barkham		
-			'bar khams
-			'bar khams, rnga ba khul
-			Barkham
-			马尔康
 	Drakar Taso		
 			Drakar Taso
 			brad dkar rta so
 			brag dkar rta so
-	Drepung Loseling		
-			Drepung Loseling
+	Drepung Loseling (India)		
+			Drepung Loseling (India)
 			drepung loseling photo offset printer
 	Bidung		
 			Bidung
@@ -963,10 +962,9 @@ PublisherLocations
 	Tashichhoedzong Monastery		
 			Tashichhoedzong Monastery
 			bkra shis chos rdzong / thim phug
-	Dengqen County		
+	Dengqen		
 			'steng chen
-			Dengqen County
-			steng chen rdzong
+			Dengqen
 	Sikkim		
 			'bras ljongs
 			Sikkim
@@ -976,9 +974,14 @@ PublisherLocations
 			he mis byang chub bsam gtan gling ladakh
 			he mis byang chub bsam gtan gling; ladakh
 			la dwags he mi
-	Bainang Xian		
-			Bainang Xian
+	Bainang County		
+			Bainang County
 			pa snam rdzong
+	Dege County		
+			Dege County
+			dkar mdzes bod rigs rang skyong khul sde dge rdzong
+			dkar mdzes bod rigs rang skyong khul, sde dge rdzong
+			sde dge rdzong
 	stod lung rdzong		
 			stod lung rdzong
 			stod lunng rdzong
@@ -1013,11 +1016,6 @@ PublisherLocations
 			Mcleod Ganj, H.P.
 	stod lung		
 			stod lung
-	Dzongsar Monastery		
-			Dzongsar Monastery
-			rdzong sar dgon
-			rdzong sar dgon.
-			sde dge rdzong sar dgon
 	Kinnaur		
 			Kinnaur
 			kinnaur, h.p.
@@ -1041,15 +1039,12 @@ PublisherLocations
 			ding ri shel dkar
 	Bairi County		
 			Bairi County
-			dpa' ris
 			dpa' ris rdzong
 	Luding County		
 			Luding County
 			lcags zam rdzong
-	Bathang County		
-			'ba' thang rdzong
+	Bathang		
 			Bathang
-			Bathang County
 	Narthang Monastery		
 			Narthang Monastery
 			narthang
@@ -1089,8 +1084,8 @@ PublisherLocations
 	Yunnan		
 			Yunnan
 			yun nan
-	Dzogchen		
-			Dzogchen
+	Dzogchen (Tibet)		
+			Dzogchen (Tibet)
 			rdzogs chen
 			sde dge rdzogs chen
 	Kathok		
@@ -1118,13 +1113,16 @@ PublisherLocations
 			Tibet
 			tibet
 			西藏
-	Ganden		
-			Ganden
+	Ganden (Tibet)		
+			Ganden (Tibet)
 			dga' ldan
 			dga' ldan dgon
 			dga' ldan dgon pa
-	Pethub Monastery		
-			Pethub Monastery
+	Bairi		
+			Bairi
+			dpa' ris
+	Spituk Monastery		
+			Spituk Monastery
 			spetup
 	Paris		
 			Paris
@@ -1174,15 +1172,14 @@ PublisherLocations
 	Rongbuk		
 			Rongbuk
 			rdza rong phu
-	Mindroling		
-			Mindroling
-			o rgyan smin grol gling
+	Mindroling (Tibet)		
+			Mindroling (Tibet)
 			smin grol gling
 	Gemur Monastery		
 			Gemur Monastery
 			gemur monastery, kawring, h.p.
-	Dzongsar		
-			Dzongsar
+	Dzongsar (Tibet)		
+			Dzongsar (Tibet)
 			rdzong gsar
 			rdzong sar
 			sde dge rdzong sar
@@ -1204,8 +1201,8 @@ PublisherLocations
 			pharphing, kathmandu, nepal
 			pharping, nepal
 			yangleshod
-	Palpung Monastery		
-			Palpung Monastery
+	Palpung Monastery (Tibet)		
+			Palpung Monastery (Tibet)
 			dpal spungs dgon
 			dpal spungs gon
 	Ganzhou		
@@ -1229,7 +1226,6 @@ PublisherLocations
 			larkspur, ca
 	Serxu County		
 			Serxu County
-			rdza chu kha
 			rdza chu kha rdzong
 			ser shul rdzong
 	Sarah		
@@ -1274,11 +1270,11 @@ PublisherLocations
 	Tuole Monastery		
 			Tuole Monastery
 			mtho las dgon rnam rgyal phun tshogs chos rdzong gling
-	Yulshul Prefecture		
-			Yulshul Prefecture
+	Yushu Prefecture		
+			Yushu Prefecture
 			skye rgu
-	Tana Monastery		
-			Tana Monastery
+	Tana Monastery (India)		
+			Tana Monastery (India)
 			q village, kollegal distt, mysore
 	Mustang		
 			Mustang
@@ -1366,10 +1362,6 @@ PublisherLocations
 	Changlung Monastery		
 			Changlung Monastery
 			lcang long dgon
-	Garze		
-			Garze
-			甘孜
-			甘孜报印刷厂
 	ca khrong		
 			ca khrong
 	Chongqing		
@@ -1384,8 +1376,8 @@ PublisherLocations
 	Wiesbaden		
 			Wiesbaden
 			wiesbaden
-	Sera Je Monastery		
-			Sera Je Monastery
+	Sera Je Monastery (India)		
+			Sera Je Monastery (India)
 			se ra je monastery, bylakuppe, india
 			sera je, bylakuppe, karnataka
 			serje monastary, bylakuppe, south india
@@ -1404,8 +1396,8 @@ PublisherLocations
 	Palace Monastery		
 			Palace Monastery
 			palace monastery, gangtok
-	Drakgo County		
-			Drakgo County
+	Luhou County		
+			Luhou County
 			brag 'go
 			brag 'go rdzong
 	Bora		
@@ -1426,8 +1418,8 @@ PublisherLocations
 			Gelephu
 			gelegphu
 			gelephu
-	Dzogchen Monastery		
-			Dzogchen Monastery
+	Dzogchen Monastery (Tibet)		
+			Dzogchen Monastery (Tibet)
 			rdzogs chen dgon
 			sde dge rdzongs chen dgon
 	shar khum gshong rong spyi dgon kun dga' gling gi sman rtsis slob grwa		
@@ -1452,8 +1444,8 @@ PublisherLocations
 	Japan		
 			Japan
 			japan
-	Serame		
-			Serame
+	Serame (Tibet)		
+			Serame (Tibet)
 			se ra smad
 	Gangtok & Dharamsala		
 			Gangtok & Dharamsala
@@ -1461,6 +1453,9 @@ PublisherLocations
 	Santiniketan		
 			Santiniketan
 			santiniketan, w.b.
+	Dzachuka		
+			Dzachuka
+			rdza chu kha
 	Jainca County		
 			Jainca County
 			gcan tsha
@@ -1472,13 +1467,19 @@ PublisherLocations
 			Shimla
 			shimla, h.p.
 			simla
-	Shechen Monastery (Kham)		
-			Shechen Monastery (Kham)
+	Shechen Monastery (Tibet)		
+			Shechen Monastery (Tibet)
 			khams zhe chen dgon
 			zhe chen dgon
 	Inner Mongolia		
 			Inner Mongolia
 			nang sog
+	Mindroling (India)		
+			Mindroling (India)
+			o rgyan smin grol gling
+	Dengqen County		
+			Dengqen County
+			steng chen rdzong
 	Sidhbari		
 			Sidhbari
 			Sidhbari, Dharamsala
@@ -1556,6 +1557,9 @@ PublisherLocations
 	Phuentsholing		
 			Phuentsholing
 			phun tshogs gling
+	Nangqen County		
+			Nangqen County
+			nang chen rdzong
 	Tawang		
 			Tawang
 			tawang, a.p.
@@ -1564,7 +1568,6 @@ PublisherLocations
 			lahaul & spiti, h.p.
 			lahul-spiti, h.p.
 	Dranang County		
-			Dranang
 			Dranang County
 			grwa nang rdzong
 	Sanjauli		
@@ -1594,6 +1597,9 @@ PublisherLocations
 	New Jersey		
 			New Jersey
 			new jersey, usa
+	Drepung		
+			'bras spungs
+			Drepung
 	Beijing & Lhasa		
 			Beijing & Lhasa
 			pe cin/ lha sa
@@ -1607,8 +1613,8 @@ PublisherLocations
 			Khalkha
 			hal ha
 			sog yul khal kha
-	Gyume Tantric College		
-			Gyume Tantric College
+	Gyume Tantric College (India)		
+			Gyume Tantric College (India)
 			gyudmed tantric college
 	Taipei		
 			Taipei
@@ -1660,8 +1666,8 @@ PublisherLocations
 	Zhichen Monastery		
 			Zhichen Monastery
 			gzhi chen dgon
-	Gaden Shartse Monastery		
-			Gaden Shartse Monastery
+	Gaden Shartse Monastery (India)		
+			Gaden Shartse Monastery (India)
 			gaden shartse monastray; kanataka. south india
 	Taktse County		
 			Taktse County
@@ -1672,14 +1678,14 @@ PublisherLocations
 	Paro Taktsang		
 			Paro Taktsang
 			gnas chen stag tshang
-	Bairo'i Drubpuk		
-			Bairo'i Drubpuk
+	Bairotsana Cave		
+			Bairotsana Cave
 			grub pa'i gnas mchog 'od gsal phug
 	Tsangdain Monastery		
 			Tsangdain Monastery
 			gtsang ldan
-	Qazheng County		
-			Qazheng County
+	Xiangcheng County		
+			Xiangcheng County
 			cha phreng rdzong
 	Laya		
 			Laya
@@ -1687,6 +1693,9 @@ PublisherLocations
 	Washington		
 			Washington
 			washington, d.c.
+	Bathang County		
+			'ba' thang rdzong
+			Bathang County
 	Tharpaling Monastery		
 			Tharpaling Monastery
 			tharpaling monastery, bumthang
@@ -1786,8 +1795,8 @@ PublisherLocations
 			se la ku
 	shar rgyal ba dung dkar dgon		
 			shar rgyal ba dung dkar dgon
-	Muksang Monastery		
-			Muksang Monastery
+	Muksang Monastery (Tibet)		
+			Muksang Monastery (Tibet)
 			rmugs sangs dgon
 	Bouddhanath & Bodhgaya		
 			Bouddhanath & Bodhgaya
@@ -1798,8 +1807,8 @@ PublisherLocations
 	Nyarong		
 			Nyarong
 			nyag rong
-	Tarthang Monastery		
-			Tarthang Monastery
+	Tarthang Monastery (Tibet)		
+			Tarthang Monastery (Tibet)
 			dar thang dgon
 	Darjeeling & Kathmandu		
 			Darjeeling & Kathmandu
