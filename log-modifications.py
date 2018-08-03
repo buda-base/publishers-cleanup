@@ -25,11 +25,14 @@ for f in os.listdir(in_path):
         for num, row in enumerate(list(data)[1:]):
             loc_orig, loc_new, name_orig, name_new, _ = row
 
-            if loc_new != loc_orig and ((loc_new not in modifs_loc) or (loc_orig not in modifs_loc[loc_new])):
+            if loc_new[0].isupper() and loc_new != loc_orig and ((loc_new not in modifs_loc) or (loc_orig not in modifs_loc[loc_new])):
                 if '\t'+loc_new not in modifs_loc[loc_new]:
                     modifs_loc[loc_new].append('\t'+loc_new)
                 modifs_loc[loc_new].append(loc_orig)
 
+            #
+            else:
+                pass
             # if name_new != name_orig and ((name_new not in modifs_name) or (name_orig not in modifs_name[name_new])):
             #     if '\t'+name_new not in modifs_name[name_new]:
             #         modifs_name[name_new].append('\t'+name_new)

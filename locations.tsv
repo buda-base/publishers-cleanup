@@ -433,9 +433,9 @@ PublisherLocations
 			ladakh, j.k.
 		bo
 			la dwags
-	Palyul County
+	Baiyu County
 		en
-			Palyul County
+			Baiyu County
 		bo
 			dkar mdzes bod rigs rang skyong khul, dpal yul rdzong
 			dpal yul rdzong
@@ -1652,6 +1652,7 @@ PublisherLocations
 			Beijing & Lhasa
 		bo
 			pe cin/ lha sa
+			lha sa dang pe cin
 	Sherig Parkhang
 		en
 			Sherig Parkhang
@@ -1895,11 +1896,6 @@ PublisherLocations
 		en
 			Kanara
 			Kanara, India
-	Lhasa & Beijing
-		en
-			Lhasa & Beijing
-		bo
-			lha sa dang pe cin
 	Drakgo Monastery
 		en
 			Drakgo Monastery
@@ -1968,3 +1964,9 @@ PublisherLocations
 	    bo
 	        cha phreng rdzong
 	        phyag 'phreng rdzong
+	Drib
+	    en
+	        Drib
+	    bo
+	        grib
+	        grib khul
