@@ -1,14 +1,14 @@
 PublisherLocations
-	Dzogchen Shedra
+	Dzogchen Shedra (Tibet)
 		en
-			Dzogchen Shedra
+			Dzogchen Shedra (Tibet)
 		bo
 			rdzogs chen shrI seng
 			shrI: siM ha
-	Sakya County
+	Sa'gya County
 		en
 			Sakya
-			Sakya County
+			Sa'gya County
 		bo
 			sa skya
 			sa skya rdzong
@@ -26,12 +26,6 @@ PublisherLocations
 			ldi li
 			ldi li gsar pa
 			ne'u ldi li
-	Ziling
-		en
-			Ziling
-		bo
-			zi gling
-			zi ling
 	Beijing
 		en
 			Beijing
@@ -88,11 +82,6 @@ PublisherLocations
 			ser rta
 			ser rta rdzong
 			ser tha
-	Labrang
-		en
-			Labrang
-		bo
-			bla brang
 	Lhasa
 		en
 			Lhasa
@@ -327,12 +316,17 @@ PublisherLocations
 		zh
 			kun ming
 			昆明
-	Derge County
+	Dege County
 		en
-			Derge County
+			Dege County
 		bo
 			dkar mdzes bod rigs rang skyong khul, sde dge rdzong
-			khams sde dge
+			sde dge rdzong
+	Dege
+	    en
+	        Dege
+	    bo
+	        khams sde dge
 			mdo khams sde dge
 			sde dge
 			sde dge rdzong
@@ -456,15 +450,15 @@ PublisherLocations
 		en
 			Labrang Monastery
 		bo
+			bla brang
 			bkra shis 'khyil
 			bla brang bkra shis 'khyil
-	Ganzi
-		en
-			Ganzi
-		bo
-			dkar mdzes
-			dkar mdzes khul
-			dkar mdzes rdzong
+	Luhou
+	    en
+	        Luhou County
+	    bo
+	        brag 'go
+	        brag 'go rdzong
 	Gottingen
 		en
 			Gottingen
@@ -478,9 +472,9 @@ PublisherLocations
 			mundgod, distt. north kanara
 		bo
 			mon g+ho Ta
-	Sera
+	Sera (Tibet)
 		en
-			Sera
+			Sera (Tibet)
 		bo
 			se ra
 	Phuentsholing & Thimphu
@@ -498,9 +492,9 @@ PublisherLocations
 			Jinan
 		zh
 			济南
-	Dzongsar Khamje Shedra
+	Dzongsar Shedra (Tibet)
 		en
-			Dzongsar Khamje Shedra
+			Dzongsar Shedra (Tibet)
 		bo
 			dkar mdzes bod rigs rang skyong khul/ sde dge rdzong/ rdzong sar khams bye'i slob gling
 			rdzong sar khams bye
@@ -518,9 +512,9 @@ PublisherLocations
 			Tashijong, Palampur, HP
 		bo
 			bkra shis ljongs/ hi ma cal
-	Palpung
+	Palpung (Tibet)
 		en
-			Palpung
+			Palpung (Tibet)
 		bo
 			dpal spungs
 	Ulaanbaatar
@@ -583,9 +577,9 @@ PublisherLocations
 		bo
 			rA dza pur
 			ra dza pur
-	Drepung
+	Drepung (Tibet)
 		en
-			Drepung
+			Drepung (Tibet)
 		bo
 			'bras spung
 			'bras spungs
@@ -613,6 +607,9 @@ PublisherLocations
 		en
 			Xining
 			xining, qinghai
+		bo
+		    zi gling
+			zi ling
 		zh
 			xi ning
 			xining shi
@@ -735,9 +732,13 @@ PublisherLocations
 		en
 			Nangqen County
 		bo
+			nang chen rdzong
+	Nangqen
+		en
+			Nangqen
+		bo
 			khams nang chen
 			nang chen
-			nang chen rdzong
 			sgom sde nang chen
 	Jomda
 		en
@@ -809,14 +810,15 @@ PublisherLocations
 			'bar khams, rnga ba khul
 		zh
 			马尔康
+			四川省马尔康
 	Drakar Taso
 		en
 			Drakar Taso
 		bo
 			brag dkar rta so
-	Drepung Loseling
+	Drepung Loseling (India)
 		en
-			Drepung Loseling
+			Drepung Loseling (India)
 	Bidung
 		en
 			Bidung
@@ -846,8 +848,12 @@ PublisherLocations
 		en
 			Dengqen County
 		bo
-			'steng chen
 			'steng chen rdzong
+	Dengqen
+		en
+			Dengqen
+		bo
+			'steng chen
 	Sikkim
 		en
 			Sikkim
@@ -860,9 +866,9 @@ PublisherLocations
 		bo
 			he mis byang chub bsam gtan gling
 			la dwags he mi
-	Bainang Xian
+	Bainang County
 		en
-			Bainang Xian
+			Bainang County
 		bo
 			pa snam rdzong
 	France
@@ -895,12 +901,13 @@ PublisherLocations
 		en
 			McLeod Ganj
 			McLeod Ganj, Dharamsala, H.P
-	Dzongsar Monastery
+	Dzongsar Monastery (Tibet)
 		en
-			Dzongsar Monastery
+			Dzongsar Monastery (Tibet)
 		bo
 			rdzong sar dgon
 			sde dge rdzong sar dgon
+			khams sde dge rdzong sar dgon
 	Kinnaur
 		en
 			Kinnaur
@@ -936,6 +943,11 @@ PublisherLocations
 			Bairi County
 		bo
 			dpa' ris rdzong
+	Bairi
+		en
+			Bairi
+		bo
+			dpa' ris
 	Luding County
 		en
 			Luding County
@@ -946,6 +958,11 @@ PublisherLocations
 			Bathang County
 		bo
 			'ba' thang rdzong
+	Bathang
+		en
+			Bathang
+		bo
+			'ba' thang
 	Narthang Monastery
 		en
 			Narthang Monastery
@@ -979,9 +996,9 @@ PublisherLocations
 			Yunnan
 		bo
 			yun nan
-	Dzogchen
+	Dzogchen (Tibet)
 		en
-			Dzogchen
+			Dzogchen (Tibet)
 		bo
 			rdzogs chen
 			sde dge rdzogs chen
@@ -1019,17 +1036,20 @@ PublisherLocations
 			Tibet
 		zh
 			西藏
-	Ganden
+	Ganden (Tibet)
 		en
-			Ganden
+			Ganden (Tibet)
 		bo
 			dga' ldan
 			dga' ldan dgon
 			dga' ldan dgon pa
-	Pethub Monastery
+	Spituk Monastery
 		en
+			Spituk Monastery
 			Pethub Monastery
 			spetup
+		bo
+		    dpe thub dgon
 	Paris
 		en
 			Paris
@@ -1088,19 +1108,23 @@ PublisherLocations
 			Rongbuk
 		bo
 			rdza rong phu
-	Mindroling
+	Mindroling (India)
 		en
-			Mindroling
+			Mindroling (India)
 		bo
 			o rgyan smin grol gling
+	Mindroling (Tibet)
+		en
+			Mindroling (Tibet)
+		bo
 			smin grol gling
 	Gemur Monastery
 		en
 			Gemur Monastery
 			gemur monastery, kawring, h.p.
-	Dzongsar
+	Dzongsar (Tibet)
 		en
-			Dzongsar
+			Dzongsar (Tibet)
 		bo
 			rdzong gsar
 			rdzong sar
@@ -1125,9 +1149,9 @@ PublisherLocations
 			pharphing, kathmandu, nepal
 		bo
 			yang le shod
-	Palpung Monastery
+	Palpung Monastery (Tibet)
 		en
-			Palpung Monastery
+			Palpung Monastery (Tibet)
 		bo
 			dpal spungs dgon
 	Ganzhou
@@ -1164,8 +1188,12 @@ PublisherLocations
 			Dzachuka County
 		bo
 			ser shul rdzong
-			rdza chu kha
 			rdza chu kha rdzong
+	Dzachuka
+		en
+			Dzachuka
+		bo
+			rdza chu kha
 	Sarah
 		en
 			Sarah
@@ -1218,15 +1246,14 @@ PublisherLocations
 			Tuole Monastery
 		bo
 			mtho las dgon rnam rgyal phun tshogs chos rdzong gling
-	Yulshul Prefecture
+	Yushu Prefecture
 		en
-			Yulshul Prefecture
+			Yushu Prefecture
 		bo
 			skye rgu
-	Tana Monastery
+	Tana Monastery (India)
 		en
-			Tana Monastery
-		bo
+			Tana Monastery (India)
 			q village, kollegal distt, mysore
 	Mustang
 		en
@@ -1339,6 +1366,10 @@ PublisherLocations
 	Garze
 		en
 			Garze
+		bo
+			dkar mdzes
+			dkar mdzes khul
+			dkar mdzes rdzong
 		zh
 			甘孜
 			甘孜报印刷厂
@@ -1353,14 +1384,14 @@ PublisherLocations
 			Hainan Prefecture
 		bo
 			mtsho lho
+		zh
 			海南州
 	Wiesbaden
 		en
 			Wiesbaden
-			wiesbaden
-	Sera Je Monastery
+	Sera Je Monastery (India)
 		en
-			Sera Je Monastery
+			Sera Je Monastery (India)
 			serje monastary, bylakuppe, south india
 	USA
 		en
@@ -1375,12 +1406,6 @@ PublisherLocations
 		en
 			Palace Monastery
 			palace monastery, gangtok
-	Drakgo County
-		en
-			Drakgo County
-		bo
-			brag 'go
-			brag 'go rdzong
 	Bora
 		en
 			Bora
@@ -1401,9 +1426,9 @@ PublisherLocations
 	Gelephu
 		en
 			Gelephu
-	Dzogchen Monastery
+	Dzogchen Monastery (Tibet)
 		en
-			Dzogchen Monastery
+			Dzogchen Monastery (Tibet)
 		bo
 			rdzogs chen dgon
 			sde dge rdzongs chen dgon
@@ -1431,9 +1456,9 @@ PublisherLocations
 	Japan
 		en
 			Japan
-	Serame
+	Serame (Tibet)
 		en
-			Serame
+			Serame (Tibet)
 		bo
 			se ra smad
 	Gangtok & Dharamsala
@@ -1459,9 +1484,9 @@ PublisherLocations
 			Shimla
 			Simla
 			shimla, h.p.
-	Shechen Monastery (Kham)
+	Shechen Monastery (Tibet)
 		en
-			Shechen Monastery (Kham)
+			Shechen Monastery (Tibet)
 		bo
 			khams zhe chen dgon
 			zhe chen dgon
@@ -1579,11 +1604,6 @@ PublisherLocations
 		en
 			Lahaul-Spiti
 			lahaul & spiti, h.p.
-	Dranang County
-		en
-			Dranang County
-		bo
-			grwa nang rdzong
 	Sanjauli
 		en
 			Sanjauli
@@ -1649,9 +1669,9 @@ PublisherLocations
 		bo
 			hal ha
 			sog yul khal kha
-	Gyume Tantric College
+	Gyume Tantric College (India)
 		en
-			Gyume Tantric College
+			Gyume Tantric College (India)
 	Taipei
 		en
 			Taipei
@@ -1722,9 +1742,9 @@ PublisherLocations
 			Zhichen Monastery
 		bo
 			gzhi chen dgon
-	Gaden Shartse Monastery
+	Gaden Shartse Monastery (India)
 		en
-			Gaden Shartse Monastery
+			Gaden Shartse Monastery (India)
 			gaden shartse monastray; kanataka. south india
 	Taktse County
 		en
@@ -1741,9 +1761,9 @@ PublisherLocations
 			Paro Taktsang
 		bo
 			gnas chen stag tshang
-	Bairo'i Drubpuk
+	Bairotsana Cave
 		en
-			Bairo'i Drubpuk
+			Bairotsana Cave
 		bo
 			grub pa'i gnas mchog 'od gsal phug
 	Tsangdain Monastery
@@ -1751,11 +1771,6 @@ PublisherLocations
 			Tsangdain Monastery
 		bo
 			gtsang ldan
-	Qazheng County
-		en
-			Qazheng County
-		bo
-			cha phreng rdzong
 	Laya
 		en
 			Laya
@@ -1791,9 +1806,9 @@ PublisherLocations
 	Ithaca
 		en
 			Ithaca
-	Dzongsar Shedra (Bir)
+	Dzongsar Shedra (India)
 		en
-			Dzongsar Shedra (Bir)
+			Dzongsar Shedra (India)
 			bir : dzongsar institute
 	Tibetan Freedom Press
 		en
@@ -1895,9 +1910,9 @@ PublisherLocations
 			Selaqui
 		bo
 			se la ku
-	Muksang Monastery
+	Muksang Monastery (Tibet)
 		en
-			Muksang Monastery
+			Muksang Monastery (Tibet)
 		bo
 			rmugs sangs dgon
 	Bouddhanath & Bodhgaya
@@ -1913,9 +1928,9 @@ PublisherLocations
 			Nyarong
 		bo
 			nyag rong
-	Tarthang Monastery
+	Tarthang Monastery (Tibet)
 		en
-			Tarthang Monastery
+			Tarthang Monastery (Tibet)
 		bo
 			dar thang dgon
 	Darjeeling & Kathmandu
@@ -1947,3 +1962,9 @@ PublisherLocations
 			Stakna Monastery
 		bo
 			stag sna ladakh
+	Xiangcheng County
+	    en
+	        Xiangcheng County
+	    bo
+	        cha phreng rdzong
+	        phyag 'phreng rdzong
