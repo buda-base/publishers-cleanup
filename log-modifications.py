@@ -18,7 +18,6 @@ def process_refined_csv():
     unknown_loc = defaultdict(list)
     modifs_name = defaultdict(list)
 
-    rows = []
     with open('csv/publishers.csv') as g:
         data = csv.reader(g)
         rows = list(data)[1:]
