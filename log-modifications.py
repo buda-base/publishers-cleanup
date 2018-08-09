@@ -57,17 +57,21 @@ def write_individual_entries(type, entry):
             h.write('\n'.join(v))
 
 
-def write_full_log(type, entries):
+def clean_entry(entry):
     chars_to_strip = '[]［］{}/／/?'
+    return entry.strip(chars_to_strip).strip('\t').strip()
+
+
+def write_full_log(type, entries):
     with open('logs/{}.tsv'.format(type), 'w') as f:
         title = 'PublisherLocations\t\t\t\n'
         f.write(title)
 
         for name, variants in entries.items():
-            entry = '\t{}\t\t\n'.format(name.strip(chars_to_strip).strip('\t').strip())
+            entry = '\t{}\t\t\n'.format(clean_entry(name))
             f.write(entry)
 
-            cleaned_variants = [v.strip(chars_to_strip).strip('\t').strip() for v in variants]
+            cleaned_variants = [clean_entry(v) for v in variants]
             sorted_variants = sorted(list(set(cleaned_variants)))
             for v in sorted_variants:
                 v = v.strip()
