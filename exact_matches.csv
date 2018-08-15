@@ -1,143 +1,311 @@
-Amdo,G1202
-Bainang County,G2174
-Bairi,G1005
-Bairi County,G1052
-Baiyu County,G2300
-Bathang County,G2305
-Beijing,G1949
-Bengal,G3CN285
-Bhutan,G3205
-Bir,G3CN1562
-Bodhgaya,G2GS1037
-Bumthang,G4716
-Chakri Thangzhang,G1721
-Chengdu,G10MS19724
-China,G3198
-Cuopu,G3237
-Daocheng County,G2306
-Darjeeling,G4394
-Dawu County,G2298
-Dege,G1539
-Dege County,G1539
-Dengqen County,G2188
-Derge Gonchen,G193
-Derong County,G2307
-Dharamsala,G3JT12630
-Ditsa,G1481
-Dolanji,G3CN1567
-Drakar Taso,G317
-Drakgo Monastery,G4088
-Dranang County,G799
-Dzachuka,G2301
-Dzamthang,G3762
-Dzogchen Monastery (Tibet),G16
-Dzongsar Monastery (Tibet),G213
-Ganden (Tibet),G2571
-Garthar Monastery,G3494
-Garze,G1538
-Golok,G1490
-Gonggar County,G2135
-Guide,G1136
-Gungthang,G3CN461
-Gyaca County,G2138
-Gyalrong,G1272
-Gyaye,G1PD97740
-Haibei Prefecture,G2312
-Hainan Prefecture,G2317
-Hemis Monastery,G00JR3353
-Hong Kong,G3192
-India,G3188
-Inner Mongolia,G603
-Jainca County,G3200
-Jakhyung,G662
-Japan,G00KG09752
-Jinchuan County,G2335
-Jiulong County,G2311
-Jone County,G2203
-Jone Monastery,G435
-Jyekundo,G869
-Kalimpong,G3JT12629
-Kangding County,G1135
-Kathmandu,G2CN11080
-Kathok,G17
-Khalkha,G1395
-Kham,G1326
-Kongpo,G640
-Kubum Monastery,G160
-Labrang Monastery,G162
-Ladakh,G3182
-Lanzhou,G580
-Larung Gar,G3997
-Leh,G1085
-Lhasa,G2800
-Lhatse County,G2167
-Lho Lunkar Monastery,G341
-Lhunze County,G1990
-Lijiang County,G4236
-Litang County,G2304
-Loro,G3CN59
-Luding County,G2309
-Luhou County,G2299
-Lumbini,G2MS14675
-Maizhokunggar County,G2014
-Mangyul,G3166
-Mindroling (India),G1866
-Mindroling (Tibet),G14
-Mongolia,G584
-Muksang Monastery (Tibet),G3466
-Mustang,G00EGS1017242
-Nagarze County,G2136
-Nangqen,G4144
-Nangqen County,G1467
-Nemo,G4584
-Nenying,G457
-Nepal,G4450
-Ngaba,G1196
-Ngamring County,G2162
-Nyainrong County,G2146
-Nyarong,G1365
-Olka,G1379
-Paro,G836
-Pemako,G1977
-Phuentsholing,G4490
-Qamdo,G576
-Qinghai Province,G977
-Quxu County,G2128
-Ragya Monastery,G398
-Rebkong,G2369
-Rongdrag County,G2310
-Rongwo,G2491
-Sa'gya County,G2169
-Saga County,G2160
-Sarnath,G1PD110102
-Sershul Monastery,G3261
-Sertar County,G3765
-Serxu County,G2301
-Shalu Monastery,G1180
-Shechen Monastery (Tibet),G20
-Shigatse County,G2170
-Sikkim,G1398
-Solukhumbu,G2490
-Songpan County,G2333
-Spiti,G3CN32
-Swayambhunath,G3156
-Tabo Monastery,G1KG17626
-Tadong,G1PD96122
-Taktse County,G1516
-Takure Monastery,G1979
-Tarthang Monastery (Tibet),G523
-Tashi Lhunpo Monastery,G4841
-Thimphu,G4706
-Tibet,G1PD108961
-Tingri County,G2165
-Trongsa,G4713
-Tuwacang Monastery,G3222
-USA,G3JT12416
-Varanasi,G2CN10953
-Xiangcheng County,G1103
-Xining,G598
-Yajiang County,G2303
-Zetang,G560
-Zhichen Monastery,G1563
-Zoi Chongkyir,G916
-Zoige County,G1132
+Amdo,
+,http://library.bdrc.io/show/bdr:G1202
+Bainang County,
+,http://library.bdrc.io/show/bdr:G2174
+Bairi,
+,http://library.bdrc.io/show/bdr:G1005
+Bairi County,
+,http://library.bdrc.io/show/bdr:G1052
+Baiyu County,
+,http://library.bdrc.io/show/bdr:G2300
+Bathang County,
+,http://library.bdrc.io/show/bdr:G2305
+Beijing,
+,http://library.bdrc.io/show/bdr:G1949
+Bengal,
+,http://library.bdrc.io/show/bdr:G3CN285
+Bhutan,
+,http://library.bdrc.io/show/bdr:G3205
+Bir,
+,http://library.bdrc.io/show/bdr:G3CN1562
+Bodhgaya,
+,http://library.bdrc.io/show/bdr:G2GS1037
+Bumthang,
+,http://library.bdrc.io/show/bdr:G4716
+Chakri Thangzhang,
+,http://library.bdrc.io/show/bdr:G1721
+Chengdu,
+,http://library.bdrc.io/show/bdr:G10MS19724
+China,
+,http://library.bdrc.io/show/bdr:G3198
+Cuopu,
+,http://library.bdrc.io/show/bdr:G3237
+Daocheng County,
+,http://library.bdrc.io/show/bdr:G2306
+Darjeeling,
+,http://library.bdrc.io/show/bdr:G4394
+Dawu County,
+,http://library.bdrc.io/show/bdr:G2298
+Dege,
+,http://library.bdrc.io/show/bdr:G1539
+,http://library.bdrc.io/show/bdr:G1366
+Dege County,
+,http://library.bdrc.io/show/bdr:G1539
+Dengqen County,
+,http://library.bdrc.io/show/bdr:G2188
+Derge Gonchen,
+,http://library.bdrc.io/show/bdr:G193
+Derong County,
+,http://library.bdrc.io/show/bdr:G2307
+Dharamsala,
+,http://library.bdrc.io/show/bdr:G3JT12630
+Ditsa,
+,http://library.bdrc.io/show/bdr:G1481
+Dolanji,
+,http://library.bdrc.io/show/bdr:G3CN1567
+Drakar Taso,
+,http://library.bdrc.io/show/bdr:G317
+Drakgo Monastery,
+,http://library.bdrc.io/show/bdr:G4088
+Dranang County,
+,http://library.bdrc.io/show/bdr:G799
+Dzachuka,
+,http://library.bdrc.io/show/bdr:G632
+,http://library.bdrc.io/show/bdr:G2301
+Dzamthang,
+,http://library.bdrc.io/show/bdr:G3762
+Dzogchen Monastery (Tibet),
+,http://library.bdrc.io/show/bdr:G16
+Dzongsar Monastery (Tibet),
+,http://library.bdrc.io/show/bdr:G213
+Ganden (Tibet),
+,http://library.bdrc.io/show/bdr:G337
+,http://library.bdrc.io/show/bdr:G2571
+Garthar Monastery,
+,http://library.bdrc.io/show/bdr:G3494
+Garze,
+,http://library.bdrc.io/show/bdr:G621
+,http://library.bdrc.io/show/bdr:G1538
+Golok,
+,http://library.bdrc.io/show/bdr:G1490
+Gonggar County,
+,http://library.bdrc.io/show/bdr:G2135
+Guide,
+,http://library.bdrc.io/show/bdr:G1136
+Gungthang,
+,http://library.bdrc.io/show/bdr:G3CN461
+,http://library.bdrc.io/show/bdr:G1338
+Gyaca County,
+,http://library.bdrc.io/show/bdr:G2138
+Gyalrong,
+,http://library.bdrc.io/show/bdr:G1272
+Gyaye,
+,http://library.bdrc.io/show/bdr:G1PD97740
+Haibei Prefecture,
+,http://library.bdrc.io/show/bdr:G2312
+Hainan Prefecture,
+,http://library.bdrc.io/show/bdr:G2317
+Hemis Monastery,
+,http://library.bdrc.io/show/bdr:G00JR3353
+Hong Kong,
+,http://library.bdrc.io/show/bdr:G3192
+India,
+,http://library.bdrc.io/show/bdr:G3188
+Inner Mongolia,
+,http://library.bdrc.io/show/bdr:G603
+Jainca County,
+,http://library.bdrc.io/show/bdr:G1695
+,http://library.bdrc.io/show/bdr:G3200
+Jakhyung,
+,http://library.bdrc.io/show/bdr:G662
+,http://library.bdrc.io/show/bdr:G161
+Japan,
+,http://library.bdrc.io/show/bdr:G00KG09752
+Jinchuan County,
+,http://library.bdrc.io/show/bdr:G2335
+Jiulong County,
+,http://library.bdrc.io/show/bdr:G2311
+Jone County,
+,http://library.bdrc.io/show/bdr:G1164
+,http://library.bdrc.io/show/bdr:G2203
+Jone Monastery,
+,http://library.bdrc.io/show/bdr:G435
+Jyekundo,
+,http://library.bdrc.io/show/bdr:G869
+Kalimpong,
+,http://library.bdrc.io/show/bdr:G3JT12629
+Kangding County,
+,http://library.bdrc.io/show/bdr:G2308
+,http://library.bdrc.io/show/bdr:G1135
+Kathmandu,
+,http://library.bdrc.io/show/bdr:G2CN11080
+Kathok,
+,http://library.bdrc.io/show/bdr:G17
+Khalkha,
+,http://library.bdrc.io/show/bdr:G1395
+Kham,
+,http://library.bdrc.io/show/bdr:G1326
+Kongpo,
+,http://library.bdrc.io/show/bdr:G640
+Kubum Monastery,
+,http://library.bdrc.io/show/bdr:G160
+Labrang Monastery,
+,http://library.bdrc.io/show/bdr:G162
+Ladakh,
+,http://library.bdrc.io/show/bdr:G3182
+Lanzhou,
+,http://library.bdrc.io/show/bdr:G895
+,http://library.bdrc.io/show/bdr:G580
+Larung Gar,
+,http://library.bdrc.io/show/bdr:G3997
+Leh,
+,http://library.bdrc.io/show/bdr:G1085
+Lhasa,
+,http://library.bdrc.io/show/bdr:G2800
+Lhatse County,
+,http://library.bdrc.io/show/bdr:G2167
+Lho Lunkar Monastery,
+,http://library.bdrc.io/show/bdr:G341
+Lhunze County,
+,http://library.bdrc.io/show/bdr:G1990
+Lijiang County,
+,http://library.bdrc.io/show/bdr:G4236
+Litang County,
+,http://library.bdrc.io/show/bdr:G2304
+Loro,
+,http://library.bdrc.io/show/bdr:G3CN59
+,http://library.bdrc.io/show/bdr:G1192
+Luding County,
+,http://library.bdrc.io/show/bdr:G2309
+Luhou County,
+,http://library.bdrc.io/show/bdr:G2299
+Lumbini,
+,http://library.bdrc.io/show/bdr:G2MS14675
+Maizhokunggar County,
+,http://library.bdrc.io/show/bdr:G2014
+Mangyul,
+,http://library.bdrc.io/show/bdr:G3166
+Mindroling (India),
+,http://library.bdrc.io/show/bdr:G1866
+,http://library.bdrc.io/show/bdr:G14
+Mindroling (Tibet),
+,http://library.bdrc.io/show/bdr:G14
+Mongolia,
+,http://library.bdrc.io/show/bdr:G584
+Muksang Monastery (Tibet),
+,http://library.bdrc.io/show/bdr:G3466
+Mustang,
+,http://library.bdrc.io/show/bdr:G00EGS1017242
+Nagarze County,
+,http://library.bdrc.io/show/bdr:G2136
+Nangqen,
+,http://library.bdrc.io/show/bdr:G4144
+Nangqen County,
+,http://library.bdrc.io/show/bdr:G1467
+Nemo,
+,http://library.bdrc.io/show/bdr:G4584
+Nenying,
+,http://library.bdrc.io/show/bdr:G457
+,http://library.bdrc.io/show/bdr:G3096
+Nepal,
+,http://library.bdrc.io/show/bdr:G4450
+Ngaba,
+,http://library.bdrc.io/show/bdr:G636
+,http://library.bdrc.io/show/bdr:G1196
+Ngamring County,
+,http://library.bdrc.io/show/bdr:G2162
+Nyainrong County,
+,http://library.bdrc.io/show/bdr:G1246
+,http://library.bdrc.io/show/bdr:G2146
+Nyarong,
+,http://library.bdrc.io/show/bdr:G1365
+Olka,
+,http://library.bdrc.io/show/bdr:G1379
+Paro,
+,http://library.bdrc.io/show/bdr:G836
+Pemako,
+,http://library.bdrc.io/show/bdr:G1977
+,http://library.bdrc.io/show/bdr:G3478
+Phuentsholing,
+,http://library.bdrc.io/show/bdr:G4490
+,http://library.bdrc.io/show/bdr:G1KR1268
+,http://library.bdrc.io/show/bdr:G1KR96
+Qamdo,
+,http://library.bdrc.io/show/bdr:G576
+Qinghai Province,
+,http://library.bdrc.io/show/bdr:G977
+Quxu County,
+,http://library.bdrc.io/show/bdr:G2128
+Ragya Monastery,
+,http://library.bdrc.io/show/bdr:G398
+Rebkong,
+,http://library.bdrc.io/show/bdr:G2369
+Rongdrag County,
+,http://library.bdrc.io/show/bdr:G2310
+Rongwo,
+,http://library.bdrc.io/show/bdr:G163
+,http://library.bdrc.io/show/bdr:G2491
+Sa'gya County,
+,http://library.bdrc.io/show/bdr:G2169
+,http://library.bdrc.io/show/bdr:G210
+Saga County,
+,http://library.bdrc.io/show/bdr:G2160
+Sarnath,
+,http://library.bdrc.io/show/bdr:G1PD110102
+Sershul Monastery,
+,http://library.bdrc.io/show/bdr:G3261
+Sertar County,
+,http://library.bdrc.io/show/bdr:G3765
+,http://library.bdrc.io/show/bdr:G2302
+Serxu County,
+,http://library.bdrc.io/show/bdr:G2301
+,http://library.bdrc.io/show/bdr:G3957
+Shalu Monastery,
+,http://library.bdrc.io/show/bdr:G1180
+Shechen Monastery (Tibet),
+,http://library.bdrc.io/show/bdr:G20
+Shigatse County,
+,http://library.bdrc.io/show/bdr:G2170
+Sikkim,
+,http://library.bdrc.io/show/bdr:G1398
+Solukhumbu,
+,http://library.bdrc.io/show/bdr:G2490
+Songpan County,
+,http://library.bdrc.io/show/bdr:G2333
+Spiti,
+,http://library.bdrc.io/show/bdr:G3CN32
+Swayambhunath,
+,http://library.bdrc.io/show/bdr:G3156
+Tabo Monastery,
+,http://library.bdrc.io/show/bdr:G1KG17626
+Tadong,
+,http://library.bdrc.io/show/bdr:G1PD96122
+Taktse County,
+,http://library.bdrc.io/show/bdr:G1516
+Takure Monastery,
+,http://library.bdrc.io/show/bdr:G1979
+Tarthang Monastery (Tibet),
+,http://library.bdrc.io/show/bdr:G523
+Tashi Lhunpo Monastery,
+,http://library.bdrc.io/show/bdr:G4841
+,http://library.bdrc.io/show/bdr:G1542
+Thimphu,
+,http://library.bdrc.io/show/bdr:G4706
+Tibet,
+,http://library.bdrc.io/show/bdr:G1PD108961
+,http://library.bdrc.io/show/bdr:G3196
+Tingri County,
+,http://library.bdrc.io/show/bdr:G2165
+Trongsa,
+,http://library.bdrc.io/show/bdr:G4713
+Tuwacang Monastery,
+,http://library.bdrc.io/show/bdr:G3222
+USA,
+,http://library.bdrc.io/show/bdr:G3JT12416
+Varanasi,
+,http://library.bdrc.io/show/bdr:G2CN10953
+Xiangcheng County,
+,http://library.bdrc.io/show/bdr:G1103
+Xining,
+,http://library.bdrc.io/show/bdr:G598
+Yajiang County,
+,http://library.bdrc.io/show/bdr:G2303
+Zetang,
+,http://library.bdrc.io/show/bdr:G560
+Zhichen Monastery,
+,http://library.bdrc.io/show/bdr:G1563
+Zoi Chongkyir,
+,http://library.bdrc.io/show/bdr:G916
+Zoige County,
+,http://library.bdrc.io/show/bdr:G299
+,http://library.bdrc.io/show/bdr:G1132

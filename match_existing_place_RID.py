@@ -51,6 +51,13 @@ def is_exact_match(text1, text2):
     return text1 == text2
 
 
+def is_contained(text1, text2):
+    if text1 != '' and text2 != '':
+        if text1 in text2 or text2 in text1:
+            return True
+    return False
+
+
 unicodes = {}
 phonos = {}
 
@@ -102,13 +109,15 @@ def is_phonetic_match(text1, text2):
 
 
 def match(rids, locations, match_func):
-    matches = {}
+    matches = defaultdict(list)
     for loc, l_variants in locations.items():
         for rid, r_variants in rids.items():
             for l in l_variants:
                 for r in r_variants:
                     if match_func(l, r):
-                        matches[loc] = rid
+                        matches[loc].append(rid)
+    for k, v in matches.items():
+        matches[k] = list(set(v))
     return matches
 
 
@@ -117,9 +126,11 @@ if __name__ == '__main__':
     locations = parse_locations()
 
     matches = match(parsed, locations, is_exact_match)
-    out = '\n'.join(['{},{}'.format(k, v) for k, v in matches.items()])
+    out = '\n'.join(['{},{}'.format(k, ''.join(['\n,http://library.bdrc.io/show/bdr:{}'.format(w) for w in v])) for k, v in matches.items()])
     Path('exact_matches.csv').write_text(out)
 
-    phono_matches = match(parsed, locations, is_phonetic_match)
-    out = '\n'.join(['{},{}'.format(k, v) for k, v in phono_matches.items()])
-    Path('phono_matches.csv').write_text(out)
+    not_matched = {location: insts for location, insts in locations.items() if location not in matches}
+
+    contained = match(parsed, not_matched, is_contained)
+    out = '\n'.join(['{},{}'.format(k, ''.join(['\n,http://library.bdrc.io/show/bdr:{}'.format(w) for w in v])) for k, v in contained.items()])
+    Path('containing_matches.csv').write_text(out)
