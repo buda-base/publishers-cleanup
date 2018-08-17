@@ -185,14 +185,11 @@ PublisherLocations
 	Buryatia
 		en
 			Buryatia
-	Buxa
-		en
-			Buxa
-		bo
-			sbag sa
 	Buxar
 		en
 			Buxar
+		bo
+			sbag sa
 	Bylakuppe
 		en
 			Bylakuppe
@@ -422,11 +419,6 @@ PublisherLocations
 			Dranang County
 		bo
 			grwa nang rdzong
-	Drepung		
-		en
-			Drepung
-		bo
-			'bras spungs
 	Drepung (Tibet)
 		en
 			Drepung (Tibet)
@@ -1243,18 +1235,19 @@ PublisherLocations
 	New York
 		en
 			New York
-	Ngaba
+	Ngaba County
 		en
-			Ngaba
+			Ngaba County
 		bo
-			mdo smad rnga yul
-			rnga ba
-			rnga ba khul
 			rnga ba
 			rnga pa
+	Ngaba Prefecture
+		en
+			Ngaba Prefecture
+		bo
+			rnga ba khul
 			rnga pa khul
 			rnga pa rang skyong khul
-			rnga yul
 	Ngagyur Taklung Monastery
 		en
 			Ngagyur Taklung Monastery
@@ -1265,6 +1258,14 @@ PublisherLocations
 			Ngamring County
 		bo
 			ngam ring rdzong
+	Ngayul
+		en
+			Ngayul
+		bo
+			mdo smad rnga yul
+			rnga ba
+			rnga pa
+			rnga yul
 	Ngulchu Chodzong Monastery
 		en
 			Ngulchu Chodzong Monastery
@@ -1319,15 +1320,11 @@ PublisherLocations
 		en
 			Palampur
 			palampur, dist kangra, h.p.
-	Palpung (Tibet)
-		en
-			Palpung (Tibet)
-		bo
-			dpal spungs
 	Palpung Monastery (Tibet)
 		en
 			Palpung Monastery (Tibet)
 		bo
+			dpal spungs
 			dpal spungs dgon
 	Paris
 		en
