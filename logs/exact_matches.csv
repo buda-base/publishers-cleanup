@@ -69,13 +69,13 @@ Dzogchen Monastery (Tibet),
 Dzongsar Monastery (Tibet),
 ,http://library.bdrc.io/show/bdr:G213
 Ganden (Tibet),
-,http://library.bdrc.io/show/bdr:G337
 ,http://library.bdrc.io/show/bdr:G2571
+,http://library.bdrc.io/show/bdr:G337
 Garthar Monastery,
 ,http://library.bdrc.io/show/bdr:G3494
 Garze,
-,http://library.bdrc.io/show/bdr:G621
 ,http://library.bdrc.io/show/bdr:G1538
+,http://library.bdrc.io/show/bdr:G621
 Golok,
 ,http://library.bdrc.io/show/bdr:G1490
 Gonggar County,
@@ -83,8 +83,8 @@ Gonggar County,
 Guide,
 ,http://library.bdrc.io/show/bdr:G1136
 Gungthang,
-,http://library.bdrc.io/show/bdr:G3CN461
 ,http://library.bdrc.io/show/bdr:G1338
+,http://library.bdrc.io/show/bdr:G3CN461
 Gyaca County,
 ,http://library.bdrc.io/show/bdr:G2138
 Gyalrong,
@@ -116,8 +116,8 @@ Jinchuan County,
 Jiulong County,
 ,http://library.bdrc.io/show/bdr:G2311
 Jone County,
-,http://library.bdrc.io/show/bdr:G1164
 ,http://library.bdrc.io/show/bdr:G2203
+,http://library.bdrc.io/show/bdr:G1164
 Jone Monastery,
 ,http://library.bdrc.io/show/bdr:G435
 Jyekundo,
@@ -125,8 +125,8 @@ Jyekundo,
 Kalimpong,
 ,http://library.bdrc.io/show/bdr:G3JT12629
 Kangding County,
-,http://library.bdrc.io/show/bdr:G2308
 ,http://library.bdrc.io/show/bdr:G1135
+,http://library.bdrc.io/show/bdr:G2308
 Kathmandu,
 ,http://library.bdrc.io/show/bdr:G2CN11080
 Kathok,
@@ -176,8 +176,8 @@ Maizhokunggar County,
 Mangyul,
 ,http://library.bdrc.io/show/bdr:G3166
 Mindroling (India),
-,http://library.bdrc.io/show/bdr:G1866
 ,http://library.bdrc.io/show/bdr:G14
+,http://library.bdrc.io/show/bdr:G1866
 Mindroling (Tibet),
 ,http://library.bdrc.io/show/bdr:G14
 Mongolia,
@@ -199,14 +199,18 @@ Nenying,
 ,http://library.bdrc.io/show/bdr:G3096
 Nepal,
 ,http://library.bdrc.io/show/bdr:G4450
-Ngaba,
-,http://library.bdrc.io/show/bdr:G636
+Ngaba County,
 ,http://library.bdrc.io/show/bdr:G1196
+Ngaba Prefecture,
+,http://library.bdrc.io/show/bdr:G636
 Ngamring County,
 ,http://library.bdrc.io/show/bdr:G2162
+Ngayul,
+,http://library.bdrc.io/show/bdr:G1196
 Nyainrong County,
-,http://library.bdrc.io/show/bdr:G1246
 ,http://library.bdrc.io/show/bdr:G2146
+Nyakrong County,
+,http://library.bdrc.io/show/bdr:G1246
 Nyarong,
 ,http://library.bdrc.io/show/bdr:G1365
 Olka,
@@ -214,12 +218,12 @@ Olka,
 Paro,
 ,http://library.bdrc.io/show/bdr:G836
 Pemako,
-,http://library.bdrc.io/show/bdr:G1977
 ,http://library.bdrc.io/show/bdr:G3478
+,http://library.bdrc.io/show/bdr:G1977
 Phuentsholing,
-,http://library.bdrc.io/show/bdr:G4490
-,http://library.bdrc.io/show/bdr:G1KR1268
 ,http://library.bdrc.io/show/bdr:G1KR96
+,http://library.bdrc.io/show/bdr:G1KR1268
+,http://library.bdrc.io/show/bdr:G4490
 Qamdo,
 ,http://library.bdrc.io/show/bdr:G576
 Qinghai Province,
@@ -233,8 +237,8 @@ Rebkong,
 Rongdrag County,
 ,http://library.bdrc.io/show/bdr:G2310
 Rongwo,
-,http://library.bdrc.io/show/bdr:G163
 ,http://library.bdrc.io/show/bdr:G2491
+,http://library.bdrc.io/show/bdr:G163
 Sa'gya County,
 ,http://library.bdrc.io/show/bdr:G2169
 ,http://library.bdrc.io/show/bdr:G210
@@ -245,11 +249,11 @@ Sarnath,
 Sershul Monastery,
 ,http://library.bdrc.io/show/bdr:G3261
 Sertar County,
-,http://library.bdrc.io/show/bdr:G3765
 ,http://library.bdrc.io/show/bdr:G2302
+,http://library.bdrc.io/show/bdr:G3765
 Serxu County,
-,http://library.bdrc.io/show/bdr:G2301
 ,http://library.bdrc.io/show/bdr:G3957
+,http://library.bdrc.io/show/bdr:G2301
 Shalu Monastery,
 ,http://library.bdrc.io/show/bdr:G1180
 Shechen Monastery (Tibet),
@@ -277,8 +281,8 @@ Takure Monastery,
 Tarthang Monastery (Tibet),
 ,http://library.bdrc.io/show/bdr:G523
 Tashi Lhunpo Monastery,
-,http://library.bdrc.io/show/bdr:G4841
 ,http://library.bdrc.io/show/bdr:G1542
+,http://library.bdrc.io/show/bdr:G4841
 Thimphu,
 ,http://library.bdrc.io/show/bdr:G4706
 Tibet,
@@ -307,5 +311,5 @@ Zhichen Monastery,
 Zoi Chongkyir,
 ,http://library.bdrc.io/show/bdr:G916
 Zoige County,
-,http://library.bdrc.io/show/bdr:G299
 ,http://library.bdrc.io/show/bdr:G1132
+,http://library.bdrc.io/show/bdr:G299

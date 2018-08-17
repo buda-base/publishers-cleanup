@@ -166,12 +166,10 @@ PublisherLocations
 	Buryatia		
 			Buryatia
 			buryatia
-	Buxa		
-			Buxa
-			sbag sa
 	Buxar		
 			Buxar
 			buxar
+			sbag sa
 	Bylakuppe		
 			Bylakuppe
 			Bylakuppe, Mysore
@@ -485,9 +483,6 @@ PublisherLocations
 	Dranang County		
 			Dranang County
 			grwa nang rdzong
-	Drepung		
-			'bras spungs
-			Drepung
 	Drepung (Tibet)		
 			'bras spung
 			'bras spung, lhasa
@@ -518,8 +513,6 @@ PublisherLocations
 			'dzm thang
 			Dzamthang
 			dzam thang
-	Dzamthang Monastery		
-			Dzamthang Monastery
 			dzam thang dgon
 	Dzogchen (Tibet)		
 			Dzogchen (Tibet)
@@ -1173,22 +1166,28 @@ PublisherLocations
 			new york
 			new york city
 			new york, ny
-	Ngaba		
-			Ngaba
-			mdo smad rnga yul
+	Ngaba County		
+			Ngaba County
 			rnga ba
-			rnga ba khul
-			rnga ba/
 			rnga pa
 			rnga pa khul
+	Ngaba Prefecture		
+			Ngaba Prefecture
+			rnga ba khul
 			rnga pa rang skyong khul
-			rnga yul
 	Ngagyur Taklung Monastery		
 			Ngagyur Taklung Monastery
 			mdo smad snga 'gyur stag lung dgon
 	Ngamring County		
 			Ngamring County
 			ngam ring rdzong
+	Ngayul		
+			Ngayul
+			mdo smad rnga yul
+			rnga ba
+			rnga ba/
+			rnga pa
+			rnga yul
 	Ngulchu Chodzong Monastery		
 			Ngulchu Chodzong Monastery
 			dngul chu chos rdong
@@ -1201,6 +1200,8 @@ PublisherLocations
 	Nyainrong County		
 			Nyainrong County
 			gnyan rong rdzong
+	Nyakrong County		
+			Nyakrong County
 			nyag rong rdzong
 	Nyarong		
 			Nyarong
@@ -1239,11 +1240,9 @@ PublisherLocations
 			palampur, distt. kangra
 			palampur, h. p.
 			palampur, h.p.
-	Palpung (Tibet)		
-			Palpung (Tibet)
-			dpal spungs
 	Palpung Monastery (Tibet)		
 			Palpung Monastery (Tibet)
+			dpal spungs
 			dpal spungs dgon
 			dpal spungs gon
 	Paris		

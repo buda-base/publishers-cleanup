@@ -121,16 +121,25 @@ def match(rids, locations, match_func):
     return matches
 
 
+def parse_matches():
+    content = Path('matches.csv').read_text(encoding='utf-8-sig')
+    return [a.split(',')[0] for a in content.split('\n')]
+
+
 if __name__ == '__main__':
     parsed = parse_existing_places()
     locations = parse_locations()
 
     matches = match(parsed, locations, is_exact_match)
     out = '\n'.join(['{},{}'.format(k, ''.join(['\n,http://library.bdrc.io/show/bdr:{}'.format(w) for w in v])) for k, v in matches.items()])
-    Path('exact_matches.csv').write_text(out)
+    Path('logs/exact_matches.csv').write_text(out)
 
     not_matched = {location: insts for location, insts in locations.items() if location not in matches}
 
     contained = match(parsed, not_matched, is_contained)
     out = '\n'.join(['{},{}'.format(k, ''.join(['\n,http://library.bdrc.io/show/bdr:{}'.format(w) for w in v])) for k, v in contained.items()])
-    Path('containing_matches.csv').write_text(out)
+    Path('logs/containing_matches.csv').write_text(out)
+
+    mmatches = parse_matches()
+    unknown = [loc for loc in locations if loc not in mmatches]
+    Path('logs/unknown_locs.csv').write_text('\n'.join(unknown))

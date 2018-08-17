@@ -1,0 +1,56 @@
+duplicates:
+
+Nanping
+,http://library.bdrc.io/show/bdr:G2338,=
+,http://library.bdrc.io/show/bdr:G2394,=
+
+http://library.bdrc.io/show/bdr:G3978
+http://library.bdrc.io/show/bdr:G1KR2669
+
+Gungthang
+,http://library.bdrc.io/show/bdr:G1338
+,http://library.bdrc.io/show/bdr:G3CN461
+note says: བོན་གྱི་འདུ་གནས་སོ་བདུན་ལས། རུ་ལག་གི་འདུ་གནས་དགུ་ཡི་དགུ་པ་ནི་ལྷ་ཡུལ་གུང་ཐང་(མང་ཡུལ་གུང་ཐང་།)་ཡིན་ཏེ། ལ་སྟོད་ཆེ་རུ་གནས་པ་གསལ།, G1338 in brackets,
+so it seems to be more commonly used.
+
+Lanzhou
+,http://library.bdrc.io/show/bdr:G895,=
+,http://library.bdrc.io/show/bdr:G580,=
+
+Pemako
+,http://library.bdrc.io/show/bdr:G3478,=
+,http://library.bdrc.io/show/bdr:G1977,=
+
+Serxu County
+,http://library.bdrc.io/show/bdr:G3957,=
+,http://library.bdrc.io/show/bdr:G2301,=
+
+Tibet
+,http://library.bdrc.io/show/bdr:G1PD108961,modern
+,http://library.bdrc.io/show/bdr:G3196,traditional
+
+questions:
+
+Jomonang
+,http://library.bdrc.io/show/bdr:G201,monastery. is Jomonang the name of a place or the name of the monastery ?
+
+
+choices to check:
+
+Bora, https://www.tbrc.org/#!rid=W23633:
+looking at https://www.tbrc.org/browser/ImageService?work=W23633&igroup=I1KG463&image=939&first=1&last=940&fetchimg=yes
+the syllables with a circle read "sgnon thang bshad sgrub dar rgyas gling", which is
+http://library.bdrc.io/show/bdr:G1KR2063
+
+Tashijong == India
+
+Garze
+,http://library.bdrc.io/show/bdr:G621,dzong
+,http://library.bdrc.io/show/bdr:G1538,khul
+khul(Prefecture) is chosen because it is more general
+
+Ngaba
+I have devided it into three:
+    Ngayul, traditional location
+    Ngaba County, modern location
+    Ngaba Prefecture, modern Prefecture
