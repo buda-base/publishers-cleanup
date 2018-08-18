@@ -121,8 +121,8 @@ def match(rids, locations, match_func):
     return matches
 
 
-def parse_matches():
-    content = Path('matches.csv').read_text(encoding='utf-8-sig')
+def parse_matches(f='output/matches.csv'):
+    content = Path(f).read_text(encoding='utf-8-sig')
     return [a.split(',')[0] for a in content.split('\n')]
 
 
@@ -140,6 +140,7 @@ if __name__ == '__main__':
     out = '\n'.join(['{},{}'.format(k, ''.join(['\n,http://library.bdrc.io/show/bdr:{}'.format(w) for w in v])) for k, v in contained.items()])
     Path('logs/containing_matches.csv').write_text(out)
 
-    mmatches = parse_matches()
-    unknown = [loc for loc in locations if loc not in mmatches]
-    Path('logs/unknown_locs.csv').write_text('\n'.join(unknown))
+    final_matches = parse_matches()
+    multiple = parse_matches('output/multiple_locations.csv')
+    unknown = [loc for loc in locations if loc not in final_matches and loc not in multiple]
+    Path('output/needs_attribution.csv').write_text('\n'.join(unknown))
