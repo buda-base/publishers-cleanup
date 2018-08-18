@@ -1,9 +1,13 @@
-workflow:
+`locations_cleaned_GID.tsv`: cleaned publisher locations strings in `bo`, `en` or `zh`.
+All entries have been manually checked.
 
-import in MindMeister as tab-indented .txt
-export as Freemind file
-modify in Freemind
-present/modify in MindMeister
-Export as txt
+`publisher_locations_tree_GID.tsv`: the tree structure of all publisher locations with the geographic RID attributed.
+This can serve to update the Geographic data with all the new locations.
+Note some modern locations in TAR were not attributed a GID.
 
-G5PL
+`publishers_GID.csv`: the same as csv/publishers.csv, but with the GID attributed
+Note locations found in `logs/locations_unknown.tsv` are momentarily left unchanged
+
+The content of `output/questions.csv` should be reviewed with the librarians.
+
+The content of `logs/locations_unknown.tsv` should be processed by someone more knowledgeable and included in `logs/locations.csv` so the changes are propagated down the workflow. 
