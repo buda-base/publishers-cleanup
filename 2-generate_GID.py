@@ -44,7 +44,7 @@ attributed = {a.split(',')[0]: a.split(',')[1] for a in attributed}
 matches = Path('output/matches.csv').read_text(encoding='utf-8-sig').split('\n')
 matches = {a.split(',')[0]: a.split(',')[1] for a in matches}
 
-multiple = Path('output/multiple_locations.csv').read_text(encoding='utf-8-sig').split('\n')
+multiple = Path('output/temporary_RIDs.csv').read_text(encoding='utf-8-sig').split('\n')
 multiple = {a.split(',')[0]: a.split(',')[1] for a in multiple}
 
 all_Gs = {**attributed, **matches, **multiple}

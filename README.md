@@ -10,4 +10,6 @@ Note locations found in `logs/locations_unknown.tsv` are momentarily left unchan
 
 The content of `output/questions.csv` should be reviewed with the librarians.
 
-The content of `logs/locations_unknown.tsv` should be processed by someone more knowledgeable and included in `logs/locations.csv` so the changes are propagated down the workflow. 
+The content of `logs/locations_unknown.tsv` should be processed by someone more knowledgeable and included in `logs/locations.csv` so the changes are propagated down the workflow.
+
+`remaining_issues.csv`: all the remaining entries (excepting about 4000 [s.l.]) that could not be processed and thus didn't receive a new RID. 
