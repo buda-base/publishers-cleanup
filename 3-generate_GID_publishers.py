@@ -11,7 +11,8 @@ matches = parse_GIDs('output/matches.csv')
 multiple = parse_GIDs('output/temporary_RIDs.csv')
 attributed = parse_GIDs('output/needs_attribution.csv')
 
-all_Gs = {**attributed, **multiple, **matches}
+# all_Gs = {**attributed, **multiple, **matches}
+all_Gs = {**attributed, **matches}
 
 data = csv.reader(Path('csv/publishers.csv').open())
 data = list(data)
