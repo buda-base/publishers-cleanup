@@ -1,0 +1,3890 @@
+﻿{
+    "PublisherLocations": {
+        "G00EGS1017242": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "glo smon thang",
+                    "smon thang",
+                    "smon thang btsum lung"
+                ],
+                "en": [
+                    "Mustang"
+                ]
+            }
+        },
+        "G00JR3353": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "he mis byang chub bsam gtan gling",
+                    "la dwags he mi"
+                ],
+                "en": [
+                    "Hemis Monastery"
+                ]
+            }
+        },
+        "G00KG09752": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Japan"
+                ]
+            }
+        },
+        "G00KG09762": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "bal yul mchod rten bya rung kha shor",
+                    "bal yul mchod rten"
+                ],
+                "en": [
+                    "Bouddhanath"
+                ]
+            }
+        },
+        "G00KG09762    G2GS1037": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Bouddhanath & Bodhgaya"
+                ]
+            }
+        },
+        "G0DD0001": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Amsterdam"
+                ]
+            }
+        },
+        "G0DD0002": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Andiast"
+                ]
+            }
+        },
+        "G0DD0003": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Arcidosso"
+                ]
+            }
+        },
+        "G0DD0004": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Auckland"
+                ]
+            }
+        },
+        "G0DD0005": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Australia"
+                ]
+            }
+        },
+        "G0DD0006": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "grub pa'i gnas mchog 'od gsal phug"
+                ],
+                "en": [
+                    "Bairotsana Cave"
+                ]
+            }
+        },
+        "G0DD0007": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Ballimaran"
+                ]
+            }
+        },
+        "G0DD0008": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Bangalore"
+                ]
+            }
+        },
+        "G0DD0009": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Basgo",
+                    "basgo ladakh"
+                ]
+            }
+        },
+        "G0DD0010": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Berkeley"
+                ]
+            }
+        },
+        "G0DD0011": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Bidung"
+                ]
+            }
+        },
+        "G0DD0012": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Bonn"
+                ]
+            }
+        },
+        "G0DD0013": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Boston"
+                ]
+            }
+        },
+        "G0DD0015": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Buryatia"
+                ]
+            }
+        },
+        "G0DD0017": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "sbag sa"
+                ],
+                "en": [
+                    "Buxar"
+                ]
+            }
+        },
+        "G0DD0018": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "spel kob"
+                ],
+                "en": [
+                    "Bylakuppe"
+                ]
+            }
+        },
+        "G0DD0019": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Canada"
+                ]
+            }
+        },
+        "G0DD0020": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Cazadero"
+                ]
+            }
+        },
+        "G0DD0021": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "lcang long dgon"
+                ],
+                "en": [
+                    "Changlung Monastery"
+                ]
+            }
+        },
+        "G0DD0022": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Charlottesville"
+                ]
+            }
+        },
+        "G0DD0023": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Chauntra"
+                ]
+            }
+        },
+        "G0DD0024": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "a ri'i phi li Ta phi ya spyan ras gzigs nang pa'i chos tshogs"
+                ],
+                "en": [
+                    "Chenrezig Tibetan Buddhist Center"
+                ]
+            }
+        },
+        "G0DD0025": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Clement Town"
+                ]
+            }
+        },
+        "G0DD0026": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Dalhousie"
+                ]
+            }
+        },
+        "G0DD0027": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rdo rje gling",
+                    "rdor gling"
+                ],
+                "en": [
+                    "Darjeeling"
+                ]
+            }
+        },
+        "G0DD0027    G2CN11080": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Darjeeling & Kathmandu"
+                ]
+            }
+        },
+        "G0DD0028": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Dehra Dun"
+                ]
+            }
+        },
+        "G0DD0029": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "d+hi li",
+                    "d+hi li gsar pa",
+                    "dhi li",
+                    "dil+li",
+                    "ldi li",
+                    "ldi li gsar pa",
+                    "ne'u ldi li"
+                ],
+                "en": [
+                    "Delhi",
+                    "New Delhi"
+                ]
+            }
+        },
+        "G0DD0029    G0DD0042": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Delhi & Gangtok"
+                ]
+            }
+        },
+        "G0DD0029    G3CN1567": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Delhi & Dolanji"
+                ]
+            }
+        },
+        "G0DD0030": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'steng chen"
+                ],
+                "en": [
+                    "Dengqen"
+                ]
+            }
+        },
+        "G0DD0031": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Deorali"
+                ]
+            }
+        },
+        "G0DD0032": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Dhondenling Tibetan Settlement"
+                ]
+            }
+        },
+        "G0DD0033": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Drepung Loseling (India)"
+                ]
+            }
+        },
+        "G0DD0034": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Drukgyel Dzong",
+                    "drukgyel jeutsaphu"
+                ]
+            }
+        },
+        "G0DD0035": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Dzongsar Shedra (India)"
+                ]
+            }
+        },
+        "G0DD0036": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "ing len"
+                ],
+                "en": [
+                    "England"
+                ]
+            }
+        },
+        "G0DD0037": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "bya dkar gsang chen e waM bde chen chos gling"
+                ],
+                "en": [
+                    "Ewam Dechen Choling Monastery"
+                ]
+            }
+        },
+        "G0DD0038": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "France"
+                ]
+            }
+        },
+        "G0DD0039": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Gaden Shartse Monastery (India)"
+                ]
+            }
+        },
+        "G0DD0040": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Ganeshthan"
+                ]
+            }
+        },
+        "G0DD0041": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Gangchen Kyishong"
+                ]
+            }
+        },
+        "G0DD0042": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "sgang tog",
+                    "sgang tog 'bras ljongs"
+                ],
+                "en": [
+                    "Gangtok"
+                ]
+            }
+        },
+        "G0DD0042     G3JT12630": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Gangtok & Dharamsala"
+                ]
+            }
+        },
+        "G0DD0043": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gA yA"
+                ],
+                "en": [
+                    "Gaya"
+                ]
+            }
+        },
+        "G0DD0044": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Gelephu"
+                ]
+            }
+        },
+        "G0DD0045": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Gemur"
+                ]
+            }
+        },
+        "G0DD0046": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Gemur Monastery"
+                ]
+            }
+        },
+        "G0DD0047": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Germany",
+                    "germany"
+                ]
+            }
+        },
+        "G0DD0048": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Gottingen"
+                ]
+            }
+        },
+        "G0DD0050": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Gurupura"
+                ]
+            }
+        },
+        "G0DD0051": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Gyume Tantric College (India)"
+                ]
+            }
+        },
+        "G0DD0052": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Halle (Saale)"
+                ]
+            }
+        },
+        "G0DD0054": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "hong yon"
+                ],
+                "en": [
+                    "Hongyuan"
+                ]
+            }
+        },
+        "G0DD0055": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Hubli"
+                ]
+            }
+        },
+        "G0DD0056": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Inder Puri"
+                ]
+            }
+        },
+        "G0DD0057": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "i Ta li"
+                ],
+                "en": [
+                    "Italy"
+                ]
+            }
+        },
+        "G0DD0058": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Ithaca"
+                ]
+            }
+        },
+        "G0DD0059": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Jakar Dzong"
+                ]
+            }
+        },
+        "G0DD0060": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Jeerango"
+                ]
+            }
+        },
+        "G0DD0061": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Kanara"
+                ]
+            }
+        },
+        "G0DD0062": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Kangra"
+                ]
+            }
+        },
+        "G0DD0063": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Karnataka"
+                ]
+            }
+        },
+        "G0DD0064": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Kawring"
+                ]
+            }
+        },
+        "G0DD0065": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Khajuhi"
+                ]
+            }
+        },
+        "G0DD0066": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Calcutta",
+                    "Kolkata"
+                ]
+            }
+        },
+        "G0DD0067": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Kollegal"
+                ]
+            }
+        },
+        "G0DD0068": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Kotla Panjola",
+                    "khotla-panjola"
+                ]
+            }
+        },
+        "G0DD0069": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Kulhan"
+                ]
+            }
+        },
+        "G0DD0070": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Kullu"
+                ]
+            }
+        },
+        "G0DD0071": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "khun men",
+                    "khun ming"
+                ],
+                "en": [
+                    "Kunming"
+                ],
+                "zh": [
+                    "kun ming",
+                    "\u6606\u660e"
+                ]
+            }
+        },
+        "G0DD0072": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Kyoto",
+                    "jingdu"
+                ],
+                "zh": [
+                    "\u4eac\u90fd",
+                    "\u4eac\u90fd\u5e02"
+                ]
+            }
+        },
+        "G0DD0073": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Lahaul-Spiti"
+                ]
+            }
+        },
+        "G0DD0074": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Larkspur"
+                ]
+            }
+        },
+        "G0DD0075": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "la g.yag"
+                ],
+                "en": [
+                    "Laya"
+                ]
+            }
+        },
+        "G0DD0076": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Leipzig"
+                ]
+            }
+        },
+        "G0DD0077": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "London"
+                ]
+            }
+        },
+        "G0DD0078": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Losar"
+                ]
+            }
+        },
+        "G0DD0079": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "o min"
+                ],
+                "en": [
+                    "Macau"
+                ]
+            }
+        },
+        "G0DD0080": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "men pAT"
+                ],
+                "en": [
+                    "Mainpat"
+                ]
+            }
+        },
+        "G0DD0081": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Majnu-ka-tilla"
+                ]
+            }
+        },
+        "G0DD0082": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "ku lu mi na le"
+                ],
+                "en": [
+                    "Manali",
+                    "kulumanali"
+                ]
+            }
+        },
+        "G0DD0083": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Mandi"
+                ]
+            }
+        },
+        "G0DD0084": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Manduwala"
+                ]
+            }
+        },
+        "G0DD0085": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Manuka"
+                ]
+            }
+        },
+        "G0DD0086": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Maryland"
+                ]
+            }
+        },
+        "G0DD0087": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "McLeod Ganj"
+                ]
+            }
+        },
+        "G0DD0088": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "o rgyan smin grol gling"
+                ],
+                "en": [
+                    "Mindroling (India)"
+                ]
+            }
+        },
+        "G0DD0089": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Mirik"
+                ]
+            }
+        },
+        "G0DD0090": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Moscow"
+                ]
+            }
+        },
+        "G0DD0091": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mon g+ho Ta"
+                ],
+                "en": [
+                    "Mundgod"
+                ]
+            }
+        },
+        "G0DD0092": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Mussoorie"
+                ]
+            }
+        },
+        "G0DD0093": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "ma su ri",
+                    "ma su'u ri"
+                ],
+                "en": [
+                    "Mysore"
+                ]
+            }
+        },
+        "G0DD0094": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gayu thog rnam rgyal dgon"
+                ],
+                "en": [
+                    "Namgyal Monastery (Yuthok)"
+                ]
+            }
+        },
+        "G0DD0095": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "New Jersey"
+                ]
+            }
+        },
+        "G0DD0096": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "New Taipei City"
+                ],
+                "zh": [
+                    "\u65b0\u5317\u5e02"
+                ]
+            }
+        },
+        "G0DD0097": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "New York"
+                ]
+            }
+        },
+        "G0DD0098": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "North America"
+                ]
+            }
+        },
+        "G0DD0099": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Oakland"
+                ]
+            }
+        },
+        "G0DD0100": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Ochghat"
+                ]
+            }
+        },
+        "G0DD0101": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Odiyan"
+                ]
+            }
+        },
+        "G0DD0102": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Osaka"
+                ]
+            }
+        },
+        "G0DD0104": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Palace Monastery"
+                ]
+            }
+        },
+        "G0DD0105": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Palampur"
+                ]
+            }
+        },
+        "G0DD0106": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Paris"
+                ]
+            }
+        },
+        "G0DD0108": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "yang le shod"
+                ],
+                "en": [
+                    "Pharping",
+                    "Yangleshod"
+                ]
+            }
+        },
+        "G0DD0109": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "phun tshogs gling"
+                ],
+                "en": [
+                    "Phuentsholing"
+                ]
+            }
+        },
+        "G0DD0109    G4706": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "phun tshogs gling / thim phu"
+                ],
+                "en": [
+                    "Phuentsholing & Thimphu"
+                ]
+            }
+        },
+        "G0DD0110": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Plouray"
+                ]
+            }
+        },
+        "G0DD0111": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Pokhara"
+                ]
+            }
+        },
+        "G0DD0112": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Prague"
+                ]
+            }
+        },
+        "G0DD0113": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Queens"
+                ]
+            }
+        },
+        "G0DD0114": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Questa"
+                ]
+            }
+        },
+        "G0DD0115": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rA dza pur",
+                    "ra dza pur"
+                ],
+                "en": [
+                    "Rajpur"
+                ]
+            }
+        },
+        "G0DD0116": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Rewalsar"
+                ]
+            }
+        },
+        "G0DD0117": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Rikon"
+                ]
+            }
+        },
+        "G0DD0118": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Rome"
+                ]
+            }
+        },
+        "G0DD0119": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Rupandehi"
+                ]
+            }
+        },
+        "G0DD0120": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Sakyo-ku"
+                ]
+            }
+        },
+        "G0DD0121": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Sanjauli"
+                ]
+            }
+        },
+        "G0DD0122": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Sansal"
+                ]
+            }
+        },
+        "G0DD0123": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Santiniketan"
+                ]
+            }
+        },
+        "G0DD0124": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "sa rA"
+                ],
+                "en": [
+                    "Sarah"
+                ]
+            }
+        },
+        "G0DD0125": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Saspul",
+                    "saspola"
+                ]
+            }
+        },
+        "G0DD0126": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Seattle"
+                ]
+            }
+        },
+        "G0DD0127": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "se la ku"
+                ],
+                "en": [
+                    "Selaqui"
+                ]
+            }
+        },
+        "G0DD0128": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Sera Je Monastery (India)"
+                ]
+            }
+        },
+        "G0DD0129": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "hrang he"
+                ],
+                "en": [
+                    "Shanghai"
+                ],
+                "zh": [
+                    "\u4e0a\u6d77"
+                ]
+            }
+        },
+        "G0DD0130": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Shimla",
+                    "Simla"
+                ]
+            }
+        },
+        "G0DD0131": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Shoreline",
+                    "shoreline, WA"
+                ]
+            }
+        },
+        "G0DD0132": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mtsho slob shrI dI wa kar wi hA ra"
+                ],
+                "en": [
+                    "Shri Diwakar Vihara"
+                ]
+            }
+        },
+        "G0DD0133": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Siddharthanagar",
+                    "Bhairahawa"
+                ]
+            }
+        },
+        "G0DD0134": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Sidhbari"
+                ]
+            }
+        },
+        "G0DD0135": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Sidhpur"
+                ]
+            }
+        },
+        "G0DD0136": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Simtokha"
+                ]
+            }
+        },
+        "G0DD0137": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Somerville (Boston)"
+                ]
+            }
+        },
+        "G0DD0138": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Sonada"
+                ]
+            }
+        },
+        "G0DD0139": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "South India"
+                ]
+            }
+        },
+        "G0DD0140": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dpe thub dgon"
+                ],
+                "en": [
+                    "Spituk Monastery",
+                    "Pethub Monastery",
+                    "spetup"
+                ]
+            }
+        },
+        "G0DD0141": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "St-Petersburg"
+                ]
+            }
+        },
+        "G0DD0142": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "stag sna ladakh"
+                ],
+                "en": [
+                    "Stakna Monastery"
+                ]
+            }
+        },
+        "G0DD0143": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Sumra (H.P.)"
+                ]
+            }
+        },
+        "G0DD0144": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Switzerland"
+                ]
+            }
+        },
+        "G0DD0145": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Tadong"
+                ]
+            }
+        },
+        "G0DD0146": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Taipei"
+                ]
+            }
+        },
+        "G0DD0147": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "tA'i wan",
+                    "tha'e wan"
+                ],
+                "en": [
+                    "Taiwan"
+                ],
+                "zh": [
+                    "thaiwen",
+                    "\u53f0\u6e7e"
+                ]
+            }
+        },
+        "G0DD0148": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Tana Monastery (India)"
+                ]
+            }
+        },
+        "G0DD0149": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Tezu"
+                ]
+            }
+        },
+        "G0DD0150": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Tharpaling Monastery"
+                ]
+            }
+        },
+        "G0DD0151": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "The Bir Tibetan Society"
+                ]
+            }
+        },
+        "G0DD0152": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rdor gling rang dbang par khang"
+                ],
+                "en": [
+                    "Tibetan Freedom Press"
+                ]
+            }
+        },
+        "G0DD0153": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Tibetan Khampa Industrial Society"
+                ]
+            }
+        },
+        "G0DD0154": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Tohoku",
+                    "tohoku, japan"
+                ]
+            }
+        },
+        "G0DD0155": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Tokyo",
+                    "Tokyo, Japan"
+                ],
+                "zh": [
+                    "\u6771\u4eac"
+                ]
+            }
+        },
+        "G0DD0156": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dkar mdzes rdzong stong skor sgon"
+                ],
+                "en": [
+                    "Tongkor Monastery"
+                ]
+            }
+        },
+        "G0DD0157": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Toronto"
+                ]
+            }
+        },
+        "G0DD0158": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gtsang ldan"
+                ],
+                "en": [
+                    "Tsangdain Monastery"
+                ]
+            }
+        },
+        "G0DD0159": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Upper Bhattu"
+                ]
+            }
+        },
+        "G0DD0162": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Victoria"
+                ]
+            }
+        },
+        "G0DD0163": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Washington"
+                ]
+            }
+        },
+        "G0DD0164": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Wien"
+                ]
+            }
+        },
+        "G0DD0165": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Wiesbaden"
+                ]
+            }
+        },
+        "G0DD0166": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Woodstock"
+                ]
+            }
+        },
+        "G0DD0167": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Xicheng District"
+                ],
+                "zh": [
+                    "\u5317\u4eac\u5e02\u897f\u57ce\u533a\u6587\u6d25\u88577\u53f7"
+                ]
+            }
+        },
+        "G0DD0168": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "thub bstan yang ri sgang"
+                ],
+                "en": [
+                    "Yangrigang Monastery"
+                ]
+            }
+        },
+        "G0DD0169": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "lha sa zhol"
+                ],
+                "en": [
+                    "Zhol Village"
+                ]
+            }
+        },
+        "G0DD0170": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "kan kru'u"
+                ],
+                "en": [
+                    "Ganzhou"
+                ]
+            }
+        },
+        "G0DD0171": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Jinan"
+                ],
+                "zh": [
+                    "\u6d4e\u5357"
+                ]
+            }
+        },
+        "G1005": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dpa' ris"
+                ],
+                "en": [
+                    "Bairi"
+                ]
+            }
+        },
+        "G104": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "bkra shis lhun po",
+                    "bkra shis lhun po dgon"
+                ],
+                "en": [
+                    "Tashi Lhunpo Monastery"
+                ]
+            }
+        },
+        "G1052": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dpa' ris rdzong"
+                ],
+                "en": [
+                    "Bairi County"
+                ]
+            }
+        },
+        "G108": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'bras spung",
+                    "'bras spungs"
+                ],
+                "en": [
+                    "Drepung (Tibet)"
+                ]
+            }
+        },
+        "G1085": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gle"
+                ],
+                "en": [
+                    "Leh"
+                ]
+            }
+        },
+        "G10MS19724": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "khreng tu'u (etc.)"
+                ],
+                "en": [
+                    "Chengdu (etc.)"
+                ]
+            }
+        },
+        "G1103": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "cha phreng rdzong",
+                    "phyag 'phreng rdzong"
+                ],
+                "en": [
+                    "Xiangcheng County"
+                ]
+            }
+        },
+        "G1136": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "khri ka",
+                    "khri kha"
+                ],
+                "en": [
+                    "Guide"
+                ]
+            }
+        },
+        "G1192": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "lo ro"
+                ],
+                "en": [
+                    "Loro"
+                ]
+            }
+        },
+        "G1196": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mdo smad rnga yul",
+                    "rnga ba",
+                    "rnga pa",
+                    "rnga yul"
+                ],
+                "en": [
+                    "Ngayul"
+                ]
+            }
+        },
+        "G1202": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "a mdo"
+                ],
+                "en": [
+                    "Amdo"
+                ]
+            }
+        },
+        "G1272": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rgyal rong"
+                ],
+                "en": [
+                    "Gyalrong"
+                ]
+            }
+        },
+        "G1326": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "khams"
+                ],
+                "en": [
+                    "Kham"
+                ]
+            }
+        },
+        "G1338": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gung thang",
+                    "mang yul gung thang"
+                ],
+                "en": [
+                    "Gungthang"
+                ]
+            }
+        },
+        "G1365": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "nyag rong"
+                ],
+                "en": [
+                    "Nyarong"
+                ]
+            }
+        },
+        "G1366": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "khams sde dge",
+                    "mdo khams sde dge",
+                    "sde dge",
+                    "sde dge rdzong"
+                ],
+                "en": [
+                    "Dege"
+                ]
+            }
+        },
+        "G1379": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'ol kha"
+                ],
+                "en": [
+                    "Olka"
+                ]
+            }
+        },
+        "G1395": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "hal ha",
+                    "sog yul khal kha"
+                ],
+                "en": [
+                    "Khalkha"
+                ]
+            }
+        },
+        "G1398": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'bras ljongs"
+                ],
+                "en": [
+                    "Sikkim"
+                ]
+            }
+        },
+        "G14": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "smin grol gling"
+                ],
+                "en": [
+                    "Mindroling (Tibet)"
+                ]
+            }
+        },
+        "G1467": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "nang chen rdzong"
+                ],
+                "en": [
+                    "Nangqen County"
+                ]
+            }
+        },
+        "G1473": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "si khron"
+                ],
+                "en": [
+                    "Sichuan"
+                ],
+                "zh": [
+                    "si chuan"
+                ]
+            }
+        },
+        "G1481": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "d+hi tsha"
+                ],
+                "en": [
+                    "Ditsa"
+                ]
+            }
+        },
+        "G1490": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mgo log"
+                ],
+                "en": [
+                    "Golok"
+                ]
+            }
+        },
+        "G1516": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "stag rtse rdzong"
+                ],
+                "en": [
+                    "Taktse County"
+                ]
+            }
+        },
+        "G1538": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dkar mdzes",
+                    "dkar mdzes khul",
+                    "dkar mdzes rdzong"
+                ],
+                "en": [
+                    "Garze"
+                ],
+                "zh": [
+                    "\u7518\u5b5c",
+                    "\u7518\u5b5c\u62a5\u5370\u5237\u5382"
+                ]
+            }
+        },
+        "G1539": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dkar mdzes bod rigs rang skyong khul, sde dge rdzong",
+                    "sde dge rdzong"
+                ],
+                "en": [
+                    "Dege County"
+                ]
+            }
+        },
+        "G154": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "se ra"
+                ],
+                "en": [
+                    "Sera (Tibet)"
+                ]
+            }
+        },
+        "G1563": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gzhi chen dgon"
+                ],
+                "en": [
+                    "Zhichen Monastery"
+                ]
+            }
+        },
+        "G16": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rdzogs chen dgon",
+                    "sde dge rdzongs chen dgon"
+                ],
+                "en": [
+                    "Dzogchen Monastery (Tibet)"
+                ]
+            }
+        },
+        "G160": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "sku 'bum",
+                    "sku 'bum byams pa gling"
+                ],
+                "en": [
+                    "Kubum Monastery"
+                ]
+            }
+        },
+        "G162": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "bla brang",
+                    "bkra shis 'khyil",
+                    "bla brang bkra shis 'khyil"
+                ],
+                "en": [
+                    "Labrang Monastery"
+                ]
+            }
+        },
+        "G1695": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gcan tsha",
+                    "gcan tsha rdzong"
+                ],
+                "en": [
+                    "Jainca County"
+                ]
+            }
+        },
+        "G17": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "kaH thog",
+                    "kaHthog"
+                ],
+                "en": [
+                    "Kathok"
+                ]
+            }
+        },
+        "G1721": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "lcags ri thang zhang"
+                ],
+                "en": [
+                    "Chakri Thangzhang"
+                ]
+            }
+        },
+        "G1750": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mdo smad snga 'gyur stag lung dgon"
+                ],
+                "en": [
+                    "Ngagyur Taklung Monastery"
+                ]
+            }
+        },
+        "G1754": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rma chen"
+                ],
+                "en": [
+                    "Maqen"
+                ]
+            }
+        },
+        "G186": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rdza rong phu"
+                ],
+                "en": [
+                    "Rongbuk"
+                ]
+            }
+        },
+        "G188": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "a 'dzom sgar"
+                ],
+                "en": [
+                    "Adzom Monastery"
+                ]
+            }
+        },
+        "G1912": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mtho las dgon rnam rgyal phun tshogs chos rdzong gling"
+                ],
+                "en": [
+                    "Tuole Monastery"
+                ]
+            }
+        },
+        "G193": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "lhun grub steng",
+                    "lhun sgrub steng",
+                    "sde dge dgon chen",
+                    "sde dge lhun grub steng"
+                ],
+                "en": [
+                    "Derge Gonchen"
+                ]
+            }
+        },
+        "G1949": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "pe cin",
+                    "pe cing",
+                    "\u0f54\u0f7a\u0f60\u0f72\u0f0b\u0f55\u0f72\u0f44\u0f0b",
+                    "\u0f54\u0f7a\u0f0b\u0f45\u0f72\u0f53\u0f0d"
+                ],
+                "en": [
+                    "Beijing",
+                    "Peking"
+                ],
+                "zh": [
+                    "bei cing",
+                    "bei jing",
+                    "beijing",
+                    "beijing shi",
+                    "\u5317\u4eac",
+                    "\u5317\u4eac\u5e02"
+                ]
+            }
+        },
+        "G1949    G0DD0077": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "pe cin/ lon tun"
+                ],
+                "en": [
+                    "Beijing & London"
+                ]
+            }
+        },
+        "G1949    G2800": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "pe cin/ lha sa",
+                    "lha sa dang pe cin"
+                ],
+                "en": [
+                    "Beijing & Lhasa"
+                ]
+            }
+        },
+        "G1949    G598": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "pe cin ; zi ling"
+                ],
+                "en": [
+                    "Beijing & Ziling"
+                ]
+            }
+        },
+        "G1977": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "pad+ma bkod"
+                ],
+                "en": [
+                    "Pemako"
+                ]
+            }
+        },
+        "G1979": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "khu re chen mo",
+                    "tA khu re",
+                    "tA khu re/ sog yul"
+                ],
+                "en": [
+                    "Takure Monastery"
+                ]
+            }
+        },
+        "G1990": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "lhun rtse",
+                    "lhun rtse rdzong"
+                ],
+                "en": [
+                    "Lhunze County",
+                    "Lhunze"
+                ]
+            }
+        },
+        "G1KG17626": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Tabo Monastery"
+                ]
+            }
+        },
+        "G1KR1169": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "khyung po steng chen g.yung drung bstan rgyas gling"
+                ],
+                "en": [
+                    "Khyungpo Tengchen Monastery"
+                ]
+            }
+        },
+        "G1KR2385": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "a rig chos grwa"
+                ],
+                "en": [
+                    "Arik Monastery"
+                ]
+            }
+        },
+        "G1PD110071": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'bras ljongs rum bteg",
+                    "rum bteg",
+                    "rum btegs"
+                ],
+                "en": [
+                    "Rumtek"
+                ]
+            }
+        },
+        "G1PD110102": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "sAranatha/ wArANasI",
+                    "wA rA Na sI'i sA ra nA tha"
+                ],
+                "en": [
+                    "Saranath"
+                ]
+            }
+        },
+        "G1PD97740": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rgya ye"
+                ],
+                "en": [
+                    "Gyaye"
+                ]
+            }
+        },
+        "G1TD12": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "bkra shis chos rdzong / thim phu"
+                ],
+                "en": [
+                    "Tashichhoedzong Monastery"
+                ]
+            }
+        },
+        "G1TD42": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Tashigang"
+                ]
+            }
+        },
+        "G1TD43": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Kyichu Temple"
+                ]
+            }
+        },
+        "G20": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "khams zhe chen dgon",
+                    "zhe chen dgon"
+                ],
+                "en": [
+                    "Shechen Monastery (Tibet)"
+                ]
+            }
+        },
+        "G201": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gtsang jo mo nang",
+                    "jo mo nang",
+                    "jo nang"
+                ],
+                "en": [
+                    "Jomonang"
+                ]
+            }
+        },
+        "G2014": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mal gro gung dkar",
+                    "mal gro gung dkar rdzong"
+                ],
+                "en": [
+                    "Maizhokunggar County"
+                ]
+            }
+        },
+        "G2128": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "chu shur rdzong"
+                ],
+                "en": [
+                    "Quxu County"
+                ]
+            }
+        },
+        "G213": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rdzong sar dgon",
+                    "sde dge rdzong sar dgon",
+                    "khams sde dge rdzong sar dgon"
+                ],
+                "en": [
+                    "Dzongsar Monastery (Tibet)"
+                ]
+            }
+        },
+        "G2135": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gong dkar rdzong",
+                    "lho kha gong dkar"
+                ],
+                "en": [
+                    "Gonggar County"
+                ]
+            }
+        },
+        "G2136": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "sna dkar rtse rdzong"
+                ],
+                "en": [
+                    "Nagarze County"
+                ]
+            }
+        },
+        "G2138": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rgya tsha rdzong"
+                ],
+                "en": [
+                    "Gyaca County"
+                ]
+            }
+        },
+        "G2146": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gnyan rong rdzong",
+                    "nyag rong rdzong"
+                ],
+                "en": [
+                    "Nyainrong County"
+                ]
+            }
+        },
+        "G2160": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "sa dga' rdzong"
+                ],
+                "en": [
+                    "Saga County"
+                ]
+            }
+        },
+        "G2162": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "ngam ring rdzong"
+                ],
+                "en": [
+                    "Ngamring County"
+                ]
+            }
+        },
+        "G2165": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "ding ri rdzong"
+                ],
+                "en": [
+                    "Tingri County"
+                ]
+            }
+        },
+        "G2167": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "lha rtse rdzong"
+                ],
+                "en": [
+                    "Lhatse County"
+                ]
+            }
+        },
+        "G2169": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "sa skya",
+                    "sa skya rdzong"
+                ],
+                "en": [
+                    "Sakya",
+                    "Sa'gya County"
+                ]
+            }
+        },
+        "G2170": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gzhi ka rtse",
+                    "gzhi ka rtse rdzong",
+                    "gzhis ka rtse",
+                    "gzhis rtse",
+                    "gzhis rtse rdzong"
+                ],
+                "en": [
+                    "Shigatse County"
+                ]
+            }
+        },
+        "G2174": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "pa snam rdzong"
+                ],
+                "en": [
+                    "Bainang County"
+                ]
+            }
+        },
+        "G218": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Tango"
+                ]
+            }
+        },
+        "G2183": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "brag g.yab"
+                ],
+                "en": [
+                    "Zhag'yab"
+                ]
+            }
+        },
+        "G2188": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'steng chen rdzong"
+                ],
+                "en": [
+                    "Dengqen County"
+                ]
+            }
+        },
+        "G2199": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "kan lho"
+                ],
+                "en": [
+                    "Gannan"
+                ]
+            }
+        },
+        "G2203": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "co ne",
+                    "co ne rdzong"
+                ],
+                "en": [
+                    "Jone County"
+                ]
+            }
+        },
+        "G2207": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "kan su'u"
+                ],
+                "en": [
+                    "Gansu"
+                ]
+            }
+        },
+        "G2208": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "yun nan"
+                ],
+                "en": [
+                    "Yunnan"
+                ]
+            }
+        },
+        "G221": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "ding ri shel dkar"
+                ],
+                "en": [
+                    "Shelkar"
+                ]
+            }
+        },
+        "G223": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dngul chu chos rdong"
+                ],
+                "en": [
+                    "Ngulchu Chodzong Monastery"
+                ]
+            }
+        },
+        "G225": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "snar thang"
+                ],
+                "en": [
+                    "Narthang Monastery",
+                    "Narthang"
+                ]
+            }
+        },
+        "G2297": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "grib"
+                ],
+                "en": [
+                    "Drib"
+                ]
+            }
+        },
+        "G2298": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rta'u rdzong"
+                ],
+                "en": [
+                    "Dawu County"
+                ]
+            }
+        },
+        "G2299": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "brag 'go",
+                    "brag 'go rdzong"
+                ],
+                "en": [
+                    "Luhou County"
+                ]
+            }
+        },
+        "G2300": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dkar mdzes bod rigs rang skyong khul, dpal yul rdzong",
+                    "dpal yul rdzong"
+                ],
+                "en": [
+                    "Baiyu County"
+                ]
+            }
+        },
+        "G2302": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gser rta rdzong",
+                    "gser rta",
+                    "gser thang rdzong",
+                    "gser thar rdzong",
+                    "ser rta",
+                    "ser rta rdzong",
+                    "ser tha"
+                ],
+                "en": [
+                    "Sertar County"
+                ]
+            }
+        },
+        "G2303": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "nyag chu rdzong"
+                ],
+                "en": [
+                    "Yajiang County"
+                ]
+            }
+        },
+        "G2304": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "li thang rdzong"
+                ],
+                "en": [
+                    "Litang County"
+                ]
+            }
+        },
+        "G2305": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'ba' thang rdzong"
+                ],
+                "en": [
+                    "Bathang County"
+                ]
+            }
+        },
+        "G2306": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'dab pa rdzong"
+                ],
+                "en": [
+                    "Daocheng County"
+                ]
+            }
+        },
+        "G2307": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "sde rong rdzong"
+                ],
+                "en": [
+                    "Derong County"
+                ]
+            }
+        },
+        "G2308": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dar mdo",
+                    "dar rtse mdo",
+                    "dar rtse mdo rdzong"
+                ],
+                "en": [
+                    "Kangding County"
+                ],
+                "zh": [
+                    "kang ding",
+                    "\u5eb7\u5b9a"
+                ]
+            }
+        },
+        "G2309": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "lcags zam rdzong"
+                ],
+                "en": [
+                    "Luding County"
+                ]
+            }
+        },
+        "G2310": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rong brag rdzong"
+                ],
+                "en": [
+                    "Rongdrag County"
+                ]
+            }
+        },
+        "G2311": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "brgyad zil rdzong"
+                ],
+                "en": [
+                    "Jiulong County"
+                ]
+            }
+        },
+        "G2312": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mtsho byang bod rigs rang skyong khul"
+                ],
+                "en": [
+                    "Haibei Prefecture"
+                ]
+            }
+        },
+        "G2317": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mtsho lho"
+                ],
+                "en": [
+                    "Hainan Prefecture"
+                ],
+                "zh": [
+                    "\u6d77\u5357\u5dde"
+                ]
+            }
+        },
+        "G2324": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "skye rgu"
+                ],
+                "en": [
+                    "Yushu Prefecture"
+                ]
+            }
+        },
+        "G2331": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rnga ba",
+                    "rnga pa"
+                ],
+                "en": [
+                    "Ngaba County"
+                ]
+            }
+        },
+        "G2332": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "khro chu"
+                ],
+                "en": [
+                    "Heishui"
+                ]
+            }
+        },
+        "G2333": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "zing chu",
+                    "zung chu",
+                    "zung chu rdzong"
+                ],
+                "en": [
+                    "Songpan County"
+                ]
+            }
+        },
+        "G2334": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "btsan lha"
+                ],
+                "en": [
+                    "Xiaojin County"
+                ]
+            }
+        },
+        "G2335": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "chu chen",
+                    "chu chen rdzong"
+                ],
+                "en": [
+                    "Jinchuan County"
+                ]
+            }
+        },
+        "G2338": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "nan phing"
+                ],
+                "en": [
+                    "Nanping"
+                ]
+            }
+        },
+        "G2340": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "wun khron"
+                ],
+                "en": [
+                    "Wenchuan"
+                ]
+            }
+        },
+        "G2369": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "reb gong",
+                    "reb gong khul"
+                ],
+                "en": [
+                    "Rebkong"
+                ]
+            }
+        },
+        "G237": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "se ra smad"
+                ],
+                "en": [
+                    "Serame (Tibet)"
+                ]
+            }
+        },
+        "G2376": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'jo mda'"
+                ],
+                "en": [
+                    "Jomda"
+                ]
+            }
+        },
+        "G2379": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Delingha"
+                ],
+                "zh": [
+                    "qing hai de ling ha shi"
+                ]
+            }
+        },
+        "G2396": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "zha' ho rdzong gi khongs"
+                ],
+                "en": [
+                    "Xiahe County"
+                ]
+            }
+        },
+        "G2490": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "so lu khum bu"
+                ],
+                "en": [
+                    "Solukhumbu"
+                ]
+            }
+        },
+        "G2491": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rong bo",
+                    "rong po"
+                ],
+                "en": [
+                    "Rongwo"
+                ]
+            }
+        },
+        "G275": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "zhwa lu"
+                ],
+                "en": [
+                    "Shalu Monastery"
+                ]
+            }
+        },
+        "G2800": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "l+ha sa",
+                    "lha ldan",
+                    "lha sa",
+                    "lha sa grong khyer",
+                    "\u0f63\u0fb7\u0f0b\u0f66\u0f0d"
+                ],
+                "en": [
+                    "Lhasa"
+                ],
+                "zh": [
+                    "\u62c9\u8428"
+                ]
+            }
+        },
+        "G2876": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gnas chen stag tshang"
+                ],
+                "en": [
+                    "Paro Taktsang"
+                ]
+            }
+        },
+        "G2883": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mer chen"
+                ],
+                "en": [
+                    "Merchen"
+                ]
+            }
+        },
+        "G299": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mdzod dge",
+                    "mdzod dge rdzong"
+                ],
+                "en": [
+                    "Zoige County"
+                ]
+            }
+        },
+        "G2CN10953": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "wA rA Na sI"
+                ],
+                "en": [
+                    "Varanasi"
+                ]
+            }
+        },
+        "G2CN11044": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "u rge"
+                ],
+                "en": [
+                    "Ulaanbaatar",
+                    "Ulanbatur"
+                ]
+            }
+        },
+        "G2CN11080": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "ka Tha ma N+Du",
+                    "kaTha man gru"
+                ],
+                "en": [
+                    "Kathmandu"
+                ]
+            }
+        },
+        "G2CN11096": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rdzogs chen shrI seng",
+                    "shrI: siM ha"
+                ],
+                "en": [
+                    "Dzogchen Shedra (Tibet)"
+                ]
+            }
+        },
+        "G2GS1037": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rdo rje gdan"
+                ],
+                "en": [
+                    "Bodhgaya"
+                ]
+            }
+        },
+        "G2KR73": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Chongqing",
+                    "chongqing shi"
+                ],
+                "zh": [
+                    "\u91cd\u5e86"
+                ]
+            }
+        },
+        "G2MS14675": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Lumbini"
+                ]
+            }
+        },
+        "G3096": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gnas rnying"
+                ],
+                "en": [
+                    "Nenying"
+                ]
+            }
+        },
+        "G3156": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Swayambhunath"
+                ]
+            }
+        },
+        "G3158": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'gar rtse"
+                ],
+                "en": [
+                    "Gartse"
+                ]
+            }
+        },
+        "G3166": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mang yul"
+                ],
+                "en": [
+                    "Mangyul"
+                ]
+            }
+        },
+        "G317": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "brag dkar rta so"
+                ],
+                "en": [
+                    "Drakar Taso"
+                ]
+            }
+        },
+        "G3182": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "la dwags"
+                ],
+                "en": [
+                    "Ladakh"
+                ]
+            }
+        },
+        "G3188": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'phags yul",
+                    "rgya gar"
+                ],
+                "en": [
+                    "India"
+                ]
+            }
+        },
+        "G3192": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "hang khong",
+                    "zhang kang",
+                    "zhang khang"
+                ],
+                "en": [
+                    "Hong Kong",
+                    "Xianggang"
+                ],
+                "zh": [
+                    "shang kang",
+                    "xanggang",
+                    "xiang gang",
+                    "xianggang",
+                    "\u9999\u6e2f"
+                ]
+            }
+        },
+        "G3196": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Tibet"
+                ],
+                "zh": [
+                    "\u897f\u85cf"
+                ]
+            }
+        },
+        "G3198": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rgya nag"
+                ],
+                "en": [
+                    "China"
+                ]
+            }
+        },
+        "G3205": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'brug yul"
+                ],
+                "en": [
+                    "Bhutan"
+                ]
+            }
+        },
+        "G3222": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mthu ba dgon"
+                ],
+                "en": [
+                    "Tuwacang Monastery"
+                ]
+            }
+        },
+        "G3237": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mtsho phu"
+                ],
+                "en": [
+                    "Cuopu"
+                ]
+            }
+        },
+        "G3261": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "ser shul dgon"
+                ],
+                "en": [
+                    "Sershul Monastery"
+                ]
+            }
+        },
+        "G337": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dga' ldan",
+                    "dga' ldan dgon",
+                    "dga' ldan dgon pa"
+                ],
+                "en": [
+                    "Ganden (Tibet)"
+                ]
+            }
+        },
+        "G341": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "lho lung dkar dgon"
+                ],
+                "en": [
+                    "Lho Lunkar Monastery"
+                ]
+            }
+        },
+        "G3466": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rmugs sangs dgon"
+                ],
+                "en": [
+                    "Muksang Monastery (Tibet)"
+                ]
+            }
+        },
+        "G3494": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mgar thar dgon"
+                ],
+                "en": [
+                    "Garthar Monastery"
+                ]
+            }
+        },
+        "G3529": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Tawang"
+                ]
+            }
+        },
+        "G36": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dpal spungs",
+                    "dpal spungs dgon"
+                ],
+                "en": [
+                    "Palpung Monastery (Tibet)"
+                ]
+            }
+        },
+        "G3762": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'dzam thang",
+                    "'dzam thang, 'bar khams rdzong",
+                    "'dzam thang, rnga ba rdzong"
+                ],
+                "en": [
+                    "Dzamthang"
+                ]
+            }
+        },
+        "G3812": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "ya chen"
+                ],
+                "en": [
+                    "Yarchen Monastery"
+                ]
+            }
+        },
+        "G3957": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "ser shul rdzong",
+                    "rdza chu kha rdzong"
+                ],
+                "en": [
+                    "Serxu County",
+                    "Dzachuka County"
+                ]
+            }
+        },
+        "G3971": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gser rta gnubs zur dgon"
+                ],
+                "en": [
+                    "Nubzur Monastery"
+                ]
+            }
+        },
+        "G398": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rwa rgya dgon",
+                    "rwa rgya dgon gyi yi dam khang"
+                ],
+                "en": [
+                    "Ragya Monastery"
+                ]
+            }
+        },
+        "G3997": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "bla rung sgar",
+                    "gser ljongs bla ma rung",
+                    "gser ljongs bla ma rung lnga rig nang bstan slob grwa chen mo",
+                    "gser rta bla rung sgar",
+                    "gser thang bla rung lnga rig nang bstan slob gling gi lha ldan",
+                    "bla rung sgar"
+                ],
+                "en": [
+                    "Larung Gar"
+                ]
+            }
+        },
+        "G3CN1562": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Bir"
+                ]
+            }
+        },
+        "G3CN1567": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Dolanji"
+                ]
+            }
+        },
+        "G3CN1568": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Solan"
+                ]
+            }
+        },
+        "G3CN285": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Bengal"
+                ]
+            }
+        },
+        "G3CN58": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "\u0f63\u0fb7\u0f7c\u0f0b\u0f56\u0fb2\u0f42"
+                ],
+                "en": [
+                    "Lhozhag"
+                ]
+            }
+        },
+        "G3JT12416": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "a ri"
+                ],
+                "en": [
+                    "USA"
+                ]
+            }
+        },
+        "G3JT12558": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "bkra shis ljongs/ hi ma cal"
+                ],
+                "en": [
+                    "Tashijong"
+                ]
+            }
+        },
+        "G3JT12587": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "shes rig par khang"
+                ],
+                "en": [
+                    "Sherig Parkhang"
+                ]
+            }
+        },
+        "G3JT12629": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "ka sbug",
+                    "ka spug"
+                ],
+                "en": [
+                    "Kalimpong"
+                ]
+            }
+        },
+        "G3JT12630": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "d+ha ram sA la",
+                    "d+ha ram sa la",
+                    "d+ha ram shA la",
+                    "d+ha sa",
+                    "dha ram sa la",
+                    "pan rjab d+ha sa",
+                    "rda ram sa la",
+                    "rda sa"
+                ],
+                "en": [
+                    "Dharamsala"
+                ]
+            }
+        },
+        "G3JT12630    G1PD110102": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Dharamsala & Sarnath"
+                ]
+            }
+        },
+        "G4144": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "khams nang chen",
+                    "nang chen",
+                    "sgom sde nang chen"
+                ],
+                "en": [
+                    "Nangqen"
+                ]
+            }
+        },
+        "G4168": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Kinnaur"
+                ]
+            }
+        },
+        "G4236": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'jang sa tham"
+                ],
+                "en": [
+                    "Lijiang County"
+                ]
+            }
+        },
+        "G435": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "co ne dgon chen"
+                ],
+                "en": [
+                    "Jone Monastery"
+                ]
+            }
+        },
+        "G4450": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "bal yul"
+                ],
+                "en": [
+                    "Nepal"
+                ]
+            }
+        },
+        "G4560": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Mao County"
+                ],
+                "zh": [
+                    "mao wen"
+                ]
+            }
+        },
+        "G4584": {
+            "containedIn": "",
+            "lang": {
+                "en": [
+                    "Nemo"
+                ]
+            }
+        },
+        "G4654": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "nyag a 'dzin rong"
+                ],
+                "en": [
+                    "Adzin Rong (Nyag)"
+                ]
+            }
+        },
+        "G4706": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "them bu",
+                    "thim phu",
+                    "thim phug"
+                ],
+                "en": [
+                    "Thimphu"
+                ]
+            }
+        },
+        "G4713": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "krong gsar"
+                ],
+                "en": [
+                    "Trongsa"
+                ]
+            }
+        },
+        "G4716": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "bum thang"
+                ],
+                "en": [
+                    "Bumthang"
+                ]
+            }
+        },
+        "G4755": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "brag dkar dgon pa"
+                ],
+                "en": [
+                    "Drakgo Monastery"
+                ]
+            }
+        },
+        "G4794": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "la stod lho pa"
+                ],
+                "en": [
+                    "Lato South"
+                ]
+            }
+        },
+        "G4874": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dkar mdzes bod rigs rang skyong khul/ sde dge rdzong/ rdzong sar khams bye'i slob gling",
+                    "rdzong sar khams bye"
+                ],
+                "en": [
+                    "Dzongsar Shedra (Tibet)"
+                ]
+            }
+        },
+        "G523": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dar thang dgon"
+                ],
+                "en": [
+                    "Tarthang Monastery (Tibet)"
+                ]
+            }
+        },
+        "G529": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "dzam thang dgon"
+                ],
+                "en": [
+                    "Dzamthang Monastery"
+                ]
+            }
+        },
+        "G54": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "spungs thang",
+                    "spungs thim"
+                ],
+                "en": [
+                    "Punakha"
+                ]
+            }
+        },
+        "G560": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rtsed thang"
+                ],
+                "en": [
+                    "Zetang"
+                ]
+            }
+        },
+        "G566": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'bo ra"
+                ],
+                "en": [
+                    "Bora"
+                ]
+            }
+        },
+        "G576": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "chab mdo"
+                ],
+                "en": [
+                    "Qamdo"
+                ]
+            }
+        },
+        "G584": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "sog po",
+                    "sog yul"
+                ],
+                "en": [
+                    "Mongolia"
+                ]
+            }
+        },
+        "G598": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "zi gling",
+                    "zi ling"
+                ],
+                "en": [
+                    "Xining"
+                ],
+                "zh": [
+                    "xi ning",
+                    "xining shi",
+                    "\u897f\u5b81"
+                ]
+            }
+        },
+        "G603": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "nang sog"
+                ],
+                "en": [
+                    "Inner Mongolia"
+                ]
+            }
+        },
+        "G632": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rdza chu kha"
+                ],
+                "en": [
+                    "Dzachuka"
+                ]
+            }
+        },
+        "G636": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "rnga ba khul",
+                    "rnga pa khul",
+                    "rnga pa rang skyong khul"
+                ],
+                "en": [
+                    "Ngaba Prefecture"
+                ]
+            }
+        },
+        "G640": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "kong po"
+                ],
+                "en": [
+                    "Kongpo"
+                ]
+            }
+        },
+        "G662": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "bya khyung"
+                ],
+                "en": [
+                    "Jakhyung"
+                ]
+            }
+        },
+        "G799": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "grwa nang rdzong"
+                ],
+                "en": [
+                    "Dranang County"
+                ]
+            }
+        },
+        "G830": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "'bar khams",
+                    "'bar khams, rnga ba khul"
+                ],
+                "en": [
+                    "Barkham"
+                ],
+                "zh": [
+                    "\u9a6c\u5c14\u5eb7",
+                    "\u56db\u5ddd\u7701\u9a6c\u5c14\u5eb7"
+                ]
+            }
+        },
+        "G836": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "spa gro"
+                ],
+                "en": [
+                    "Paro"
+                ]
+            }
+        },
+        "G867": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "zangs dkar",
+                    "bzang dkar"
+                ],
+                "en": [
+                    "Zanskar"
+                ]
+            }
+        },
+        "G869": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "skye dgu mdo",
+                    "skye rgu mdo"
+                ],
+                "en": [
+                    "Jyekundo"
+                ]
+            }
+        },
+        "G895": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "lan kro'u",
+                    "lan kru'u",
+                    "lan gru",
+                    "lan gru'u",
+                    "lan kra'u",
+                    "lan kru'i",
+                    "lan krui'u",
+                    "lang gru",
+                    "len kro'u",
+                    "len kru'u"
+                ],
+                "en": [
+                    "Lanzhou"
+                ],
+                "zh": [
+                    "lan chou",
+                    "lan zhou",
+                    "lanchou",
+                    "lanzhou",
+                    "lanzhou shi",
+                    "\u5170\u5dde",
+                    "\u5170\u5dde\u5e02"
+                ]
+            }
+        },
+        "G916": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "gtsod grong khyer",
+                    "gtsos grong khyer"
+                ],
+                "en": [
+                    "Zoi Chongkyir"
+                ]
+            }
+        },
+        "G977": {
+            "containedIn": "",
+            "lang": {
+                "bo": [
+                    "mtsho sngon",
+                    "mtsho sngon zhing chen"
+                ],
+                "en": [
+                    "Qinghai",
+                    "Qinghai Province"
+                ]
+            }
+        }
+    }
+}
