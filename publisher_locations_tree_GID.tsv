@@ -1,85 +1,84 @@
 ﻿Japan	G00KG09752
-	Tohoku	G5PL159
-	Osaka	G5PL107
-	Tokyo	G5PL160
-	Kyoto	G5PL77
-		Sakyo-ku	G5PL125
-Germany	G5PL51
-	Gottingen	G5PL52
-	Halle (Saale)	G5PL56
-	Wiesbaden	G5PL170
-Canada	G5PL20
-	Toronto	G5PL162
-Taiwan	G5PL152
-	New Taipei City	G5PL101
-	Taipei	G5PL151
-Russia	G5PL184
-	Moscow	G5PL95
-	St-Petersburg	G5PL146
-England	G5PL39
-	London	G5PL82
-Holland	G5PL178
-	Amsterdam	G5PL1
-France	G5PL41
-	Paris	G5PL111
-	Bretagne	G5PL179
-		Plouray	G5PL115
-Italy	G5PL61
-	Rome	G5PL123
-	Arcidosso	G5PL3
-Switzerland	G5PL149
-	Andiast	G5PL2
-	Zurich	G5PL180
-		Rikon	G5PL122
-Australia	G5PL5
-	Victoria	G5PL167
+	Tohoku	G0DD0154
+	Osaka	G0DD0102
+	Tokyo	G0DD0155
+	Kyoto	G0DD0072
+		Sakyo-ku	G0DD0120
+Germany	G0DD0047
+	Gottingen	G0DD0048
+	Halle (Saale)	G0DD0052
+	Wiesbaden	G0DD0165
+Canada	G0DD0019
+	Toronto	G0DD0157
+Taiwan	G0DD0147
+	New Taipei City	G0DD0096
+	Taipei	G0DD0146
+Russia
+	Moscow	G0DD0090
+	St-Petersburg	G0DD0141
+	Buryatia	G0DD0015
+England	G0DD0036
+	London	G0DD0077
+Holland
+	Amsterdam	G0DD0001
+France	G0DD0038
+	Paris	G0DD0106
+	Bretagne
+		Plouray	G0DD0110
+Italy	G0DD0057
+	Rome	G0DD0118
+	Arcidosso	G0DD0003
+Switzerland	G0DD0144
+	Andiast	G0DD0002
+	Zurich
+		Rikon	G0DD0117
+Australia	G0DD0005
+	Victoria	G0DD0162
 	Griffith ACT
-		Manuka	G5PL90
-New Zealand	G5PL181
-	Auckland	G5PL4
+		Manuka	G0DD0085
+New Zealand
+	Auckland	G0DD0004
 Hong Kong	G3192
-Czech Republic	G5PL182
-	Prague	G5PL117
-Austria	G5PL183
-	Wien	G5PL169
-Russia	G5PL184
-	Buryatia	G5PL16
+Czech Republic
+	Prague	G0DD0112
+Austria
+	Wien	G0DD0164
 USA	G3JT12416
-	Washington	G5PL168
-		Seattle	G5PL131
-		Shoreline	G5PL136
-	New York	G5PL102
-		Ithaca	G5PL62
-		Queens	G5PL118
-		Woodstock	G5PL171
-	New Jersey	G5PL100
-	Massachusetts	G5PL185
-		Boston	G5PL14
-			Somerville (Boston)	G5PL142
-	California	G5PL186
-		Berkeley	G5PL11
-		Cazadero	G5PL21
-			Odiyan	G5PL106
-		Larkspur	G5PL79
-		Oakland	G5PL104
-	New Mexico	G5PL187
-		Questa	G5PL119
-	Maryland	G5PL91
-	Virginia	G5PL188
-		Charlottesville	G5PL23
-	Pennsylvania	G5PL189
-		Philadelphia	G5PL190
-			Chenrezig Tibetan Buddhist Center	G5PL25
+	Washington	G0DD0163
+		Seattle	G0DD0126
+		Shoreline	G0DD0131
+	New York	G0DD0097
+		Ithaca	G0DD0058
+		Queens	G0DD0113
+		Woodstock	G0DD0166
+	New Jersey	G0DD0095
+	Massachusetts
+		Boston	G0DD0013
+			Somerville (Boston)	G0DD0137
+	California
+		Berkeley	G0DD0010
+		Cazadero	G0DD0020
+			Odiyan	G0DD0101
+		Larkspur	G0DD0074
+		Oakland	G0DD0099
+	New Mexico
+		Questa	G0DD0114
+	Maryland	G0DD0086
+	Virginia
+		Charlottesville	G0DD0022
+	Pennsylvania
+		Philadelphia
+			Chenrezig Tibetan Buddhist Center	G0DD0024
 China	G3198
-	Macau	G5PL84
+	Macau	G0DD0079
 	Beijing	G1949
-		Xicheng District	G5PL172
-	Shanghai	G5PL134
+		Xicheng District	G0DD0167
+	Shanghai	G0DD0129
 	Chongqing	G2KR73
-	Jiangxi Province	G5PL191
-		Ganzhou	G5PL46
+	Jiangxi Province	G9GBX360000000
+		Ganzhou	G9GBX360700000
 	Gansu	G2207
-		Wuwei	G5PL192
+		Wuwei	G9GBX620600000
 			Bairi County	G1052
 			Bairi	G1005
 		Gannan	G2199
@@ -90,20 +89,20 @@ China	G3198
 			Zoi Chongkyir	G916
 		Lanzhou	G895
 	Yunnan	G2208
-		Kunming	G5PL76
-	Shandong	G5PL193
-		Jinan	G5PL65
-	Fujian	G5PL194
-		Nanping	G2338
-	Tibet Autonomous Region
+		Kunming	G0DD0071
+	Shandong	G9GBX370000000
+		Jinan	G9GBX370100000
+	Fujian	G9GBX350000000
+		Nanping	G9GBX350700000
+	Tibet Autonomous Region	G9GBX540000000
 		to find
 			Rongwo	G2491
-		Lhasa City
+		Lhasa City	G1819
 			Maizhokunggar County	G2014
 			Quxu County	G2128
 			Taktse County	G1516
-			Zhol Village	G5PL174
-		Shigatse City
+			Zhol Village	G0DD0169
+		Shigatse City	G2170
 			Tashi Lhunpo Monastery	G104
 			Narthang Monastery	G225
 			Shalu Monastery	G275
@@ -113,10 +112,10 @@ China	G3198
 			Ngamring County	G2162
 			Lhatse County	G2167
 			Tingri County	G2165
-			Xietongmen County
+			Xietongmen County	G2164
 				Ngulchu Chodzong Monastery	G223
-		Nyingchi City
-			Pemako	G3478
+		Nyingchi City	G1PD89995
+			Pemako	G1977
 		Shannan City
 			Dranang County	G799
 			Gyaca County	G2138
@@ -125,52 +124,52 @@ China	G3198
 			Gonggar County	G2135
 			Nedong District
 				Zetang	G560
-			Lhozhag	G5PL81
+			Lhozhag	G3CN58
 		Nagqu City
 			Nyainrong County	G2146
-			Sog County
-				Tsangdain Monastery	G5PL163
-		Ngari Prefecture
-		Qamdo	G576
+			Sog County	G2149
+				Tsangdain Monastery	G0DD0158
+		Ngari Prefecture	G2151
+		Qamdo	G9GBX542100000
 			Dengqen County	G2188
 				Khyungpo Tengchen Monastery	G1KR1169
-			Gongjue County
-				Changlung Monastery	G5PL22
+			Gongjue County	G2182
+				Changlung Monastery	G0DD0021
 			Zhag'yab	G2183
 	Qinghai Province	G977
 		Yushu Prefecture	G2324
-			Yushu City
-				Jyekundo	G869
+			Yushu City	G9GBX632701000
+				Jyekundo	G9GBX632701100
 			Nangqen County	G1467
 				Lho Lunkar Monastery	G341
 			Merchen	G2883
 		Hainan Prefecture	G2317
-			Guinan County
+			Guinan County	G1812
 				Tuole Monastery	G1912
-		Huangnan Prefecture
+		Huangnan Prefecture	G1697
 			Jainca County	G1695
 			Ditsa	G1481
 		Xining	G598
-			Huangzhong County
+			Huangzhong County	G2350
 				Kubum Monastery	G160
 			Golok	G1490
-				Banma County
+				Banma County	G1719
 					Chakri Thangzhang	G1721
 				Maqen	G1754
 					Ragya Monastery	G398
-				Jiuzhi County
+				Jigzhi County	G1700
 					Ngagyur Taklung Monastery	G1750
-			Haixi Prefecture
-				Delingha	G5PL31
+			Haixi Prefecture	G2323
+				Delingha	G2379
 			Haibei Prefecture	G2312
-				Qilian County
+				Qilian County	G2314
 					Arik Monastery	G1KR2385
-		Haidong Prefecture
-			Hualong County
+		Haidong Prefecture	G2CN11152
+			Hualong County	G1PD96109
 				Tuwacang Monastery	G3222
 	Sichuan	G1473
 		Garze	G1538
-			Garze County
+			Garze County	G621
 				Zhichen Monastery	G1563
 			Litang County	G2304
 			Serxu County	G3957
@@ -196,8 +195,8 @@ China	G3198
 			Derong County	G2307
 			Jiulong County	G2311
 			Daocheng County	G2306
-			Luhuo County
-				Drakgo Monastery	G5PL35
+			Luhuo County	G2299
+				Drakgo Monastery	G4755
 		Ngaba Prefecture	G636
 			Xiaojin County	G2334
 			Jinchuan County	G2335
@@ -207,7 +206,7 @@ China	G3198
 			Dzamthang	G3762
 				Dzamthang Monastery	G529
 			Zoige County	G299
-			Hongyuan	G5PL58
+			Hongyuan	G0DD0054
 			Wenchuan	G2340
 			Songpan County	G2333
 		Chengdu	G10MS19724
@@ -216,15 +215,15 @@ Tibet	G3196
 		Nyakrong	G1365
 			Adzin Rong (Nyag)	G4654
 		Gyalrong	G1272
-			Bairotsana Cave	G5PL6
+			Bairotsana Cave	G0DD0006
 		Dege	G1366
 	Jomda	G2376
-		Muksang Monastery
+		Muksang Monastery	G3466
 	Amdo	G1202
 		Golok	G1490
 		Rebkong	G2369
 		Gartse	G3158
-		Bora	G1KR2063
+		Bora	G566
 	Kongpo	G640
 	U-Tsang	G3186
 		Tsang	G1300
@@ -234,7 +233,7 @@ Tibet	G3196
 				Rongbuk	G186
 		Gungthang	G1338
 		Lhasa	G2800
-			Yangrigang Monastery	G5PL173
+			Yangrigang Monastery	G0DD0168
 		Kyirong	G2161
 	Ngari	G571
 		Mangyul	G3166
@@ -245,151 +244,151 @@ Mongolia	G584
 	Takure Monastery	G1979
 Bhutan	G3205
 	Bumthang	G4716
-		Jakar Dzong	G5PL63
-		Tharpaling Monastery	G5PL155
+		Jakar Dzong	G0DD0059
+		Tharpaling Monastery	G0DD0150
 	Thimphu	G4706
 		Tango	G218
 		Tashichhoedzong Monastery	G1TD12
-		Simtokha	G5PL141
-	Gasa	G5PL195
-		Laya	G388
+		Simtokha	G0DD0136
+	Gasa
+		Laya	G0DD0075
 	Tashigang	G1TD42
-		Bidung	G5PL12
-	Sarpang	G5PL196
-		Gelephu	G5PL48
+		Bidung	G0DD0011
+	Sarpang
+		Gelephu	G0DD0044
 	Punakha	G54
 	Paro	G836
-		Drukgyel Dzong	G5PL37
+		Drukgyel Dzong	G0DD0034
 		Paro Taktsang	G2876
 		Kyichu Temple	G1TD43
 	Trongsa	G4713
-	Chukha	G5PL197
-		Phuentsholing	G5PL114
+	Chukha
+		Phuentsholing	G0DD0109
 Nepal	G4450
 	Kathmandu	G2CN11080
-		Pharping	G5PL113
-			Ganeshthan	G5PL43
+		Pharping	G0DD0108
+			Ganeshthan	G0DD0040
 		Swayambhunath	G3156
 		Bouddhanath	G00KG09762
-	Pokhara	G5PL116
+	Pokhara	G0DD0111
 	Solukhumbu	G2490
 	Mustang	G00EGS1017242
-	Rupandehi	G5PL124
+	Rupandehi	G0DD0119
 		Lumbini	G2MS14675
-			Siddharthanagar	G5PL138
+			Siddharthanagar	G0DD0133
 India	G3188
-	Delhi	G5PL30
-		Majnu-ka-tilla	G5PL86
-		Ballimaran	G5PL7
-		Inder Puri	G5PL60
+	Delhi	G0DD0029
+		Majnu-ka-tilla	G0DD0081
+		Ballimaran	G0DD0007
+		Inder Puri	G0DD0056
 	Sikkim	G1398
-		Tadong	G5PL150
-		Gangtok	G5PL45
-			Deorali	G5PL33
-			Palace Monastery	G5PL109
-		East Sikkim	G5PL198
+		Tadong	G0DD0145
+		Gangtok	G0DD0042
+			Deorali	G0DD0031
+			Palace Monastery	G0DD0104
+		East Sikkim
 			Rumtek	G1PD110071
-	Karnataka	G5PL68
-		Mysore	G5PL98
-			Bylakuppe	G5PL19
-		Kollegal	G5PL72
-			Dhondenling Tibetan Settlement	G5PL34
-			Tana Monastery	G5PL199
-		Bangalore	G5PL8
-		Kanara	G5PL66
-			North Kanara	G5PL200
-				Karwar	G5PL201
-					Mundgod	G5PL96
-						Gaden Shartse Monastery (India)	G5PL42
-		Hunsur	G5PL202
-			Gurupura	G5PL54
-	Himachal Pradesh	G5PL203
-		Kangra	G5PL67
+	Karnataka	G0DD0063
+		Mysore	G0DD0093
+			Bylakuppe	G0DD0018
+		Kollegal	G0DD0067
+			Dhondenling Tibetan Settlement	G0DD0032
+			Tana Monastery
+		Bangalore	G0DD0008
+		Kanara	G0DD0061
+			North Kanara
+				Karwar
+					Mundgod	G0DD0091
+						Gaden Shartse Monastery (India)	G0DD0039
+		Hunsur
+			Gurupura	G0DD0050
+	Himachal Pradesh
+		Kangra	G0DD0062
 			Dharamsala	G3JT12630
-				McLeod Ganj	G5PL92
-				Sarah	G5PL129
+				McLeod Ganj	G0DD0087
+				Sarah	G0DD0124
 				Sherig Parkhang	G3JT12587
-				Gangchen Kyishong	G5PL44
-				Sidhbari	G5PL139
-			Sansal	G5PL127
-			Palampur	G5PL110
+				Gangchen Kyishong	G0DD0041
+				Sidhbari	G0DD0134
+			Sansal	G0DD0122
+			Palampur	G0DD0105
 				Tashijong	G3JT12558
-			Baijnath	G5PL204
-				Bhattu	G5PL205
-					Upper Bhattu	G5PL164
-			Sidhpur	G5PL140
+			Baijnath
+				Bhattu
+					Upper Bhattu	G0DD0159
+			Sidhpur	G0DD0135
 			Bir	G3CN1562
-				Dzongsar Shedra (India)	G5PL38
-				Tibetan Khampa Industrial Society	G5PL158
-				The Bir Tibetan Society	G5PL156
-		Mandi	G5PL88
-			Chauntra	G5PL24
-			Rewalsar	G5PL121
-		Kullu	G5PL75
-			Manali	G5PL87
+				Dzongsar Shedra (India)	G0DD0035
+				Tibetan Khampa Industrial Society	G0DD0153
+				The Bir Tibetan Society	G0DD0151
+		Mandi	G0DD0083
+			Chauntra	G0DD0023
+			Rewalsar	G0DD0116
+		Kullu	G0DD0070
+			Manali	G0DD0082
 		Kinnaur	G4168
-		Lahaul-Spiti	G5PL78
+		Lahaul-Spiti	G0DD0073
 			Spiti	G3CN32
-				Losar	G5PL83
+				Losar	G0DD0078
 				Tabo Monastery	G1KG17626
-				Sumra (H.P.)	G5PL148
-			Lahaul	G5PL206
-				Kawring	G5PL69
-					Gemur	G5PL49
-						Gemur Monastery	G5PL50
+				Sumra (H.P.)	G0DD0143
+			Lahaul
+				Kawring	G0DD0064
+					Gemur	G0DD0045
+						Gemur Monastery	G0DD0046
 		Solan	G3CN1568
-			Kotla Panjola	G5PL73
-			Ochghat	G5PL105
+			Kotla Panjola	G0DD0068
+			Ochghat	G0DD0100
 				Dolanji	G3CN1567
-		Chamba	G5PL207
-			Dalhousie	G5PL27
-		Shimla	G5PL135
-			Sanjauli	G5PL126
-	Jammu and Kashmir	G5PL208
+		Chamba
+			Dalhousie	G0DD0026
+		Shimla	G0DD0130
+			Sanjauli	G0DD0121
+	Jammu and Kashmir
 		Ladakh	G3182
 			Leh	G1085
 				Nemo	G4584
-				Spituk Monastery	G5PL145
-			Basgo	G5PL9
-			Saspul	G5PL130
-			Kargil	G5PL209
+				Spituk Monastery	G0DD0140
+			Basgo	G0DD0009
+			Saspul	G0DD0125
+			Kargil
 				Zanskar	G867
-			Hemis	G5PL176
+			Hemis
 				Hemis Monastery	G00JR3353
-			Stakna Monastery	G5PL147
-	Uttarakhand	G5PL175
-		Dehradun	G5PL29
-			Selaqui	G5PL132
-			Mussoorie	G5PL97
-			Rajpur	G5PL120
-			Clement Town	G5PL26
-		Manduwala	G5PL89
-	Bihar	G5PL210
-		Gaya	G5PL47
+			Stakna Monastery	G0DD0142
+	Uttarakhand
+		Dehradun	G0DD0028
+			Selaqui	G0DD0127
+			Mussoorie	G0DD0092
+			Rajpur	G0DD0115
+			Clement Town	G0DD0025
+		Manduwala	G0DD0084
+	Bihar
+		Gaya	G0DD0043
 			Bodhgaya	G2GS1037
-		Buxar	G5PL18
-	South India	G5PL144
-	Arunachar Pradesh	G5PL211
+		Buxar	G0DD0017
+	South India	G0DD0139
+	Arunachar Pradesh
 		Tawang	G3529
-		Lohit	G5PL212
-			Tezu	G5PL154
-	West Bengal	G5PL213
-		Santiniketan	G5PL128
-		Kolkata	G5PL71
-		Darjeeling	G5PL28
-			Sonada	G5PL143
-			Mirik	G5PL94
-			Tibetan Freedom Press	G5PL157
-		Buxa	G5PL17
+		Lohit
+			Tezu	G0DD0149
+	West Bengal
+		Santiniketan	G0DD0123
+		Kolkata	G0DD0066
+		Darjeeling	G0DD0027
+			Sonada	G0DD0138
+			Mirik	G0DD0089
+			Tibetan Freedom Press	G0DD0152
+		Buxa	G0DD0016
 		Kalimpong	G3JT12629
-			Shri Diwakar Vihara	G5PL137
-	Chhattisgarh	G5PL214
-		Mainpat	G5PL85
-	Uttar Pradesh	G5PL215
+			Shri Diwakar Vihara	G0DD0132
+	Chhattisgarh
+		Mainpat	G0DD0080
+	Uttar Pradesh
 		Varanasi	G2CN10953
-			maldahiya	G5PL216
+			maldahiya
 		Sarnath	G1PD110102
-			Khajuhi	G5PL70
-	Orissa	G5PL217
-		Ganjam	G5PL218
-			Jeerango	G5PL64
+			Khajuhi	G0DD0065
+	Orissa
+		Ganjam
+			Jeerango	G0DD0060

@@ -15,15 +15,15 @@
 			Amdo
 		bo
 			a mdo
-	G5PL1
+	G0DD0001
 		en
 			Amsterdam
 			amsterdam, [amsteldijk 44
-	G5PL2
+	G0DD0002
 		en
 			Andiast
 			andiast, switzerland
-	G5PL3
+	G0DD0003
 		en
 			Arcidosso
 			arcidosso, italy
@@ -32,11 +32,11 @@
 			Arik Monastery
 		bo
 			a rig chos grwa
-	G5PL4
+	G0DD0004
 		en
 			Auckland
 			auckland, new zealand
-	G5PL5		
+	G0DD0005		
 		en
 			Australia
 	G2174
@@ -54,7 +54,7 @@
 			Bairi County
 		bo
 			dpa' ris rdzong
-	G5PL6
+	G0DD0006
 		en
 			Bairotsana Cave
 		bo
@@ -65,11 +65,11 @@
 		bo
 			dkar mdzes bod rigs rang skyong khul, dpal yul rdzong
 			dpal yul rdzong
-	G5PL7
+	G0DD0007
 		en
 			Ballimaran
 			ballimaran, delhi
-	G5PL8
+	G0DD0008
 		en
 			Bangalore
 			bangalore, karnataka
@@ -82,11 +82,11 @@
 		zh
 			马尔康
 			四川省马尔康
-	G5PL9
+	G0DD0009
 		en
 			Basgo
 			basgo ladakh
-	G5PL10
+	G2305
 		en
 			Bathang
 		bo
@@ -112,18 +112,18 @@
 			beijing shi
 			北京
 			北京市
-	Beijing & Lhasa
+	G1949	G2800
 		en
 			Beijing & Lhasa
 		bo
 			pe cin/ lha sa
 			lha sa dang pe cin
-	Beijing & London
+	G1949	G0DD0077
 		en
 			Beijing & London
 		bo
 			pe cin/ lon tun
-	Beijing & Ziling
+	G1949	G598
 		en
 			Beijing & Ziling
 		bo
@@ -131,7 +131,7 @@
 	G3CN285
 		en
 			Bengal
-	G5PL11
+	G0DD0010
 		en
 			Berkeley
 			berkeley, ca
@@ -140,7 +140,7 @@
 			Bhutan
 		bo
 			'brug yul
-	G5PL12
+	G0DD0011
 		en
 			Bidung
 			bidung, tashigang
@@ -154,15 +154,15 @@
 			bodhgaya, bihar
 		bo
 			rdo rje gdan
-	G5PL13		
+	G0DD0012		
 		en
 			Bonn
-	G1KR2063
+	G566
 		en
 			Bora
 		bo
 			'bo ra
-	G5PL14
+	G0DD0013
 		en
 			Boston
 			east boston, ma
@@ -173,7 +173,7 @@
 		bo
 			bal yul mchod rten bya rung kha shor
 			bal yul mchod rten
-	Bouddhanath & Bodhgaya
+	G00KG09762	G2GS1037
 		en
 			Bouddhanath & Bodhgaya
 	G4716
@@ -182,24 +182,24 @@
 			bumthang jakar
 		bo
 			bum thang
-	G5PL16
+	G0DD0015
 		en
 			Buryatia
-	G5PL18
+	G0DD0017
 		en
 			Buxar
 		bo
 			sbag sa
-	G5PL19
+	G0DD0018
 		en
 			Bylakuppe
 			bylakuppe, mysore district, karnataka state, india
 		bo
 			spel kob
-	G5PL20
+	G0DD0019
 		en
 			Canada
-	G5PL21
+	G0DD0020
 		en
 			Cazadero
 			cazadero, ca, usa
@@ -208,16 +208,16 @@
 			Chakri Thangzhang
 		bo
 			lcags ri thang zhang
-	G5PL22
+	G0DD0021
 		en
 			Changlung Monastery
 		bo
 			lcang long dgon
-	G5PL23
+	G0DD0022
 		en
 			Charlottesville
 			charlottesville, va
-	G5PL24
+	G0DD0023
 		en
 			Chauntra
 			chauntra, mandi, h.p.
@@ -243,12 +243,12 @@
 		zh
 			四川成都
 			成都
-	Chengdu (etc.)
+	G10MS19724
 		en
 			Chengdu (etc.)
 		bo
 			khreng tu'u (etc.)
-	G5PL25
+	G0DD0024
 		en
 			Chenrezig Tibetan Buddhist Center
 		bo
@@ -264,7 +264,7 @@
 			chongqing shi
 		zh
 			重庆
-	G5PL26
+	G0DD0025
 		en
 			Clement Town
 			clement town, dehradun, uttarakhand
@@ -274,7 +274,7 @@
 			Cuopu
 		bo
 			mtsho phu
-	G5PL27
+	G0DD0026
 		en
 			Dalhousie
 			dalhousie, h.p.
@@ -283,14 +283,14 @@
 			Daocheng County
 		bo
 			'dab pa rdzong
-	G5PL28
+	G0DD0027
 		en
 			Darjeeling
 			darjeeling, west bengal, india
 		bo
 			rdo rje gling
 			rdor gling
-	Darjeeling & Kathmandu
+	G0DD0027	G2CN11080
 		en
 			Darjeeling & Kathmandu
 	G2298
@@ -312,10 +312,10 @@
 		bo
 			dkar mdzes bod rigs rang skyong khul, sde dge rdzong
 			sde dge rdzong
-	G5PL29
+	G0DD0028
 		en
 			Dehra Dun
-	G5PL30
+	G0DD0029
 		en
 			Delhi
 			New Delhi
@@ -329,18 +329,18 @@
 			ldi li
 			ldi li gsar pa
 			ne'u ldi li
-	Delhi & Dolanji
+	G0DD0029	G3CN1567
 		en
 			Delhi & Dolanji
-	Delhi & Gangtok
+	G0DD0029	G0DD0042
 		en
 			Delhi & Gangtok
-	G5PL31
+	G2379
 		en
 			Delingha
 		zh
 			qing hai de ling ha shi
-	G5PL32
+	G0DD0030
 		en
 			Dengqen
 		bo
@@ -350,7 +350,7 @@
 			Dengqen County
 		bo
 			'steng chen rdzong
-	G5PL33
+	G0DD0031
 		en
 			Deorali
 			deorali, gangtok, sikkim
@@ -382,10 +382,10 @@
 			pan rjab d+ha sa
 			rda ram sa la
 			rda sa
-	Dharamsala & Sarnath
+	G3JT12630	G1PD110102
 		en
 			Dharamsala & Sarnath
-	G5PL34
+	G0DD0032
 		en
 			Dhondenling Tibetan Settlement
 			dhondenling, p.o. tibetan colony, kollegal taluk, karnataka
@@ -404,7 +404,7 @@
 			Drakar Taso
 		bo
 			brag dkar rta so
-	G5PL35
+	G4755
 		en
 			Drakgo Monastery
 		bo
@@ -426,7 +426,7 @@
 			'bras spung
 			'bras spungs
 			'bras spungs, lha sa
-	G5PL36
+	G0DD0033
 		en
 			Drepung Loseling (India)
 	G2297		
@@ -434,7 +434,7 @@
 			Drib
 		bo
 			grib
-	G5PL37
+	G0DD0034
 		en
 			Drukgyel Dzong
 			drukgyel jeutsaphu, paro, bhutan
@@ -487,7 +487,7 @@
 			rdzong sar dgon
 			sde dge rdzong sar dgon
 			khams sde dge rdzong sar dgon
-	G5PL38
+	G0DD0035
 		en
 			Dzongsar Shedra (India)
 			bir : dzongsar institute
@@ -497,20 +497,20 @@
 		bo
 			dkar mdzes bod rigs rang skyong khul/ sde dge rdzong/ rdzong sar khams bye'i slob gling
 			rdzong sar khams bye
-	G5PL39
+	G0DD0036
 		en
 			England
 		bo
 			ing len
-	G5PL40
+	G0DD0037
 		en
 			Ewam Dechen Choling Monastery
 		bo
 			bya dkar gsang chen e waM bde chen chos gling
-	G5PL41
+	G0DD0038
 		en
 			France
-	G5PL42
+	G0DD0039
 		en
 			Gaden Shartse Monastery (India)
 			gaden shartse monastray; kanataka. south india
@@ -521,22 +521,22 @@
 			dga' ldan
 			dga' ldan dgon
 			dga' ldan dgon pa
-	G5PL43
+	G0DD0040
 		en
 			Ganeshthan
 			Ganeshthan, Sheshnarayan-3, PO Pharping, Kathmandu, NP
-	G5PL44
+	G0DD0041
 		en
 			Gangchen Kyishong
 			gangchen kyishong dharamsala: hp, india
-	G5PL45
+	G0DD0042
 		en
 			Gangtok
 			Gangtok, Sikkim
 		bo
 			sgang tog
 			sgang tog 'bras ljongs
-	Gangtok & Dharamsala
+	G0DD0042	 G3JT12630
 		en
 			Gangtok & Dharamsala
 	G2199
@@ -549,7 +549,7 @@
 			Gansu
 		bo
 			kan su'u
-	G5PL46
+	G9GBX360700000
 		en
 			Ganzhou
 		bo
@@ -574,24 +574,24 @@
 		zh
 			甘孜
 			甘孜报印刷厂
-	G5PL47
+	G0DD0043
 		en
 			Gaya
 		bo
 			gA yA
-	G5PL48
+	G0DD0044
 		en
 			Gelephu
-	G5PL49
+	G0DD0045
 		en
 			Gemur
 			gemur, distt. lahul
 			kawring, gemur, lahul, h.p.
-	G5PL50
+	G0DD0046
 		en
 			Gemur Monastery
 			gemur monastery, kawring, h.p.
-	G5PL51
+	G0DD0047
 		en
 			Germany
 			germany
@@ -606,7 +606,7 @@
 		bo
 			gong dkar rdzong
 			lho kha gong dkar
-	G5PL52
+	G0DD0048
 		en
 			Gottingen
 			gottingen, germany
@@ -622,7 +622,7 @@
 		bo
 			gung thang
 			mang yul gung thang
-	G5PL54
+	G0DD0050
 		en
 			Gurupura
 			gurupura, hunsur, karnataka
@@ -641,7 +641,7 @@
 			Gyaye
 		bo
 			rgya ye
-	G5PL55
+	G0DD0051
 		en
 			Gyume Tantric College (India)
 	G2312
@@ -656,7 +656,7 @@
 			mtsho lho
 		zh
 			海南州
-	G5PL56
+	G0DD0052
 		en
 			Halle (Saale)
 	G2332
@@ -685,16 +685,16 @@
 			xiang gang
 			xianggang
 			香港
-	G5PL58
+	G0DD0054
 		en
 			Hongyuan
 		bo
 			hong yon
-	G5PL59		
+	G0DD0055		
 		en
 			Hubli
 			Hubli, Karnataka State
-	G5PL60
+	G0DD0056
 		en
 			Inder Puri
 			inderpuri, new delhi
@@ -709,12 +709,12 @@
 			Inner Mongolia
 		bo
 			nang sog
-	G5PL61
+	G0DD0057
 		en
 			Italy
 		bo
 			i Ta li
-	G5PL62
+	G0DD0058
 		en
 			Ithaca
 	G1695
@@ -723,7 +723,7 @@
 		bo
 			gcan tsha
 			gcan tsha rdzong
-	G5PL63
+	G0DD0059
 		en
 			Jakar Dzong
 			jakar dzong, bhutan
@@ -735,11 +735,11 @@
 	G00KG09752
 		en
 			Japan
-	G5PL64
+	G0DD0060
 		en
 			Jeerango
 			jeerango, distt. ganjam, orissa
-	G5PL65
+	G9GBX370100000
 		en
 			Jinan
 		zh
@@ -778,7 +778,7 @@
 			Jone Monastery
 		bo
 			co ne dgon chen
-	G869
+	G9GBX632701100
 		en
 			Jyekundo
 		bo
@@ -791,7 +791,7 @@
 		bo
 			ka sbug
 			ka spug
-	G5PL66		
+	G0DD0061		
 		en
 			Kanara
 			Kanara, India
@@ -805,11 +805,11 @@
 		zh
 			kang ding
 			康定
-	G5PL67
+	G0DD0062
 		en
 			Kangra
 			dist. kangra, himachal pradesh
-	G5PL68
+	G0DD0063
 		en
 			Karnataka
 			Karnataka State South India
@@ -827,11 +827,11 @@
 			kaH thog
 			kaHthog
 
-	G5PL69
+	G0DD0064
 		en
 			Kawring
 			kawring, h.p.
-	G5PL70
+	G0DD0065
 		en
 			Khajuhi
 			khajuhee, sarnath
@@ -855,12 +855,12 @@
 		en
 			Kinnaur
 			kinnour, h.p.
-	G5PL71
+	G0DD0066
 		en
 			Calcutta
 			Kolkata
 			calcutta, w.b.
-	G5PL72
+	G0DD0067
 		en
 			Kollegal
 			Kollegal Taluk, Karnataka State
@@ -869,7 +869,7 @@
 			Kongpo
 		bo
 			kong po
-	G5PL73
+	G0DD0068
 		en
 			Kotla Panjola
 			khotla-panjola, h.p.
@@ -879,15 +879,15 @@
 		bo
 			sku 'bum
 			sku 'bum byams pa gling
-	G5PL74
+	G0DD0069
 		en
 			Kulhan
 			kulhan
-	G5PL75
+	G0DD0070
 		en
 			Kullu
 			kullu, h.p.
-	G5PL76
+	G0DD0071
 		en
 			Kunming
 		bo
@@ -900,7 +900,7 @@
 		en
 			Kyichu Temple
 			paro kyichu, bhoutan
-	G5PL77
+	G0DD0072
 		en
 			Kyoto
 			Kyoto, Japan
@@ -921,7 +921,7 @@
 			ladakh, j.k.
 		bo
 			la dwags
-	G5PL78
+	G0DD0073
 		en
 			Lahaul-Spiti
 			lahaul & spiti, h.p.
@@ -947,7 +947,7 @@
 			lanzhou shi
 			兰州
 			兰州市
-	G5PL79
+	G0DD0074
 		en
 			Larkspur
 			larkspur, ca
@@ -966,7 +966,7 @@
 			Lato South
 		bo
 			la stod lho pa
-	G388
+	G0DD0075
 		en
 			Laya
 		bo
@@ -977,7 +977,7 @@
 			Leh, Ladakh
 		bo
 			gle
-	G5PL80		
+	G0DD0076		
 		en
 			Leipzig
 	G2800
@@ -1001,7 +1001,7 @@
 			Lho Lunkar Monastery
 		bo
 			lho lung dkar dgon
-	G5PL81
+	G3CN58
 		en
 			Lhozhag
 		bo
@@ -1023,7 +1023,7 @@
 			Litang County
 		bo
 			li thang rdzong
-	G5PL82
+	G0DD0077
 		en
 			London
 	G1192
@@ -1031,7 +1031,7 @@
 			Loro
 		bo
 			lo ro
-	G5PL83
+	G0DD0078
 		en
 			Losar
 			losar, spiti, h.p.
@@ -1050,12 +1050,12 @@
 		en
 			Lumbini
 			Lumbini, Nepal
-	G5PL84
+	G0DD0079
 		en
 			Macau
 		bo
 			o min
-	G5PL85		
+	G0DD0080		
 		en
 			Mainpat
 			Mainpat, India
@@ -1067,21 +1067,21 @@
 		bo
 			mal gro gung dkar
 			mal gro gung dkar rdzong
-	G5PL86
+	G0DD0081
 		en
 			Majnu-ka-tilla
 			majnu-ka-tila, delhi
-	G5PL87
+	G0DD0082
 		en
 			Manali
 			kulumanali: himachal pradesh, india
 		bo
 			ku lu mi na le
-	G5PL88
+	G0DD0083
 		en
 			Mandi
 			Distt. Mandi (H.P.) India
-	G5PL89
+	G0DD0084
 		en
 			Manduwala
 			manduwala, dehra dun, u.p.
@@ -1090,7 +1090,7 @@
 			Mangyul
 		bo
 			mang yul
-	G5PL90
+	G0DD0085
 		en
 			Manuka
 			manuka, act, australia
@@ -1104,10 +1104,10 @@
 			Maqen
 		bo
 			rma chen
-	G5PL91
+	G0DD0086
 		en
 			Maryland
-	G5PL92
+	G0DD0087
 		en
 			McLeod Ganj
 			McLeod Ganj, Dharamsala, H.P
@@ -1116,7 +1116,7 @@
 			Merchen
 		bo
 			mer chen
-	G5PL93
+	G0DD0088
 		en
 			Mindroling (India)
 		bo
@@ -1126,7 +1126,7 @@
 			Mindroling (Tibet)
 		bo
 			smin grol gling
-	G5PL94
+	G0DD0089
 		en
 			Mirik
 			mirik, dist. darjeeling, w.b.
@@ -1136,7 +1136,7 @@
 		bo
 			sog po
 			sog yul
-	G5PL95
+	G0DD0090
 		en
 			Moscow
 	G3466
@@ -1144,7 +1144,7 @@
 			Muksang Monastery (Tibet)
 		bo
 			rmugs sangs dgon
-	G5PL96
+	G0DD0091
 		en
 			Mundgod
 			Mundgod Karnataka, India
@@ -1153,7 +1153,7 @@
 			mundgod, distt. north kanara
 		bo
 			mon g+ho Ta
-	G5PL97
+	G0DD0092
 		en
 			Mussoorie
 			mussoorie, u.p.
@@ -1164,7 +1164,7 @@
 			glo smon thang
 			smon thang
 			smon thang btsum lung
-	G5PL98
+	G0DD0093
 		en
 			Mysore
 			dist. mysore, karnataka state
@@ -1176,7 +1176,7 @@
 			Nagarze County
 		bo
 			sna dkar rtse rdzong
-	G5PL99
+	G0DD0094
 		en
 			Namgyal Monastery (Yuthok)
 		bo
@@ -1193,7 +1193,7 @@
 			Nangqen County
 		bo
 			nang chen rdzong
-	G2338
+	G9GBX350700000
 		en
 			Nanping
 		bo
@@ -1218,16 +1218,16 @@
 			Nepal
 		bo
 			bal yul
-	G5PL100
+	G0DD0095
 		en
 			New Jersey
 			new jersey, usa
-	G5PL101
+	G0DD0096
 		en
 			New Taipei City
 		zh
 			新北市
-	G5PL102
+	G0DD0097
 		en
 			New York
 	G2331
@@ -1266,7 +1266,7 @@
 			Ngulchu Chodzong Monastery
 		bo
 			dngul chu chos rdong
-	G5PL103		
+	G0DD0098		
 		en
 			North America
 	G3971
@@ -1285,16 +1285,16 @@
 			Nyarong
 		bo
 			nyag rong
-	G5PL104
+	G0DD0099
 		en
 			Oakland
 			oakland, califfornia, usa
-	G5PL105
+	G0DD0100
 		en
 			Ochghat
 			new thobgyal, ochghat, h.p.
 			ochghat, distt. solan
-	G5PL106
+	G0DD0101
 		en
 			Odiyan
 			Odiyan, USA
@@ -1303,15 +1303,15 @@
 			Olka
 		bo
 			'ol kha
-	G5PL107
+	G0DD0102
 		en
 			Osaka
 			osaka
-	G5PL109
+	G0DD0104
 		en
 			Palace Monastery
 			palace monastery, gangtok
-	G5PL110
+	G0DD0105
 		en
 			Palampur
 			palampur, dist kangra, h.p.
@@ -1321,7 +1321,7 @@
 		bo
 			dpal spungs
 			dpal spungs dgon
-	G5PL111
+	G0DD0106
 		en
 			Paris
 	G836
@@ -1335,36 +1335,36 @@
 			Paro Taktsang
 		bo
 			gnas chen stag tshang
-	G3478
+	G1977
 		en
 			Pemako
 		bo
 			pad+ma bkod
-	G5PL113
+	G0DD0108
 		en
 			Pharping
 			Yangleshod
 			pharphing, kathmandu, nepal
 		bo
 			yang le shod
-	G5PL114
+	G0DD0109
 		en
 			Phuentsholing
 		bo
 			phun tshogs gling
-	Phuentsholing & Thimphu
+	G0DD0109	G4706
 		en
 			Phuentsholing & Thimphu
 		bo
 			phun tshogs gling / thim phu
-	G5PL115
+	G0DD0110
 		en
 			Plouray
-	G5PL116
+	G0DD0111
 		en
 			Pokhara
 			pokhara, nepal
-	G5PL117
+	G0DD0112
 		en
 			Prague
 	G54
@@ -1374,7 +1374,7 @@
 		bo
 			spungs thang
 			spungs thim
-	G576
+	G9GBX542100000
 		en
 			Qamdo
 		bo
@@ -1386,11 +1386,11 @@
 		bo
 			mtsho sngon
 			mtsho sngon zhing chen
-	G5PL118
+	G0DD0113
 		en
 			Queens
 			queens, ny
-	G5PL119
+	G0DD0114
 		en
 			Questa
 			questa, new mexico
@@ -1405,7 +1405,7 @@
 		bo
 			rwa rgya dgon
 			rwa rgya dgon gyi yi dam khang
-	G5PL120
+	G0DD0115
 		en
 			Rajpur
 			rajpur, dehradun, uttarakhand
@@ -1418,15 +1418,15 @@
 		bo
 			reb gong
 			reb gong khul
-	G5PL121
+	G0DD0116
 		en
 			Rewalsar
 			rewalsar, distt. mandi, h.p, india
-	G5PL122
+	G0DD0117
 		en
 			Rikon
 			rikon, zurich
-	G5PL123
+	G0DD0118
 		en
 			Rome
 	G186
@@ -1453,7 +1453,7 @@
 			'bras ljongs rum bteg
 			rum bteg
 			rum btegs
-	G5PL124
+	G0DD0119
 		en
 			Rupandehi
 			rupandehi, nepal
@@ -1469,23 +1469,23 @@
 			Saga County
 		bo
 			sa dga' rdzong
-	G5PL125
+	G0DD0120
 		en
 			Sakyo-ku
 			sakyo-ku, kyoto
-	G5PL126
+	G0DD0121
 		en
 			Sanjauli
 			sanjauli, shimla
-	G5PL127
+	G0DD0122
 		en
 			Sansal
 			sansal, dist. kangra, h.p.
-	G5PL128
+	G0DD0123
 		en
 			Santiniketan
 			santiniketan, w.b.
-	G5PL129
+	G0DD0124
 		en
 			Sarah
 			sarah, dharamsala, h.p.
@@ -1499,15 +1499,15 @@
 		bo
 			sAranatha/ wArANasI
 			wA rA Na sI'i sA ra nA tha
-	G5PL130
+	G0DD0125
 		en
 			Saspul
 			saspola
-	G5PL131
+	G0DD0126
 		en
 			Seattle
 			seattle, wa
-	G5PL132
+	G0DD0127
 		en
 			Selaqui
 		bo
@@ -1517,7 +1517,7 @@
 			Sera (Tibet)
 		bo
 			se ra
-	G5PL133
+	G0DD0128
 		en
 			Sera Je Monastery (India)
 			serje monastary, bylakuppe, south india
@@ -1554,7 +1554,7 @@
 			Shalu Monastery
 		bo
 			zhwa lu
-	G5PL134
+	G0DD0129
 		en
 			Shanghai
 		bo
@@ -1587,16 +1587,16 @@
 			gzhis ka rtse
 			gzhis rtse
 			gzhis rtse rdzong
-	G5PL135
+	G0DD0130
 		en
 			Shimla
 			Simla
 			shimla, h.p.
-	G5PL136
+	G0DD0131
 		en
 			Shoreline
 			shoreline, WA
-	G5PL137
+	G0DD0132
 		en
 			Shri Diwakar Vihara
 		bo
@@ -1608,15 +1608,15 @@
 			si chuan
 		bo
 			si khron
-	G5PL138
+	G0DD0133
 		en
 			Siddharthanagar
 			bhairahawa, nepal
-	G5PL139
+	G0DD0134
 		en
 			Sidhbari
 			Sidhbari, Dharamsala
-	G5PL140
+	G0DD0135
 		en
 			Sidhpur
 			sidhpur, kangra, h.p.
@@ -1625,7 +1625,7 @@
 			Sikkim
 		bo
 			'bras ljongs
-	G5PL141
+	G0DD0136
 		en
 			Simtokha
 			simtokha, thimphu
@@ -1638,11 +1638,11 @@
 			Solukhumbu
 		bo
 			so lu khum bu
-	G5PL142
+	G0DD0137
 		en
 			Somerville (Boston)
 			somerville, boston, ma
-	G5PL143
+	G0DD0138
 		en
 			Sonada
 			sonada, darjeeling, w.b.
@@ -1653,47 +1653,47 @@
 			zing chu
 			zung chu
 			zung chu rdzong
-	G5PL144
+	G0DD0139
 		en
 			South India
-	G5PL145
+	G0DD0140
 		en
 			Spituk Monastery
 			Pethub Monastery
 			spetup
 		bo
 			dpe thub dgon
-	G5PL146
+	G0DD0141
 		en
 			St-Petersburg
-	G5PL147
+	G0DD0142
 		en
 			Stakna Monastery
 		bo
 			stag sna ladakh
-	G5PL148
+	G0DD0143
 		en
 			Sumra (H.P.)
 	G3156
 		en
 			Swayambhunath
 			swayambhunath, kathmandu, nepal
-	G5PL149
+	G0DD0144
 		en
 			Switzerland
 	G1KG17626
 		en
 			Tabo Monastery
 			tabo, lahaul spiti, h.p.
-	G5PL150
+	G0DD0145
 		en
 			Tadong
 			tadong, gangtok, sikkim
-	G5PL151
+	G0DD0146
 		en
 			Taipei
 			taipei, taiwan
-	G5PL152
+	G0DD0147
 		en
 			Taiwan
 		bo
@@ -1714,7 +1714,7 @@
 			khu re chen mo
 			tA khu re
 			tA khu re/ sog yul
-	G5PL153
+	G0DD0148
 		en
 			Tana Monastery (India)
 			q village, kollegal distt, mysore
@@ -1754,16 +1754,16 @@
 		en
 			Tawang
 			tawang, a.p.
-	G5PL154
+	G0DD0149
 		en
 			Tezu
 			tezu, arunachal pradesh
 			tezu, dist. lohit
-	G5PL155
+	G0DD0150
 		en
 			Tharpaling Monastery
 			tharpaling monastery, bumthang
-	G5PL156
+	G0DD0151
 		en
 			The Bir Tibetan Society
 			bir tibetan society, bir, h.p.
@@ -1780,12 +1780,12 @@
 			Tibet
 		zh
 			西藏
-	G5PL157
+	G0DD0152
 		en
 			Tibetan Freedom Press
 		bo
 			rdor gling rang dbang par khang
-	G5PL158
+	G0DD0153
 		en
 			Tibetan Khampa Industrial Society
 			khampa industrial society, bir, h.p.
@@ -1794,22 +1794,22 @@
 			Tingri County
 		bo
 			ding ri rdzong
-	G5PL159
+	G0DD0154
 		en
 			Tohoku
 			tohoku, japan
-	G5PL160
+	G0DD0155
 		en
 			Tokyo
 			Tokyo, Japan
 		zh
 			東京
-	G5PL161
+	G0DD0156
 		en
 			Tongkor Monastery
 		bo
 			dkar mdzes rdzong stong skor sgon
-	G5PL162
+	G0DD0157
 		en
 			Toronto
 			toronto ontario
@@ -1818,7 +1818,7 @@
 			Trongsa
 		bo
 			krong gsar
-	G5PL163
+	G0DD0158
 		en
 			Tsangdain Monastery
 		bo
@@ -1845,7 +1845,7 @@
 			Ulanbatur
 		bo
 			u rge
-	G5PL164
+	G0DD0159
 		en
 			Upper Bhattu
 			Upper Bhattu via Baijnath, Kangra
@@ -1856,11 +1856,11 @@
 			Varanasi, u.p., India
 		bo
 			wA rA Na sI
-	G5PL167
+	G0DD0162
 		en
 			Victoria
 			victoria, australia
-	G5PL168
+	G0DD0163
 		en
 			Washington
 			washington, d.c.
@@ -1869,13 +1869,13 @@
 			Wenchuan
 		bo
 			wun khron
-	G5PL169
+	G0DD0164
 		en
 			Wien
-	G5PL170
+	G0DD0165
 		en
 			Wiesbaden
-	G5PL171
+	G0DD0166
 		en
 			Woodstock
 			woodstock, ny
@@ -1895,7 +1895,7 @@
 			Xiaojin County
 		bo
 			btsan lha
-	G5PL172
+	G0DD0167
 		en
 			Xicheng District
 		zh
@@ -1916,7 +1916,7 @@
 			Yajiang County
 		bo
 			nyag chu rdzong
-	G5PL173
+	G0DD0168
 		en
 			Yangrigang Monastery
 		bo
@@ -1957,7 +1957,7 @@
 			Zhichen Monastery
 		bo
 			gzhi chen dgon
-	G5PL174
+	G0DD0169
 		en
 			Zhol Village
 		bo

@@ -43,7 +43,6 @@ def parse_locations():
             key = row[1]
         elif row[3] and key:
             locations[key].append(row[3])
-
     return locations
 
 
@@ -141,6 +140,5 @@ if __name__ == '__main__':
     Path('logs/containing_matches.csv').write_text(out)
 
     final_matches = parse_matches()
-    multiple = parse_matches('output/multiple_locations.csv')
-    unknown = [loc for loc in locations if loc not in final_matches and loc not in multiple]
+    unknown = [loc for loc in locations if loc not in final_matches]
     Path('output/needs_attribution.csv').write_text('\n'.join(unknown))

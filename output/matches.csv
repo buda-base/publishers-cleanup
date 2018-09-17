@@ -9,7 +9,7 @@ Bengal,G3CN285
 Bhutan,G3205
 Bir,G3CN1562
 Bodhgaya,G2GS1037
-Bora,G1KR2063
+Bora,G566
 Bumthang,G4716
 Chakri Thangzhang,G1721
 Chengdu,G10MS19724
@@ -66,6 +66,7 @@ Ladakh,G3182
 Larung Gar,G3997
 Leh,G1085
 Lhasa,G2800
+Lhasa City,G1819
 Lhatse County,G2167
 Lho Lunkar Monastery,G341
 Lhunze County,G1990
@@ -179,7 +180,6 @@ Gartse,G3158
 Adzin Rong (Nyag),G4654
 Nanping,G2338
 Jomonang,G201
-Laya,G388
 Ngagyur Taklung Monastery,G1750
 Tashijong,G3JT12558
 Maqen,G1754
@@ -206,3 +206,61 @@ Tsang,G1300
 Tingri,G954
 Kyirong,G2161
 Ngari,G571
+Ganzhou,G9GBX360700000
+Bairi County,G1052
+Jinan,G9GBX370100000
+Nanping,G9GBX350700000
+Rongwo,G2491
+Tashi Lhunpo Monastery,G104
+Ngulchu Chodzong Monastery,G223
+Pemako,G1977
+Dranang County,G799
+Zetang,G560
+Nyainrong County,G2146
+Qamdo,G9GBX542100000
+Jyekundo,G9GBX632701100
+Tuole Monastery,G1912
+Jainca County,G1695
+Kubum Monastery,G160
+Chakri Thangzhang,G1721
+Delingha,G2379
+Hualong County,G1PD96109
+Tuwacang Monastery,G3222
+Zhichen Monastery,G1563
+Drakgo Monastery,G4755
+Muksang Monastery,G3466
+Bathang,G2305
+Lhozhag,G3CN58
+Beijing & Lhasa,G1949	G2800
+Beijing & London,G1949	G0DD0077
+Beijing & Ziling,G1949	G598
+Bouddhanath & Bodhgaya,G00KG09762	G2GS1037
+Chengdu (etc.),G10MS19724
+Darjeeling & Kathmandu,G0DD0027	G2CN11080
+Delhi & Dolanji,G0DD0029	G3CN1567
+Delhi & Gangtok,G0DD0029	G0DD0042
+Dharamsala & Sarnath,G3JT12630	G1PD110102
+Gangtok & Dharamsala,G0DD0042	 G3JT12630
+Phuentsholing & Thimphu,G0DD0109	G4706
+Jiangxi Province,G9GBX360000000
+Wuwei,G9GBX620600000
+Shandong,G9GBX370000000
+Fujian,G9GBX350000000
+Tibet Autonomous Region,G9GBX540000000
+Shigatse City,G2170
+Xietongmen County,G2164
+Nyingchi City,G1PD89995
+Sog County,G2149
+Ngari Prefecture,G2151
+Gongjue County,G2182
+Yushu City,G9GBX632701000
+Guinan County,G1812
+Huangnan Prefecture,G1697
+Huangzhong County,G2350
+Banma County,G1719
+Jigzhi County,G1700
+Haixi Prefecture,G2323
+Qilian County,G2314
+Haidong Prefecture,G2CN11152
+Garze County,G621
+Luhuo County,G2299
