@@ -18,7 +18,7 @@ def export_work_publisher():
 
 def export_newPlaceRIDs():
     content = yaml.load(Path('newPlaceRIDs.yaml').read_text(encoding='utf-8-sig'))
-    out = json.dumps(content, indent=4, sort_keys=True)
+    out = json.dumps(content, ensure_ascii=False, indent=4, sort_keys=True)
     Path('newPlaceRIDs.json').write_text(out, encoding='utf-8-sig')
 
 
