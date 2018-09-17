@@ -13,35 +13,35 @@ Canada	G0DD0019
 Taiwan	G0DD0147
 	New Taipei City	G0DD0096
 	Taipei	G0DD0146
-Russia
+Russia	G0DD0203
 	Moscow	G0DD0090
 	St-Petersburg	G0DD0141
 	Buryatia	G0DD0015
 England	G0DD0036
 	London	G0DD0077
-Holland
+Holland	G0DD0204
 	Amsterdam	G0DD0001
 France	G0DD0038
 	Paris	G0DD0106
-	Bretagne
+	Bretagne	G0DD0205
 		Plouray	G0DD0110
 Italy	G0DD0057
 	Rome	G0DD0118
 	Arcidosso	G0DD0003
 Switzerland	G0DD0144
 	Andiast	G0DD0002
-	Zurich
+	Zurich	G0DD0206
 		Rikon	G0DD0117
 Australia	G0DD0005
 	Victoria	G0DD0162
-	Griffith ACT
+	Griffith ACT	G0DD0207
 		Manuka	G0DD0085
-New Zealand
+New Zealand	G0DD0208
 	Auckland	G0DD0004
 Hong Kong	G3192
-Czech Republic
+Czech Republic	G0DD0209
 	Prague	G0DD0112
-Austria
+Austria	G0DD0210
 	Wien	G0DD0164
 USA	G3JT12416
 	Washington	G0DD0163
@@ -52,22 +52,22 @@ USA	G3JT12416
 		Queens	G0DD0113
 		Woodstock	G0DD0166
 	New Jersey	G0DD0095
-	Massachusetts
+	Massachusetts	G0DD0211
 		Boston	G0DD0013
 			Somerville (Boston)	G0DD0137
-	California
+	California	G0DD0212
 		Berkeley	G0DD0010
 		Cazadero	G0DD0020
 			Odiyan	G0DD0101
 		Larkspur	G0DD0074
 		Oakland	G0DD0099
-	New Mexico
+	New Mexico	G0DD0213
 		Questa	G0DD0114
 	Maryland	G0DD0086
-	Virginia
+	Virginia	G0DD0214
 		Charlottesville	G0DD0022
-	Pennsylvania
-		Philadelphia
+	Pennsylvania	G0DD0215
+		Philadelphia	G0DD0216
 			Chenrezig Tibetan Buddhist Center	G0DD0024
 China	G3198
 	Macau	G0DD0079
@@ -75,10 +75,10 @@ China	G3198
 		Xicheng District	G0DD0167
 	Shanghai	G0DD0129
 	Chongqing	G2KR73
-	Jiangxi Province	G9GBX360000000
-		Ganzhou	G9GBX360700000
+	Jiangxi Province	G0DD0175
+		Ganzhou	G0DD0170
 	Gansu	G2207
-		Wuwei	G9GBX620600000
+		Wuwei	G0DD0176
 			Bairi County	G1052
 			Bairi	G1005
 		Gannan	G2199
@@ -90,13 +90,11 @@ China	G3198
 		Lanzhou	G895
 	Yunnan	G2208
 		Kunming	G0DD0071
-	Shandong	G9GBX370000000
-		Jinan	G9GBX370100000
-	Fujian	G9GBX350000000
-		Nanping	G9GBX350700000
-	Tibet Autonomous Region	G9GBX540000000
-		to find
-			Rongwo	G2491
+	Shandong	G0DD0177
+		Jinan	G0DD0171
+	Fujian	G0DD0178
+		Nanping	G2338
+	Tibet Autonomous Region	G0DD0179
 		Lhasa City	G1819
 			Maizhokunggar County	G2014
 			Quxu County	G2128
@@ -116,30 +114,31 @@ China	G3198
 				Ngulchu Chodzong Monastery	G223
 		Nyingchi City	G1PD89995
 			Pemako	G1977
-		Shannan City
+		Shannan City	G0DD0217
 			Dranang County	G799
 			Gyaca County	G2138
 			Lhunze County	G1990
 			Nagarze County	G2136
 			Gonggar County	G2135
-			Nedong District
+			Nedong District	G0DD0218
 				Zetang	G560
 			Lhozhag	G3CN58
-		Nagqu City
+		Nagqu City	G0DD0219
 			Nyainrong County	G2146
 			Sog County	G2149
 				Tsangdain Monastery	G0DD0158
 		Ngari Prefecture	G2151
-		Qamdo	G9GBX542100000
+		Qamdo	G576
 			Dengqen County	G2188
 				Khyungpo Tengchen Monastery	G1KR1169
 			Gongjue County	G2182
 				Changlung Monastery	G0DD0021
 			Zhag'yab	G2183
 	Qinghai Province	G977
+	    Rongwo
 		Yushu Prefecture	G2324
-			Yushu City	G9GBX632701000
-				Jyekundo	G9GBX632701100
+			Yushu City	G0DD0180
+				Jyekundo	G869
 			Nangqen County	G1467
 				Lho Lunkar Monastery	G341
 			Merchen	G2883
@@ -250,11 +249,11 @@ Bhutan	G3205
 		Tango	G218
 		Tashichhoedzong Monastery	G1TD12
 		Simtokha	G0DD0136
-	Gasa
+	Gasa	G0DD0220
 		Laya	G0DD0075
 	Tashigang	G1TD42
 		Bidung	G0DD0011
-	Sarpang
+	Sarpang	G0DD0221
 		Gelephu	G0DD0044
 	Punakha	G54
 	Paro	G836
@@ -262,7 +261,7 @@ Bhutan	G3205
 		Paro Taktsang	G2876
 		Kyichu Temple	G1TD43
 	Trongsa	G4713
-	Chukha
+	Chukha	G0DD0222
 		Phuentsholing	G0DD0109
 Nepal	G4450
 	Kathmandu	G2CN11080
@@ -286,23 +285,23 @@ India	G3188
 		Gangtok	G0DD0042
 			Deorali	G0DD0031
 			Palace Monastery	G0DD0104
-		East Sikkim
+		East Sikkim	G0DD0223
 			Rumtek	G1PD110071
 	Karnataka	G0DD0063
 		Mysore	G0DD0093
 			Bylakuppe	G0DD0018
 		Kollegal	G0DD0067
 			Dhondenling Tibetan Settlement	G0DD0032
-			Tana Monastery
+			Tana Monastery	G0DD0224
 		Bangalore	G0DD0008
 		Kanara	G0DD0061
-			North Kanara
-				Karwar
+			North Kanara	G0DD0225
+				Karwar	G0DD0226
 					Mundgod	G0DD0091
 						Gaden Shartse Monastery (India)	G0DD0039
-		Hunsur
+		Hunsur	G0DD0227
 			Gurupura	G0DD0050
-	Himachal Pradesh
+	Himachal Pradesh	G0DD0228
 		Kangra	G0DD0062
 			Dharamsala	G3JT12630
 				McLeod Ganj	G0DD0087
@@ -313,8 +312,8 @@ India	G3188
 			Sansal	G0DD0122
 			Palampur	G0DD0105
 				Tashijong	G3JT12558
-			Baijnath
-				Bhattu
+			Baijnath	G0DD0229
+				Bhattu	G0DD0230
 					Upper Bhattu	G0DD0159
 			Sidhpur	G0DD0135
 			Bir	G3CN1562
@@ -332,7 +331,7 @@ India	G3188
 				Losar	G0DD0078
 				Tabo Monastery	G1KG17626
 				Sumra (H.P.)	G0DD0143
-			Lahaul
+			Lahaul	G0DD0231
 				Kawring	G0DD0064
 					Gemur	G0DD0045
 						Gemur Monastery	G0DD0046
@@ -340,39 +339,39 @@ India	G3188
 			Kotla Panjola	G0DD0068
 			Ochghat	G0DD0100
 				Dolanji	G3CN1567
-		Chamba
+		Chamba	G0DD0232
 			Dalhousie	G0DD0026
 		Shimla	G0DD0130
 			Sanjauli	G0DD0121
-	Jammu and Kashmir
+	Jammu and Kashmir	G0DD0233
 		Ladakh	G3182
 			Leh	G1085
 				Nemo	G4584
 				Spituk Monastery	G0DD0140
 			Basgo	G0DD0009
 			Saspul	G0DD0125
-			Kargil
+			Kargil	G0DD0234
 				Zanskar	G867
-			Hemis
+			Hemis	G0DD0235
 				Hemis Monastery	G00JR3353
 			Stakna Monastery	G0DD0142
-	Uttarakhand
+	Uttarakhand	G0DD0236
 		Dehradun	G0DD0028
 			Selaqui	G0DD0127
 			Mussoorie	G0DD0092
 			Rajpur	G0DD0115
 			Clement Town	G0DD0025
 		Manduwala	G0DD0084
-	Bihar
+	Bihar	G0DD0237
 		Gaya	G0DD0043
 			Bodhgaya	G2GS1037
 		Buxar	G0DD0017
 	South India	G0DD0139
-	Arunachar Pradesh
+	Arunachar Pradesh	G0DD0238
 		Tawang	G3529
-		Lohit
+		Lohit	G0DD0239
 			Tezu	G0DD0149
-	West Bengal
+	West Bengal	G0DD0240
 		Santiniketan	G0DD0123
 		Kolkata	G0DD0066
 		Darjeeling	G0DD0027
@@ -382,13 +381,13 @@ India	G3188
 		Buxa	G0DD0016
 		Kalimpong	G3JT12629
 			Shri Diwakar Vihara	G0DD0132
-	Chhattisgarh
+	Chhattisgarh	G0DD0241
 		Mainpat	G0DD0080
-	Uttar Pradesh
+	Uttar Pradesh	G0DD0242
 		Varanasi	G2CN10953
-			maldahiya
+			maldahiya	G0DD0192
 		Sarnath	G1PD110102
 			Khajuhi	G0DD0065
-	Orissa
-		Ganjam
+	Orissa	G0DD0243
+		Ganjam	G0DD0244
 			Jeerango	G0DD0060
