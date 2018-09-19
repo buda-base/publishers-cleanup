@@ -5,6 +5,7 @@ Japan
 	Kyoto
 		Sakyo-ku
 Germany
+	Bonn
 	Gottingen
 	Halle (Saale)
 	Wiesbaden
@@ -80,7 +81,6 @@ China
 	Gansu
 		Wuwei
 			Bairi County
-			Bairi
 		Gannan
 			Jone County
 				Jone Monastery
@@ -92,66 +92,65 @@ China
 		Kunming
 	Shandong
 		Jinan
-	Fujian
-		Nanping
 	Tibet Autonomous Region
 		Lhasa City
 			Maizhokunggar County
 			Quxu County
 			Taktse County
 			Zhol Village
-		Shigatse City
-			Tashi Lhunpo Monastery
-			Narthang Monastery
-			Shalu Monastery
-			Shigatse County
+			Yangrigang Monastery
+		Shigatse Prefecture
+			Shigatse City
+				Tashi Lhunpo Monastery
+				Narthang Monastery
+				Shalu Monastery
 			Saga County
 			Bainang County
+			Kyirong
 			Ngamring County
 			Lhatse County
+				Jomonang
 			Tingri County
+				Shelkar
 			Xietongmen County
 				Ngulchu Chodzong Monastery
 		Nyingchi City
-			Pemako
-		Shannan City
+		Shannan Prefecture
 			Dranang County
 			Gyaca County
 			Lhunze County
 			Nagarze County
 			Gonggar County
-			Nedong District
-				Zetang
 			Lhozhag
-		Nagqu City
+		Nagchu Prefecture
 			Nyainrong County
 			Sog County
 				Tsangdain Monastery
 		Ngari Prefecture
-		Qamdo
+		Qamdo Prefecture
 			Dengqen County
 				Khyungpo Tengchen Monastery
 			Gongjue County
 				Changlung Monastery
 			Zhag'yab
+			Jomda
+				Muksang Monastery
 	Qinghai Province
 		Rongwo
 		Yushu Prefecture
-			Yushu City
-				Jyekundo
 			Nangqen County
 				Lho Lunkar Monastery
-			Merchen
 		Hainan Prefecture
 			Guinan County
 				Tuole Monastery
 		Huangnan Prefecture
 			Jainca County
-			Ditsa
+			Rebkong County
+				Gartse
 		Xining
 			Huangzhong County
 				Kubum Monastery
-			Golok
+			Golok Prefecture
 				Banma County
 					Chakri Thangzhang
 				Maqen
@@ -174,7 +173,6 @@ China
 			Serxu County
 				Sershul Monastery
 			Bathang County
-				Cuopu
 			Dawu County
 				Garthar Monastery
 			Yajiang County
@@ -195,47 +193,59 @@ China
 			Jiulong County
 			Daocheng County
 			Luhuo County
-				Drakgo Monastery
 		Ngaba Prefecture
+			Ngaba County
+				Drakgo Monastery
+			Nanping
 			Xiaojin County
 			Jinchuan County
-			Barkham
 			Heishui
 			Mao County
 			Dzamthang
 				Dzamthang Monastery
 			Zoige County
-			Hongyuan
+			Hongyuan County
 			Wenchuan
 			Songpan County
 		Chengdu
 Tibet
-	Kham
+	Cholkha Sum
+		Kham
+			Dege
+			Nangqen
+				Merchen
+			Jyekundo
+			Barkham
+		Amdo
+			Ditsa
+			Golok
+			Rebkong
+			Khagya
+				Bora
+			Bairi
+		U-Tsang
+			U
+				Yoru
+					Kongpo
+						Pemako
+				Nedong
+					Zetang
+			Tsang
+				Rulak
+					Tingri
+						Padruk
+							Rongbuk
+					Mangyul
+						Gungthang
+	Boyul Lingsum
+		Ngari
+	Rongchen Zhi
 		Nyakrong
 			Adzin Rong (Nyag)
+			Cuopu
 		Gyalrong
 			Bairotsana Cave
-		Dege
-	Jomda
-		Muksang Monastery
-	Amdo
-		Golok
-		Rebkong
-		Gartse
-		Bora
-	Kongpo
-	U-Tsang
-		Tsang
-			Jomonang
-			Tingri
-				Shelkar
-				Rongbuk
-		Gungthang
-		Lhasa
-			Yangrigang Monastery
-		Kyirong
-	Ngari
-		Mangyul
+
 Mongolia
 	Inner Mongolia
 	Ulaanbaatar

@@ -92,7 +92,7 @@ Ngamring County,G2162
 Nyarong,G1365
 Olka,G1379
 Paro,G836
-Qamdo,G576
+Qamdo Prefecture,G2177
 Qinghai Province,G977
 Quxu County,G2128
 Ragya Monastery,G398
@@ -106,7 +106,6 @@ Sershul Monastery,G3261
 Sertar County,G2302
 Shalu Monastery,G275
 Shechen Monastery (Tibet),G20
-Shigatse County,G2170
 Sikkim,G1398
 Solukhumbu,G2490
 Songpan County,G2333
@@ -176,7 +175,7 @@ Yarchen Monastery,G3812
 Yunnan,G2208
 Yushu Prefecture,G2324
 Zhag'yab,G2183
-Gartse,G3158
+Gartse,G1KR2438
 Adzin Rong (Nyag),G4654
 Nanping,G2338
 Jomonang,G201
@@ -227,16 +226,16 @@ Muksang Monastery,G3466
 Bathang,G2305
 Lhozhag,G3CN58
 Beijing & Lhasa,G1949	G2800
-Beijing & London,G1949	G0DD0077
+Beijing & London,G1949	G0DD0076
 Beijing & Ziling,G1949	G598
 Bouddhanath & Bodhgaya,G00KG09762	G2GS1037
 Chengdu (etc.),G10MS19724
-Darjeeling & Kathmandu,G0DD0027	G2CN11080
-Delhi & Dolanji,G0DD0029	G3CN1567
-Delhi & Gangtok,G0DD0029	G0DD0042
+Darjeeling & Kathmandu,G0DD0026	G2CN11080
+Delhi & Dolanji,G0DD0028	G3CN1567
+Delhi & Gangtok,G0DD0028	G0DD0042
 Dharamsala & Sarnath,G3JT12630	G1PD110102
-Gangtok & Dharamsala,G0DD0042	 G3JT12630
-Phuentsholing & Thimphu,G0DD0109	G4706
+Gangtok & Dharamsala,G0DD0041	 G3JT12630
+Phuentsholing & Thimphu,G0DD0108	G4706
 Shigatse City,G2170
 Xietongmen County,G2164
 Nyingchi City,G1PD89995
@@ -253,3 +252,23 @@ Qilian County,G2314
 Haidong Prefecture,G2CN11152
 Garze County,G621
 Luhuo County,G2299
+Tibet Autonomous Region,G1PD108961
+Shigatse Prefecture,G2158
+Shannan Prefecture,G1814
+Nedong,G2086
+Nagchu Prefecture,G2141
+Tsangdain Monastery,G4688
+Golok Prefecture,G1701
+Ngaba County,G2331
+Hongyuan County,G2337
+Cholkha Sum,G3CN9
+Rongchen Zhi,G3CN36
+Bairotsana Cave,G1GS1642
+Rebkong County,G984
+Khagya,G1073
+Yoru,G3176
+U,G1115
+Rulak,G3175
+Padruk,G903
+Mangyul,G3166
+Boyul Lingsum,G3CN35

@@ -31,3 +31,6 @@ where:
  - G51 to distinguish from G5
  - TMP for Temporary
  - incrementing number 
+
+TODO: add language code to all strings
+use "bo-x-pinyin" for Tibetan Pinyin names in strings
