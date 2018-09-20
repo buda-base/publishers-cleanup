@@ -69,19 +69,34 @@ def generate_new_places():
 
         previous = current
 
-    located_in = [f'{k},' for k in list(total.keys())]
+    located_in = sorted([f'{k},' for k in list(total.keys())])
     Path('located_in_raw.txt').write_text('\n'.join(located_in))
 
-    if Path('located_in.txt').is_file():
-        dump = Path('located_in.txt').read_text().strip().split('\n')
-        loc_dict = {}
-        for line in dump:
-            items = line.split(',')
-            if len(items) == 1:
-                items.append('')
-            loc_dict[items[0]] = items[1]
-        for contained, container in loc_dict.items():
+    dump = Path('RID_node_modifs.tsv').read_text().strip().split('\n')
+    loc_info = []
+    for line in dump[1:]:
+        if not line:
+            continue
+
+        items = line.split(',')
+        modif = ''
+        if items[2] == 'm':
+            modif = 'new RID'
+        elif items[2] == 'n':
+            modif = 'new path - existing RIDs'
+        elif items[2] == 'r':
+            modif = 'more detailed path - existing RIDs'
+
+        loc_info.append((items[0], items[1], modif))
+
+    extra_nodes = ['RID,isLocatedIn,modif type']
+    for contained, container, modif in loc_info:
+        if contained in total.keys():
             total[contained]['isLocatedIn'] = container
+            total[contained]['node_modif'] = modif
+        else:
+            extra_nodes.append(f'{contained},{container},{modif}')
+    Path('newExtraNodes.txt').write_text('\n'.join(extra_nodes), encoding='utf-8-sig')
 
     # delete multiple locations entries
     keys = list(total.keys())

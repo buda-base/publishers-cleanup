@@ -75,7 +75,6 @@ China
 	Beijing
 		Xicheng District
 	Shanghai
-	Chongqing
 	Jiangxi Province
 		Ganzhou
 	Gansu
@@ -121,7 +120,6 @@ China
 			Lhunze County
 			Nagarze County
 			Gonggar County
-			Lhozhag
 		Nagchu Prefecture
 			Nyainrong County
 			Sog County
@@ -150,18 +148,18 @@ China
 		Xining
 			Huangzhong County
 				Kubum Monastery
-			Golok Prefecture
-				Banma County
-					Chakri Thangzhang
-				Maqen
-					Ragya Monastery
-				Jigzhi County
-					Ngagyur Taklung Monastery
-			Haixi Prefecture
-				Delingha
-			Haibei Prefecture
-				Qilian County
-					Arik Monastery
+		Golok Prefecture
+			Banma County
+				Chakri Thangzhang
+			Maqen
+				Ragya Monastery
+			Jigzhi County
+				Ngagyur Taklung Monastery
+		Haixi Prefecture
+			Delingha
+		Haibei Prefecture
+			Qilian County
+				Arik Monastery
 		Haidong Prefecture
 			Hualong County
 				Tuwacang Monastery
@@ -201,8 +199,6 @@ China
 			Jinchuan County
 			Heishui
 			Mao County
-			Dzamthang
-				Dzamthang Monastery
 			Zoige County
 			Hongyuan County
 			Wenchuan
@@ -217,6 +213,8 @@ Tibet
 			Jyekundo
 			Barkham
 		Amdo
+			Dzamthang
+				Dzamthang Monastery
 			Ditsa
 			Golok
 			Rebkong
@@ -226,6 +224,7 @@ Tibet
 		U-Tsang
 			U
 				Yoru
+					Lhozhag
 					Kongpo
 						Pemako
 				Nedong
@@ -245,9 +244,16 @@ Tibet
 			Cuopu
 		Gyalrong
 			Bairotsana Cave
+	Ngari Korsum
+		Ngari Korsum
+			Spiti-Zanskar Kor
+				Spiti
+					Tabo Monastery
+			Zanskar
 
 Mongolia
 	Inner Mongolia
+		Chongqing
 	Ulaanbaatar
 	Khalkha
 	Takure Monastery
@@ -283,9 +289,12 @@ Nepal
 	Solukhumbu
 	Mustang
 	Rupandehi
-		Lumbini
-			Siddharthanagar
+		Siddharthanagar
+			Lumbini
 India
+	Garsha
+		Gemur
+			Gemur Monastery
 	Delhi
 		Majnu-ka-tilla
 		Ballimaran
@@ -339,12 +348,7 @@ India
 		Lahaul-Spiti
 			Spiti
 				Losar
-				Tabo Monastery
 				Sumra (H.P.)
-			Lahaul
-				Kawring
-					Gemur
-						Gemur Monastery
 		Solan
 			Kotla Panjola
 			Ochghat
