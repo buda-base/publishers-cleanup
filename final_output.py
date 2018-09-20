@@ -52,9 +52,31 @@ def generate_new_places():
                 current_lang = {'tag': '', 'strings': {}}  # reinitialize
             current_lang['tag'] = line
         if current == 'lang_str':
-            current_lang['strings'][line] = ''
+            lang_tag = ''
+            if current_lang['tag'] == 'en':
+                lang_tag = 'en'
+            elif current_lang['tag'] == 'zh':
+                lang_tag = 'zh-'
+            elif current_lang['tag'] == 'bo':
+                lang_tag = 'bo-x-'
+
+            current_lang['strings'][line] = lang_tag
 
         previous = current
+
+    located_in = [f'{k},' for k in list(total.keys())]
+    Path('located_in_raw.txt').write_text('\n'.join(located_in))
+
+    if Path('located_in.txt').is_file():
+        dump = Path('located_in.txt').read_text().strip().split('\n')
+        loc_dict = {}
+        for line in dump:
+            items = line.split(',')
+            if len(items) == 1:
+                items.append('')
+            loc_dict[items[0]] = items[1]
+        for contained, container in loc_dict.items():
+            total[contained]['isLocatedIn'] = container
 
     out = json.dumps(total, ensure_ascii=False, indent=4, sort_keys=True)
     Path('newPlaceRIDs_raw.json').write_text(out, encoding='utf-8-sig')
