@@ -104,9 +104,18 @@ def generate_new_places():
         if '\t' in key or '(etc.)' in key:
             del total[key]
 
+    return total
+
+
+def find_remaining_RIDs(total):
+    # find and process all the remaining RIDs that are either in matches.csv or needs_attribution.csv
+    # or in work-publisherPlaceRID.csv and that don't yet have an entry in newPlaceRIDs.json
+
+    # after adding them to total, write total
     out = json.dumps(total, ensure_ascii=False, indent=4, sort_keys=True)
     Path('newPlaceRIDs_raw.json').write_text(out, encoding='utf-8-sig')
 
 
-generate_new_places()
+total = generate_new_places()
 export_work_publisher()
+find_remaining_RIDs(total)
