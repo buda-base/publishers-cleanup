@@ -11,7 +11,8 @@ def export_work_publisher():
     out = 'workRID,locationRID\n'
     for d in data[1:]:
         work = d[4].split('=')[1]
-        out += f'{work},{d[1]}\n'
+        location = ','.join(d[1].split('\t'))
+        out += f'{work},{location}\n'
 
     Path('work-publisherPlaceRID.csv').write_text(out)
 
@@ -43,7 +44,11 @@ def generate_new_places():
                 RID['langs'][current_lang['tag']] = current_lang['strings']  # update
                 current_lang = {'tag': '', 'strings': {}}  # reinitialize
 
-                total[RID['key']] = {'isLocatedIn': '', 'langs': RID['langs']}
+                langs = {}
+                for lang, strs in RID['langs'].items():
+                    for k, v in RID['langs'][lang].items():
+                        langs[k] = v
+                total[RID['key']] = {'isLocatedIn': '', 'langs': langs}
                 RID = {'key': '', 'langs': {}}
             RID['key'] = line
         if current == 'lang_tag':
@@ -56,9 +61,9 @@ def generate_new_places():
             if current_lang['tag'] == 'en':
                 lang_tag = 'en'
             elif current_lang['tag'] == 'zh':
-                lang_tag = 'zh-'
+                lang_tag = 'zh-Hans'
             elif current_lang['tag'] == 'bo':
-                lang_tag = 'bo-x-'
+                lang_tag = 'bo-x-ewts'
 
             current_lang['strings'][line] = lang_tag
 
@@ -77,6 +82,12 @@ def generate_new_places():
             loc_dict[items[0]] = items[1]
         for contained, container in loc_dict.items():
             total[contained]['isLocatedIn'] = container
+
+    # delete multiple locations entries
+    keys = list(total.keys())
+    for key in keys:
+        if '\t' in key or '(etc.)' in key:
+            del total[key]
 
     out = json.dumps(total, ensure_ascii=False, indent=4, sort_keys=True)
     Path('newPlaceRIDs_raw.json').write_text(out, encoding='utf-8-sig')

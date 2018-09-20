@@ -71,14 +71,12 @@
 			Barkham
 		bo
 			'bar khams
-			'bar khams, rnga ba khul
 		zh
 			马尔康
 			四川省马尔康
 	G0DD0008
 		en
 			Basgo
-			basgo ladakh
 	G2305
 		en
 			Bathang
@@ -101,8 +99,7 @@
 		zh
 			bei cing
 			bei jing
-			beijing
-			beijing shi
+			bei jing shi
 			北京
 			北京市
 	G1949	G2800
@@ -243,9 +240,9 @@
 	G2KR73
 		en
 			Chongqing
-			chongqing shi
 		zh
 			重庆
+			chong qing shi
 	G0DD0024
 		en
 			Clement Town
@@ -288,7 +285,6 @@
 		en
 			Dege County
 		bo
-			dkar mdzes bod rigs rang skyong khul, sde dge rdzong
 			sde dge rdzong
 	G0DD0027
 		en
@@ -554,7 +550,6 @@
 	G0DD0046
 		en
 			Germany
-			germany
 	G1490
 		en
 			Golok
@@ -638,9 +633,8 @@
 			zhang khang
 		zh
 			shang kang
-			xanggang
+			xang gang
 			xiang gang
-			xianggang
 			香港
 	G2337
 		en
@@ -767,13 +761,12 @@
 			Kathmandu
 		bo
 			ka Tha ma N+Du
-			kaTha man gru
+			ka Tha man gru
 	G17
 		en
 			Kathok
 		bo
 			kaH thog
-			kaHthog
 	G0DD0062
 		en
 			Kawring
@@ -842,8 +835,8 @@
 	G0DD0070
 		en
 			Kyoto
-			jingdu
 		zh
+			jing du
 			京都
 			京都市
 	G162
@@ -878,9 +871,7 @@
 		zh
 			lan chou
 			lan zhou
-			lanchou
-			lanzhou
-			lanzhou shi
+			lan zhou shi
 			兰州
 			兰州市
 	G0DD0072
@@ -1007,6 +998,7 @@
 			kulumanali
 		bo
 			ku lu mi na le
+			ku lu ma na li
 	G0DD0081
 		en
 			Mandi
@@ -1099,7 +1091,7 @@
 		en
 			Namgyal Monastery (Yuthok)
 		bo
-			gayu thog rnam rgyal dgon
+			g.yu thog rnam rgyal dgon
 	G4144
 		en
 			Nangqen
@@ -1182,7 +1174,7 @@
 		en
 			Ngulchu Chodzong Monastery
 		bo
-			dngul chu chos rdong
+			dngul chu chos rdzong
 	G0DD0096		
 		en
 			North America
@@ -1389,8 +1381,9 @@
 		en
 			Saranath
 		bo
-			sAranatha/ wArANasI
+			sA ra na tha/ wA rA Na sI
 			wA rA Na sI'i sA ra nA tha
+			sA ra nA tha
 	G0DD0123
 		en
 			Saspul
@@ -1542,7 +1535,7 @@
 		en
 			Spituk Monastery
 			Pethub Monastery
-			spetup
+			Spetup
 		bo
 			dpe thub dgon
 	G0DD0139
@@ -1552,7 +1545,7 @@
 		en
 			Stakna Monastery
 		bo
-			stag sna ladakh
+			stag sna
 	G0DD0141
 		en
 			Sumra (H.P.)
@@ -1578,7 +1571,7 @@
 			tA'i wan
 			tha'e wan
 		zh
-			thaiwen
+			thai wan
 			台湾
 	G1516
 		en
@@ -1621,7 +1614,7 @@
 		en
 			Tashijong
 		bo
-			bkra shis ljongs/ hi ma cal
+			bkra shis ljongs
 	G3529
 		en
 			Tawang
@@ -1662,11 +1655,9 @@
 	G0DD0152
 		en
 			Tohoku
-			tohoku, japan
 	G0DD0153
 		en
 			Tokyo
-			Tokyo, Japan
 		zh
 			東京
 	G0DD0154
@@ -1740,7 +1731,7 @@
 		en
 			Xiahe County
 		bo
-			zha' ho rdzong gi khongs
+			zha' ho rdzong
 	G1103
 		en
 			Xiangcheng County
@@ -1765,7 +1756,7 @@
 			zi ling
 		zh
 			xi ning
-			xining shi
+			xi ning shi
 			西宁
 	G2303
 		en
@@ -1776,7 +1767,7 @@
 		en
 			Yangrigang Monastery
 		bo
-			thub bstan yang ri sgang
+			thub bstan yangs ri sgang
 	G3812
 		en
 			Yarchen Monastery

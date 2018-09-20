@@ -1,3875 +1,2573 @@
 ﻿{
     "G00EGS1017242": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G4450",
         "langs": {
-            "bo": {
-                "glo smon thang": "",
-                "smon thang": "",
-                "smon thang btsum lung": ""
-            },
-            "en": {
-                "Mustang": ""
-            }
+            "Mustang": "en",
+            "glo smon thang": "bo-x-ewts",
+            "smon thang": "bo-x-ewts",
+            "smon thang btsum lung": "bo-x-ewts"
         }
     },
     "G00JR3353": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0228",
         "langs": {
-            "bo": {
-                "he mis byang chub bsam gtan gling": "",
-                "la dwags he mi": ""
-            },
-            "en": {
-                "Hemis Monastery": ""
-            }
+            "Hemis Monastery": "en",
+            "he mis byang chub bsam gtan gling": "bo-x-ewts",
+            "la dwags he mi": "bo-x-ewts"
         }
     },
     "G00KG09752": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Japan": ""
-            }
+            "Japan": "en"
         }
     },
     "G00KG09762": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2CN11080",
         "langs": {
-            "bo": {
-                "bal yul mchod rten": "",
-                "bal yul mchod rten bya rung kha shor": ""
-            },
-            "en": {
-                "Bouddhanath": ""
-            }
-        }
-    },
-    "G00KG09762\tG2GS1037": {
-        "isLocatedIn": "",
-        "langs": {
-            "en": {
-                "Bouddhanath & Bodhgaya": ""
-            }
+            "Bouddhanath": "en",
+            "bal yul mchod rten": "bo-x-ewts",
+            "bal yul mchod rten bya rung kha shor": "bo-x-ewts"
         }
     },
     "G0DD0001": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0200",
         "langs": {
-            "en": {
-                "Amsterdam": ""
-            }
+            "Amsterdam": "en"
         }
     },
     "G0DD0002": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0142",
         "langs": {
-            "en": {
-                "Andiast": ""
-            }
+            "Andiast": "en"
         }
     },
     "G0DD0003": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0055",
         "langs": {
-            "en": {
-                "Arcidosso": ""
-            }
+            "Arcidosso": "en"
         }
     },
     "G0DD0004": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0204",
         "langs": {
-            "en": {
-                "Auckland": ""
-            }
+            "Auckland": "en"
         }
     },
     "G0DD0005": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Australia": ""
-            }
+            "Australia": "en"
         }
     },
     "G0DD0006": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0028",
         "langs": {
-            "en": {
-                "Ballimaran": ""
-            }
+            "Ballimaran": "en"
         }
     },
     "G0DD0007": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0061",
         "langs": {
-            "en": {
-                "Bangalore": ""
-            }
+            "Bangalore": "en"
         }
     },
     "G0DD0008": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3182",
         "langs": {
-            "en": {
-                "Basgo": "",
-                "basgo ladakh": ""
-            }
+            "Basgo": "en"
         }
     },
     "G0DD0009": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0208",
         "langs": {
-            "en": {
-                "Berkeley": ""
-            }
+            "Berkeley": "en"
         }
     },
     "G0DD0010": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1TD42",
         "langs": {
-            "en": {
-                "Bidung": ""
-            }
+            "Bidung": "en"
         }
     },
     "G0DD0011": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0046",
         "langs": {
-            "en": {
-                "Bonn": ""
-            }
+            "Bonn": "en"
         }
     },
     "G0DD0012": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0207",
         "langs": {
-            "en": {
-                "Boston": ""
-            }
+            "Boston": "en"
         }
     },
     "G0DD0014": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0199",
         "langs": {
-            "en": {
-                "Buryatia": ""
-            }
+            "Buryatia": "en"
         }
     },
     "G0DD0016": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0230",
         "langs": {
-            "bo": {
-                "sbag sa": ""
-            },
-            "en": {
-                "Buxar": ""
-            }
+            "Buxar": "en",
+            "sbag sa": "bo-x-ewts"
         }
     },
     "G0DD0017": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0091",
         "langs": {
-            "bo": {
-                "spel kob": ""
-            },
-            "en": {
-                "Bylakuppe": ""
-            }
+            "Bylakuppe": "en",
+            "spel kob": "bo-x-ewts"
         }
     },
     "G0DD0018": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Canada": ""
-            }
+            "Canada": "en"
         }
     },
     "G0DD0019": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0208",
         "langs": {
-            "en": {
-                "Cazadero": ""
-            }
+            "Cazadero": "en"
         }
     },
     "G0DD0020": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2182",
         "langs": {
-            "bo": {
-                "lcang long dgon": ""
-            },
-            "en": {
-                "Changlung Monastery": ""
-            }
+            "Changlung Monastery": "en",
+            "lcang long dgon": "bo-x-ewts"
         }
     },
     "G0DD0021": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0210",
         "langs": {
-            "en": {
-                "Charlottesville": ""
-            }
+            "Charlottesville": "en"
         }
     },
     "G0DD0022": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0081",
         "langs": {
-            "en": {
-                "Chauntra": ""
-            }
+            "Chauntra": "en"
         }
     },
     "G0DD0023": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0212",
         "langs": {
-            "bo": {
-                "a ri'i phi li Ta phi ya spyan ras gzigs nang pa'i chos tshogs": ""
-            },
-            "en": {
-                "Chenrezig Tibetan Buddhist Center": ""
-            }
+            "Chenrezig Tibetan Buddhist Center": "en",
+            "a ri'i phi li Ta phi ya spyan ras gzigs nang pa'i chos tshogs": "bo-x-ewts"
         }
     },
     "G0DD0024": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0027",
         "langs": {
-            "en": {
-                "Clement Town": ""
-            }
+            "Clement Town": "en"
         }
     },
     "G0DD0025": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0225",
         "langs": {
-            "en": {
-                "Dalhousie": ""
-            }
+            "Dalhousie": "en"
         }
     },
     "G0DD0026": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0233",
         "langs": {
-            "bo": {
-                "rdo rje gling": "",
-                "rdor gling": ""
-            },
-            "en": {
-                "Darjeeling": ""
-            }
-        }
-    },
-    "G0DD0026\tG2CN11080": {
-        "isLocatedIn": "",
-        "langs": {
-            "en": {
-                "Darjeeling & Kathmandu": ""
-            }
+            "Darjeeling": "en",
+            "rdo rje gling": "bo-x-ewts",
+            "rdor gling": "bo-x-ewts"
         }
     },
     "G0DD0027": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0229",
         "langs": {
-            "en": {
-                "Dehra Dun": ""
-            }
+            "Dehra Dun": "en"
         }
     },
     "G0DD0028": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3188",
         "langs": {
-            "bo": {
-                "d+hi li": "",
-                "d+hi li gsar pa": "",
-                "dhi li": "",
-                "dil+li": "",
-                "ldi li": "",
-                "ldi li gsar pa": "",
-                "ne'u ldi li": ""
-            },
-            "en": {
-                "Delhi": "",
-                "New Delhi": ""
-            }
-        }
-    },
-    "G0DD0028\tG0DD0041": {
-        "isLocatedIn": "",
-        "langs": {
-            "en": {
-                "Delhi & Gangtok": ""
-            }
-        }
-    },
-    "G0DD0028\tG3CN1567": {
-        "isLocatedIn": "",
-        "langs": {
-            "en": {
-                "Delhi & Dolanji": ""
-            }
+            "Delhi": "en",
+            "New Delhi": "en",
+            "d+hi li": "bo-x-ewts",
+            "d+hi li gsar pa": "bo-x-ewts",
+            "dhi li": "bo-x-ewts",
+            "dil+li": "bo-x-ewts",
+            "ldi li": "bo-x-ewts",
+            "ldi li gsar pa": "bo-x-ewts",
+            "ne'u ldi li": "bo-x-ewts"
         }
     },
     "G0DD0029": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "'steng chen": ""
-            },
-            "en": {
-                "Dengqen": ""
-            }
+            "'steng chen": "bo-x-ewts",
+            "Dengqen": "en"
         }
     },
     "G0DD0030": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0041",
         "langs": {
-            "en": {
-                "Deorali": ""
-            }
+            "Deorali": "en"
         }
     },
     "G0DD0031": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0065",
         "langs": {
-            "en": {
-                "Dhondenling Tibetan Settlement": ""
-            }
+            "Dhondenling Tibetan Settlement": "en"
         }
     },
     "G0DD0032": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Drepung Loseling (India)": ""
-            }
+            "Drepung Loseling (India)": "en"
         }
     },
     "G0DD0033": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G836",
         "langs": {
-            "en": {
-                "Drukgyel Dzong": "",
-                "drukgyel jeutsaphu": ""
-            }
+            "Drukgyel Dzong": "en",
+            "drukgyel jeutsaphu": "en"
         }
     },
     "G0DD0034": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3CN1562",
         "langs": {
-            "en": {
-                "Dzongsar Shedra (India)": ""
-            }
+            "Dzongsar Shedra (India)": "en"
         }
     },
     "G0DD0035": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "ing len": ""
-            },
-            "en": {
-                "England": ""
-            }
+            "England": "en",
+            "ing len": "bo-x-ewts"
         }
     },
     "G0DD0036": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "bya dkar gsang chen e waM bde chen chos gling": ""
-            },
-            "en": {
-                "Ewam Dechen Choling Monastery": ""
-            }
+            "Ewam Dechen Choling Monastery": "en",
+            "bya dkar gsang chen e waM bde chen chos gling": "bo-x-ewts"
         }
     },
     "G0DD0037": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "France": ""
-            }
+            "France": "en"
         }
     },
     "G0DD0038": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0089",
         "langs": {
-            "en": {
-                "Gaden Shartse Monastery (India)": ""
-            }
+            "Gaden Shartse Monastery (India)": "en"
         }
     },
     "G0DD0039": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0106",
         "langs": {
-            "en": {
-                "Ganeshthan": ""
-            }
+            "Ganeshthan": "en"
         }
     },
     "G0DD0040": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3JT12630",
         "langs": {
-            "en": {
-                "Gangchen Kyishong": ""
-            }
+            "Gangchen Kyishong": "en"
         }
     },
     "G0DD0041": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1398",
         "langs": {
-            "bo": {
-                "sgang tog": "",
-                "sgang tog 'bras ljongs": ""
-            },
-            "en": {
-                "Gangtok": ""
-            }
-        }
-    },
-    "G0DD0041\t G3JT12630": {
-        "isLocatedIn": "",
-        "langs": {
-            "en": {
-                "Gangtok & Dharamsala": ""
-            }
+            "Gangtok": "en",
+            "sgang tog": "bo-x-ewts",
+            "sgang tog 'bras ljongs": "bo-x-ewts"
         }
     },
     "G0DD0042": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0230",
         "langs": {
-            "bo": {
-                "gA yA": ""
-            },
-            "en": {
-                "Gaya": ""
-            }
+            "Gaya": "en",
+            "gA yA": "bo-x-ewts"
         }
     },
     "G0DD0043": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0214",
         "langs": {
-            "en": {
-                "Gelephu": ""
-            }
+            "Gelephu": "en"
         }
     },
     "G0DD0044": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0062",
         "langs": {
-            "en": {
-                "Gemur": ""
-            }
+            "Gemur": "en"
         }
     },
     "G0DD0045": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0044",
         "langs": {
-            "en": {
-                "Gemur Monastery": ""
-            }
+            "Gemur Monastery": "en"
         }
     },
     "G0DD0046": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Germany": "",
-                "germany": ""
-            }
+            "Germany": "en"
         }
     },
     "G0DD0047": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0046",
         "langs": {
-            "en": {
-                "Gottingen": ""
-            }
+            "Gottingen": "en"
         }
     },
     "G0DD0049": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0220",
         "langs": {
-            "en": {
-                "Gurupura": ""
-            }
+            "Gurupura": "en"
         }
     },
     "G0DD0050": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Gyume Tantric College (India)": ""
-            }
+            "Gyume Tantric College (India)": "en"
         }
     },
     "G0DD0051": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0046",
         "langs": {
-            "en": {
-                "Halle (Saale)": ""
-            }
+            "Halle (Saale)": "en"
         }
     },
     "G0DD0053": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Hubli": ""
-            }
+            "Hubli": "en"
         }
     },
     "G0DD0054": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0028",
         "langs": {
-            "en": {
-                "Inder Puri": ""
-            }
+            "Inder Puri": "en"
         }
     },
     "G0DD0055": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "i Ta li": ""
-            },
-            "en": {
-                "Italy": ""
-            }
+            "Italy": "en",
+            "i Ta li": "bo-x-ewts"
         }
     },
     "G0DD0056": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0095",
         "langs": {
-            "en": {
-                "Ithaca": ""
-            }
+            "Ithaca": "en"
         }
     },
     "G0DD0057": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G4716",
         "langs": {
-            "en": {
-                "Jakar Dzong": ""
-            }
+            "Jakar Dzong": "en"
         }
     },
     "G0DD0058": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0237",
         "langs": {
-            "en": {
-                "Jeerango": ""
-            }
+            "Jeerango": "en"
         }
     },
     "G0DD0059": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0061",
         "langs": {
-            "en": {
-                "Kanara": ""
-            }
+            "Kanara": "en"
         }
     },
     "G0DD0060": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0221",
         "langs": {
-            "en": {
-                "Kangra": ""
-            }
+            "Kangra": "en"
         }
     },
     "G0DD0061": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3188",
         "langs": {
-            "en": {
-                "Karnataka": ""
-            }
+            "Karnataka": "en"
         }
     },
     "G0DD0062": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0224",
         "langs": {
-            "en": {
-                "Kawring": ""
-            }
+            "Kawring": "en"
         }
     },
     "G0DD0063": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1PD110102",
         "langs": {
-            "en": {
-                "Khajuhi": ""
-            }
+            "Khajuhi": "en"
         }
     },
     "G0DD0064": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0233",
         "langs": {
-            "en": {
-                "Calcutta": "",
-                "Kolkata": ""
-            }
+            "Calcutta": "en",
+            "Kolkata": "en"
         }
     },
     "G0DD0065": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0061",
         "langs": {
-            "en": {
-                "Kollegal": ""
-            }
+            "Kollegal": "en"
         }
     },
     "G0DD0066": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3CN1568",
         "langs": {
-            "en": {
-                "Kotla Panjola": "",
-                "khotla-panjola": ""
-            }
+            "Kotla Panjola": "en",
+            "khotla-panjola": "en"
         }
     },
     "G0DD0067": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Kulhan": ""
-            }
+            "Kulhan": "en"
         }
     },
     "G0DD0068": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0221",
         "langs": {
-            "en": {
-                "Kullu": ""
-            }
+            "Kullu": "en"
         }
     },
     "G0DD0069": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2208",
         "langs": {
-            "bo": {
-                "khun men": "",
-                "khun ming": ""
-            },
-            "en": {
-                "Kunming": ""
-            },
-            "zh": {
-                "kun ming": "",
-                "昆明": ""
-            }
+            "Kunming": "en",
+            "khun men": "bo-x-ewts",
+            "khun ming": "bo-x-ewts",
+            "kun ming": "zh-Latn-pinyin-x-ndia",
+            "昆明": "zh-Hans"
         }
     },
     "G0DD0070": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G00KG09752",
         "langs": {
-            "en": {
-                "Kyoto": "",
-                "jingdu": ""
-            },
-            "zh": {
-                "京都": "",
-                "京都市": ""
-            }
+            "Kyoto": "en",
+            "jing du": "zh-Latn-pinyin-x-ndia",
+            "京都": "zh-Hans",
+            "京都市": "zh-Hans"
         }
     },
     "G0DD0071": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0221",
         "langs": {
-            "en": {
-                "Lahaul-Spiti": ""
-            }
+            "Lahaul-Spiti": "en"
         }
     },
     "G0DD0072": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0208",
         "langs": {
-            "en": {
-                "Larkspur": ""
-            }
+            "Larkspur": "en"
         }
     },
     "G0DD0073": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0213",
         "langs": {
-            "bo": {
-                "la g.yag": ""
-            },
-            "en": {
-                "Laya": ""
-            }
+            "Laya": "en",
+            "la g.yag": "bo-x-ewts"
         }
     },
     "G0DD0074": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Leipzig": ""
-            }
+            "Leipzig": "en"
         }
     },
     "G0DD0075": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0035",
         "langs": {
-            "en": {
-                "London": ""
-            }
+            "London": "en"
         }
     },
     "G0DD0076": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3CN32",
         "langs": {
-            "en": {
-                "Losar": ""
-            }
+            "Losar": "en"
         }
     },
     "G0DD0077": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3198",
         "langs": {
-            "bo": {
-                "o min": ""
-            },
-            "en": {
-                "Macau": ""
-            }
+            "Macau": "en",
+            "o min": "bo-x-ewts"
         }
     },
     "G0DD0078": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0234",
         "langs": {
-            "bo": {
-                "men pAT": ""
-            },
-            "en": {
-                "Mainpat": ""
-            }
+            "Mainpat": "en",
+            "men pAT": "bo-x-ewts"
         }
     },
     "G0DD0079": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0028",
         "langs": {
-            "en": {
-                "Majnu-ka-tilla": ""
-            }
+            "Majnu-ka-tilla": "en"
         }
     },
     "G0DD0080": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0068",
         "langs": {
-            "bo": {
-                "ku lu mi na le": ""
-            },
-            "en": {
-                "Manali": "",
-                "kulumanali": ""
-            }
+            "Manali": "en",
+            "ku lu ma na li": "bo-x-ewts",
+            "ku lu mi na le": "bo-x-ewts",
+            "kulumanali": "en"
         }
     },
     "G0DD0081": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0221",
         "langs": {
-            "en": {
-                "Mandi": ""
-            }
+            "Mandi": "en"
         }
     },
     "G0DD0082": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0229",
         "langs": {
-            "en": {
-                "Manduwala": ""
-            }
+            "Manduwala": "en"
         }
     },
     "G0DD0083": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0203",
         "langs": {
-            "en": {
-                "Manuka": ""
-            }
+            "Manuka": "en"
         }
     },
     "G0DD0084": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3JT12416",
         "langs": {
-            "en": {
-                "Maryland": ""
-            }
+            "Maryland": "en"
         }
     },
     "G0DD0085": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3JT12630",
         "langs": {
-            "en": {
-                "McLeod Ganj": ""
-            }
+            "McLeod Ganj": "en"
         }
     },
     "G0DD0086": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "o rgyan smin grol gling": ""
-            },
-            "en": {
-                "Mindroling (India)": ""
-            }
+            "Mindroling (India)": "en",
+            "o rgyan smin grol gling": "bo-x-ewts"
         }
     },
     "G0DD0087": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0026",
         "langs": {
-            "en": {
-                "Mirik": ""
-            }
+            "Mirik": "en"
         }
     },
     "G0DD0088": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0199",
         "langs": {
-            "en": {
-                "Moscow": ""
-            }
+            "Moscow": "en"
         }
     },
     "G0DD0089": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0219",
         "langs": {
-            "bo": {
-                "mon g+ho Ta": ""
-            },
-            "en": {
-                "Mundgod": ""
-            }
+            "Mundgod": "en",
+            "mon g+ho Ta": "bo-x-ewts"
         }
     },
     "G0DD0090": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0027",
         "langs": {
-            "en": {
-                "Mussoorie": ""
-            }
+            "Mussoorie": "en"
         }
     },
     "G0DD0091": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0061",
         "langs": {
-            "bo": {
-                "ma su ri": "",
-                "ma su'u ri": ""
-            },
-            "en": {
-                "Mysore": ""
-            }
+            "Mysore": "en",
+            "ma su ri": "bo-x-ewts",
+            "ma su'u ri": "bo-x-ewts"
         }
     },
     "G0DD0092": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "gayu thog rnam rgyal dgon": ""
-            },
-            "en": {
-                "Namgyal Monastery (Yuthok)": ""
-            }
+            "Namgyal Monastery (Yuthok)": "en",
+            "g.yu thog rnam rgyal dgon": "bo-x-ewts"
         }
     },
     "G0DD0093": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3JT12416",
         "langs": {
-            "en": {
-                "New Jersey": ""
-            }
+            "New Jersey": "en"
         }
     },
     "G0DD0094": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0145",
         "langs": {
-            "en": {
-                "New Taipei City": ""
-            },
-            "zh": {
-                "新北市": ""
-            }
+            "New Taipei City": "en",
+            "新北市": "zh-Hans"
         }
     },
     "G0DD0095": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3JT12416",
         "langs": {
-            "en": {
-                "New York": ""
-            }
+            "New York": "en"
         }
     },
     "G0DD0096": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "North America": ""
-            }
+            "North America": "en"
         }
     },
     "G0DD0097": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0208",
         "langs": {
-            "en": {
-                "Oakland": ""
-            }
+            "Oakland": "en"
         }
     },
     "G0DD0098": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3CN1568",
         "langs": {
-            "en": {
-                "Ochghat": ""
-            }
+            "Ochghat": "en"
         }
     },
     "G0DD0099": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0019",
         "langs": {
-            "en": {
-                "Odiyan": ""
-            }
+            "Odiyan": "en"
         }
     },
     "G0DD0100": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G00KG09752",
         "langs": {
-            "en": {
-                "Osaka": ""
-            }
+            "Osaka": "en"
         }
     },
     "G0DD0102": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0041",
         "langs": {
-            "en": {
-                "Palace Monastery": ""
-            }
+            "Palace Monastery": "en"
         }
     },
     "G0DD0103": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0060",
         "langs": {
-            "en": {
-                "Palampur": ""
-            }
+            "Palampur": "en"
         }
     },
     "G0DD0104": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0037",
         "langs": {
-            "en": {
-                "Paris": ""
-            }
+            "Paris": "en"
         }
     },
     "G0DD0106": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2CN11080",
         "langs": {
-            "bo": {
-                "yang le shod": ""
-            },
-            "en": {
-                "Pharping": "",
-                "Yangleshod": ""
-            }
+            "Pharping": "en",
+            "Yangleshod": "en",
+            "yang le shod": "bo-x-ewts"
         }
     },
     "G0DD0107": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0215",
         "langs": {
-            "bo": {
-                "phun tshogs gling": ""
-            },
-            "en": {
-                "Phuentsholing": ""
-            }
-        }
-    },
-    "G0DD0107\tG4706": {
-        "isLocatedIn": "",
-        "langs": {
-            "bo": {
-                "phun tshogs gling / thim phu": ""
-            },
-            "en": {
-                "Phuentsholing & Thimphu": ""
-            }
+            "Phuentsholing": "en",
+            "phun tshogs gling": "bo-x-ewts"
         }
     },
     "G0DD0108": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0201",
         "langs": {
-            "en": {
-                "Plouray": ""
-            }
+            "Plouray": "en"
         }
     },
     "G0DD0109": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G4450",
         "langs": {
-            "en": {
-                "Pokhara": ""
-            }
+            "Pokhara": "en"
         }
     },
     "G0DD0110": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0205",
         "langs": {
-            "en": {
-                "Prague": ""
-            }
+            "Prague": "en"
         }
     },
     "G0DD0111": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0095",
         "langs": {
-            "en": {
-                "Queens": ""
-            }
+            "Queens": "en"
         }
     },
     "G0DD0112": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0209",
         "langs": {
-            "en": {
-                "Questa": ""
-            }
+            "Questa": "en"
         }
     },
     "G0DD0113": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0027",
         "langs": {
-            "bo": {
-                "rA dza pur": "",
-                "ra dza pur": ""
-            },
-            "en": {
-                "Rajpur": ""
-            }
+            "Rajpur": "en",
+            "rA dza pur": "bo-x-ewts",
+            "ra dza pur": "bo-x-ewts"
         }
     },
     "G0DD0114": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0081",
         "langs": {
-            "en": {
-                "Rewalsar": ""
-            }
+            "Rewalsar": "en"
         }
     },
     "G0DD0115": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0202",
         "langs": {
-            "en": {
-                "Rikon": ""
-            }
+            "Rikon": "en"
         }
     },
     "G0DD0116": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0055",
         "langs": {
-            "en": {
-                "Rome": ""
-            }
+            "Rome": "en"
         }
     },
     "G0DD0117": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G4450",
         "langs": {
-            "en": {
-                "Rupandehi": ""
-            }
+            "Rupandehi": "en"
         }
     },
     "G0DD0118": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0070",
         "langs": {
-            "en": {
-                "Sakyo-ku": ""
-            }
+            "Sakyo-ku": "en"
         }
     },
     "G0DD0119": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0128",
         "langs": {
-            "en": {
-                "Sanjauli": ""
-            }
+            "Sanjauli": "en"
         }
     },
     "G0DD0120": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0060",
         "langs": {
-            "en": {
-                "Sansal": ""
-            }
+            "Sansal": "en"
         }
     },
     "G0DD0121": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0233",
         "langs": {
-            "en": {
-                "Santiniketan": ""
-            }
+            "Santiniketan": "en"
         }
     },
     "G0DD0122": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3JT12630",
         "langs": {
-            "bo": {
-                "sa rA": ""
-            },
-            "en": {
-                "Sarah": ""
-            }
+            "Sarah": "en",
+            "sa rA": "bo-x-ewts"
         }
     },
     "G0DD0123": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3182",
         "langs": {
-            "en": {
-                "Saspul": "",
-                "saspola": ""
-            }
+            "Saspul": "en",
+            "saspola": "en"
         }
     },
     "G0DD0124": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0160",
         "langs": {
-            "en": {
-                "Seattle": ""
-            }
+            "Seattle": "en"
         }
     },
     "G0DD0125": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0027",
         "langs": {
-            "bo": {
-                "se la ku": ""
-            },
-            "en": {
-                "Selaqui": ""
-            }
+            "Selaqui": "en",
+            "se la ku": "bo-x-ewts"
         }
     },
     "G0DD0126": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Sera Je Monastery (India)": ""
-            }
+            "Sera Je Monastery (India)": "en"
         }
     },
     "G0DD0127": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3198",
         "langs": {
-            "bo": {
-                "hrang he": ""
-            },
-            "en": {
-                "Shanghai": ""
-            },
-            "zh": {
-                "上海": ""
-            }
+            "Shanghai": "en",
+            "hrang he": "bo-x-ewts",
+            "上海": "zh-Hans"
         }
     },
     "G0DD0128": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0221",
         "langs": {
-            "en": {
-                "Shimla": "",
-                "Simla": ""
-            }
+            "Shimla": "en",
+            "Simla": "en"
         }
     },
     "G0DD0129": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0160",
         "langs": {
-            "en": {
-                "Shoreline": "",
-                "shoreline, WA": ""
-            }
+            "Shoreline": "en",
+            "shoreline, WA": "en"
         }
     },
     "G0DD0130": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3JT12629",
         "langs": {
-            "bo": {
-                "mtsho slob shrI dI wa kar wi hA ra": ""
-            },
-            "en": {
-                "Shri Diwakar Vihara": ""
-            }
+            "Shri Diwakar Vihara": "en",
+            "mtsho slob shrI dI wa kar wi hA ra": "bo-x-ewts"
         }
     },
     "G0DD0131": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2MS14675",
         "langs": {
-            "en": {
-                "Bhairahawa": "",
-                "Siddharthanagar": ""
-            }
+            "Bhairahawa": "en",
+            "Siddharthanagar": "en"
         }
     },
     "G0DD0132": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3JT12630",
         "langs": {
-            "en": {
-                "Sidhbari": ""
-            }
+            "Sidhbari": "en"
         }
     },
     "G0DD0133": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0060",
         "langs": {
-            "en": {
-                "Sidhpur": ""
-            }
+            "Sidhpur": "en"
         }
     },
     "G0DD0134": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G4706",
         "langs": {
-            "en": {
-                "Simtokha": ""
-            }
+            "Simtokha": "en"
         }
     },
     "G0DD0135": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0012",
         "langs": {
-            "en": {
-                "Somerville (Boston)": ""
-            }
+            "Somerville (Boston)": "en"
         }
     },
     "G0DD0136": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0026",
         "langs": {
-            "en": {
-                "Sonada": ""
-            }
+            "Sonada": "en"
         }
     },
     "G0DD0137": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3188",
         "langs": {
-            "en": {
-                "South India": ""
-            }
+            "South India": "en"
         }
     },
     "G0DD0138": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1085",
         "langs": {
-            "bo": {
-                "dpe thub dgon": ""
-            },
-            "en": {
-                "Pethub Monastery": "",
-                "Spituk Monastery": "",
-                "spetup": ""
-            }
+            "Pethub Monastery": "en",
+            "Spetup": "en",
+            "Spituk Monastery": "en",
+            "dpe thub dgon": "bo-x-ewts"
         }
     },
     "G0DD0139": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0199",
         "langs": {
-            "en": {
-                "St-Petersburg": ""
-            }
+            "St-Petersburg": "en"
         }
     },
     "G0DD0140": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3182",
         "langs": {
-            "bo": {
-                "stag sna ladakh": ""
-            },
-            "en": {
-                "Stakna Monastery": ""
-            }
+            "Stakna Monastery": "en",
+            "stag sna": "bo-x-ewts"
         }
     },
     "G0DD0141": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3CN32",
         "langs": {
-            "en": {
-                "Sumra (H.P.)": ""
-            }
+            "Sumra (H.P.)": "en"
         }
     },
     "G0DD0142": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Switzerland": ""
-            }
+            "Switzerland": "en"
         }
     },
     "G0DD0143": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1398",
         "langs": {
-            "en": {
-                "Tadong": ""
-            }
+            "Tadong": "en"
         }
     },
     "G0DD0144": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0145",
         "langs": {
-            "en": {
-                "Taipei": ""
-            }
+            "Taipei": "en"
         }
     },
     "G0DD0145": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "tA'i wan": "",
-                "tha'e wan": ""
-            },
-            "en": {
-                "Taiwan": ""
-            },
-            "zh": {
-                "thaiwen": "",
-                "台湾": ""
-            }
+            "Taiwan": "en",
+            "tA'i wan": "bo-x-ewts",
+            "tha'e wan": "bo-x-ewts",
+            "thai wan": "zh-Latn-pinyin-x-ndia",
+            "台湾": "zh-Hans"
         }
     },
     "G0DD0146": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Tana Monastery (India)": ""
-            }
+            "Tana Monastery (India)": "en"
         }
     },
     "G0DD0147": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0232",
         "langs": {
-            "en": {
-                "Tezu": ""
-            }
+            "Tezu": "en"
         }
     },
     "G0DD0148": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G4716",
         "langs": {
-            "en": {
-                "Tharpaling Monastery": ""
-            }
+            "Tharpaling Monastery": "en"
         }
     },
     "G0DD0149": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3CN1562",
         "langs": {
-            "en": {
-                "The Bir Tibetan Society": ""
-            }
+            "The Bir Tibetan Society": "en"
         }
     },
     "G0DD0150": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0026",
         "langs": {
-            "bo": {
-                "rdor gling rang dbang par khang": ""
-            },
-            "en": {
-                "Tibetan Freedom Press": ""
-            }
+            "Tibetan Freedom Press": "en",
+            "rdor gling rang dbang par khang": "bo-x-ewts"
         }
     },
     "G0DD0151": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3CN1562",
         "langs": {
-            "en": {
-                "Tibetan Khampa Industrial Society": ""
-            }
+            "Tibetan Khampa Industrial Society": "en"
         }
     },
     "G0DD0152": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G00KG09752",
         "langs": {
-            "en": {
-                "Tohoku": "",
-                "tohoku, japan": ""
-            }
+            "Tohoku": "en"
         }
     },
     "G0DD0153": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G00KG09752",
         "langs": {
-            "en": {
-                "Tokyo": "",
-                "Tokyo, Japan": ""
-            },
-            "zh": {
-                "東京": ""
-            }
+            "Tokyo": "en",
+            "東京": "zh-Hans"
         }
     },
     "G0DD0154": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "dkar mdzes rdzong stong skor sgon": ""
-            },
-            "en": {
-                "Tongkor Monastery": ""
-            }
+            "Tongkor Monastery": "en",
+            "dkar mdzes rdzong stong skor sgon": "bo-x-ewts"
         }
     },
     "G0DD0155": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0018",
         "langs": {
-            "en": {
-                "Toronto": ""
-            }
+            "Toronto": "en"
         }
     },
     "G0DD0156": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0223",
         "langs": {
-            "en": {
-                "Upper Bhattu": ""
-            }
+            "Upper Bhattu": "en"
         }
     },
     "G0DD0159": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0005",
         "langs": {
-            "en": {
-                "Victoria": ""
-            }
+            "Victoria": "en"
         }
     },
     "G0DD0160": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3JT12416",
         "langs": {
-            "en": {
-                "Washington": ""
-            }
+            "Washington": "en"
         }
     },
     "G0DD0161": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0206",
         "langs": {
-            "en": {
-                "Wien": ""
-            }
+            "Wien": "en"
         }
     },
     "G0DD0162": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0046",
         "langs": {
-            "en": {
-                "Wiesbaden": ""
-            }
+            "Wiesbaden": "en"
         }
     },
     "G0DD0163": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0095",
         "langs": {
-            "en": {
-                "Woodstock": ""
-            }
+            "Woodstock": "en"
         }
     },
     "G0DD0164": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1949",
         "langs": {
-            "en": {
-                "Xicheng District": ""
-            },
-            "zh": {
-                "北京市西城区文津街7号": ""
-            }
+            "Xicheng District": "en",
+            "北京市西城区文津街7号": "zh-Hans"
         }
     },
     "G0DD0165": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1819",
         "langs": {
-            "bo": {
-                "thub bstan yang ri sgang": ""
-            },
-            "en": {
-                "Yangrigang Monastery": ""
-            }
+            "Yangrigang Monastery": "en",
+            "thub bstan yangs ri sgang": "bo-x-ewts"
         }
     },
     "G0DD0166": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1819",
         "langs": {
-            "bo": {
-                "lha sa zhol": ""
-            },
-            "en": {
-                "Zhol Village": ""
-            }
+            "Zhol Village": "en",
+            "lha sa zhol": "bo-x-ewts"
         }
     },
     "G0DD0167": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0172",
         "langs": {
-            "bo": {
-                "kan kru'u": ""
-            },
-            "en": {
-                "Ganzhou": ""
-            }
+            "Ganzhou": "en",
+            "kan kru'u": "bo-x-ewts"
         }
     },
     "G0DD0168": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0174",
         "langs": {
-            "en": {
-                "Jinan": ""
-            },
-            "zh": {
-                "济南": ""
-            }
+            "Jinan": "en",
+            "济南": "zh-Hans"
         }
     },
     "G0DD0170": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "chab mdo": ""
-            },
-            "en": {
-                "Qamdo": ""
-            }
+            "Qamdo": "en",
+            "chab mdo": "bo-x-ewts"
         }
     },
     "G1005": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1202",
         "langs": {
-            "bo": {
-                "dpa' ris": ""
-            },
-            "en": {
-                "Bairi": ""
-            }
+            "Bairi": "en",
+            "dpa' ris": "bo-x-ewts"
         }
     },
     "G104": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2170",
         "langs": {
-            "bo": {
-                "bkra shis lhun po": "",
-                "bkra shis lhun po dgon": ""
-            },
-            "en": {
-                "Tashi Lhunpo Monastery": ""
-            }
+            "Tashi Lhunpo Monastery": "en",
+            "bkra shis lhun po": "bo-x-ewts",
+            "bkra shis lhun po dgon": "bo-x-ewts"
         }
     },
     "G1052": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0173",
         "langs": {
-            "bo": {
-                "dpa' ris rdzong": ""
-            },
-            "en": {
-                "Bairi County": ""
-            }
+            "Bairi County": "en",
+            "dpa' ris rdzong": "bo-x-ewts"
         }
     },
     "G108": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "'bras spung": "",
-                "'bras spungs": ""
-            },
-            "en": {
-                "Drepung (Tibet)": ""
-            }
+            "'bras spung": "bo-x-ewts",
+            "'bras spungs": "bo-x-ewts",
+            "Drepung (Tibet)": "en"
         }
     },
     "G1085": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3182",
         "langs": {
-            "bo": {
-                "gle": ""
-            },
-            "en": {
-                "Leh": ""
-            }
+            "Leh": "en",
+            "gle": "bo-x-ewts"
         }
     },
     "G10MS19724": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1473",
         "langs": {
-            "bo": {
-                "khreng tu'u (etc.)": ""
-            },
-            "en": {
-                "Chengdu (etc.)": ""
-            }
+            "Chengdu (etc.)": "en",
+            "khreng tu'u (etc.)": "bo-x-ewts"
         }
     },
     "G1103": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "cha phreng rdzong": "",
-                "phyag 'phreng rdzong": ""
-            },
-            "en": {
-                "Xiangcheng County": ""
-            }
+            "Xiangcheng County": "en",
+            "cha phreng rdzong": "bo-x-ewts",
+            "phyag 'phreng rdzong": "bo-x-ewts"
         }
     },
     "G1136": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "khri ka": "",
-                "khri kha": ""
-            },
-            "en": {
-                "Guide": ""
-            }
+            "Guide": "en",
+            "khri ka": "bo-x-ewts",
+            "khri kha": "bo-x-ewts"
         }
     },
     "G1192": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "lo ro": ""
-            },
-            "en": {
-                "Loro": ""
-            }
+            "Loro": "en",
+            "lo ro": "bo-x-ewts"
         }
     },
     "G1196": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "mdo smad rnga yul": "",
-                "rnga ba": "",
-                "rnga pa": "",
-                "rnga yul": ""
-            },
-            "en": {
-                "Ngayul": ""
-            }
+            "Ngayul": "en",
+            "mdo smad rnga yul": "bo-x-ewts",
+            "rnga ba": "bo-x-ewts",
+            "rnga pa": "bo-x-ewts",
+            "rnga yul": "bo-x-ewts"
         }
     },
     "G1202": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3CN9",
         "langs": {
-            "bo": {
-                "a mdo": ""
-            },
-            "en": {
-                "Amdo": ""
-            }
+            "Amdo": "en",
+            "a mdo": "bo-x-ewts"
         }
     },
     "G1272": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3CN36",
         "langs": {
-            "bo": {
-                "rgyal rong": ""
-            },
-            "en": {
-                "Gyalrong": ""
-            }
+            "Gyalrong": "en",
+            "rgyal rong": "bo-x-ewts"
         }
     },
     "G1326": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3CN9",
         "langs": {
-            "bo": {
-                "khams": ""
-            },
-            "en": {
-                "Kham": ""
-            }
+            "Kham": "en",
+            "khams": "bo-x-ewts"
         }
     },
     "G1338": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3166",
         "langs": {
-            "bo": {
-                "gung thang": "",
-                "mang yul gung thang": ""
-            },
-            "en": {
-                "Gungthang": ""
-            }
+            "Gungthang": "en",
+            "gung thang": "bo-x-ewts",
+            "mang yul gung thang": "bo-x-ewts"
         }
     },
     "G1365": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3CN36",
         "langs": {
-            "bo": {
-                "nyag rong": ""
-            },
-            "en": {
-                "Nyarong": ""
-            }
+            "Nyarong": "en",
+            "nyag rong": "bo-x-ewts"
         }
     },
     "G1366": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1326",
         "langs": {
-            "bo": {
-                "khams sde dge": "",
-                "mdo khams sde dge": "",
-                "sde dge": "",
-                "sde dge rdzong": ""
-            },
-            "en": {
-                "Dege": ""
-            }
+            "Dege": "en",
+            "khams sde dge": "bo-x-ewts",
+            "mdo khams sde dge": "bo-x-ewts",
+            "sde dge": "bo-x-ewts",
+            "sde dge rdzong": "bo-x-ewts"
         }
     },
     "G1379": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "'ol kha": ""
-            },
-            "en": {
-                "Olka": ""
-            }
+            "'ol kha": "bo-x-ewts",
+            "Olka": "en"
         }
     },
     "G1395": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G584",
         "langs": {
-            "bo": {
-                "hal ha": "",
-                "sog yul khal kha": ""
-            },
-            "en": {
-                "Khalkha": ""
-            }
+            "Khalkha": "en",
+            "hal ha": "bo-x-ewts",
+            "sog yul khal kha": "bo-x-ewts"
         }
     },
     "G1398": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3188",
         "langs": {
-            "bo": {
-                "'bras ljongs": ""
-            },
-            "en": {
-                "Sikkim": ""
-            }
+            "'bras ljongs": "bo-x-ewts",
+            "Sikkim": "en"
         }
     },
     "G14": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "smin grol gling": ""
-            },
-            "en": {
-                "Mindroling (Tibet)": ""
-            }
+            "Mindroling (Tibet)": "en",
+            "smin grol gling": "bo-x-ewts"
         }
     },
     "G1467": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2324",
         "langs": {
-            "bo": {
-                "nang chen rdzong": ""
-            },
-            "en": {
-                "Nangqen County": ""
-            }
+            "Nangqen County": "en",
+            "nang chen rdzong": "bo-x-ewts"
         }
     },
     "G1473": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3198",
         "langs": {
-            "bo": {
-                "si khron": ""
-            },
-            "en": {
-                "Sichuan": ""
-            },
-            "zh": {
-                "si chuan": ""
-            }
+            "Sichuan": "en",
+            "si chuan": "zh-Hans",
+            "si khron": "bo-x-ewts"
         }
     },
     "G1481": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1202",
         "langs": {
-            "bo": {
-                "d+hi tsha": ""
-            },
-            "en": {
-                "Ditsa": ""
-            }
+            "Ditsa": "en",
+            "d+hi tsha": "bo-x-ewts"
         }
     },
     "G1490": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1202",
         "langs": {
-            "bo": {
-                "mgo log": ""
-            },
-            "en": {
-                "Golok": ""
-            }
+            "Golok": "en",
+            "mgo log": "bo-x-ewts"
         }
     },
     "G1516": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1819",
         "langs": {
-            "bo": {
-                "stag rtse rdzong": ""
-            },
-            "en": {
-                "Taktse County": ""
-            }
+            "Taktse County": "en",
+            "stag rtse rdzong": "bo-x-ewts"
         }
     },
     "G1538": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1473",
         "langs": {
-            "bo": {
-                "dkar mdzes": "",
-                "dkar mdzes khul": "",
-                "dkar mdzes rdzong": ""
-            },
-            "en": {
-                "Garze": ""
-            },
-            "zh": {
-                "甘孜": "",
-                "甘孜报印刷厂": ""
-            }
+            "Garze": "en",
+            "dkar mdzes": "bo-x-ewts",
+            "dkar mdzes khul": "bo-x-ewts",
+            "dkar mdzes rdzong": "bo-x-ewts",
+            "甘孜": "zh-Hans",
+            "甘孜报印刷厂": "zh-Hans"
         }
     },
     "G1539": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "dkar mdzes bod rigs rang skyong khul, sde dge rdzong": "",
-                "sde dge rdzong": ""
-            },
-            "en": {
-                "Dege County": ""
-            }
+            "Dege County": "en",
+            "sde dge rdzong": "bo-x-ewts"
         }
     },
     "G154": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "se ra": ""
-            },
-            "en": {
-                "Sera (Tibet)": ""
-            }
+            "Sera (Tibet)": "en",
+            "se ra": "bo-x-ewts"
         }
     },
     "G1563": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G621",
         "langs": {
-            "bo": {
-                "gzhi chen dgon": ""
-            },
-            "en": {
-                "Zhichen Monastery": ""
-            }
+            "Zhichen Monastery": "en",
+            "gzhi chen dgon": "bo-x-ewts"
         }
     },
     "G16": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "rdzogs chen dgon": "",
-                "sde dge rdzongs chen dgon": ""
-            },
-            "en": {
-                "Dzogchen Monastery (Tibet)": ""
-            }
+            "Dzogchen Monastery (Tibet)": "en",
+            "rdzogs chen dgon": "bo-x-ewts",
+            "sde dge rdzongs chen dgon": "bo-x-ewts"
         }
     },
     "G160": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2350",
         "langs": {
-            "bo": {
-                "sku 'bum": "",
-                "sku 'bum byams pa gling": ""
-            },
-            "en": {
-                "Kubum Monastery": ""
-            }
+            "Kubum Monastery": "en",
+            "sku 'bum": "bo-x-ewts",
+            "sku 'bum byams pa gling": "bo-x-ewts"
         }
     },
     "G162": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2396",
         "langs": {
-            "bo": {
-                "bkra shis 'khyil": "",
-                "bla brang": "",
-                "bla brang bkra shis 'khyil": ""
-            },
-            "en": {
-                "Labrang Monastery": ""
-            }
+            "Labrang Monastery": "en",
+            "bkra shis 'khyil": "bo-x-ewts",
+            "bla brang": "bo-x-ewts",
+            "bla brang bkra shis 'khyil": "bo-x-ewts"
         }
     },
     "G1695": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1697",
         "langs": {
-            "bo": {
-                "gcan tsha": "",
-                "gcan tsha rdzong": ""
-            },
-            "en": {
-                "Jainca County": ""
-            }
+            "Jainca County": "en",
+            "gcan tsha": "bo-x-ewts",
+            "gcan tsha rdzong": "bo-x-ewts"
         }
     },
     "G17": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "kaH thog": "",
-                "kaHthog": ""
-            },
-            "en": {
-                "Kathok": ""
-            }
+            "Kathok": "en",
+            "kaH thog": "bo-x-ewts"
         }
     },
     "G1721": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1719",
         "langs": {
-            "bo": {
-                "lcags ri thang zhang": ""
-            },
-            "en": {
-                "Chakri Thangzhang": ""
-            }
+            "Chakri Thangzhang": "en",
+            "lcags ri thang zhang": "bo-x-ewts"
         }
     },
     "G1750": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1700",
         "langs": {
-            "bo": {
-                "mdo smad snga 'gyur stag lung dgon": ""
-            },
-            "en": {
-                "Ngagyur Taklung Monastery": ""
-            }
+            "Ngagyur Taklung Monastery": "en",
+            "mdo smad snga 'gyur stag lung dgon": "bo-x-ewts"
         }
     },
     "G1754": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1701",
         "langs": {
-            "bo": {
-                "rma chen": ""
-            },
-            "en": {
-                "Maqen": ""
-            }
+            "Maqen": "en",
+            "rma chen": "bo-x-ewts"
         }
     },
     "G186": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G903",
         "langs": {
-            "bo": {
-                "rdza rong phu": ""
-            },
-            "en": {
-                "Rongbuk": ""
-            }
+            "Rongbuk": "en",
+            "rdza rong phu": "bo-x-ewts"
         }
     },
     "G188": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2300",
         "langs": {
-            "bo": {
-                "a 'dzom sgar": ""
-            },
-            "en": {
-                "Adzom Monastery": ""
-            }
+            "Adzom Monastery": "en",
+            "a 'dzom sgar": "bo-x-ewts"
         }
     },
     "G1912": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1812",
         "langs": {
-            "bo": {
-                "mtho las dgon rnam rgyal phun tshogs chos rdzong gling": ""
-            },
-            "en": {
-                "Tuole Monastery": ""
-            }
+            "Tuole Monastery": "en",
+            "mtho las dgon rnam rgyal phun tshogs chos rdzong gling": "bo-x-ewts"
         }
     },
     "G193": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1539",
         "langs": {
-            "bo": {
-                "lhun grub steng": "",
-                "lhun sgrub steng": "",
-                "sde dge dgon chen": "",
-                "sde dge lhun grub steng": ""
-            },
-            "en": {
-                "Derge Gonchen": ""
-            }
+            "Derge Gonchen": "en",
+            "lhun grub steng": "bo-x-ewts",
+            "lhun sgrub steng": "bo-x-ewts",
+            "sde dge dgon chen": "bo-x-ewts",
+            "sde dge lhun grub steng": "bo-x-ewts"
         }
     },
     "G1949": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3198",
         "langs": {
-            "bo": {
-                "pe cin": "",
-                "pe cing": "",
-                "པེ་ཅིན།": "",
-                "པེའི་ཕིང་": ""
-            },
-            "en": {
-                "Beijing": "",
-                "Peking": ""
-            },
-            "zh": {
-                "bei cing": "",
-                "bei jing": "",
-                "beijing": "",
-                "beijing shi": "",
-                "北京": "",
-                "北京市": ""
-            }
-        }
-    },
-    "G1949\tG0DD0075": {
-        "isLocatedIn": "",
-        "langs": {
-            "bo": {
-                "pe cin/ lon tun": ""
-            },
-            "en": {
-                "Beijing & London": ""
-            }
-        }
-    },
-    "G1949\tG2800": {
-        "isLocatedIn": "",
-        "langs": {
-            "bo": {
-                "lha sa dang pe cin": "",
-                "pe cin/ lha sa": ""
-            },
-            "en": {
-                "Beijing & Lhasa": ""
-            }
-        }
-    },
-    "G1949\tG598": {
-        "isLocatedIn": "",
-        "langs": {
-            "bo": {
-                "pe cin ; zi ling": ""
-            },
-            "en": {
-                "Beijing & Ziling": ""
-            }
+            "Beijing": "en",
+            "Peking": "en",
+            "bei cing": "zh-Latn-pinyin-x-ndia",
+            "bei jing": "zh-Latn-pinyin-x-ndia",
+            "bei jing shi": "zh-Latn-pinyin-x-ndia",
+            "pe cin": "bo-x-ewts",
+            "pe cing": "bo-x-ewts",
+            "པེ་ཅིན།": "bo",
+            "པེའི་ཕིང་": "bo",
+            "北京": "zh-Hans",
+            "北京市": "zh-Hans"
         }
     },
     "G1977": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G640",
         "langs": {
-            "bo": {
-                "pad+ma bkod": ""
-            },
-            "en": {
-                "Pemako": ""
-            }
+            "Pemako": "en",
+            "pad+ma bkod": "bo-x-ewts"
         }
     },
     "G1979": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G584",
         "langs": {
-            "bo": {
-                "khu re chen mo": "",
-                "tA khu re": "",
-                "tA khu re/ sog yul": ""
-            },
-            "en": {
-                "Takure Monastery": ""
-            }
+            "Takure Monastery": "en",
+            "khu re chen mo": "bo-x-ewts",
+            "tA khu re": "bo-x-ewts",
+            "tA khu re/ sog yul": "bo-x-ewts"
         }
     },
     "G1990": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1814",
         "langs": {
-            "bo": {
-                "lhun rtse": "",
-                "lhun rtse rdzong": ""
-            },
-            "en": {
-                "Lhunze": "",
-                "Lhunze County": ""
-            }
+            "Lhunze": "en",
+            "Lhunze County": "en",
+            "lhun rtse": "bo-x-ewts",
+            "lhun rtse rdzong": "bo-x-ewts"
         }
     },
     "G1GS1642": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1272",
         "langs": {
-            "bo": {
-                "grub pa'i gnas mchog 'od gsal phug": ""
-            },
-            "en": {
-                "Bairotsana Cave": ""
-            }
+            "Bairotsana Cave": "en",
+            "grub pa'i gnas mchog 'od gsal phug": "bo-x-ewts"
         }
     },
     "G1KG17626": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3CN32",
         "langs": {
-            "en": {
-                "Tabo Monastery": ""
-            }
+            "Tabo Monastery": "en"
         }
     },
     "G1KR1169": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2188",
         "langs": {
-            "bo": {
-                "khyung po steng chen g.yung drung bstan rgyas gling": ""
-            },
-            "en": {
-                "Khyungpo Tengchen Monastery": ""
-            }
+            "Khyungpo Tengchen Monastery": "en",
+            "khyung po steng chen g.yung drung bstan rgyas gling": "bo-x-ewts"
         }
     },
     "G1KR2385": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2314",
         "langs": {
-            "bo": {
-                "a rig chos grwa": ""
-            },
-            "en": {
-                "Arik Monastery": ""
-            }
+            "Arik Monastery": "en",
+            "a rig chos grwa": "bo-x-ewts"
         }
     },
     "G1KR2438": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G984",
         "langs": {
-            "bo": {
-                "'gar rtse": ""
-            },
-            "en": {
-                "Gartse": ""
-            }
+            "'gar rtse": "bo-x-ewts",
+            "Gartse": "en"
         }
     },
     "G1PD110071": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0216",
         "langs": {
-            "bo": {
-                "'bras ljongs rum bteg": "",
-                "rum bteg": "",
-                "rum btegs": ""
-            },
-            "en": {
-                "Rumtek": ""
-            }
+            "'bras ljongs rum bteg": "bo-x-ewts",
+            "Rumtek": "en",
+            "rum bteg": "bo-x-ewts",
+            "rum btegs": "bo-x-ewts"
         }
     },
     "G1PD110102": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0235",
         "langs": {
-            "bo": {
-                "sAranatha/ wArANasI": "",
-                "wA rA Na sI'i sA ra nA tha": ""
-            },
-            "en": {
-                "Saranath": ""
-            }
+            "Saranath": "en",
+            "sA ra nA tha": "bo-x-ewts",
+            "sA ra na tha/ wA rA Na sI": "bo-x-ewts",
+            "wA rA Na sI'i sA ra nA tha": "bo-x-ewts"
         }
     },
     "G1PD97740": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "rgya ye": ""
-            },
-            "en": {
-                "Gyaye": ""
-            }
+            "Gyaye": "en",
+            "rgya ye": "bo-x-ewts"
         }
     },
     "G1TD12": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G4706",
         "langs": {
-            "bo": {
-                "bkra shis chos rdzong / thim phu": ""
-            },
-            "en": {
-                "Tashichhoedzong Monastery": ""
-            }
+            "Tashichhoedzong Monastery": "en",
+            "bkra shis chos rdzong / thim phu": "bo-x-ewts"
         }
     },
     "G1TD42": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3205",
         "langs": {
-            "en": {
-                "Tashigang": ""
-            }
+            "Tashigang": "en"
         }
     },
     "G1TD43": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G836",
         "langs": {
-            "en": {
-                "Kyichu Temple": ""
-            }
+            "Kyichu Temple": "en"
         }
     },
     "G20": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1539",
         "langs": {
-            "bo": {
-                "khams zhe chen dgon": "",
-                "zhe chen dgon": ""
-            },
-            "en": {
-                "Shechen Monastery (Tibet)": ""
-            }
+            "Shechen Monastery (Tibet)": "en",
+            "khams zhe chen dgon": "bo-x-ewts",
+            "zhe chen dgon": "bo-x-ewts"
         }
     },
     "G201": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2167",
         "langs": {
-            "bo": {
-                "gtsang jo mo nang": "",
-                "jo mo nang": "",
-                "jo nang": ""
-            },
-            "en": {
-                "Jomonang": ""
-            }
+            "Jomonang": "en",
+            "gtsang jo mo nang": "bo-x-ewts",
+            "jo mo nang": "bo-x-ewts",
+            "jo nang": "bo-x-ewts"
         }
     },
     "G2014": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1819",
         "langs": {
-            "bo": {
-                "mal gro gung dkar": "",
-                "mal gro gung dkar rdzong": ""
-            },
-            "en": {
-                "Maizhokunggar County": ""
-            }
+            "Maizhokunggar County": "en",
+            "mal gro gung dkar": "bo-x-ewts",
+            "mal gro gung dkar rdzong": "bo-x-ewts"
         }
     },
     "G2128": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1819",
         "langs": {
-            "bo": {
-                "chu shur rdzong": ""
-            },
-            "en": {
-                "Quxu County": ""
-            }
+            "Quxu County": "en",
+            "chu shur rdzong": "bo-x-ewts"
         }
     },
     "G213": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1814",
         "langs": {
-            "bo": {
-                "khams sde dge rdzong sar dgon": "",
-                "rdzong sar dgon": "",
-                "sde dge rdzong sar dgon": ""
-            },
-            "en": {
-                "Dzongsar Monastery (Tibet)": ""
-            }
+            "Dzongsar Monastery (Tibet)": "en",
+            "khams sde dge rdzong sar dgon": "bo-x-ewts",
+            "rdzong sar dgon": "bo-x-ewts",
+            "sde dge rdzong sar dgon": "bo-x-ewts"
         }
     },
     "G2135": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1814",
         "langs": {
-            "bo": {
-                "gong dkar rdzong": "",
-                "lho kha gong dkar": ""
-            },
-            "en": {
-                "Gonggar County": ""
-            }
+            "Gonggar County": "en",
+            "gong dkar rdzong": "bo-x-ewts",
+            "lho kha gong dkar": "bo-x-ewts"
         }
     },
     "G2136": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1814",
         "langs": {
-            "bo": {
-                "sna dkar rtse rdzong": ""
-            },
-            "en": {
-                "Nagarze County": ""
-            }
+            "Nagarze County": "en",
+            "sna dkar rtse rdzong": "bo-x-ewts"
         }
     },
     "G2138": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1814",
         "langs": {
-            "bo": {
-                "rgya tsha rdzong": ""
-            },
-            "en": {
-                "Gyaca County": ""
-            }
+            "Gyaca County": "en",
+            "rgya tsha rdzong": "bo-x-ewts"
         }
     },
     "G2146": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2141",
         "langs": {
-            "bo": {
-                "gnyan rong rdzong": "",
-                "nyag rong rdzong": ""
-            },
-            "en": {
-                "Nyainrong County": ""
-            }
+            "Nyainrong County": "en",
+            "gnyan rong rdzong": "bo-x-ewts",
+            "nyag rong rdzong": "bo-x-ewts"
+        }
+    },
+    "G2158": {
+        "isLocatedIn": "G1PD108961",
+        "langs": {
+            "Shigatse Prefecture": "en",
+            "gzhi ka rtse": "bo-x-ewts",
+            "gzhi ka rtse rdzong": "bo-x-ewts",
+            "gzhis ka rtse": "bo-x-ewts",
+            "gzhis rtse": "bo-x-ewts",
+            "gzhis rtse rdzong": "bo-x-ewts"
         }
     },
     "G2160": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2158",
         "langs": {
-            "bo": {
-                "sa dga' rdzong": ""
-            },
-            "en": {
-                "Saga County": ""
-            }
+            "Saga County": "en",
+            "sa dga' rdzong": "bo-x-ewts"
         }
     },
     "G2162": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2158",
         "langs": {
-            "bo": {
-                "ngam ring rdzong": ""
-            },
-            "en": {
-                "Ngamring County": ""
-            }
+            "Ngamring County": "en",
+            "ngam ring rdzong": "bo-x-ewts"
         }
     },
     "G2165": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2158",
         "langs": {
-            "bo": {
-                "ding ri rdzong": ""
-            },
-            "en": {
-                "Tingri County": ""
-            }
+            "Tingri County": "en",
+            "ding ri rdzong": "bo-x-ewts"
         }
     },
     "G2167": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2158",
         "langs": {
-            "bo": {
-                "lha rtse rdzong": ""
-            },
-            "en": {
-                "Lhatse County": ""
-            }
+            "Lhatse County": "en",
+            "lha rtse rdzong": "bo-x-ewts"
         }
     },
     "G2169": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "sa skya": "",
-                "sa skya rdzong": ""
-            },
-            "en": {
-                "Sa'gya County": "",
-                "Sakya": ""
-            }
+            "Sa'gya County": "en",
+            "Sakya": "en",
+            "sa skya": "bo-x-ewts",
+            "sa skya rdzong": "bo-x-ewts"
         }
     },
     "G2174": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2158",
         "langs": {
-            "bo": {
-                "pa snam rdzong": ""
-            },
-            "en": {
-                "Bainang County": ""
-            }
+            "Bainang County": "en",
+            "pa snam rdzong": "bo-x-ewts"
         }
     },
     "G218": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G4706",
         "langs": {
-            "en": {
-                "Tango": ""
-            }
+            "Tango": "en"
         }
     },
     "G2183": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2177",
         "langs": {
-            "bo": {
-                "brag g.yab": ""
-            },
-            "en": {
-                "Zhag'yab": ""
-            }
+            "Zhag'yab": "en",
+            "brag g.yab": "bo-x-ewts"
         }
     },
     "G2188": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2177",
         "langs": {
-            "bo": {
-                "'steng chen rdzong": ""
-            },
-            "en": {
-                "Dengqen County": ""
-            }
+            "'steng chen rdzong": "bo-x-ewts",
+            "Dengqen County": "en"
         }
     },
     "G2199": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2207",
         "langs": {
-            "bo": {
-                "kan lho": ""
-            },
-            "en": {
-                "Gannan": ""
-            }
+            "Gannan": "en",
+            "kan lho": "bo-x-ewts"
         }
     },
     "G2203": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2199",
         "langs": {
-            "bo": {
-                "co ne": "",
-                "co ne rdzong": ""
-            },
-            "en": {
-                "Jone County": ""
-            }
+            "Jone County": "en",
+            "co ne": "bo-x-ewts",
+            "co ne rdzong": "bo-x-ewts"
         }
     },
     "G2207": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3198",
         "langs": {
-            "bo": {
-                "kan su'u": ""
-            },
-            "en": {
-                "Gansu": ""
-            }
+            "Gansu": "en",
+            "kan su'u": "bo-x-ewts"
         }
     },
     "G2208": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3198",
         "langs": {
-            "bo": {
-                "yun nan": ""
-            },
-            "en": {
-                "Yunnan": ""
-            }
+            "Yunnan": "en",
+            "yun nan": "bo-x-ewts"
         }
     },
     "G221": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2165",
         "langs": {
-            "bo": {
-                "ding ri shel dkar": ""
-            },
-            "en": {
-                "Shelkar": ""
-            }
+            "Shelkar": "en",
+            "ding ri shel dkar": "bo-x-ewts"
         }
     },
     "G223": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2164",
         "langs": {
-            "bo": {
-                "dngul chu chos rdong": ""
-            },
-            "en": {
-                "Ngulchu Chodzong Monastery": ""
-            }
+            "Ngulchu Chodzong Monastery": "en",
+            "dngul chu chos rdzong": "bo-x-ewts"
         }
     },
     "G225": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2170",
         "langs": {
-            "bo": {
-                "snar thang": ""
-            },
-            "en": {
-                "Narthang": "",
-                "Narthang Monastery": ""
-            }
+            "Narthang": "en",
+            "Narthang Monastery": "en",
+            "snar thang": "bo-x-ewts"
         }
     },
     "G2297": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "grib": ""
-            },
-            "en": {
-                "Drib": ""
-            }
+            "Drib": "en",
+            "grib": "bo-x-ewts"
         }
     },
     "G2298": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "rta'u rdzong": ""
-            },
-            "en": {
-                "Dawu County": ""
-            }
+            "Dawu County": "en",
+            "rta'u rdzong": "bo-x-ewts"
         }
     },
     "G2299": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "brag 'go": "",
-                "brag 'go rdzong": ""
-            },
-            "en": {
-                "Luhou County": ""
-            }
+            "Luhou County": "en",
+            "brag 'go": "bo-x-ewts",
+            "brag 'go rdzong": "bo-x-ewts"
         }
     },
     "G2300": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "dkar mdzes bod rigs rang skyong khul, dpal yul rdzong": "",
-                "dpal yul rdzong": ""
-            },
-            "en": {
-                "Baiyu County": ""
-            }
+            "Baiyu County": "en",
+            "dkar mdzes bod rigs rang skyong khul, dpal yul rdzong": "bo-x-ewts",
+            "dpal yul rdzong": "bo-x-ewts"
         }
     },
     "G2302": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "gser rta": "",
-                "gser rta rdzong": "",
-                "gser thang rdzong": "",
-                "gser thar rdzong": "",
-                "ser rta": "",
-                "ser rta rdzong": "",
-                "ser tha": ""
-            },
-            "en": {
-                "Sertar County": ""
-            }
+            "Sertar County": "en",
+            "gser rta": "bo-x-ewts",
+            "gser rta rdzong": "bo-x-ewts",
+            "gser thang rdzong": "bo-x-ewts",
+            "gser thar rdzong": "bo-x-ewts",
+            "ser rta": "bo-x-ewts",
+            "ser rta rdzong": "bo-x-ewts",
+            "ser tha": "bo-x-ewts"
         }
     },
     "G2303": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "nyag chu rdzong": ""
-            },
-            "en": {
-                "Yajiang County": ""
-            }
+            "Yajiang County": "en",
+            "nyag chu rdzong": "bo-x-ewts"
         }
     },
     "G2304": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "li thang rdzong": ""
-            },
-            "en": {
-                "Litang County": ""
-            }
+            "Litang County": "en",
+            "li thang rdzong": "bo-x-ewts"
         }
     },
     "G2305": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "'ba' thang rdzong": ""
-            },
-            "en": {
-                "Bathang County": ""
-            }
+            "'ba' thang rdzong": "bo-x-ewts",
+            "Bathang County": "en"
         }
     },
     "G2306": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "'dab pa rdzong": ""
-            },
-            "en": {
-                "Daocheng County": ""
-            }
+            "'dab pa rdzong": "bo-x-ewts",
+            "Daocheng County": "en"
         }
     },
     "G2307": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "sde rong rdzong": ""
-            },
-            "en": {
-                "Derong County": ""
-            }
+            "Derong County": "en",
+            "sde rong rdzong": "bo-x-ewts"
         }
     },
     "G2308": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "dar mdo": "",
-                "dar rtse mdo": "",
-                "dar rtse mdo rdzong": ""
-            },
-            "en": {
-                "Kangding County": ""
-            },
-            "zh": {
-                "kang ding": "",
-                "康定": ""
-            }
+            "Kangding County": "en",
+            "dar mdo": "bo-x-ewts",
+            "dar rtse mdo": "bo-x-ewts",
+            "dar rtse mdo rdzong": "bo-x-ewts",
+            "kang ding": "zh-Latn-pinyin-x-ndia",
+            "康定": "zh-Hans"
         }
     },
     "G2309": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "lcags zam rdzong": ""
-            },
-            "en": {
-                "Luding County": ""
-            }
+            "Luding County": "en",
+            "lcags zam rdzong": "bo-x-ewts"
         }
     },
     "G2310": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "rong brag rdzong": ""
-            },
-            "en": {
-                "Rongdrag County": ""
-            }
+            "Rongdrag County": "en",
+            "rong brag rdzong": "bo-x-ewts"
         }
     },
     "G2311": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "brgyad zil rdzong": ""
-            },
-            "en": {
-                "Jiulong County": ""
-            }
+            "Jiulong County": "en",
+            "brgyad zil rdzong": "bo-x-ewts"
         }
     },
     "G2312": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G598",
         "langs": {
-            "bo": {
-                "mtsho byang bod rigs rang skyong khul": ""
-            },
-            "en": {
-                "Haibei Prefecture": ""
-            }
+            "Haibei Prefecture": "en",
+            "mtsho byang bod rigs rang skyong khul": "bo-x-ewts"
         }
     },
     "G2317": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G977",
         "langs": {
-            "bo": {
-                "mtsho lho": ""
-            },
-            "en": {
-                "Hainan Prefecture": ""
-            },
-            "zh": {
-                "海南州": ""
-            }
+            "Hainan Prefecture": "en",
+            "mtsho lho": "bo-x-ewts",
+            "海南州": "zh-Hans"
         }
     },
     "G2324": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G977",
         "langs": {
-            "bo": {
-                "skye rgu": ""
-            },
-            "en": {
-                "Yushu Prefecture": ""
-            }
+            "Yushu Prefecture": "en",
+            "skye rgu": "bo-x-ewts"
         }
     },
     "G2331": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G636",
         "langs": {
-            "bo": {
-                "rnga ba": "",
-                "rnga pa": ""
-            },
-            "en": {
-                "Ngaba County": ""
-            }
+            "Ngaba County": "en",
+            "rnga ba": "bo-x-ewts",
+            "rnga pa": "bo-x-ewts"
         }
     },
     "G2332": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G636",
         "langs": {
-            "bo": {
-                "khro chu": ""
-            },
-            "en": {
-                "Heishui": ""
-            }
+            "Heishui": "en",
+            "khro chu": "bo-x-ewts"
         }
     },
     "G2333": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G636",
         "langs": {
-            "bo": {
-                "zing chu": "",
-                "zung chu": "",
-                "zung chu rdzong": ""
-            },
-            "en": {
-                "Songpan County": ""
-            }
+            "Songpan County": "en",
+            "zing chu": "bo-x-ewts",
+            "zung chu": "bo-x-ewts",
+            "zung chu rdzong": "bo-x-ewts"
         }
     },
     "G2334": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G636",
         "langs": {
-            "bo": {
-                "btsan lha": ""
-            },
-            "en": {
-                "Xiaojin County": ""
-            }
+            "Xiaojin County": "en",
+            "btsan lha": "bo-x-ewts"
         }
     },
     "G2335": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G636",
         "langs": {
-            "bo": {
-                "chu chen": "",
-                "chu chen rdzong": ""
-            },
-            "en": {
-                "Jinchuan County": ""
-            }
+            "Jinchuan County": "en",
+            "chu chen": "bo-x-ewts",
+            "chu chen rdzong": "bo-x-ewts"
+        }
+    },
+    "G2337": {
+        "isLocatedIn": "G636",
+        "langs": {
+            "Hongyuan County": "en",
+            "hong yon": "bo-x-ewts"
         }
     },
     "G2338": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G636",
         "langs": {
-            "bo": {
-                "nan phing": ""
-            },
-            "en": {
-                "Nanping": ""
-            }
+            "Nanping": "en",
+            "nan phing": "bo-x-ewts"
         }
     },
     "G2340": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G636",
         "langs": {
-            "bo": {
-                "wun khron": ""
-            },
-            "en": {
-                "Wenchuan": ""
-            }
+            "Wenchuan": "en",
+            "wun khron": "bo-x-ewts"
         }
     },
     "G2369": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1202",
         "langs": {
-            "bo": {
-                "reb gong": "",
-                "reb gong khul": ""
-            },
-            "en": {
-                "Rebkong": ""
-            }
+            "Rebkong": "en",
+            "reb gong": "bo-x-ewts",
+            "reb gong khul": "bo-x-ewts"
         }
     },
     "G237": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2177",
         "langs": {
-            "bo": {
-                "se ra smad": ""
-            },
-            "en": {
-                "Serame (Tibet)": ""
-            }
+            "Serame (Tibet)": "en",
+            "se ra smad": "bo-x-ewts"
         }
     },
     "G2376": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2177",
         "langs": {
-            "bo": {
-                "'jo mda'": ""
-            },
-            "en": {
-                "Jomda": ""
-            }
+            "'jo mda'": "bo-x-ewts",
+            "Jomda": "en"
         }
     },
     "G2379": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2323",
         "langs": {
-            "en": {
-                "Delingha": ""
-            },
-            "zh": {
-                "qing hai de ling ha shi": ""
-            }
+            "Delingha": "en",
+            "qing hai de ling ha shi": "zh-Latn-pinyin-x-ndia"
         }
     },
     "G2396": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2199",
         "langs": {
-            "bo": {
-                "zha' ho rdzong gi khongs": ""
-            },
-            "en": {
-                "Xiahe County": ""
-            }
+            "Xiahe County": "en",
+            "zha' ho rdzong": "bo-x-ewts"
         }
     },
     "G2490": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G4450",
         "langs": {
-            "bo": {
-                "so lu khum bu": ""
-            },
-            "en": {
-                "Solukhumbu": ""
-            }
+            "Solukhumbu": "en",
+            "so lu khum bu": "bo-x-ewts"
         }
     },
     "G2491": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G977",
         "langs": {
-            "bo": {
-                "rong bo": "",
-                "rong po": ""
-            },
-            "en": {
-                "Rongwo": ""
-            }
+            "Rongwo": "en",
+            "rong bo": "bo-x-ewts",
+            "rong po": "bo-x-ewts"
         }
     },
     "G275": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2170",
         "langs": {
-            "bo": {
-                "zhwa lu": ""
-            },
-            "en": {
-                "Shalu Monastery": ""
-            }
+            "Shalu Monastery": "en",
+            "zhwa lu": "bo-x-ewts"
         }
     },
     "G2800": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "l+ha sa": "",
-                "lha ldan": "",
-                "lha sa": "",
-                "lha sa grong khyer": "",
-                "ལྷ་ས།": ""
-            },
-            "en": {
-                "Lhasa": ""
-            },
-            "zh": {
-                "拉萨": ""
-            }
+            "Lhasa": "en",
+            "l+ha sa": "bo-x-ewts",
+            "lha ldan": "bo-x-ewts",
+            "lha sa": "bo-x-ewts",
+            "lha sa grong khyer": "bo-x-ewts",
+            "ལྷ་ས།": "bo",
+            "拉萨": "zh-Hans"
         }
     },
     "G2876": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G836",
         "langs": {
-            "bo": {
-                "gnas chen stag tshang": ""
-            },
-            "en": {
-                "Paro Taktsang": ""
-            }
+            "Paro Taktsang": "en",
+            "gnas chen stag tshang": "bo-x-ewts"
         }
     },
     "G2883": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G4144",
         "langs": {
-            "bo": {
-                "mer chen": ""
-            },
-            "en": {
-                "Merchen": ""
-            }
+            "Merchen": "en",
+            "mer chen": "bo-x-ewts"
         }
     },
     "G2CN10953": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0235",
         "langs": {
-            "bo": {
-                "wA rA Na sI": ""
-            },
-            "en": {
-                "Varanasi": ""
-            }
+            "Varanasi": "en",
+            "wA rA Na sI": "bo-x-ewts"
         }
     },
     "G2CN11044": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G584",
         "langs": {
-            "bo": {
-                "u rge": ""
-            },
-            "en": {
-                "Ulaanbaatar": "",
-                "Ulanbatur": ""
-            }
+            "Ulaanbaatar": "en",
+            "Ulanbatur": "en",
+            "u rge": "bo-x-ewts"
         }
     },
     "G2CN11080": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G4450",
         "langs": {
-            "bo": {
-                "ka Tha ma N+Du": "",
-                "kaTha man gru": ""
-            },
-            "en": {
-                "Kathmandu": ""
-            }
+            "Kathmandu": "en",
+            "ka Tha ma N+Du": "bo-x-ewts",
+            "ka Tha man gru": "bo-x-ewts"
         }
     },
     "G2CN11096": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "rdzogs chen shrI seng": "",
-                "shrI: siM ha": ""
-            },
-            "en": {
-                "Dzogchen Shedra (Tibet)": ""
-            }
+            "Dzogchen Shedra (Tibet)": "en",
+            "rdzogs chen shrI seng": "bo-x-ewts",
+            "shrI: siM ha": "bo-x-ewts"
         }
     },
     "G2GS1037": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0042",
         "langs": {
-            "bo": {
-                "rdo rje gdan": ""
-            },
-            "en": {
-                "Bodhgaya": ""
-            }
+            "Bodhgaya": "en",
+            "rdo rje gdan": "bo-x-ewts"
         }
     },
     "G2KR73": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3198",
         "langs": {
-            "en": {
-                "Chongqing": "",
-                "chongqing shi": ""
-            },
-            "zh": {
-                "重庆": ""
-            }
+            "Chongqing": "en",
+            "chong qing shi": "zh-Latn-pinyin-x-ndia",
+            "重庆": "zh-Hans"
         }
     },
     "G2MS14675": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0117",
         "langs": {
-            "en": {
-                "Lumbini": ""
-            }
+            "Lumbini": "en"
         }
     },
     "G3096": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "gnas rnying": ""
-            },
-            "en": {
-                "Nenying": ""
-            }
+            "Nenying": "en",
+            "gnas rnying": "bo-x-ewts"
         }
     },
     "G3156": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2CN11080",
         "langs": {
-            "en": {
-                "Swayambhunath": ""
-            }
+            "Swayambhunath": "en"
         }
     },
     "G3166": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3175",
         "langs": {
-            "bo": {
-                "mang yul": ""
-            },
-            "en": {
-                "Mangyul": ""
-            }
+            "Mangyul": "en",
+            "mang yul": "bo-x-ewts"
         }
     },
     "G317": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "brag dkar rta so": ""
-            },
-            "en": {
-                "Drakar Taso": ""
-            }
+            "Drakar Taso": "en",
+            "brag dkar rta so": "bo-x-ewts"
         }
     },
     "G3182": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0226",
         "langs": {
-            "bo": {
-                "la dwags": ""
-            },
-            "en": {
-                "Ladakh": ""
-            }
+            "Ladakh": "en",
+            "la dwags": "bo-x-ewts"
         }
     },
     "G3188": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "'phags yul": "",
-                "rgya gar": ""
-            },
-            "en": {
-                "India": ""
-            }
+            "'phags yul": "bo-x-ewts",
+            "India": "en",
+            "rgya gar": "bo-x-ewts"
         }
     },
     "G3192": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "hang khong": "",
-                "zhang kang": "",
-                "zhang khang": ""
-            },
-            "en": {
-                "Hong Kong": "",
-                "Xianggang": ""
-            },
-            "zh": {
-                "shang kang": "",
-                "xanggang": "",
-                "xiang gang": "",
-                "xianggang": "",
-                "香港": ""
-            }
+            "Hong Kong": "en",
+            "Xianggang": "en",
+            "hang khong": "bo-x-ewts",
+            "shang kang": "zh-Latn-pinyin-x-ndia",
+            "xang gang": "zh-Latn-pinyin-x-ndia",
+            "xiang gang": "zh-Latn-pinyin-x-ndia",
+            "zhang kang": "bo-x-ewts",
+            "zhang khang": "bo-x-ewts",
+            "香港": "zh-Hans"
         }
     },
     "G3196": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Tibet": ""
-            },
-            "zh": {
-                "西藏": ""
-            }
+            "Tibet": "en",
+            "西藏": "zh-Hans"
         }
     },
     "G3198": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "rgya nag": ""
-            },
-            "en": {
-                "China": ""
-            }
+            "China": "en",
+            "rgya nag": "bo-x-ewts"
         }
     },
     "G3205": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "'brug yul": ""
-            },
-            "en": {
-                "Bhutan": ""
-            }
+            "'brug yul": "bo-x-ewts",
+            "Bhutan": "en"
         }
     },
     "G3222": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1PD96109",
         "langs": {
-            "bo": {
-                "mthu ba dgon": ""
-            },
-            "en": {
-                "Tuwacang Monastery": ""
-            }
+            "Tuwacang Monastery": "en",
+            "mthu ba dgon": "bo-x-ewts"
         }
     },
     "G3237": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1365",
         "langs": {
-            "bo": {
-                "mtsho phu": ""
-            },
-            "en": {
-                "Cuopu": ""
-            }
+            "Cuopu": "en",
+            "mtsho phu": "bo-x-ewts"
         }
     },
     "G3261": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3957",
         "langs": {
-            "bo": {
-                "ser shul dgon": ""
-            },
-            "en": {
-                "Sershul Monastery": ""
-            }
+            "Sershul Monastery": "en",
+            "ser shul dgon": "bo-x-ewts"
         }
     },
     "G337": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "dga' ldan": "",
-                "dga' ldan dgon": "",
-                "dga' ldan dgon pa": ""
-            },
-            "en": {
-                "Ganden (Tibet)": ""
-            }
+            "Ganden (Tibet)": "en",
+            "dga' ldan": "bo-x-ewts",
+            "dga' ldan dgon": "bo-x-ewts",
+            "dga' ldan dgon pa": "bo-x-ewts"
         }
     },
     "G341": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1467",
         "langs": {
-            "bo": {
-                "lho lung dkar dgon": ""
-            },
-            "en": {
-                "Lho Lunkar Monastery": ""
-            }
+            "Lho Lunkar Monastery": "en",
+            "lho lung dkar dgon": "bo-x-ewts"
         }
     },
     "G3466": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2376",
         "langs": {
-            "bo": {
-                "rmugs sangs dgon": ""
-            },
-            "en": {
-                "Muksang Monastery (Tibet)": ""
-            }
+            "Muksang Monastery (Tibet)": "en",
+            "rmugs sangs dgon": "bo-x-ewts"
         }
     },
     "G3494": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2298",
         "langs": {
-            "bo": {
-                "mgar thar dgon": ""
-            },
-            "en": {
-                "Garthar Monastery": ""
-            }
+            "Garthar Monastery": "en",
+            "mgar thar dgon": "bo-x-ewts"
         }
     },
     "G3529": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0231",
         "langs": {
-            "en": {
-                "Tawang": ""
-            }
+            "Tawang": "en"
         }
     },
     "G36": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "dpal spungs": "",
-                "dpal spungs dgon": ""
-            },
-            "en": {
-                "Palpung Monastery (Tibet)": ""
-            }
+            "Palpung Monastery (Tibet)": "en",
+            "dpal spungs": "bo-x-ewts",
+            "dpal spungs dgon": "bo-x-ewts"
         }
     },
     "G3762": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G636",
         "langs": {
-            "bo": {
-                "'dzam thang": "",
-                "'dzam thang, 'bar khams rdzong": "",
-                "'dzam thang, rnga ba rdzong": ""
-            },
-            "en": {
-                "Dzamthang": ""
-            }
+            "'dzam thang": "bo-x-ewts",
+            "'dzam thang, 'bar khams rdzong": "bo-x-ewts",
+            "'dzam thang, rnga ba rdzong": "bo-x-ewts",
+            "Dzamthang": "en"
         }
     },
     "G3812": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2300",
         "langs": {
-            "bo": {
-                "ya chen": ""
-            },
-            "en": {
-                "Yarchen Monastery": ""
-            }
+            "Yarchen Monastery": "en",
+            "ya chen": "bo-x-ewts"
         }
     },
     "G3957": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1538",
         "langs": {
-            "bo": {
-                "rdza chu kha rdzong": "",
-                "ser shul rdzong": ""
-            },
-            "en": {
-                "Dzachuka County": "",
-                "Serxu County": ""
-            }
+            "Dzachuka County": "en",
+            "Serxu County": "en",
+            "rdza chu kha rdzong": "bo-x-ewts",
+            "ser shul rdzong": "bo-x-ewts"
         }
     },
     "G3971": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2302",
         "langs": {
-            "bo": {
-                "gser rta gnubs zur dgon": ""
-            },
-            "en": {
-                "Nubzur Monastery": ""
-            }
+            "Nubzur Monastery": "en",
+            "gser rta gnubs zur dgon": "bo-x-ewts"
         }
     },
     "G398": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1754",
         "langs": {
-            "bo": {
-                "rwa rgya dgon": "",
-                "rwa rgya dgon gyi yi dam khang": ""
-            },
-            "en": {
-                "Ragya Monastery": ""
-            }
+            "Ragya Monastery": "en",
+            "rwa rgya dgon": "bo-x-ewts",
+            "rwa rgya dgon gyi yi dam khang": "bo-x-ewts"
         }
     },
     "G3997": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2302",
         "langs": {
-            "bo": {
-                "bla rung sgar": "",
-                "gser ljongs bla ma rung": "",
-                "gser ljongs bla ma rung lnga rig nang bstan slob grwa chen mo": "",
-                "gser rta bla rung sgar": "",
-                "gser thang bla rung lnga rig nang bstan slob gling gi lha ldan": ""
-            },
-            "en": {
-                "Larung Gar": ""
-            }
+            "Larung Gar": "en",
+            "bla rung sgar": "bo-x-ewts",
+            "gser ljongs bla ma rung": "bo-x-ewts",
+            "gser ljongs bla ma rung lnga rig nang bstan slob grwa chen mo": "bo-x-ewts",
+            "gser rta bla rung sgar": "bo-x-ewts",
+            "gser thang bla rung lnga rig nang bstan slob gling gi lha ldan": "bo-x-ewts"
         }
     },
     "G3CN1562": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0010",
         "langs": {
-            "en": {
-                "Bir": ""
-            }
+            "Bir": "en"
         }
     },
     "G3CN1567": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0098",
         "langs": {
-            "en": {
-                "Dolanji": ""
-            }
+            "Dolanji": "en"
         }
     },
     "G3CN1568": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0221",
         "langs": {
-            "en": {
-                "Solan": ""
-            }
+            "Solan": "en"
         }
     },
     "G3CN285": {
         "isLocatedIn": "",
         "langs": {
-            "en": {
-                "Bengal": ""
-            }
+            "Bengal": "en"
         }
     },
     "G3CN58": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1814",
         "langs": {
-            "bo": {
-                "ལྷོ་བྲག": ""
-            },
-            "en": {
-                "Lhozhag": ""
-            }
+            "Lhozhag": "en",
+            "ལྷོ་བྲག": "bo"
         }
     },
     "G3JT12416": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "a ri": ""
-            },
-            "en": {
-                "USA": ""
-            }
+            "USA": "en",
+            "a ri": "bo-x-ewts"
         }
     },
     "G3JT12558": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0103",
         "langs": {
-            "bo": {
-                "bkra shis ljongs/ hi ma cal": ""
-            },
-            "en": {
-                "Tashijong": ""
-            }
+            "Tashijong": "en",
+            "bkra shis ljongs": "bo-x-ewts"
         }
     },
     "G3JT12587": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3JT12630",
         "langs": {
-            "bo": {
-                "shes rig par khang": ""
-            },
-            "en": {
-                "Sherig Parkhang": ""
-            }
+            "Sherig Parkhang": "en",
+            "shes rig par khang": "bo-x-ewts"
         }
     },
     "G3JT12629": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0233",
         "langs": {
-            "bo": {
-                "ka sbug": "",
-                "ka spug": ""
-            },
-            "en": {
-                "Kalimpong": ""
-            }
+            "Kalimpong": "en",
+            "ka sbug": "bo-x-ewts",
+            "ka spug": "bo-x-ewts"
         }
     },
     "G3JT12630": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "d+ha ram sA la": "",
-                "d+ha ram sa la": "",
-                "d+ha ram shA la": "",
-                "d+ha sa": "",
-                "dha ram sa la": "",
-                "pan rjab d+ha sa": "",
-                "rda ram sa la": "",
-                "rda sa": ""
-            },
-            "en": {
-                "Dharamsala": ""
-            }
-        }
-    },
-    "G3JT12630\tG1PD110102": {
-        "isLocatedIn": "",
-        "langs": {
-            "en": {
-                "Dharamsala & Sarnath": ""
-            }
+            "Dharamsala": "en",
+            "d+ha ram sA la": "bo-x-ewts",
+            "d+ha ram sa la": "bo-x-ewts",
+            "d+ha ram shA la": "bo-x-ewts",
+            "d+ha sa": "bo-x-ewts",
+            "dha ram sa la": "bo-x-ewts",
+            "pan rjab d+ha sa": "bo-x-ewts",
+            "rda ram sa la": "bo-x-ewts",
+            "rda sa": "bo-x-ewts"
         }
     },
     "G4144": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1326",
         "langs": {
-            "bo": {
-                "khams nang chen": "",
-                "nang chen": "",
-                "sgom sde nang chen": ""
-            },
-            "en": {
-                "Nangqen": ""
-            }
+            "Nangqen": "en",
+            "khams nang chen": "bo-x-ewts",
+            "nang chen": "bo-x-ewts",
+            "sgom sde nang chen": "bo-x-ewts"
         }
     },
     "G4168": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G0DD0221",
         "langs": {
-            "en": {
-                "Kinnaur": ""
-            }
+            "Kinnaur": "en"
         }
     },
     "G4236": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "'jang sa tham": ""
-            },
-            "en": {
-                "Lijiang County": ""
-            }
+            "'jang sa tham": "bo-x-ewts",
+            "Lijiang County": "en"
         }
     },
     "G435": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2203",
         "langs": {
-            "bo": {
-                "co ne dgon chen": ""
-            },
-            "en": {
-                "Jone Monastery": ""
-            }
+            "Jone Monastery": "en",
+            "co ne dgon chen": "bo-x-ewts"
         }
     },
     "G4450": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "bal yul": ""
-            },
-            "en": {
-                "Nepal": ""
-            }
+            "Nepal": "en",
+            "bal yul": "bo-x-ewts"
         }
     },
     "G4560": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G636",
         "langs": {
-            "en": {
-                "Mao County": ""
-            },
-            "zh": {
-                "mao wen": ""
-            }
+            "Mao County": "en",
+            "mao wen": "zh-Latn-pinyin-x-ndia"
         }
     },
     "G4584": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1085",
         "langs": {
-            "en": {
-                "Nemo": ""
-            }
+            "Nemo": "en"
         }
     },
     "G4654": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1365",
         "langs": {
-            "bo": {
-                "nyag a 'dzin rong": ""
-            },
-            "en": {
-                "Adzin Rong (Nyag)": ""
-            }
+            "Adzin Rong (Nyag)": "en",
+            "nyag a 'dzin rong": "bo-x-ewts"
         }
     },
     "G4688": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2149",
         "langs": {
-            "bo": {
-                "gtsang ldan": ""
-            },
-            "en": {
-                "Tsangdain Monastery": ""
-            }
+            "Tsangdain Monastery": "en",
+            "gtsang ldan": "bo-x-ewts"
         }
     },
     "G4706": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3205",
         "langs": {
-            "bo": {
-                "them bu": "",
-                "thim phu": "",
-                "thim phug": ""
-            },
-            "en": {
-                "Thimphu": ""
-            }
+            "Thimphu": "en",
+            "them bu": "bo-x-ewts",
+            "thim phu": "bo-x-ewts",
+            "thim phug": "bo-x-ewts"
         }
     },
     "G4713": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3205",
         "langs": {
-            "bo": {
-                "krong gsar": ""
-            },
-            "en": {
-                "Trongsa": ""
-            }
+            "Trongsa": "en",
+            "krong gsar": "bo-x-ewts"
         }
     },
     "G4716": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3205",
         "langs": {
-            "bo": {
-                "bum thang": ""
-            },
-            "en": {
-                "Bumthang": ""
-            }
+            "Bumthang": "en",
+            "bum thang": "bo-x-ewts"
         }
     },
     "G4755": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2331",
         "langs": {
-            "bo": {
-                "brag dkar dgon pa": ""
-            },
-            "en": {
-                "Drakgo Monastery": ""
-            }
+            "Drakgo Monastery": "en",
+            "brag dkar dgon pa": "bo-x-ewts"
         }
     },
     "G4794": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "la stod lho pa": ""
-            },
-            "en": {
-                "Lato South": ""
-            }
+            "Lato South": "en",
+            "la stod lho pa": "bo-x-ewts"
         }
     },
     "G4874": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G213",
         "langs": {
-            "bo": {
-                "dkar mdzes bod rigs rang skyong khul/ sde dge rdzong/ rdzong sar khams bye'i slob gling": "",
-                "rdzong sar khams bye": ""
-            },
-            "en": {
-                "Dzongsar Shedra (Tibet)": ""
-            }
+            "Dzongsar Shedra (Tibet)": "en",
+            "dkar mdzes bod rigs rang skyong khul/ sde dge rdzong/ rdzong sar khams bye'i slob gling": "bo-x-ewts",
+            "rdzong sar khams bye": "bo-x-ewts"
         }
     },
     "G523": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "dar thang dgon": ""
-            },
-            "en": {
-                "Tarthang Monastery (Tibet)": ""
-            }
+            "Tarthang Monastery (Tibet)": "en",
+            "dar thang dgon": "bo-x-ewts"
         }
     },
     "G529": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3762",
         "langs": {
-            "bo": {
-                "dzam thang dgon": ""
-            },
-            "en": {
-                "Dzamthang Monastery": ""
-            }
+            "Dzamthang Monastery": "en",
+            "dzam thang dgon": "bo-x-ewts"
         }
     },
     "G54": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3205",
         "langs": {
-            "bo": {
-                "spungs thang": "",
-                "spungs thim": ""
-            },
-            "en": {
-                "Punakha": ""
-            }
+            "Punakha": "en",
+            "spungs thang": "bo-x-ewts",
+            "spungs thim": "bo-x-ewts"
         }
     },
     "G560": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2086",
         "langs": {
-            "bo": {
-                "rtsed thang": ""
-            },
-            "en": {
-                "Zetang": ""
-            }
+            "Zetang": "en",
+            "rtsed thang": "bo-x-ewts"
         }
     },
     "G566": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1073",
         "langs": {
-            "bo": {
-                "'bo ra": ""
-            },
-            "en": {
-                "Bora": ""
-            }
+            "'bo ra": "bo-x-ewts",
+            "Bora": "en"
         }
     },
     "G584": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "sog po": "",
-                "sog yul": ""
-            },
-            "en": {
-                "Mongolia": ""
-            }
+            "Mongolia": "en",
+            "sog po": "bo-x-ewts",
+            "sog yul": "bo-x-ewts"
         }
     },
     "G598": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G977",
         "langs": {
-            "bo": {
-                "zi gling": "",
-                "zi ling": ""
-            },
-            "en": {
-                "Xining": ""
-            },
-            "zh": {
-                "xi ning": "",
-                "xining shi": "",
-                "西宁": ""
-            }
+            "Xining": "en",
+            "xi ning": "zh-Latn-pinyin-x-ndia",
+            "xi ning shi": "zh-Latn-pinyin-x-ndia",
+            "zi gling": "bo-x-ewts",
+            "zi ling": "bo-x-ewts",
+            "西宁": "zh-Hans"
         }
     },
     "G603": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G584",
         "langs": {
-            "bo": {
-                "nang sog": ""
-            },
-            "en": {
-                "Inner Mongolia": ""
-            }
+            "Inner Mongolia": "en",
+            "nang sog": "bo-x-ewts"
         }
     },
     "G632": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "rdza chu kha": ""
-            },
-            "en": {
-                "Dzachuka": ""
-            }
+            "Dzachuka": "en",
+            "rdza chu kha": "bo-x-ewts"
         }
     },
     "G636": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1473",
         "langs": {
-            "bo": {
-                "rnga ba khul": "",
-                "rnga pa khul": "",
-                "rnga pa rang skyong khul": ""
-            },
-            "en": {
-                "Ngaba Prefecture": ""
-            }
+            "Ngaba Prefecture": "en",
+            "rnga ba khul": "bo-x-ewts",
+            "rnga pa khul": "bo-x-ewts",
+            "rnga pa rang skyong khul": "bo-x-ewts"
         }
     },
     "G640": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3176",
         "langs": {
-            "bo": {
-                "kong po": ""
-            },
-            "en": {
-                "Kongpo": ""
-            }
+            "Kongpo": "en",
+            "kong po": "bo-x-ewts"
         }
     },
     "G662": {
         "isLocatedIn": "",
         "langs": {
-            "bo": {
-                "bya khyung": ""
-            },
-            "en": {
-                "Jakhyung": ""
-            }
+            "Jakhyung": "en",
+            "bya khyung": "bo-x-ewts"
         }
     },
     "G799": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1814",
         "langs": {
-            "bo": {
-                "grwa nang rdzong": ""
-            },
-            "en": {
-                "Dranang County": ""
-            }
+            "Dranang County": "en",
+            "grwa nang rdzong": "bo-x-ewts"
         }
     },
     "G830": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1326",
         "langs": {
-            "bo": {
-                "'bar khams": "",
-                "'bar khams, rnga ba khul": ""
-            },
-            "en": {
-                "Barkham": ""
-            },
-            "zh": {
-                "四川省马尔康": "",
-                "马尔康": ""
-            }
+            "'bar khams": "bo-x-ewts",
+            "Barkham": "en",
+            "四川省马尔康": "zh-Hans",
+            "马尔康": "zh-Hans"
         }
     },
     "G836": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3205",
         "langs": {
-            "bo": {
-                "spa gro": ""
-            },
-            "en": {
-                "Paro": ""
-            }
+            "Paro": "en",
+            "spa gro": "bo-x-ewts"
         }
     },
     "G867": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3182",
         "langs": {
-            "bo": {
-                "bzang dkar": "",
-                "zangs dkar": ""
-            },
-            "en": {
-                "Zanskar": ""
-            }
+            "Zanskar": "en",
+            "bzang dkar": "bo-x-ewts",
+            "zangs dkar": "bo-x-ewts"
         }
     },
     "G869": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G1326",
         "langs": {
-            "bo": {
-                "skye dgu mdo": "",
-                "skye rgu mdo": ""
-            },
-            "en": {
-                "Jyekundo": ""
-            }
+            "Jyekundo": "en",
+            "skye dgu mdo": "bo-x-ewts",
+            "skye rgu mdo": "bo-x-ewts"
         }
     },
     "G895": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2207",
         "langs": {
-            "bo": {
-                "lan gru": "",
-                "lan gru'u": "",
-                "lan kra'u": "",
-                "lan kro'u": "",
-                "lan kru'i": "",
-                "lan kru'u": "",
-                "lan krui'u": "",
-                "lang gru": "",
-                "len kro'u": "",
-                "len kru'u": ""
-            },
-            "en": {
-                "Lanzhou": ""
-            },
-            "zh": {
-                "lan chou": "",
-                "lan zhou": "",
-                "lanchou": "",
-                "lanzhou": "",
-                "lanzhou shi": "",
-                "兰州": "",
-                "兰州市": ""
-            }
+            "Lanzhou": "en",
+            "lan chou": "zh-Latn-pinyin-x-ndia",
+            "lan gru": "bo-x-ewts",
+            "lan gru'u": "bo-x-ewts",
+            "lan kra'u": "bo-x-ewts",
+            "lan kro'u": "bo-x-ewts",
+            "lan kru'i": "bo-x-ewts",
+            "lan kru'u": "bo-x-ewts",
+            "lan krui'u": "bo-x-ewts",
+            "lan zhou": "zh-Latn-pinyin-x-ndia",
+            "lan zhou shi": "zh-Latn-pinyin-x-ndia",
+            "lang gru": "bo-x-ewts",
+            "len kro'u": "bo-x-ewts",
+            "len kru'u": "bo-x-ewts",
+            "兰州": "zh-Hans",
+            "兰州市": "zh-Hans"
         }
     },
     "G916": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G2199",
         "langs": {
-            "bo": {
-                "gtsod grong khyer": "",
-                "gtsos grong khyer": ""
-            },
-            "en": {
-                "Zoi Chongkyir": ""
-            }
+            "Zoi Chongkyir": "en",
+            "gtsod grong khyer": "bo-x-ewts",
+            "gtsos grong khyer": "bo-x-ewts"
         }
     },
     "G977": {
-        "isLocatedIn": "",
+        "isLocatedIn": "G3198",
         "langs": {
-            "bo": {
-                "mtsho sngon": "",
-                "mtsho sngon zhing chen": ""
-            },
-            "en": {
-                "Qinghai": "",
-                "Qinghai Province": ""
-            }
-        }
-    },
-    "Hongyuan": {
-        "isLocatedIn": "",
-        "langs": {
-            "bo": {
-                "hong yon": ""
-            },
-            "en": {
-                "Hongyuan": ""
-            }
-        }
-    },
-    "Shigatse County": {
-        "isLocatedIn": "",
-        "langs": {
-            "bo": {
-                "gzhi ka rtse": "",
-                "gzhi ka rtse rdzong": "",
-                "gzhis ka rtse": "",
-                "gzhis rtse": "",
-                "gzhis rtse rdzong": ""
-            },
-            "en": {
-                "Shigatse County": ""
-            }
+            "Qinghai": "en",
+            "Qinghai Province": "en",
+            "mtsho sngon": "bo-x-ewts",
+            "mtsho sngon zhing chen": "bo-x-ewts"
         }
     }
 }

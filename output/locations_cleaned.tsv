@@ -71,14 +71,12 @@ PublisherLocations
 			Barkham
 		bo
 			'bar khams
-			'bar khams, rnga ba khul
 		zh
 			马尔康
 			四川省马尔康
 	Basgo
 		en
 			Basgo
-			basgo ladakh
 	Bathang
 		en
 			Bathang
@@ -101,8 +99,7 @@ PublisherLocations
 		zh
 			bei cing
 			bei jing
-			beijing
-			beijing shi
+			bei jing shi
 			北京
 			北京市
 	Beijing & Lhasa
@@ -243,9 +240,9 @@ PublisherLocations
 	Chongqing
 		en
 			Chongqing
-			chongqing shi
 		zh
 			重庆
+			chong qing shi
 	Clement Town
 		en
 			Clement Town
@@ -288,7 +285,6 @@ PublisherLocations
 		en
 			Dege County
 		bo
-			dkar mdzes bod rigs rang skyong khul, sde dge rdzong
 			sde dge rdzong
 	Dehradun
 		en
@@ -554,7 +550,6 @@ PublisherLocations
 	Germany
 		en
 			Germany
-			germany
 	Golok
 		en
 			Golok
@@ -638,9 +633,8 @@ PublisherLocations
 			zhang khang
 		zh
 			shang kang
-			xanggang
+			xang gang
 			xiang gang
-			xianggang
 			香港
 	Hongyuan County
 		en
@@ -767,13 +761,12 @@ PublisherLocations
 			Kathmandu
 		bo
 			ka Tha ma N+Du
-			kaTha man gru
+			ka Tha man gru
 	Kathok
 		en
 			Kathok
 		bo
 			kaH thog
-			kaHthog
 	Kawring
 		en
 			Kawring
@@ -842,8 +835,8 @@ PublisherLocations
 	Kyoto
 		en
 			Kyoto
-			jingdu
 		zh
+			jing du
 			京都
 			京都市
 	Labrang Monastery
@@ -878,9 +871,7 @@ PublisherLocations
 		zh
 			lan chou
 			lan zhou
-			lanchou
-			lanzhou
-			lanzhou shi
+			lan zhou shi
 			兰州
 			兰州市
 	Larkspur
@@ -1007,6 +998,7 @@ PublisherLocations
 			kulumanali
 		bo
 			ku lu mi na le
+			ku lu ma na li
 	Mandi
 		en
 			Mandi
@@ -1099,7 +1091,7 @@ PublisherLocations
 		en
 			Namgyal Monastery (Yuthok)
 		bo
-			gayu thog rnam rgyal dgon
+			g.yu thog rnam rgyal dgon
 	Nangqen
 		en
 			Nangqen
@@ -1182,7 +1174,7 @@ PublisherLocations
 		en
 			Ngulchu Chodzong Monastery
 		bo
-			dngul chu chos rdong
+			dngul chu chos rdzong
 	North America		
 		en
 			North America
@@ -1389,8 +1381,9 @@ PublisherLocations
 		en
 			Saranath
 		bo
-			sAranatha/ wArANasI
+			sA ra na tha/ wA rA Na sI
 			wA rA Na sI'i sA ra nA tha
+			sA ra nA tha
 	Saspul
 		en
 			Saspul
@@ -1542,7 +1535,7 @@ PublisherLocations
 		en
 			Spituk Monastery
 			Pethub Monastery
-			spetup
+			Spetup
 		bo
 			dpe thub dgon
 	St-Petersburg
@@ -1552,7 +1545,7 @@ PublisherLocations
 		en
 			Stakna Monastery
 		bo
-			stag sna ladakh
+			stag sna
 	Sumra (H.P.)
 		en
 			Sumra (H.P.)
@@ -1578,7 +1571,7 @@ PublisherLocations
 			tA'i wan
 			tha'e wan
 		zh
-			thaiwen
+			thai wan
 			台湾
 	Taktse County
 		en
@@ -1621,7 +1614,7 @@ PublisherLocations
 		en
 			Tashijong
 		bo
-			bkra shis ljongs/ hi ma cal
+			bkra shis ljongs
 	Tawang
 		en
 			Tawang
@@ -1662,11 +1655,9 @@ PublisherLocations
 	Tohoku
 		en
 			Tohoku
-			tohoku, japan
 	Tokyo
 		en
 			Tokyo
-			Tokyo, Japan
 		zh
 			東京
 	Tongkor Monastery
@@ -1740,7 +1731,7 @@ PublisherLocations
 		en
 			Xiahe County
 		bo
-			zha' ho rdzong gi khongs
+			zha' ho rdzong
 	Xiangcheng County
 		en
 			Xiangcheng County
@@ -1765,7 +1756,7 @@ PublisherLocations
 			zi ling
 		zh
 			xi ning
-			xining shi
+			xi ning shi
 			西宁
 	Yajiang County
 		en
@@ -1776,7 +1767,7 @@ PublisherLocations
 		en
 			Yangrigang Monastery
 		bo
-			thub bstan yang ri sgang
+			thub bstan yangs ri sgang
 	Yarchen Monastery
 		en
 			Yarchen Monastery
