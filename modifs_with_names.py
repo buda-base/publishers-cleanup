@@ -3,7 +3,7 @@ from pathlib import Path
 
 
 def parse_modifs():
-    json_dump = json.load(Path('newPlaceRIDs.json').open(encoding='utf-8-sig'))
+    json_dump = json.load(Path('newPlaceRIDs_raw.json').open(encoding='utf-8-sig'))
     rid_dict = {}
     for rid, entry in json_dump.items():
         name = ''

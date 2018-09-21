@@ -160,6 +160,9 @@
 	G00KG09762	G2GS1037
 		en
 			Bouddhanath & Bodhgaya
+	G0DD0013
+		en
+			Budapest
 	G4716
 		en
 			Bumthang
@@ -168,11 +171,14 @@
 	G0DD0014
 		en
 			Buryatia
+	G0DD0015
+		en
+			Buxa
+		bo
+			sbag sa
 	G0DD0016
 		en
 			Buxar
-		bo
-			sbag sa
 	G0DD0017
 		en
 			Bylakuppe
@@ -222,11 +228,6 @@
 		zh
 			四川成都
 			成都
-	G10MS19724
-		en
-			Chengdu (etc.)
-		bo
-			khreng tu'u (etc.)
 	G0DD0023
 		en
 			Chenrezig Tibetan Buddhist Center
@@ -508,7 +509,7 @@
 			Gansu
 		bo
 			kan su'u
-	G0DD0164
+	G0DD0163
 		en
 			Ganzhou
 		bo
@@ -541,7 +542,7 @@
 	G0DD0043
 		en
 			Gelephu
-	G0DD0233
+	G0DD0231
 		en
 			Gemur
 	G4337
@@ -564,6 +565,9 @@
 	G0DD0045
 		en
 			Gottingen
+	G0DD0046
+		en
+			Guge
 	G1136
 		en
 			Guide
@@ -597,6 +601,9 @@
 	G0DD0048
 		en
 			Gyume Tantric College (India)
+	G0DD0050
+		en
+			Hamamatsu
 	G2312
 		en
 			Haibei Prefecture
@@ -644,6 +651,9 @@
 	G0DD0051		
 		en
 			Hubli
+	G0DD0232
+		en
+			Hungary
 	G0DD0052
 		en
 			Inder Puri
@@ -686,7 +696,7 @@
 	G0DD0056
 		en
 			Jeerango
-	G0DD0165
+	G0DD0164
 		en
 			Jinan
 		zh
@@ -992,6 +1002,9 @@
 	G0DD0077
 		en
 			Majnu-ka-tilla
+	G0DD0184
+		en
+			Maldahiya
 	G0DD0078
 		en
 			Manali
@@ -1191,9 +1204,14 @@
 			nyag rong rdzong
 	G1365
 		en
-			Nyarong
+			Nyakrong
 		bo
 			nyag rong
+	G1246
+		en
+			Nyakrong County
+		bo
+			nyag rong rdzong
 	G0DD0095
 		en
 			Oakland
@@ -1208,6 +1226,9 @@
 			Olka
 		bo
 			'ol kha
+	G0DD0099
+		en
+			Otani
 	G0DD0098
 		en
 			Osaka
@@ -1241,6 +1262,9 @@
 			Pemako
 		bo
 			pad+ma bkod
+	G0DD0103
+		en
+			Petropol
 	G0DD0104
 		en
 			Pharping
@@ -1272,7 +1296,7 @@
 		bo
 			spungs thang
 			spungs thim
-	G0DD0167
+	G0DD0166
 		en
 			Qamdo
 		bo
@@ -1531,40 +1555,43 @@
 	G0DD0134
 		en
 			South India
-	G0DD0135
+	G3CN32
+		en
+			Spiti
+	G1KG24026
 		en
 			Spituk Monastery
 			Pethub Monastery
 			Spetup
 		bo
 			dpe thub dgon
-	G0DD0136
+	G0DD0135
 		en
 			St-Petersburg
-	G0DD0137
+	G0DD0136
 		en
 			Stakna Monastery
 		bo
 			stag sna
-	G0DD0138
+	G0DD0137
 		en
 			Sumra (H.P.)
 	G3156
 		en
 			Swayambhunath
-	G0DD0139
+	G0DD0138
 		en
 			Switzerland
 	G1KG17626
 		en
 			Tabo Monastery
-	G0DD0140
+	G0DD0139
 		en
 			Tadong
-	G0DD0141
+	G0DD0140
 		en
 			Taipei
-	G0DD0142
+	G0DD0141
 		en
 			Taiwan
 		bo
@@ -1585,7 +1612,7 @@
 			khu re chen mo
 			tA khu re
 			tA khu re/ sog yul
-	G0DD0143
+	G0DD0142
 		en
 			Tana Monastery (India)
 	G218
@@ -1618,13 +1645,13 @@
 	G3529
 		en
 			Tawang
-	G0DD0144
+	G0DD0143
 		en
 			Tezu
-	G0DD0145
+	G0DD0144
 		en
 			Tharpaling Monastery
-	G0DD0146
+	G0DD0145
 		en
 			The Bir Tibetan Society
 	G4706
@@ -1639,12 +1666,12 @@
 			Tibet
 		zh
 			西藏
-	G0DD0147
+	G0DD0146
 		en
 			Tibetan Freedom Press
 		bo
 			rdor gling rang dbang par khang
-	G0DD0148
+	G0DD0147
 		en
 			Tibetan Khampa Industrial Society
 	G2165
@@ -1652,20 +1679,20 @@
 			Tingri County
 		bo
 			ding ri rdzong
-	G0DD0149
+	G0DD0148
 		en
 			Tohoku
-	G0DD0150
+	G0DD0149
 		en
 			Tokyo
 		zh
 			東京
-	G0DD0151
+	G0DD0150
 		en
 			Tongkor Monastery
 		bo
 			dkar mdzes rdzong stong skor sgon
-	G0DD0152
+	G0DD0151
 		en
 			Toronto
 	G4713
@@ -1699,18 +1726,24 @@
 			Ulanbatur
 		bo
 			u rge
-	G0DD0153
+	G0DD0152
 		en
 			Upper Bhattu
+	G0DD0153
+		en
+			Uttarakhand
 	G2CN10953
 		en
 			Varanasi
 		bo
 			wA rA Na sI
-	G0DD0156
+	G0DD0154
+		en
+			Vermont
+	G0DD0155
 		en
 			Victoria
-	G0DD0157
+	G0DD0156
 		en
 			Washington
 	G2340
@@ -1718,13 +1751,13 @@
 			Wenchuan
 		bo
 			wun khron
-	G0DD0158
+	G0DD0157
 		en
 			Wien
-	G0DD0159
+	G0DD0158
 		en
 			Wiesbaden
-	G0DD0160
+	G0DD0159
 		en
 			Woodstock
 	G2396
@@ -1743,7 +1776,7 @@
 			Xiaojin County
 		bo
 			btsan lha
-	G0DD0161
+	G0DD0160
 		en
 			Xicheng District
 		zh
@@ -1763,7 +1796,7 @@
 			Yajiang County
 		bo
 			nyag chu rdzong
-	G0DD0162
+	G0DD0161
 		en
 			Yangrigang Monastery
 		bo
@@ -1804,7 +1837,7 @@
 			Zhichen Monastery
 		bo
 			gzhi chen dgon
-	G0DD0163
+	G0DD0162
 		en
 			Zhol Village
 		bo

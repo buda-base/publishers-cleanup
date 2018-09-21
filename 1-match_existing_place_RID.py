@@ -141,4 +141,4 @@ if __name__ == '__main__':
 
     final_matches = parse_matches()
     unknown = [loc for loc in locations if loc not in final_matches]
-    Path('output/needs_attribution.csv').write_text('\n'.join(unknown))
+    Path('output/needs_attribution_raw.csv').write_text('\n'.join(unknown))

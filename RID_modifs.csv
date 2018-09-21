@@ -1,5 +1,5 @@
 ﻿RID,,isLocatedIn,,type
-G1052,dpa' ris rdzong,G0DD0170,Wuwei,new isLocatedIn
+G1052,dpa' ris rdzong,G0DD0169,Wuwei,new isLocatedIn
 G435,co ne dgon chen,G2203,co ne,new isLocatedIn
 G2208,yun nan,G3198,rgya nag,new isLocatedIn
 G1PD108961,Tibet Autonomous Region,G3198,rgya nag,new isLocatedIn
@@ -19,101 +19,101 @@ G1365,nyag rong,G3CN36,Rongchen Zhi,new isLocatedIn
 G603,nang sog,G584,sog po,new isLocatedIn
 G1979,khu re chen mo,G584,sog po,new isLocatedIn
 G1398,'bras ljongs,G3188,'phags yul,new isLocatedIn
-G1PD110071,'bras ljongs rum bteg,G0DD0213,East Sikkim,new isLocatedIn
+G1PD110071,'bras ljongs rum bteg,G0DD0212,East Sikkim,new isLocatedIn
 G4584,Nemo,G1085,gle,new isLocatedIn
-G9CTX15088,Bhairahawa,G0DD0115,Rupandehi,new intermediate isLocatedIn
-G2MS14675,Lumbini,G9CTX15088,Bhairahawa,new intermediate isLocatedIn
-G3JT12558,bkra shis ljongs,G0DD0101,Palampur,new intermediate isLocatedIn
-G3JT12630,d+ha ram sA la,G0DD0058,Kangra,new intermediate isLocatedIn
-G3CN1562,Bir,G0DD0058,Kangra,new intermediate isLocatedIn
-G3CN32,Spiti,G0DD0069,Lahaul-Spiti,new intermediate isLocatedIn
-G3CN1567,Dolanji,G0DD0096,Ochghat,new intermediate isLocatedIn
-G3182,la dwags,G0DD0222,Jammu and Kashmir,new intermediate isLocatedIn
-G867,bzang dkar,G0DD0223,Kargil,new intermediate isLocatedIn
-G00JR3353,he mis byang chub bsam gtan gling,G0DD0224,Hemis,new intermediate isLocatedIn
-G2GS1037,rdo rje gdan,G0DD0042,gA yA,new intermediate isLocatedIn
-G3JT12629,ka sbug,G0DD0228,West Bengal,new intermediate isLocatedIn
-G2CN10953,wA rA Na sI,G0DD0230,Uttar Pradesh,new intermediate isLocatedIn
-G1PD110102,sA ra nA tha,G0DD0230,Uttar Pradesh,new intermediate isLocatedIn
-G0DD0149,Tohoku,G00KG09752,Japan,new place
+G9CTX15088,Bhairahawa,G0DD0115,Rupandehi,new intermediary isLocatedIn
+G2MS14675,Lumbini,G9CTX15088,Bhairahawa,new intermediary isLocatedIn
+G3JT12558,bkra shis ljongs,G0DD0101,Palampur,new intermediary isLocatedIn
+G3JT12630,d+ha ram sA la,G0DD0058,Kangra,new intermediary isLocatedIn
+G3CN1562,Bir,G0DD0058,Kangra,new intermediary isLocatedIn
+G3CN32,Spiti,G0DD0069,Lahaul-Spiti,new intermediary isLocatedIn
+G3CN1567,Dolanji,G0DD0096,Ochghat,new intermediary isLocatedIn
+G3182,la dwags,G0DD0221,Jammu and Kashmir,new intermediary isLocatedIn
+G867,bzang dkar,G0DD0222,Kargil,new intermediary isLocatedIn
+G00JR3353,he mis byang chub bsam gtan gling,G0DD0223,Hemis,new intermediary isLocatedIn
+G2GS1037,rdo rje gdan,G0DD0042,gA yA,new intermediary isLocatedIn
+G3JT12629,ka sbug,G0DD0226,West Bengal,new intermediary isLocatedIn
+G2CN10953,wA rA Na sI,G0DD0228,Uttar Pradesh,new intermediary isLocatedIn
+G1PD110102,sA ra nA tha,G0DD0228,Uttar Pradesh,new intermediary isLocatedIn
+G0DD0148,Tohoku,G00KG09752,Japan,new place
 G0DD0098,Osaka,G00KG09752,Japan,new place
-G0DD0150,Tokyo,G00KG09752,Japan,new place
+G0DD0149,Tokyo,G00KG09752,Japan,new place
 G0DD0068,Kyoto,G00KG09752,Japan,new place
 G0DD0116,Sakyo-ku,G0DD0068,Kyoto,new place
 G0DD0011,Bonn,G0DD0044,Germany,new place
 G0DD0045,Gottingen,G0DD0044,Germany,new place
 G0DD0049,Halle (Saale),G0DD0044,Germany,new place
-G0DD0159,Wiesbaden,G0DD0044,Germany,new place
-G0DD0152,Toronto,G0DD0018,Canada,new place
-G0DD0092,New Taipei City,G0DD0142,tA'i wan,new place
-G0DD0141,Taipei,G0DD0142,tA'i wan,new place
-G0DD0086,Moscow,G0DD0196,Russia,new place
-G0DD0136,St-Petersburg,G0DD0196,Russia,new place
-G0DD0014,Buryatia,G0DD0196,Russia,new place
+G0DD0158,Wiesbaden,G0DD0044,Germany,new place
+G0DD0151,Toronto,G0DD0018,Canada,new place
+G0DD0092,New Taipei City,G0DD0141,tA'i wan,new place
+G0DD0140,Taipei,G0DD0141,tA'i wan,new place
+G0DD0086,Moscow,G0DD0195,Russia,new place
+G0DD0135,St-Petersburg,G0DD0195,Russia,new place
+G0DD0014,Buryatia,G0DD0195,Russia,new place
 G0DD0073,London,G0DD0035,ing len,new place
-G0DD0001,Amsterdam,G0DD0197,Holland,new place
+G0DD0001,Amsterdam,G0DD0196,Holland,new place
 G0DD0102,Paris,G0DD0037,France,new place
-G0DD0198,Bretagne,G0DD0037,France,new place
+G0DD0197,Bretagne,G0DD0037,France,new place
 G0DD0106,Plouray,G0DD0037,France,new place
 G0DD0114,Rome,G0DD0053,i Ta li,new place
 G0DD0003,Arcidosso,G0DD0053,i Ta li,new place
-G0DD0002,Andiast,G0DD0139,Switzerland,new place
-G0DD0199,Zurich,G0DD0139,Switzerland,new place
-G0DD0113,Rikon,G0DD0199,Zurich,new place
-G0DD0156,Victoria,G0DD0005,Australia,new place
-G0DD0200,Griffith ACT,G0DD0005,Australia,new place
-G0DD0081,Manuka,G0DD0200,Griffith ACT,new place
-G0DD0004,Auckland,G0DD0201,New Zealand,new place
-G0DD0108,Prague,G0DD0202,Czech Republic,new place
-G0DD0158,Wien,G0DD0203,Austria,new place
-G0DD0157,Washington,G3JT12416,a ri,new place
-G0DD0122,Seattle,G0DD0157,Washington,new place
-G0DD0127,Shoreline,G0DD0157,Washington,new place
+G0DD0002,Andiast,G0DD0138,Switzerland,new place
+G0DD0198,Zurich,G0DD0138,Switzerland,new place
+G0DD0113,Rikon,G0DD0198,Zurich,new place
+G0DD0155,Victoria,G0DD0005,Australia,new place
+G0DD0199,Griffith ACT,G0DD0005,Australia,new place
+G0DD0081,Manuka,G0DD0199,Griffith ACT,new place
+G0DD0004,Auckland,G0DD0200,New Zealand,new place
+G0DD0108,Prague,G0DD0201,Czech Republic,new place
+G0DD0157,Wien,G0DD0202,Austria,new place
+G0DD0156,Washington,G3JT12416,a ri,new place
+G0DD0122,Seattle,G0DD0156,Washington,new place
+G0DD0127,Shoreline,G0DD0156,Washington,new place
 G0DD0093,New York,G3JT12416,a ri,new place
 G0DD0054,Ithaca,G0DD0093,New York,new place
 G0DD0109,Queens,G0DD0093,New York,new place
-G0DD0160,Woodstock,G0DD0093,New York,new place
+G0DD0159,Woodstock,G0DD0093,New York,new place
 G0DD0091,New Jersey,G3JT12416,a ri,new place
-G0DD0204,Massachusetts,G3JT12416,a ri,new place
-G0DD0012,Boston,G0DD0204,Massachusetts,new place
+G0DD0203,Massachusetts,G3JT12416,a ri,new place
+G0DD0012,Boston,G0DD0203,Massachusetts,new place
 G0DD0132,Somerville (Boston),G0DD0012,Boston,new place
-G0DD0205,California,G3JT12416,a ri,new place
-G0DD0009,Berkeley,G0DD0205,California,new place
-G0DD0019,Cazadero,G0DD0205,California,new place
+G0DD0204,California,G3JT12416,a ri,new place
+G0DD0009,Berkeley,G0DD0204,California,new place
+G0DD0019,Cazadero,G0DD0204,California,new place
 G0DD0097,Odiyan,G0DD0019,Cazadero,new place
-G0DD0070,Larkspur,G0DD0205,California,new place
-G0DD0095,Oakland,G0DD0205,California,new place
-G0DD0206,New Mexico,G3JT12416,a ri,new place
-G0DD0110,Questa,G0DD0206,New Mexico,new place
+G0DD0070,Larkspur,G0DD0204,California,new place
+G0DD0095,Oakland,G0DD0204,California,new place
+G0DD0205,New Mexico,G3JT12416,a ri,new place
+G0DD0110,Questa,G0DD0205,New Mexico,new place
 G0DD0082,Maryland,G3JT12416,a ri,new place
-G0DD0207,Virginia,G3JT12416,a ri,new place
-G0DD0021,Charlottesville,G0DD0207,Virginia,new place
-G0DD0208,Pennsylvania,G3JT12416,a ri,new place
-G0DD0209,Philadelphia,G0DD0208,Pennsylvania,new place
-G0DD0023,a ri'i phi li Ta phi ya spyan ras gzigs nang pa'i chos tshogs,G0DD0209,Philadelphia,new place
+G0DD0206,Virginia,G3JT12416,a ri,new place
+G0DD0021,Charlottesville,G0DD0206,Virginia,new place
+G0DD0207,Pennsylvania,G3JT12416,a ri,new place
+G0DD0208,Philadelphia,G0DD0207,Pennsylvania,new place
+G0DD0023,a ri'i phi li Ta phi ya spyan ras gzigs nang pa'i chos tshogs,G0DD0208,Philadelphia,new place
 G0DD0075,o min,G3198,rgya nag,new place
-G0DD0161,Xicheng District,G1949,pe cin,new place
+G0DD0160,Xicheng District,G1949,pe cin,new place
 G0DD0125,hrang he,G3198,rgya nag,new place
-G0DD0169,Jiangxi Province,G3198,rgya nag,new place
-G0DD0164,kan kru'u,G0DD0169,Jiangxi Province,new place
-G0DD0163,lha sa zhol,G1819,Lhasa City,new place
-G0DD0162,thub bstan yangs ri sgang,G1819,Lhasa City,new place
+G0DD0168,Jiangxi Province,G3198,rgya nag,new place
+G0DD0163,kan kru'u,G0DD0168,Jiangxi Province,new place
+G0DD0162,lha sa zhol,G1819,Lhasa City,new place
+G0DD0161,thub bstan yangs ri sgang,G1819,Lhasa City,new place
 G0DD0020,lcang long dgon,G2182,Gongjue County,new place
 G0DD0067,khun men,G2208,yun nan,new place
-G0DD0171,Shandong,G3198,rgya nag,new place
-G0DD0165,Jinan,G0DD0171,Shandong,new place
-G0DD0170,Wuwei,G2207,kan su'u,new place
+G0DD0170,Shandong,G3198,rgya nag,new place
+G0DD0164,Jinan,G0DD0170,Shandong,new place
+G0DD0169,Wuwei,G2207,kan su'u,new place
 G0DD0055,Jakar Dzong,G4716,bum thang,new place
-G0DD0145,Tharpaling Monastery,G4716,bum thang,new place
+G0DD0144,Tharpaling Monastery,G4716,bum thang,new place
 G0DD0131,Simtokha,G4706,them bu,new place
-G0DD0210,Gasa,G3205,'brug yul,new place
-G0DD0071,la g.yag,G0DD0210,Gasa,new place
+G0DD0209,Gasa,G3205,'brug yul,new place
+G0DD0071,la g.yag,G0DD0210,Sarpang,new place
 G0DD0010,Bidung,G1TD42,Tashigang,new place
-G0DD0211,Sarpang,G3205,'brug yul,new place
-G0DD0043,Gelephu,G0DD0211,Sarpang,new place
+G0DD0210,Sarpang,G3205,'brug yul,new place
+G0DD0043,Gelephu,G0DD0210,Sarpang,new place
 G0DD0033,Drukgyel Dzong,G836,spa gro,new place
-G0DD0212,Chukha,G3205,'brug yul,new place
-G0DD0105,phun tshogs gling,G0DD0212,Chukha,new place
+G0DD0211,Chukha,G3205,'brug yul,new place
+G0DD0105,phun tshogs gling,G0DD0211,Chukha,new place
 G0DD0104,yang le shod,G2CN11080,ka Tha ma N+Du,new place
 G0DD0039,Ganeshthan,G0DD0104,yang le shod,new place
 G0DD0107,Pokhara,G4450,bal yul,new place
@@ -122,25 +122,25 @@ G0DD0077,Majnu-ka-tilla,G0DD0028,d+hi li,new place
 G0DD0006,Ballimaran,G0DD0028,d+hi li,new place
 G0DD0052,Inder Puri,G0DD0028,d+hi li,new place
 G0DD0115,Rupandehi,G4450,bal yul,new place
-G0DD0140,Tadong,G1398,'bras ljongs,new place
+G0DD0139,Tadong,G1398,'bras ljongs,new place
 G0DD0041,sgang tog,G1398,'bras ljongs,new place
 G0DD0030,Deorali,G0DD0041,sgang tog,new place
 G0DD0100,Palace Monastery,G0DD0041,sgang tog,new place
-G0DD0213,East Sikkim,G1398,'bras ljongs,new place
+G0DD0212,East Sikkim,G1398,'bras ljongs,new place
 G0DD0059,Karnataka,G3188,'phags yul,new place
 G0DD0089,ma su ri,G0DD0059,Karnataka,new place
 G0DD0017,spel kob,G0DD0089,ma su ri,new place
 G0DD0063,Kollegal,G0DD0059,Karnataka,new place
 G0DD0031,Dhondenling Tibetan Settlement,G0DD0063,Kollegal,new place
-G0DD0214,Tana Monastery,G0DD0063,Kollegal,new place
+G0DD0213,Tana Monastery,G0DD0063,Kollegal,new place
 G0DD0007,Bangalore,G0DD0059,Karnataka,new place
 G0DD0057,Kanara,G0DD0059,Karnataka,new place
-G0DD0215,North Kanara,G0DD0057,Kanara,new place
-G0DD0216,Karwar,G0DD0215,North Kanara,new place
-G0DD0087,mon g+ho Ta,G0DD0216,Karwar,new place
+G0DD0214,North Kanara,G0DD0057,Kanara,new place
+G0DD0215,Karwar,G0DD0214,North Kanara,new place
+G0DD0087,mon g+ho Ta,G0DD0215,Karwar,new place
 G0DD0038,Gaden Shartse Monastery (India),G0DD0087,mon g+ho Ta,new place
-G0DD0217,Hunsur,G0DD0059,Karnataka,new place
-G0DD0047,Gurupura,G0DD0217,Hunsur,new place
+G0DD0216,Hunsur,G0DD0059,Karnataka,new place
+G0DD0047,Gurupura,G0DD0216,Hunsur,new place
 G0DD0058,Kangra,G3CN1563,Himachal Pradesh,new place
 G0DD0083,McLeod Ganj,G3JT12630,d+ha ram sA la,new place
 G0DD0120,sa rA,G3JT12630,d+ha ram sA la,new place
@@ -148,13 +148,13 @@ G0DD0040,Gangchen Kyishong,G3JT12630,d+ha ram sA la,new place
 G0DD0129,Sidhbari,G3JT12630,d+ha ram sA la,new place
 G0DD0118,Sansal,G0DD0058,Kangra,new place
 G0DD0101,Palampur,G0DD0058,Kangra,new place
-G0DD0218,Baijnath,G0DD0058,Kangra,new place
-G0DD0219,Bhattu,G0DD0218,Baijnath,new place
-G0DD0153,Upper Bhattu,G0DD0219,Bhattu,new place
+G0DD0217,Baijnath,G0DD0058,Kangra,new place
+G0DD0218,Bhattu,G0DD0217,Baijnath,new place
+G0DD0152,Upper Bhattu,G0DD0218,Bhattu,new place
 G0DD0130,Sidhpur,G0DD0058,Kangra,new place
 G0DD0034,Dzongsar Shedra (India),G3CN1562,Bir,new place
-G0DD0148,Tibetan Khampa Industrial Society,G3CN1562,Bir,new place
-G0DD0146,The Bir Tibetan Society,G3CN1562,Bir,new place
+G0DD0147,Tibetan Khampa Industrial Society,G3CN1562,Bir,new place
+G0DD0145,The Bir Tibetan Society,G3CN1562,Bir,new place
 G0DD0079,Mandi,G3CN1563,Himachal Pradesh,new place
 G0DD0022,Chauntra,G0DD0079,Mandi,new place
 G0DD0112,Rewalsar,G0DD0079,Mandi,new place
@@ -164,45 +164,56 @@ G0DD0069,Lahaul-Spiti,G3CN1563,Himachal Pradesh,new place
 G0DD0074,Losar,G3CN32,Spiti,new place
 G0DD0064,Kotla Panjola,G3CN1568,Solan,new place
 G0DD0096,Ochghat,G3CN1568,Solan,new place
-G0DD0221,Chamba,G3CN1563,Himachal Pradesh,new place
-G0DD0025,Dalhousie,G0DD0221,Chamba,new place
+G0DD0220,Chamba,G3CN1563,Himachal Pradesh,new place
+G0DD0025,Dalhousie,G0DD0220,Chamba,new place
 G0DD0126,Shimla,G3CN1563,Himachal Pradesh,new place
 G0DD0117,Sanjauli,G0DD0126,Shimla,new place
-G0DD0222,Jammu and Kashmir,G3188,'phags yul,new place
-G0DD0138,Sumra (H.P.),G1085,gle,new place
+G0DD0221,Jammu and Kashmir,G3188,'phags yul,new place
+G0DD0137,Sumra (H.P.),G1085,gle,new place
 G0DD0008,Basgo,G3182,la dwags,new place
 G0DD0121,Saspul,G3182,la dwags,new place
-G0DD0223,Kargil,G3182,la dwags,new place
-G0DD0224,Hemis,G3182,la dwags,new place
-G0DD0137,stag sna,G3182,la dwags,new place
-G0DD0225,Uttarakhand,G3188,'phags yul,new place
-G0DD0027,Dehra Dun,G0DD0225,Uttarakhand,new place
+G0DD0222,Kargil,G3182,la dwags,new place
+G0DD0223,Hemis,G3182,la dwags,new place
+G0DD0136,stag sna,G3182,la dwags,new place
+G0DD0153,Uttarakhand,G3188,'phags yul,new place
+G0DD0027,Dehra Dun,G0DD0153,Uttarakhand,new place
 G0DD0123,se la ku,G0DD0027,Dehra Dun,new place
 G0DD0088,Mussoorie,G0DD0027,Dehra Dun,new place
 G0DD0111,rA dza pur,G0DD0027,Dehra Dun,new place
 G0DD0024,Clement Town,G0DD0027,Dehra Dun,new place
-G0DD0080,Manduwala,G0DD0225,Uttarakhand,new place
-G0DD0226,Bihar,G3188,'phags yul,new place
-G0DD0042,gA yA,G0DD0226,Bihar,new place
-G0DD0016,sbag sa,G0DD0226,Bihar,new place
+G0DD0080,Manduwala,G0DD0153,Uttarakhand,new place
+G0DD0224,Bihar,G3188,'phags yul,new place
+G0DD0042,gA yA,G0DD0224,Bihar,new place
+G0DD0015,sbag sa,G0DD0224,Bihar,new place
 G0DD0134,South India,G3188,'phags yul,new place
-G0DD0227,Lohit,G3530,Arunachar Pradesh,new place
-G0DD0144,Tezu,G0DD0227,Lohit,new place
-G0DD0228,West Bengal,G3188,'phags yul,new place
-G0DD0119,Santiniketan,G0DD0228,West Bengal,new place
-G0DD0062,Calcutta,G0DD0228,West Bengal,new place
-G0DD0026,rdo rje gling,G0DD0228,West Bengal,new place
+G0DD0225,Lohit,G3530,Arunachar Pradesh,new place
+G0DD0143,Tezu,G0DD0225,Lohit,new place
+G0DD0226,West Bengal,G3188,'phags yul,new place
+G0DD0119,Santiniketan,G0DD0226,West Bengal,new place
+G0DD0062,Calcutta,G0DD0226,West Bengal,new place
+G0DD0026,rdo rje gling,G0DD0226,West Bengal,new place
 G0DD0133,Sonada,G0DD0026,rdo rje gling,new place
 G0DD0085,Mirik,G0DD0026,rdo rje gling,new place
-G0DD0147,rdor gling rang dbang par khang,G0DD0026,rdo rje gling,new place
-G0DD0015,Buxa,G0DD0228,West Bengal,new place
+G0DD0146,rdor gling rang dbang par khang,G0DD0026,rdo rje gling,new place
+G0DD0016,Buxar,G0DD0226,West Bengal,new place
 G0DD0128,mtsho slob shrI dI wa kar wi hA ra,G3JT12629,ka sbug,new place
-G0DD0229,Chhattisgarh,G3188,'phags yul,new place
-G0DD0076,men pAT,G0DD0229,Chhattisgarh,new place
-G0DD0230,Uttar Pradesh,G3188,'phags yul,new place
-G0DD0185,maldahiya,G2CN10953,wA rA Na sI,new place
+G0DD0227,Chhattisgarh,G3188,'phags yul,new place
+G0DD0076,men pAT,G0DD0227,Chhattisgarh,new place
+G0DD0228,Uttar Pradesh,G3188,'phags yul,new place
+G0DD0184,Maldahiya,G2CN10953,wA rA Na sI,new place
 G0DD0061,Khajuhi,G1PD110102,sA ra nA tha,new place
-G0DD0231,Orissa,G3188,'phags yul,new place
-G0DD0232,Ganjam,G0DD0231,Orissa,new place
-G0DD0056,Jeerango,G0DD0232,Ganjam,new place
-G0DD0233,Gemur,G4338,Garsha,new place
+G0DD0229,Orissa,G3188,'phags yul,new place
+G0DD0230,Ganjam,G0DD0229,Orissa,new place
+G0DD0056,Jeerango,G0DD0230,Ganjam,new place
+G0DD0231,Gemur,G4338,Garsha,new place
+G0DD0099,Otani,G00KG09752,Japan,new place
+G0DD0050,Hamamatsu,G00KG09752,Japan,new place
+G0DD0103,Petropol,G0DD0195,Russia,new place
+G0DD0013,Budapest,G0DD0232,Hungary,new place
+G0DD0155,Victoria,G3JT12416,a ri,new place
+G0DD0186,rdor gling rdog tsug dgon,G0DD0026,rdo rje gling,new place
+G0DD0178,egoo,G3182,la dwags,new place
+G0DD0188,shar khum gshong rong spyi dgon kun dga' gling gi sman rtsis slob grwa,G2490,so lu khum bu,new place
+G0DD0181,khu nu li thang,G0DD0066,Kullu,new place
+G0DD0173,aguyin keyid,G584,sog po,new place
+G0DD0150,dkar mdzes rdzong stong skor sgon,G1538,dkar mdzes,new place

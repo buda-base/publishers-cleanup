@@ -69,6 +69,13 @@ def generate_new_places():
 
         previous = current
 
+    # last element
+    langs = {}
+    for lang, strs in RID['langs'].items():
+        for k, v in RID['langs'][lang].items():
+            langs[k] = v
+    total[RID['key']] = {'isLocatedIn': '', 'langs': langs}
+
     located_in = sorted([f'{k},' for k in list(total.keys())])
     Path('located_in_raw.txt').write_text('\n'.join(located_in))
 
@@ -79,15 +86,19 @@ def generate_new_places():
             continue
 
         items = line.split(',')
-        modif = ''
-        if items[2] == 'm':
-            modif = 'new RID'
-        elif items[2] == 'n':
-            modif = 'new path - existing RIDs'
-        elif items[2] == 'r':
-            modif = 'more detailed path - existing RIDs'
+        modif = items[2]
 
         loc_info.append((items[0], items[1], modif))
+
+
+    # extend total with missing entries
+    missing = json.loads(Path('missing_RIDs.json').read_text(encoding='utf-8-sig'))
+    total.update(missing)
+
+    # cleanup any previous isLocatedIn data
+    for rid in total:
+        if 'isLocatedIn' in total[rid].keys():
+            total[rid]['isLocatedIn'] = ''
 
     extra_nodes = ['RID,isLocatedIn,modif type']
     for contained, container, modif in loc_info:
@@ -113,7 +124,27 @@ def find_remaining_RIDs(total):
     total_RIDs = Path('work-publisherPlaceRID.csv').read_text(encoding='utf-8-sig').strip().split('\n')[1:]
     total_RIDs = set([a for line in total_RIDs for a in line.split(',')[1:]])
 
-    print('ok')
+    missing_rids = [t for t in total_RIDs if t not in total]
+
+    others = {}
+    matches = Path('output/matches.csv').read_text(encoding='utf-8-sig').strip().split('\n')
+    for m in matches:
+        name, rid = m.split(',')
+        others[rid] = name
+
+    news = Path('output/needs_attribution.csv').read_text(encoding='utf-8-sig').strip().split('\n')
+    for m in news:
+        name, rid = m.split(',')
+        others[rid] = name
+
+
+    new_entries = {}
+    new_pairs = {rid: name for rid, name in others.items() if rid not in total and '\t' not in rid and 'etc.' not in rid}
+    for rid, name in new_pairs.items():
+        new = {'isLocatedIn': '', 'langs': {name: ''}}
+        new_entries[rid] = new
+    new_json = json.dumps(new_entries, ensure_ascii=False, indent=4, sort_keys=True)
+    Path('missing_RIDs_raw.json').write_text(new_json, encoding='utf-8-sig')
 
     # after adding them to total, write total
     out = json.dumps(total, ensure_ascii=False, indent=4, sort_keys=True)

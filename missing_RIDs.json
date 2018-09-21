@@ -1,0 +1,650 @@
+﻿{
+    "G0DD0165": {
+        "isLocatedIn": "",
+        "langs": {
+            "Nanping": "en"
+        }
+    },
+    "G0DD0167": {
+        "isLocatedIn": "",
+        "langs": {
+            "Jyekundo": "en"
+        }
+    },
+    "G0DD0168": {
+        "isLocatedIn": "",
+        "langs": {
+            "Jiangxi Province": "en"
+        }
+    },
+    "G0DD0169": {
+        "isLocatedIn": "",
+        "langs": {
+            "Wuwei": "en"
+        }
+    },
+    "G0DD0170": {
+        "isLocatedIn": "",
+        "langs": {
+            "Shandong": "en"
+        }
+    },
+    "G0DD0171": {
+        "isLocatedIn": "",
+        "langs": {
+            "Fujian": "en"
+        }
+    },
+    "G0DD0172": {
+        "isLocatedIn": "",
+        "langs": {
+            "Yushu City": "en"
+        }
+    },
+    "G0DD0173": {
+        "isLocatedIn": "",
+        "langs": {
+            "aguyin keyid": "en"
+        }
+    },
+    "G0DD0174": {
+        "isLocatedIn": "",
+        "langs": {
+            "bde chen gling mchog": "bo-x-ewts"
+        }
+    },
+    "G0DD0175": {
+        "isLocatedIn": "",
+        "langs": {
+            "ca khrong": "bo-x-ewts"
+        }
+    },
+    "G0DD0176": {
+        "isLocatedIn": "",
+        "langs": {
+            "cang ho": "zh-Latn-pinyin-x-ndia"
+        }
+    },
+    "G0DD0177": {
+        "isLocatedIn": "",
+        "langs": {
+            "chab rom dkon mchog phug": "bo-x-ewts"
+        }
+    },
+    "G0DD0178": {
+        "isLocatedIn": "",
+        "langs": {
+            "egoo": "en"
+        }
+    },
+    "G0DD0179": {
+        "isLocatedIn": "",
+        "langs": {
+            "gting khebs mkhar chen": "bo-x-ewts"
+        }
+    },
+    "G0DD0180": {
+        "isLocatedIn": "",
+        "langs": {
+            "kazen": "en"
+        }
+    },
+    "G0DD0181": {
+        "isLocatedIn": "",
+        "langs": {
+            "khu nu li thang": "bo-x-ewts"
+        }
+    },
+    "G0DD0182": {
+        "isLocatedIn": "",
+        "langs": {
+            "lha sdings": "bo-x-ewts"
+        }
+    },
+    "G0DD0183": {
+        "isLocatedIn": "",
+        "langs": {
+            "lho nub": "bo-x-ewts"
+        }
+    },
+    "G0DD0185": {
+        "isLocatedIn": "",
+        "langs": {
+            "pho brang gong dkar": "bo-x-ewts"
+        }
+    },
+    "G0DD0186": {
+        "isLocatedIn": "",
+        "langs": {
+            "rdor gling rdog tsug dgon": "bo-x-ewts"
+        }
+    },
+    "G0DD0187": {
+        "isLocatedIn": "",
+        "langs": {
+            "rig pa'i 'byung gnas gnyal gyi slang chung/ lhun po'i spang": "bo-x-ewts"
+        }
+    },
+    "G0DD0188": {
+        "isLocatedIn": "",
+        "langs": {
+            "shar khum gshong rong spyi dgon kun dga' gling gi sman rtsis slob grwa": "bo-x-ewts"
+        }
+    },
+    "G0DD0189": {
+        "isLocatedIn": "",
+        "langs": {
+            "shar rgyal ba dung dkar dgon": "bo-x-ewts"
+        }
+    },
+    "G0DD0190": {
+        "isLocatedIn": "",
+        "langs": {
+            "spu gzim byang gling": "bo-x-ewts"
+        }
+    },
+    "G0DD0191": {
+        "isLocatedIn": "",
+        "langs": {
+            "SRPM": "en"
+        }
+    },
+    "G0DD0192": {
+        "isLocatedIn": "",
+        "langs": {
+            "stod lung": "bo-x-ewts"
+        }
+    },
+    "G0DD0193": {
+        "isLocatedIn": "",
+        "langs": {
+            "stod lung rdzong": "bo-x-ewts"
+        }
+    },
+    "G0DD0194": {
+        "isLocatedIn": "",
+        "langs": {
+            "yangs pa can": "bo-x-ewts"
+        }
+    },
+    "G0DD0195": {
+        "isLocatedIn": "",
+        "langs": {
+            "Russia": "en"
+        }
+    },
+    "G0DD0196": {
+        "isLocatedIn": "",
+        "langs": {
+            "Holland": "en"
+        }
+    },
+    "G0DD0197": {
+        "isLocatedIn": "",
+        "langs": {
+            "Bretagne": "en"
+        }
+    },
+    "G0DD0198": {
+        "isLocatedIn": "",
+        "langs": {
+            "Zurich": "en"
+        }
+    },
+    "G0DD0199": {
+        "isLocatedIn": "",
+        "langs": {
+            "Griffith ACT": "en"
+        }
+    },
+    "G0DD0200": {
+        "isLocatedIn": "",
+        "langs": {
+            "New Zealand": "en"
+        }
+    },
+    "G0DD0201": {
+        "isLocatedIn": "",
+        "langs": {
+            "Czech Republic": "en"
+        }
+    },
+    "G0DD0202": {
+        "isLocatedIn": "",
+        "langs": {
+            "Austria": "en"
+        }
+    },
+    "G0DD0203": {
+        "isLocatedIn": "",
+        "langs": {
+            "Massachusetts": "en"
+        }
+    },
+    "G0DD0204": {
+        "isLocatedIn": "",
+        "langs": {
+            "California": "en"
+        }
+    },
+    "G0DD0205": {
+        "isLocatedIn": "",
+        "langs": {
+            "New Mexico": "en"
+        }
+    },
+    "G0DD0206": {
+        "isLocatedIn": "",
+        "langs": {
+            "Virginia": "en"
+        }
+    },
+    "G0DD0207": {
+        "isLocatedIn": "",
+        "langs": {
+            "Pennsylvania": "en"
+        }
+    },
+    "G0DD0208": {
+        "isLocatedIn": "",
+        "langs": {
+            "Philadelphia": "en"
+        }
+    },
+    "G0DD0209": {
+        "isLocatedIn": "",
+        "langs": {
+            "Gasa": "en"
+        }
+    },
+    "G0DD0210": {
+        "isLocatedIn": "",
+        "langs": {
+            "Sarpang": "en"
+        }
+    },
+    "G0DD0211": {
+        "isLocatedIn": "",
+        "langs": {
+            "Chukha": "en"
+        }
+    },
+    "G0DD0212": {
+        "isLocatedIn": "",
+        "langs": {
+            "East Sikkim": "en"
+        }
+    },
+    "G0DD0213": {
+        "isLocatedIn": "",
+        "langs": {
+            "Tana Monastery": "en"
+        }
+    },
+    "G0DD0214": {
+        "isLocatedIn": "",
+        "langs": {
+            "North Kanara": "en"
+        }
+    },
+    "G0DD0215": {
+        "isLocatedIn": "",
+        "langs": {
+            "Karwar": "en"
+        }
+    },
+    "G0DD0216": {
+        "isLocatedIn": "",
+        "langs": {
+            "Hunsur": "en"
+        }
+    },
+    "G0DD0217": {
+        "isLocatedIn": "",
+        "langs": {
+            "Baijnath": "en"
+        }
+    },
+    "G0DD0218": {
+        "isLocatedIn": "",
+        "langs": {
+            "Bhattu": "en"
+        }
+    },
+    "G0DD0219": {
+        "isLocatedIn": "",
+        "langs": {
+            "Lahaul": "en"
+        }
+    },
+    "G0DD0220": {
+        "isLocatedIn": "",
+        "langs": {
+            "Chamba": "en"
+        }
+    },
+    "G0DD0221": {
+        "isLocatedIn": "",
+        "langs": {
+            "Jammu and Kashmir": "en"
+        }
+    },
+    "G0DD0222": {
+        "isLocatedIn": "",
+        "langs": {
+            "Kargil": "en"
+        }
+    },
+    "G0DD0223": {
+        "isLocatedIn": "",
+        "langs": {
+            "Hemis": "en"
+        }
+    },
+    "G0DD0224": {
+        "isLocatedIn": "",
+        "langs": {
+            "Bihar": "en"
+        }
+    },
+    "G0DD0225": {
+        "isLocatedIn": "",
+        "langs": {
+            "Lohit": "en"
+        }
+    },
+    "G0DD0226": {
+        "isLocatedIn": "",
+        "langs": {
+            "West Bengal": "en"
+        }
+    },
+    "G0DD0227": {
+        "isLocatedIn": "",
+        "langs": {
+            "Chhattisgarh": "en"
+        }
+    },
+    "G0DD0228": {
+        "isLocatedIn": "",
+        "langs": {
+            "Uttar Pradesh": "en"
+        }
+    },
+    "G0DD0229": {
+        "isLocatedIn": "",
+        "langs": {
+            "Orissa": "en"
+        }
+    },
+    "G0DD0230": {
+        "isLocatedIn": "",
+        "langs": {
+            "Ganjam": "en"
+        }
+    },
+    "G1073": {
+        "isLocatedIn": "",
+        "langs": {
+            "Khagya": "en"
+        }
+    },
+    "G1115": {
+        "isLocatedIn": "",
+        "langs": {
+            "U": "en"
+        }
+    },
+    "G1300": {
+        "isLocatedIn": "",
+        "langs": {
+            "Tsang": "en"
+        }
+    },
+    "G1697": {
+        "isLocatedIn": "",
+        "langs": {
+            "Huangnan Prefecture": "en"
+        }
+    },
+    "G1700": {
+        "isLocatedIn": "",
+        "langs": {
+            "Jigzhi County": "en"
+        }
+    },
+    "G1701": {
+        "isLocatedIn": "",
+        "langs": {
+            "Golok Prefecture": "en"
+        }
+    },
+    "G1719": {
+        "isLocatedIn": "",
+        "langs": {
+            "Banma County": "en"
+        }
+    },
+    "G1812": {
+        "isLocatedIn": "",
+        "langs": {
+            "Guinan County": "en"
+        }
+    },
+    "G1814": {
+        "isLocatedIn": "",
+        "langs": {
+            "Shannan Prefecture": "en"
+        }
+    },
+    "G1819": {
+        "isLocatedIn": "",
+        "langs": {
+            "Lhasa City": "en"
+        }
+    },
+    "G1PD108961": {
+        "isLocatedIn": "",
+        "langs": {
+            "Tibet Autonomous Region": "en"
+        }
+    },
+    "G1PD89995": {
+        "isLocatedIn": "",
+        "langs": {
+            "Nyingchi City": "en"
+        }
+    },
+    "G1PD96109": {
+        "isLocatedIn": "",
+        "langs": {
+            "Hualong County": "en"
+        }
+    },
+    "G2086": {
+        "isLocatedIn": "",
+        "langs": {
+            "Nedong": "en"
+        }
+    },
+    "G2141": {
+        "isLocatedIn": "",
+        "langs": {
+            "Nagchu Prefecture": "en"
+        }
+    },
+    "G2149": {
+        "isLocatedIn": "",
+        "langs": {
+            "Sog County": "en"
+        }
+    },
+    "G2151": {
+        "isLocatedIn": "",
+        "langs": {
+            "Ngari Prefecture": "en"
+        }
+    },
+    "G2161": {
+        "isLocatedIn": "",
+        "langs": {
+            "Kyirong": "en"
+        }
+    },
+    "G2164": {
+        "isLocatedIn": "",
+        "langs": {
+            "Xietongmen County": "en"
+        }
+    },
+    "G2170": {
+        "isLocatedIn": "",
+        "langs": {
+            "Shigatse City": "en"
+        }
+    },
+    "G2177": {
+        "isLocatedIn": "",
+        "langs": {
+            "Qamdo Prefecture": "en"
+        }
+    },
+    "G2182": {
+        "isLocatedIn": "",
+        "langs": {
+            "Gongjue County": "en"
+        }
+    },
+    "G2314": {
+        "isLocatedIn": "",
+        "langs": {
+            "Qilian County": "en"
+        }
+    },
+    "G2323": {
+        "isLocatedIn": "",
+        "langs": {
+            "Haixi Prefecture": "en"
+        }
+    },
+    "G2350": {
+        "isLocatedIn": "",
+        "langs": {
+            "Huangzhong County": "en"
+        }
+    },
+    "G2CN11152": {
+        "isLocatedIn": "",
+        "langs": {
+            "Haidong Prefecture": "en"
+        }
+    },
+    "G3164": {
+        "isLocatedIn": "",
+        "langs": {
+            "Ngari Korsum": "en"
+        }
+    },
+    "G3175": {
+        "isLocatedIn": "",
+        "langs": {
+            "Rulak": "en"
+        }
+    },
+    "G3176": {
+        "isLocatedIn": "",
+        "langs": {
+            "Yoru": "en"
+        }
+    },
+    "G3186": {
+        "isLocatedIn": "",
+        "langs": {
+            "U-Tsang": "en"
+        }
+    },
+    "G3478": {
+        "isLocatedIn": "",
+        "langs": {
+            "Pemako": "en"
+        }
+    },
+    "G3530": {
+        "isLocatedIn": "",
+        "langs": {
+            "Arunachar Pradesh": "en"
+        }
+    },
+    "G3CN1563": {
+        "isLocatedIn": "",
+        "langs": {
+            "Himachal Pradesh": "en"
+        }
+    },
+    "G3CN29": {
+        "isLocatedIn": "",
+        "langs": {
+            "Spiti-Zanskar Kor": "en"
+        }
+    },
+    "G3CN35": {
+        "isLocatedIn": "",
+        "langs": {
+            "Boyul Lingsum": "en"
+        }
+    },
+    "G3CN36": {
+        "isLocatedIn": "",
+        "langs": {
+            "Rongchen Zhi": "en"
+        }
+    },
+    "G3CN9": {
+        "isLocatedIn": "",
+        "langs": {
+            "Cholkha Sum": "en"
+        }
+    },
+    "G4338": {
+        "isLocatedIn": "",
+        "langs": {
+            "Garsha": "en"
+        }
+    },
+    "G571": {
+        "isLocatedIn": "",
+        "langs": {
+            "Ngari": "en"
+        }
+    },
+    "G621": {
+        "isLocatedIn": "",
+        "langs": {
+            "Garze County": "en"
+        }
+    },
+    "G903": {
+        "isLocatedIn": "",
+        "langs": {
+            "Padruk": "en"
+        }
+    },
+    "G954": {
+        "isLocatedIn": "",
+        "langs": {
+            "Tingri": "en"
+        }
+    },
+    "G984": {
+        "isLocatedIn": "",
+        "langs": {
+            "Rebkong County": "en"
+        }
+    },
+    "UNKNOWN_Place": {
+        "isLocatedIn": "",
+        "langs": {
+            "[s.l.]": "en"
+        }
+    }
+}
