@@ -72,7 +72,7 @@ def generate_new_places():
     located_in = sorted([f'{k},' for k in list(total.keys())])
     Path('located_in_raw.txt').write_text('\n'.join(located_in))
 
-    dump = Path('RID_node_modifs.tsv').read_text().strip().split('\n')
+    dump = Path('RID_node_modifs.csv').read_text().strip().split('\n')
     loc_info = []
     for line in dump[1:]:
         if not line:
