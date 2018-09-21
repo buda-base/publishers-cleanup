@@ -112,6 +112,7 @@ def find_remaining_RIDs(total):
     # or in work-publisherPlaceRID.csv and that don't yet have an entry in newPlaceRIDs.json
     total_RIDs = Path('work-publisherPlaceRID.csv').read_text(encoding='utf-8-sig').strip().split('\n')[1:]
     total_RIDs = set([a for line in total_RIDs for a in line.split(',')[1:]])
+
     print('ok')
 
     # after adding them to total, write total
