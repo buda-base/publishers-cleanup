@@ -234,7 +234,7 @@ Darjeeling & Kathmandu,G0DD0026	G2CN11080
 Delhi & Dolanji,G0DD0028	G3CN1567
 Delhi & Gangtok,G0DD0028	G0DD0041
 Dharamsala & Sarnath,G3JT12630	G1PD110102
-Gangtok & Dharamsala,G0DD0041	 G3JT12630
+Gangtok & Dharamsala,G0DD0041	G3JT12630
 Phuentsholing & Thimphu,G0DD0105	G4706
 Shigatse City,G2170
 Xietongmen County,G2164
@@ -284,3 +284,4 @@ Zanskar,G867
 Garsha,G4338
 Gemur Monastery,G4337
 Arunachar Pradesh,G3530
+[s.l.],UNKNOWN_Place
