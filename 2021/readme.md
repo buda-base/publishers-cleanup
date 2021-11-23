@@ -1,0 +1,8 @@
+- add all printeries (G####) in the csv
+- add publisher RID (C0OP) to publisherName.csv
+  - normalize and consolidate with synonyms.csv
+  - if printery name like སྡེ་དགེ་པར་ཁང་། move to printeries.csv
+- populate publisher-template.csv with above data
+- populate version-publisher-template
+  - add above data
+  - check for inconsistencies like publisher/printery mixup 
