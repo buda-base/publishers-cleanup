@@ -7,8 +7,9 @@
   - add above data
   - check for inconsistencies like publisher/printery mixup 
 
+-------------------------------
+By Drupchen:
 
-By Drupchen
 Please find below issues I stumbled upon while working on the PublisherLocations.
 
 ### On PublisherLocation:
