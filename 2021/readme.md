@@ -1,3 +1,20 @@
+# Files
+
+- printeries.csv
+- publisher-template.csv
+- Update publisher-template.csv
+- publisherLocation.csv
+- publisherName.csv
+- publishers-clustered-legacy.csv
+- readme.md
+- Update readme.md
+- synonyms.csv
+- version-publisher-template.csv
+
+
+----------------------------
+
+
 - add all printeries (G####) in the csv
 - add publisher RID (C0OP) to publisherName.csv
   - normalize and consolidate with synonyms.csv
